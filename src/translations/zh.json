@@ -67,7 +67,10 @@
     "modal": {
       "benefits": "您将获得",
       "details": "服务详情",
-      "close": "关闭"
+      "close": "关闭",
+      "contactTitle": "联系我们",
+      "services": "项服务",
+      "service": "项服务"
     },
     "cards": {
       "welcome": {
@@ -410,7 +413,14 @@
     "visionLabel": "我们的愿景",
     "vision": "通过创新的专业知识和实践服务和团结，共创美好生活。",
     "valuesLabel": "我们的价值观",
-    "values": ["奉献", "信任", "宽容", "利他", "团结", "公平"],
+    "values": [
+      "奉献",
+      "信任",
+      "宽容",
+      "利他",
+      "团结",
+      "公平"
+    ],
     "historyCTA": "我们的故事",
     "historyTitle": "我们的故事",
     "buildingAlt": "CARI St-Laurent大楼",

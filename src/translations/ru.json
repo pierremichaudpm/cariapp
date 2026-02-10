@@ -152,7 +152,10 @@
     "modal": {
       "benefits": "Что вы получите",
       "details": "Подробности услуги",
-      "close": "Закрыть"
+      "close": "Закрыть",
+      "contactTitle": "Свяжитесь с нами",
+      "services": "услуг",
+      "service": "услуга"
     }
   },
   "appointment": {

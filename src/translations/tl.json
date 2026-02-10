@@ -184,7 +184,10 @@
     "modal": {
       "benefits": "Ang makukuha mo",
       "details": "Detalye ng serbisyo",
-      "close": "Isara"
+      "close": "Isara",
+      "contactTitle": "Makipag-ugnayan",
+      "services": "mga serbisyo",
+      "service": "serbisyo"
     },
     "cards": {
       "welcome": {

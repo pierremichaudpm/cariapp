@@ -184,7 +184,10 @@
     "modal": {
       "benefits": "O que você recebe",
       "details": "Detalhes do serviço",
-      "close": "Fechar"
+      "close": "Fechar",
+      "contactTitle": "Fale conosco",
+      "services": "serviços",
+      "service": "serviço"
     },
     "cards": {
       "welcome": {

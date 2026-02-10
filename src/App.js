@@ -364,7 +364,7 @@ function App() {
           onClick={toggleChat}
         >
           <div className="chat-icon">
-            <Icon name="comments" size={24} />
+            <Icon name="message-circle" size={26} strokeWidth={2.5} />
           </div>
           <span className="chat-label">
             {(translations[currentLanguage] || translations.fr).chatbot

@@ -184,7 +184,10 @@
     "modal": {
       "benefits": "Bạn sẽ nhận được",
       "details": "Chi tiết dịch vụ",
-      "close": "Đóng"
+      "close": "Đóng",
+      "contactTitle": "Liên hệ",
+      "services": "dịch vụ",
+      "service": "dịch vụ"
     },
     "cards": {
       "welcome": {

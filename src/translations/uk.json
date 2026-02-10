@@ -184,7 +184,10 @@
     "modal": {
       "benefits": "Що ви отримаєте",
       "details": "Деталі послуги",
-      "close": "Закрити"
+      "close": "Закрити",
+      "contactTitle": "Зв'яжіться з нами",
+      "services": "послуг",
+      "service": "послуга"
     },
     "cards": {
       "welcome": {

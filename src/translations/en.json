@@ -184,13 +184,16 @@
     "modal": {
       "benefits": "What you get",
       "details": "Service details",
-      "close": "Close"
+      "close": "Close",
+      "contactTitle": "Contact us",
+      "services": "services",
+      "service": "service"
     },
     "cards": {
       "welcome": {
         "title": "Welcome & Integration",
         "description": "Information, orientation and personalized support to facilitate your settlement.",
-        "fullDescription": "Individualized support and group activities to promote your settlement and facilitate your integration into your new community. We help you become independent and thrive in Quebec.",
+        "fullDescription": "Our welcome and integration service supports immigrants through professional counsellors offering comprehensive assistance for personal and professional integration.",
         "benefits": [
           "Individual information and orientation sessions",
           "Support with administrative procedures",
@@ -198,12 +201,81 @@
           "Referrals to community resources",
           "Support for autonomy and independence"
         ],
-        "details": "Free service offered in French, English, Spanish, Arabic and other languages. In-person or phone appointments."
+        "details": "Free service offered in French, English, Spanish, Arabic and other languages. In-person or phone appointments.",
+        "sections": [
+          {
+            "title": "Individual Services",
+            "items": [
+              {
+                "name": "Settlement and integration assistance",
+                "description": "Support for RAMQ card, SIN, daycare registration, school enrollment and settlement procedures."
+              },
+              {
+                "name": "Administrative forms assistance",
+                "description": "Family allowances, sponsorship applications, citizenship forms, work permit renewals."
+              },
+              {
+                "name": "Housing search",
+                "description": "Support in finding housing and understanding tenant/landlord rights."
+              },
+              {
+                "name": "Sworn declarations",
+                "description": "Solemn declarations, invitation letters, travel authorizations, powers of attorney and certified copies. First 15 copies free for immigrants in Canada less than 5 years."
+              },
+              {
+                "name": "Legal clinic",
+                "description": "Free legal information on housing, immigration, family law through our Pro Bono and Droit Légal partners."
+              },
+              {
+                "name": "Tax returns",
+                "description": "Annual tax return assistance through our tax clinic."
+              },
+              {
+                "name": "Information and referral",
+                "description": "Professional needs assessment and referral to appropriate community resources."
+              },
+              {
+                "name": "Intercultural mediation and interpretation",
+                "description": "Help understanding government communications and navigating social systems."
+              },
+              {
+                "name": "Personalized follow-up and psychosocial support",
+                "description": "Confidential support and emotional guidance throughout the integration journey."
+              }
+            ]
+          },
+          {
+            "title": "Group Activities",
+            "items": [
+              {
+                "name": "Information sessions",
+                "description": "Workshops on tenant rights, budget management, Quebec school system, taxes and winter preparation."
+              },
+              {
+                "name": "Men's Space Committee",
+                "description": "Specialized psychosocial support, personalized guidance and referrals to resources for immigrant men."
+              },
+              {
+                "name": "Family vacation camp",
+                "description": "Cottage stays by a lake near Montreal for families, in an intercultural setting."
+              },
+              {
+                "name": "Family outings",
+                "description": "Cultural and discovery activities: Quebec City, Montmorency Falls, Granby Zoo, Botanical Garden, Biodome, apple picking, sugar shacks."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mon-Fri 8:30 AM-5:00 PM · Free service"
+        }
       },
       "french": {
         "title": "French Learning",
         "description": "French courses adapted for immigrants, all levels, flexible schedules (8:30 AM-10 PM). Test your level for free!",
-        "fullDescription": "Full-time and part-time French training, adapted to the learner's level. Our qualified and attentive teachers use modern teaching methods.",
+        "fullDescription": "French is the official and common language of Quebec. CARI offers free government-funded French courses, full-time and part-time, from beginner to advanced level.",
         "benefits": [
           "Full-time and part-time courses",
           "Flexible schedules from 8:30 AM to 10 PM",
@@ -212,12 +284,65 @@
           "Methods adapted for immigrants",
           "Free 10-minute level test"
         ],
-        "details": "Free courses funded by MIFI. Possibility of participation allowance. Continuous enrollment."
+        "details": "Free courses funded by MIFI. Possibility of participation allowance. Continuous enrollment.",
+        "sections": [
+          {
+            "title": "Full-time Courses",
+            "description": "Intensive 25-hour per week program for people with limited schooling. 20 hours in class with a teacher and 5 hours with a facilitator. 11-week sessions, 4 sessions per year.",
+            "items": []
+          },
+          {
+            "title": "Part-time Courses",
+            "description": "Program for literate immigrants (minimum 9 years of schooling). Offered through the Programme d'intégration linguistique des immigrants (PILI).",
+            "items": [
+              {
+                "name": "Levels 1 to 8 available",
+                "description": ""
+              },
+              {
+                "name": "Morning: 9:00 AM-12:00 PM",
+                "description": "9 to 12 hours per week"
+              },
+              {
+                "name": "Afternoon: 12:30-3:30 PM",
+                "description": "9 to 12 hours per week"
+              },
+              {
+                "name": "Evening: 6:30-9:30 PM",
+                "description": "6 to 9 hours per week"
+              }
+            ],
+            "metadata": "2025-2026 sessions: July 7 to September 21, 2025 · October 6 to December 21, 2025 · January 12 to March 29, 2026"
+          },
+          {
+            "title": "Group Activities",
+            "items": [
+              {
+                "name": "Neighbourhood outings",
+                "description": "Visits to libraries, museums, recreation centres, grocery stores and thrift shops."
+              },
+              {
+                "name": "Rallies and tours",
+                "description": "Discovery of the Old Port and neighbourhood exploration."
+              }
+            ]
+          },
+          {
+            "title": "Childcare",
+            "description": "Childcare available for children aged 0 to 5, fully reimbursed by MIFI.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Registration: quebec.ca/education/apprendre-le-francais"
+        }
       },
       "employment": {
         "title": "Employment Assistance",
         "description": "Resume workshops, interview simulations, professional coaching and meetings with employers.",
-        "fullDescription": "Dynamic job search approaches, networking activities and connections with employers. Personalized support to facilitate your integration into the Quebec job market.",
+        "fullDescription": "Finding a job is essential to successful integration! Our department supports immigrants' integration into the job market through personalized guidance and group activities.",
         "benefits": [
           "Resume and cover letter writing workshops",
           "Personalized interview simulations",
@@ -226,12 +351,90 @@
           "Support in active job searching",
           "85% find a job within 6 months"
         ],
-        "details": "Free service with personalized follow-up. Individual appointments and regular group workshops."
+        "details": "Free service with personalized follow-up. Individual appointments and regular group workshops.",
+        "sections": [
+          {
+            "title": "For Candidates",
+            "items": [
+              {
+                "name": "Job placement",
+                "description": "Partnerships with Quebec companies for job and internship placements."
+              },
+              {
+                "name": "Contact network",
+                "description": "Professional networking and meetings with employers."
+              },
+              {
+                "name": "Resume writing",
+                "description": "Help writing a resume adapted to the Quebec job market."
+              },
+              {
+                "name": "Job search workshops",
+                "description": "8 workshops per year, 5-week sessions (9 AM-4 PM), approximately 15 participants. Job search methods and tools."
+              },
+              {
+                "name": "Skills from abroad",
+                "description": "Skills assessment, search strategies, communication, networking, experience in a Quebec workplace."
+              },
+              {
+                "name": "Personalized support",
+                "description": "Individual guidance: resumes, cover letters, interview preparation, job market orientation, employer referrals."
+              },
+              {
+                "name": "Interview preparation",
+                "description": "Interview simulations and personalized coaching."
+              }
+            ]
+          },
+          {
+            "title": "For Employers",
+            "items": [
+              {
+                "name": "Job postings",
+                "description": "Access to a diverse pool of qualified immigrant candidates."
+              },
+              {
+                "name": "Candidate pre-selection",
+                "description": "Selection from our talent pool across multiple sectors."
+              },
+              {
+                "name": "Available profiles",
+                "description": "Administration, accounting, IT, engineering, telecommunications, food service, legal, environment."
+              },
+              {
+                "name": "Job retention follow-up",
+                "description": "Support for employers integrating diversity in the workplace."
+              },
+              {
+                "name": "Financial assistance",
+                "description": "Guidance to access government wage subsidy programs."
+              }
+            ]
+          },
+          {
+            "title": "Networking",
+            "items": [
+              {
+                "name": "Employer meetings",
+                "description": "Monthly networking events between employers and job seekers."
+              },
+              {
+                "name": "Laurentian Employment Rendez-vous",
+                "description": "Annual event connecting employers with over 100 job seekers."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mon-Fri 8:30 AM-5:00 PM"
+        }
       },
       "family": {
-        "title": "Family Services",
+        "title": "Parents & Youth",
         "description": "Support for families, activities for children and teenagers, help with schooling.",
-        "fullDescription": "Support for immigrant parents with childcare services, school orientation and activities promoting children's overall development and parental integration.",
+        "fullDescription": "Our department supports immigrant families in understanding the Quebec school system, offers psychological support, childcare services and contributes to children's development and academic success.",
         "benefits": [
           "Childcare services for young children",
           "Help with school orientation",
@@ -240,12 +443,66 @@
           "Workshops for parents",
           "Organized family outings"
         ],
-        "details": "Free or low-cost services. Limited spots, registration required."
+        "details": "Free or low-cost services. Limited spots, registration required.",
+        "sections": [
+          {
+            "title": "Individual Support",
+            "items": [
+              {
+                "name": "School system guidance",
+                "description": "Support and orientation for immigrant families navigating the Quebec school system, facilitating communication between school and family."
+              },
+              {
+                "name": "Childhood-Family Clinic",
+                "description": "Free and confidential service where families can discuss child-related challenges with specialized staff, in a safe and professional environment."
+              }
+            ]
+          },
+          {
+            "title": "Group Activities",
+            "items": [
+              {
+                "name": "Parent Space workshops",
+                "description": "9 workshops helping parents understand their role in their children's academic success and navigate the school system."
+              },
+              {
+                "name": "Parent support groups",
+                "description": "Strengthening parenting skills with the 'Nobody's Perfect' program: behaviour, development, safety and parenting role."
+              },
+              {
+                "name": "Growing in community childcare",
+                "description": "Educational program offering physical, play-based and educational activities for children."
+              },
+              {
+                "name": "Low-cost summer camps",
+                "description": "Summer camps for elementary-age children from low-income immigrant families, with French practice."
+              },
+              {
+                "name": "March break camp",
+                "description": "Camp programming during the school March break."
+              },
+              {
+                "name": "Healthy lunches",
+                "description": "Monthly Tuesday lunch programs to learn healthy eating habits through collective cooking, in collaboration with Women of the World."
+              }
+            ]
+          },
+          {
+            "title": "Childcare",
+            "description": "Childcare available for parents participating in activities, including asylum seekers. Call for availability.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 290",
+          "email": "info@cari.qc.ca",
+          "note": "Mon-Fri 8:30 AM-5:00 PM"
+        }
       },
       "women": {
         "title": "Women of the World",
         "description": "Specific programs for immigrant women: autonomy, health, employment.",
-        "fullDescription": "A dedicated space to break women's isolation through intercultural connections, mutual support networks and professional skills development for immigrant women and residents.",
+        "fullDescription": "Through conversation and diverse activities, we offer women spaces for a better understanding of the host society and themselves. Skills development, networking, volunteering and civic participation.",
         "benefits": [
           "Autonomy and self-esteem workshops",
           "Adapted professional training",
@@ -254,12 +511,81 @@
           "Women's health information",
           "Employment support"
         ],
-        "details": "Free and confidential. Welcoming and supportive group. Childcare available on request."
+        "details": "Free and confidential. Welcoming and supportive group. Childcare available on request.",
+        "sections": [
+          {
+            "title": "Group Activities",
+            "items": [
+              {
+                "name": "Sewing and crafts",
+                "description": "Creative workshops in a welcoming environment: machine sewing, fabric cutting, clothing alterations and repairs."
+              },
+              {
+                "name": "Health and international cooking",
+                "description": "Learning healthy eating habits with Quebec products and discovering traditional dishes from different countries."
+              },
+              {
+                "name": "French practice",
+                "description": "Improving oral comprehension and communication through practical application of French courses."
+              },
+              {
+                "name": "Public speaking and professional portfolio",
+                "description": "Developing professional autonomy, decision-making, goal-setting and self-promotion techniques."
+              },
+              {
+                "name": "Civic participation",
+                "description": "Workshops on Quebec society, women's conditions, rights awareness and social engagement."
+              },
+              {
+                "name": "Discussion cafes",
+                "description": "Informal gatherings for immigrant women sharing their experiences in Quebec society."
+              },
+              {
+                "name": "Yoga",
+                "description": "Fitness and stress management sessions."
+              },
+              {
+                "name": "Family outings",
+                "description": "Organized excursions in partnership with the welcome and integration service."
+              },
+              {
+                "name": "Living libraries",
+                "description": "Personal testimonies on diversity, racism, human rights and gender equality to counter stereotypes."
+              },
+              {
+                "name": "Book club and life stories",
+                "description": "Reading discussions combined with collaborative writing projects capturing personal narratives."
+              },
+              {
+                "name": "Eco Sewing",
+                "description": "Educational workshops on the impacts of the textile industry and eco-creative alternatives."
+              },
+              {
+                "name": "Women's Place",
+                "description": "Awareness workshops on socio-ecological impacts of the textile industry and sustainable alternatives."
+              }
+            ]
+          },
+          {
+            "title": "Individual Services",
+            "items": [
+              {
+                "name": "Psychosocial support",
+                "description": "Personalized and confidential guidance to address the specific needs and challenges of immigrant women."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mon-Fri 8:30 AM-5:00 PM · Free and confidential"
+        }
       },
       "volunteering": {
-        "title": "Volunteering & Pairing",
+        "title": "Training & Community Life",
         "description": "Intercultural meetings, social activities and volunteering opportunities.",
-        "fullDescription": "Intercultural pairing program, skills development, language and computer courses, citizenship integration pathway and volunteering opportunities to foster community belonging.",
+        "fullDescription": "Helping newcomers develop civic engagement and get involved in their host society through training and group activities. Building autonomy, skills and networking.",
         "benefits": [
           "Pairing with a Quebecer",
           "Language and computer courses",
@@ -268,7 +594,98 @@
           "Social and cultural activities",
           "Developing your network"
         ],
-        "details": "Free. Flexible commitment based on your availability. Volunteering certificates available."
+        "details": "Free. Flexible commitment based on your availability. Volunteering certificates available.",
+        "sections": [
+          {
+            "title": "Training",
+            "items": [
+              {
+                "name": "English courses",
+                "description": "Intermediate and advanced levels for permanent residents and Canadian citizens who speak French. Grammar, writing, reading, comprehension and conversation."
+              },
+              {
+                "name": "Computer courses",
+                "description": "6-week sessions: Word, Excel, PowerPoint at beginner, intermediate and advanced levels."
+              },
+              {
+                "name": "English conversation",
+                "description": "Communication and pronunciation workshops for all levels."
+              },
+              {
+                "name": "Communicate and participate",
+                "description": "6 workshops on oral communication, public speaking and civic engagement for French speakers."
+              },
+              {
+                "name": "Citizenship exam preparation",
+                "description": "Tools and resources to prepare for the Canadian citizenship exam."
+              },
+              {
+                "name": "The ABCs of my integration",
+                "description": "4 workshops covering daily, active, academic and social integration."
+              },
+              {
+                "name": "Connected Days",
+                "description": "Workshops on technology tools and the web for daily life."
+              },
+              {
+                "name": "Cyber-government",
+                "description": "Introduction to online government services and available benefits."
+              },
+              {
+                "name": "Network Space",
+                "description": "Networking development and social media skills workshops (Facebook, LinkedIn, Instagram)."
+              }
+            ]
+          },
+          {
+            "title": "Community Life Activities",
+            "items": [
+              {
+                "name": "EPVC Thursdays",
+                "description": "Bi-monthly workshops with two tracks: Eco-citizen (environment, zero waste, gardening) and Getting to know Quebec (history, cuisine, expressions, folklore)."
+              },
+              {
+                "name": "Civic participation",
+                "description": "Public consultations, civic engagement spaces for 18-35 year olds, information sessions on volunteering."
+              },
+              {
+                "name": "Socio-cultural activities",
+                "description": "Museum and theatre outings, film discussions, intercultural celebrations, creative projects including engaged theatre and writing marathons."
+              },
+              {
+                "name": "Integration through outdoor activities",
+                "description": "Outdoor activities and local sports to promote integration."
+              }
+            ]
+          },
+          {
+            "title": "Intercultural Encounters",
+            "items": [
+              {
+                "name": "Language pairing",
+                "description": "Language exchange program to practise French with volunteers."
+              },
+              {
+                "name": "Intercultural pairing",
+                "description": "Social and linguistic bridge between newcomers and Quebecers."
+              },
+              {
+                "name": "Artistic pairing",
+                "description": "Artistic collaboration between Quebec and immigrant artists for collective exhibitions."
+              }
+            ]
+          },
+          {
+            "title": "Volunteering",
+            "description": "Get involved! Volunteering opportunities: administrative work, event hosting, workshop co-facilitation, interpretation, childcare support and session organizing.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mon-Fri 8:30 AM-5:00 PM · Free service"
+        }
       }
     }
   },

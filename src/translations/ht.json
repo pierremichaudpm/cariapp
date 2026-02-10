@@ -184,7 +184,10 @@
     "modal": {
       "benefits": "Sa ou pral jwenn",
       "details": "Detay sèvis la",
-      "close": "Fèmen"
+      "close": "Fèmen",
+      "contactTitle": "Kontakte nou",
+      "services": "sèvis",
+      "service": "sèvis"
     },
     "cards": {
       "welcome": {

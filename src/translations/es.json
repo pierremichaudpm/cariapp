@@ -152,7 +152,10 @@
     "modal": {
       "benefits": "Lo que obtienes",
       "details": "Detalles del servicio",
-      "close": "Cerrar"
+      "close": "Cerrar",
+      "contactTitle": "Contáctenos",
+      "services": "servicios",
+      "service": "servicio"
     }
   },
   "appointment": {
