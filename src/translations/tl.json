@@ -193,7 +193,7 @@
       "welcome": {
         "title": "Pagtanggap at Integrasyon",
         "description": "Impormasyon, oryentasyon at personalized na suporta para mapadali ang iyong pag-settle.",
-        "fullDescription": "Indibidwal na suporta at mga aktibidad ng grupo para sa iyong pagtatatag at integrasyon sa bagong kapaligiran. Tinutulungan ka naming maging independent at umunlad sa Quebec.",
+        "fullDescription": "Ang aming serbisyo sa pagtanggap at integrasyon ay sumusuporta sa mga imigrante sa pamamagitan ng mga propesyonal na tagapayo na nag-aalok ng komprehensibong tulong para sa personal at propesyonal na integrasyon.",
         "benefits": [
           "Indibidwal na sesyon ng impormasyon at oryentasyon",
           "Suporta sa mga administratibong proseso",
@@ -201,12 +201,81 @@
           "Mga referral sa mga mapagkukunan ng komunidad",
           "Suporta para sa kalayaan at independensya"
         ],
-        "details": "Libreng serbisyo sa Pranses, Ingles, Espanyol, Arabe at iba pang wika. Appointment sa opisina o sa telepono."
+        "details": "Libreng serbisyo sa Pranses, Ingles, Espanyol, Arabe at iba pang wika. Appointment sa opisina o sa telepono.",
+        "sections": [
+          {
+            "title": "Mga Indibidwal na Serbisyo",
+            "items": [
+              {
+                "name": "Tulong sa pag-settle at integrasyon",
+                "description": "Suporta para sa RAMQ card, SIN, pagpapatala sa daycare, pag-enroll sa eskwelahan at mga proseso ng pag-settle."
+              },
+              {
+                "name": "Tulong sa mga administratibong form",
+                "description": "Family allowances, aplikasyon sa sponsorship, mga form sa citizenship, pag-renew ng work permit."
+              },
+              {
+                "name": "Paghahanap ng tirahan",
+                "description": "Suporta sa paghahanap ng tirahan at pag-unawa ng mga karapatan ng nangungupahan at may-ari."
+              },
+              {
+                "name": "Mga sinumpaang deklarasyon",
+                "description": "Mga solemn declaration, liham ng imbitasyon, awtorisasyon sa paglalakbay, power of attorney at mga certified na kopya. Unang 15 kopya ay libre para sa mga imigrante na wala pang 5 taon sa Canada."
+              },
+              {
+                "name": "Legal na klinika",
+                "description": "Libreng legal na impormasyon tungkol sa pabahay, imigrasyon, batas sa pamilya sa pamamagitan ng aming mga kasosyo sa Pro Bono at Droit Légal."
+              },
+              {
+                "name": "Tax returns",
+                "description": "Taunang tulong sa tax return sa pamamagitan ng aming tax clinic."
+              },
+              {
+                "name": "Impormasyon at referral",
+                "description": "Propesyonal na pagsusuri ng mga pangangailangan at referral sa naaangkop na mga mapagkukunan ng komunidad."
+              },
+              {
+                "name": "Intercultural na mediasyon at interpretasyon",
+                "description": "Tulong sa pag-unawa ng mga komunikasyon ng gobyerno at pag-navigate sa mga sistema ng lipunan."
+              },
+              {
+                "name": "Personalized na follow-up at psychosocial na suporta",
+                "description": "Kumpidensyal na suporta at emosyonal na gabay sa buong proseso ng integrasyon."
+              }
+            ]
+          },
+          {
+            "title": "Mga Aktibidad ng Grupo",
+            "items": [
+              {
+                "name": "Mga sesyon ng impormasyon",
+                "description": "Mga workshop tungkol sa karapatan ng nangungupahan, pamamahala ng budget, sistema ng eskwelahan sa Quebec, buwis at paghahanda sa taglamig."
+              },
+              {
+                "name": "Komite ng Espasyo ng Kalalakihan",
+                "description": "Espesyalisadong psychosocial na suporta, personalized na gabay at mga referral sa mga mapagkukunan para sa mga lalaking imigrante."
+              },
+              {
+                "name": "Family vacation camp",
+                "description": "Pamamalagi sa cottage sa tabi ng lawa malapit sa Montreal para sa mga pamilya, sa isang intercultural na kapaligiran."
+              },
+              {
+                "name": "Mga family outings",
+                "description": "Mga kultural at discovery na aktibidad: Quebec City, Montmorency Falls, Granby Zoo, Botanical Garden, Biodome, pamimitas ng mansanas, sugar shacks."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lunes-Biyernes 8:30-17:00 · Libreng serbisyo"
+        }
       },
       "french": {
         "title": "Pag-aaral ng Pranses",
         "description": "Mga kurso sa Pranses para sa mga imigrante, lahat ng antas, flexible na iskedyul (8:30-22:00). Subukan ang iyong antas nang libre!",
-        "fullDescription": "Full-time at part-time na pagsasanay sa Pranses, angkop sa antas ng mag-aaral. Ang aming mga kwalipikadong guro ay gumagamit ng modernong pamamaraan.",
+        "fullDescription": "Ang Pranses ay ang opisyal at karaniwang wika ng Quebec. Nag-aalok ang CARI ng libreng kurso sa Pranses na pondo ng gobyerno, full-time at part-time, mula sa antas na pambaguhan hanggang sa advanced.",
         "benefits": [
           "Full-time at part-time na mga kurso",
           "Flexible na iskedyul mula 8:30 hanggang 22:00",
@@ -215,12 +284,65 @@
           "Mga pamamaraan na angkop sa mga imigrante",
           "Libreng level test sa loob ng 10 minuto"
         ],
-        "details": "Libreng kurso na pondo ng MIFI. Posibleng may allowance sa partisipasyon. Patuloy na pagpapatala."
+        "details": "Libreng kurso na pondo ng MIFI. Posibleng may allowance sa partisipasyon. Patuloy na pagpapatala.",
+        "sections": [
+          {
+            "title": "Mga Full-time na Kurso",
+            "description": "Intensibong programa na 25 oras bawat linggo para sa mga taong may limitadong pag-aaral. 20 oras sa klase kasama ang guro at 5 oras kasama ang facilitator. 11-linggong sesyon, 4 na sesyon bawat taon.",
+            "items": []
+          },
+          {
+            "title": "Mga Part-time na Kurso",
+            "description": "Programa para sa mga literate na imigrante (minimum 9 taon ng pag-aaral). Inalok sa pamamagitan ng Programme d'intégration linguistique des immigrants (PILI).",
+            "items": [
+              {
+                "name": "Mga antas 1 hanggang 8 available",
+                "description": ""
+              },
+              {
+                "name": "Umaga: 9:00-12:00",
+                "description": "9 hanggang 12 oras bawat linggo"
+              },
+              {
+                "name": "Hapon: 12:30-15:30",
+                "description": "9 hanggang 12 oras bawat linggo"
+              },
+              {
+                "name": "Gabi: 18:30-21:30",
+                "description": "6 hanggang 9 oras bawat linggo"
+              }
+            ],
+            "metadata": "Mga sesyon 2025-2026: Hulyo 7 hanggang Setyembre 21, 2025 · Oktubre 6 hanggang Disyembre 21, 2025 · Enero 12 hanggang Marso 29, 2026"
+          },
+          {
+            "title": "Mga Aktibidad ng Grupo",
+            "items": [
+              {
+                "name": "Mga lakad sa kapit-bahay",
+                "description": "Pagbisita sa mga aklatan, museo, recreation centre, grocery store at thrift shop."
+              },
+              {
+                "name": "Mga rally at tour",
+                "description": "Pagtuklas ng Old Port at eksplorasyon ng kapit-bahay."
+              }
+            ]
+          },
+          {
+            "title": "Childcare",
+            "description": "Childcare available para sa mga batang edad 0 hanggang 5, buong reimbursement ng MIFI.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Pagpapatala: quebec.ca/education/apprendre-le-francais"
+        }
       },
       "employment": {
         "title": "Tulong sa Trabaho",
         "description": "Mga workshop sa CV, simulation ng interview, professional coaching at pagkikita sa mga employer.",
-        "fullDescription": "Dinamikong paraan ng paghahanap ng trabaho, networking at koneksyon sa mga employer. Personalized na suporta para sa iyong integrasyon sa merkado ng trabaho sa Quebec.",
+        "fullDescription": "Ang paghahanap ng trabaho ay mahalaga para sa matagumpay na integrasyon! Sinusuportahan ng aming departamento ang integrasyon ng mga imigrante sa merkado ng trabaho sa pamamagitan ng personalized na gabay at mga aktibidad ng grupo.",
         "benefits": [
           "Mga workshop sa pagsulat ng CV at cover letter",
           "Personalized na simulation ng interview",
@@ -229,12 +351,90 @@
           "Suporta sa aktibong paghahanap ng trabaho",
           "85% nakahanap ng trabaho sa loob ng 6 na buwan"
         ],
-        "details": "Libreng serbisyo na may personalized na follow-up. Indibidwal na appointment at regular na grupo workshop."
+        "details": "Libreng serbisyo na may personalized na follow-up. Indibidwal na appointment at regular na grupo workshop.",
+        "sections": [
+          {
+            "title": "Para sa mga Kandidato",
+            "items": [
+              {
+                "name": "Job placement",
+                "description": "Mga partnership sa mga kumpanya sa Quebec para sa trabaho at internship placement."
+              },
+              {
+                "name": "Contact network",
+                "description": "Propesyonal na networking at pagkikita sa mga employer."
+              },
+              {
+                "name": "Pagsulat ng CV",
+                "description": "Tulong sa pagsulat ng CV na angkop sa merkado ng trabaho sa Quebec."
+              },
+              {
+                "name": "Mga workshop sa paghahanap ng trabaho",
+                "description": "8 workshop bawat taon, 5-linggong sesyon (9:00-16:00), humigit-kumulang 15 kalahok. Mga paraan at kasangkapan sa paghahanap ng trabaho."
+              },
+              {
+                "name": "Mga kasanayan mula sa ibang bansa",
+                "description": "Pagsusuri ng kasanayan, mga estratehiya sa paghahanap, komunikasyon, networking, karanasan sa lugar ng trabaho sa Quebec."
+              },
+              {
+                "name": "Personalized na suporta",
+                "description": "Indibidwal na gabay: CV, cover letter, paghahanda sa interview, oryentasyon sa merkado ng trabaho, referral sa mga employer."
+              },
+              {
+                "name": "Paghahanda sa interview",
+                "description": "Simulation ng interview at personalized na coaching."
+              }
+            ]
+          },
+          {
+            "title": "Para sa mga Employer",
+            "items": [
+              {
+                "name": "Mga job posting",
+                "description": "Access sa iba't ibang pool ng mga kwalipikadong kandidatong imigrante."
+              },
+              {
+                "name": "Pre-selection ng kandidato",
+                "description": "Pagpili mula sa aming talent pool sa iba't ibang sektor."
+              },
+              {
+                "name": "Mga available na profile",
+                "description": "Administrasyon, accounting, IT, engineering, telecommunications, food service, legal, kapaligiran."
+              },
+              {
+                "name": "Follow-up sa pagpapanatili ng trabaho",
+                "description": "Suporta sa mga employer na nag-iintegrate ng pagkakaiba-iba sa lugar ng trabaho."
+              },
+              {
+                "name": "Tulong pinansyal",
+                "description": "Gabay sa pag-access ng mga programa ng gobyerno para sa subsidy sa sahod."
+              }
+            ]
+          },
+          {
+            "title": "Networking",
+            "items": [
+              {
+                "name": "Pagkikita sa mga employer",
+                "description": "Buwanang networking event sa pagitan ng mga employer at naghahanap ng trabaho."
+              },
+              {
+                "name": "Laurentian Employment Rendez-vous",
+                "description": "Taunang kaganapan na nag-uugnay ng mga employer sa mahigit 100 naghahanap ng trabaho."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lunes-Biyernes 8:30-17:00"
+        }
       },
       "family": {
-        "title": "Serbisyo para sa Pamilya",
+        "title": "Mga Magulang at Kabataan",
         "description": "Suporta sa mga pamilya, aktibidad para sa mga bata at kabataan, tulong sa pag-aaral.",
-        "fullDescription": "Suporta sa mga magulang na imigrante na may childcare, school orientation at mga aktibidad na nagtataguyod ng pangkalahatang pag-unlad ng mga bata.",
+        "fullDescription": "Sinusuportahan ng aming departamento ang mga pamilyang imigrante sa pag-unawa ng sistema ng eskwelahan sa Quebec, nag-aalok ng sikolohikal na suporta, serbisyo sa childcare at nag-aambag sa pag-unlad at tagumpay sa pag-aaral ng mga bata.",
         "benefits": [
           "Childcare para sa maliliit na bata",
           "Tulong sa school orientation",
@@ -243,12 +443,66 @@
           "Mga workshop para sa magulang",
           "Organisadong family outings"
         ],
-        "details": "Libre o mababang gastos na serbisyo. Limitadong slot, kailangan ng registration."
+        "details": "Libre o mababang gastos na serbisyo. Limitadong slot, kailangan ng registration.",
+        "sections": [
+          {
+            "title": "Indibidwal na Suporta",
+            "items": [
+              {
+                "name": "Gabay sa sistema ng eskwelahan",
+                "description": "Suporta at oryentasyon para sa mga pamilyang imigrante sa pag-navigate ng sistema ng eskwelahan sa Quebec, pagpapadali ng komunikasyon sa pagitan ng eskwelahan at pamilya."
+              },
+              {
+                "name": "Klinika sa Pagkabata-Pamilya",
+                "description": "Libre at kumpidensyal na serbisyo kung saan ang mga pamilya ay maaaring talakayin ang mga hamong may kaugnayan sa bata kasama ang espesyalisadong kawani, sa isang ligtas at propesyonal na kapaligiran."
+              }
+            ]
+          },
+          {
+            "title": "Mga Aktibidad ng Grupo",
+            "items": [
+              {
+                "name": "Mga workshop sa Espasyo ng Magulang",
+                "description": "9 workshop na tumutulong sa mga magulang na maunawaan ang kanilang papel sa tagumpay sa pag-aaral ng kanilang mga anak at sa pag-navigate ng sistema ng eskwelahan."
+              },
+              {
+                "name": "Mga grupo ng suporta sa magulang",
+                "description": "Pagpapalakas ng mga kasanayan sa pagiging magulang sa programang 'Nobody's Perfect': pag-uugali, pag-unlad, kaligtasan at papel ng magulang."
+              },
+              {
+                "name": "Childcare na Lumalaki sa Komunidad",
+                "description": "Programa ng edukasyon na nag-aalok ng pisikal, panlaro at pang-edukasyong mga aktibidad para sa mga bata."
+              },
+              {
+                "name": "Mababang gastos na summer camp",
+                "description": "Summer camp para sa mga batang elementary mula sa mababang-kita na pamilyang imigrante, na may pagsasanay sa Pranses."
+              },
+              {
+                "name": "March break camp",
+                "description": "Programa ng camp sa panahon ng March break ng eskwelahan."
+              },
+              {
+                "name": "Malusog na tanghalian",
+                "description": "Buwanang programa ng tanghalian tuwing Martes para matuto ng malusog na gawi sa pagkain sa pamamagitan ng sama-samang pagluluto, sa pakikipagtulungan sa Kababaihan ng Mundo."
+              }
+            ]
+          },
+          {
+            "title": "Childcare",
+            "description": "Childcare available para sa mga magulang na lumahok sa mga aktibidad, kabilang ang mga asylum seeker. Tumawag para sa availability.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 290",
+          "email": "info@cari.qc.ca",
+          "note": "Lunes-Biyernes 8:30-17:00"
+        }
       },
       "women": {
         "title": "Kababaihan ng Mundo",
         "description": "Mga espesyal na programa para sa mga babaeng imigrante: independensya, kalusugan, trabaho.",
-        "fullDescription": "Dedikadong espasyo para basagin ang pagkakahiwalay ng mga babae sa pamamagitan ng intercultural na koneksyon, mutual support network at propesyonal na skill development.",
+        "fullDescription": "Sa pamamagitan ng pag-uusap at iba't ibang aktibidad, nag-aalok kami sa mga kababaihan ng mga espasyo para sa mas mabuting pag-unawa ng host society at ng kanilang sarili. Pagpapaunlad ng kasanayan, networking, boluntaryo at pakikilahok sa civic.",
         "benefits": [
           "Mga workshop sa independensya at self-esteem",
           "Angkop na propesyonal na pagsasanay",
@@ -257,12 +511,81 @@
           "Impormasyon sa kalusugan ng kababaihan",
           "Suporta sa paghahanap ng trabaho"
         ],
-        "details": "Libre at confidential. Welcoming at supportive na grupo. Childcare available kapag hiniling."
+        "details": "Libre at confidential. Welcoming at supportive na grupo. Childcare available kapag hiniling.",
+        "sections": [
+          {
+            "title": "Mga Aktibidad ng Grupo",
+            "items": [
+              {
+                "name": "Pananahi at crafts",
+                "description": "Mga malikhaing workshop sa isang welcoming na kapaligiran: pananahi gamit ang makina, pagputol ng tela, pagbabago at pagkukumpuni ng damit."
+              },
+              {
+                "name": "Kalusugan at international na pagluluto",
+                "description": "Pag-aaral ng malusog na gawi sa pagkain gamit ang mga produkto ng Quebec at pagtuklas ng mga tradisyunal na pagkain mula sa iba't ibang bansa."
+              },
+              {
+                "name": "Pagsasanay sa Pranses",
+                "description": "Pagpapabuti ng oral comprehension at komunikasyon sa pamamagitan ng praktikal na aplikasyon ng mga kurso sa Pranses."
+              },
+              {
+                "name": "Public speaking at propesyonal na portfolio",
+                "description": "Pagpapaunlad ng propesyonal na kalayaan, paggawa ng desisyon, pagtatakda ng layunin at mga teknik sa self-promotion."
+              },
+              {
+                "name": "Pakikilahok sa civic",
+                "description": "Mga workshop tungkol sa lipunang Quebec, kalagayan ng kababaihan, kamalayan sa karapatan at pakikisangkot sa lipunan."
+              },
+              {
+                "name": "Mga discussion cafe",
+                "description": "Impormal na pagtitipon para sa mga babaeng imigrante na nagbabahagi ng kanilang karanasan sa lipunang Quebec."
+              },
+              {
+                "name": "Yoga",
+                "description": "Mga sesyon ng fitness at pamamahala ng stress."
+              },
+              {
+                "name": "Mga family outings",
+                "description": "Organisadong lakad sa pakikipagtulungan ng serbisyo sa pagtanggap at integrasyon."
+              },
+              {
+                "name": "Mga living library",
+                "description": "Mga personal na testimonya tungkol sa pagkakaiba-iba, rasismo, karapatang pantao at pagkakapantay-pantay ng kasarian upang labanan ang mga stereotype."
+              },
+              {
+                "name": "Book club at mga kwento ng buhay",
+                "description": "Mga talakayan sa pagbabasa na pinagsama ng collaborative na mga proyektong pagsulat na kumukuha ng mga personal na salaysay."
+              },
+              {
+                "name": "Eco Sewing",
+                "description": "Mga pang-edukasyong workshop tungkol sa mga epekto ng industriya ng tela at mga eco-creative na alternatibo."
+              },
+              {
+                "name": "Espasyo ng Kababaihan",
+                "description": "Mga workshop sa kamalayan tungkol sa mga socio-ecological na epekto ng industriya ng tela at mga sustainable na alternatibo."
+              }
+            ]
+          },
+          {
+            "title": "Mga Indibidwal na Serbisyo",
+            "items": [
+              {
+                "name": "Psychosocial na suporta",
+                "description": "Personalized at kumpidensyal na gabay upang tugunan ang mga espesipikong pangangailangan at hamon ng mga babaeng imigrante."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lunes-Biyernes 8:30-17:00 · Libre at kumpidensyal"
+        }
       },
       "volunteering": {
-        "title": "Boluntaryo at Pairing",
+        "title": "Pagsasanay at Buhay Komunidad",
         "description": "Intercultural na pagkikita, sosyal na aktibidad at pagkakataon sa boluntaryo.",
-        "fullDescription": "Intercultural pairing program, skill development, kurso sa wika at computer, citizenship integration pathway at mga pagkakataon sa boluntaryo.",
+        "fullDescription": "Pagtulong sa mga bagong dating na magpaunlad ng civic engagement at makilahok sa kanilang host society sa pamamagitan ng pagsasanay at mga aktibidad ng grupo. Pagbuo ng kalayaan, kasanayan at networking.",
         "benefits": [
           "Pairing sa isang Quebecer",
           "Kurso sa wika at computer",
@@ -271,7 +594,98 @@
           "Sosyal at kultural na mga aktibidad",
           "Pagpapalawak ng iyong network"
         ],
-        "details": "Libre. Flexible na commitment ayon sa iyong availability. May mga volunteer certificate."
+        "details": "Libre. Flexible na commitment ayon sa iyong availability. May mga volunteer certificate.",
+        "sections": [
+          {
+            "title": "Pagsasanay",
+            "items": [
+              {
+                "name": "Mga kurso sa Ingles",
+                "description": "Intermediate at advanced na antas para sa mga permanent resident at Canadian citizen na nagsasalita ng Pranses. Grammar, pagsulat, pagbasa, comprehension at pag-uusap."
+              },
+              {
+                "name": "Mga kurso sa computer",
+                "description": "6-na-linggong sesyon: Word, Excel, PowerPoint sa beginner, intermediate at advanced na antas."
+              },
+              {
+                "name": "Pag-uusap sa Ingles",
+                "description": "Mga workshop sa komunikasyon at pagbigkas para sa lahat ng antas."
+              },
+              {
+                "name": "Makipag-usap at lumahok",
+                "description": "6 workshop tungkol sa oral communication, public speaking at civic engagement para sa mga nagsasalita ng Pranses."
+              },
+              {
+                "name": "Paghahanda sa citizenship exam",
+                "description": "Mga kasangkapan at mapagkukunan para sa paghahanda sa Canadian citizenship exam."
+              },
+              {
+                "name": "Ang ABC ng aking integrasyon",
+                "description": "4 na workshop na sumasaklaw sa pang-araw-araw, aktibo, akademiko at panlipunang integrasyon."
+              },
+              {
+                "name": "Connected Days",
+                "description": "Mga workshop tungkol sa mga kasangkapan sa teknolohiya at web para sa pang-araw-araw na buhay."
+              },
+              {
+                "name": "Cyber-government",
+                "description": "Panimula sa mga online na serbisyo ng gobyerno at mga available na benepisyo."
+              },
+              {
+                "name": "Espasyo ng Network",
+                "description": "Mga workshop sa pagpapaunlad ng networking at kasanayan sa social media (Facebook, LinkedIn, Instagram)."
+              }
+            ]
+          },
+          {
+            "title": "Mga Aktibidad ng Buhay Komunidad",
+            "items": [
+              {
+                "name": "Mga Huwebes ng EPVC",
+                "description": "Mga bi-monthly na workshop na may dalawang track: Eco-citizen (kapaligiran, zero waste, paghahardin) at Pagkilala sa Quebec (kasaysayan, lutuin, ekspresyon, folklore)."
+              },
+              {
+                "name": "Pakikilahok sa civic",
+                "description": "Mga pampublikong konsultasyon, espasyo ng civic engagement para sa 18-35 taong gulang, mga sesyon ng impormasyon tungkol sa boluntaryo."
+              },
+              {
+                "name": "Mga sosyo-kultural na aktibidad",
+                "description": "Mga lakad sa museo at teatro, talakayan tungkol sa pelikula, intercultural na pagdiriwang, mga malikhaing proyekto kabilang ang engaged theatre at writing marathon."
+              },
+              {
+                "name": "Integrasyon sa pamamagitan ng outdoor na aktibidad",
+                "description": "Mga outdoor na aktibidad at lokal na palakasan para itaguyod ang integrasyon."
+              }
+            ]
+          },
+          {
+            "title": "Mga Intercultural na Pagkikita",
+            "items": [
+              {
+                "name": "Pairing sa wika",
+                "description": "Programa ng language exchange para magsanay ng Pranses kasama ang mga boluntaryo."
+              },
+              {
+                "name": "Intercultural na pairing",
+                "description": "Tulay sa lipunan at wika sa pagitan ng mga bagong dating at mga Quebecer."
+              },
+              {
+                "name": "Artistic na pairing",
+                "description": "Artistic na kolaborasyon sa pagitan ng mga artista ng Quebec at imigrante para sa mga kolektibong eksibisyon."
+              }
+            ]
+          },
+          {
+            "title": "Boluntaryo",
+            "description": "Makilahok! Mga pagkakataon sa boluntaryo: administratibong trabaho, hosting ng event, co-facilitation ng workshop, interpretasyon, suporta sa childcare at pag-organisa ng sesyon.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lunes-Biyernes 8:30-17:00 · Libreng serbisyo"
+        }
       }
     }
   },

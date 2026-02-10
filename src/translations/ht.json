@@ -193,7 +193,7 @@
       "welcome": {
         "title": "Akèy ak Entegrasyon",
         "description": "Enfòmasyon, oryantasyon ak akonpayman pèsonalize pou fasilite enstalasyon ou.",
-        "fullDescription": "Akonpayman endividyèl ak aktivite gwoup pou fasilite etablisman ou ak entegrasyon ou nan nouvo anviwonman ou. Nou ede ou vin otonòm epi pwospere nan Kebèk.",
+        "fullDescription": "Sèvis akèy ak entegrasyon nou an sipòte imigran yo atravè konseye pwofesyonèl ki ofri asistans konplè pou entegrasyon pèsonèl ak pwofesyonèl.",
         "benefits": [
           "Sesyon enfòmasyon ak oryantasyon endividyèl",
           "Akonpayman nan demach administratif",
@@ -201,12 +201,81 @@
           "Referans vè resous kominotè",
           "Sipò pou otonomi ak endepandans"
         ],
-        "details": "Sèvis gratis ofri an fransè, anglè, panyòl, arab ak lòt lang. Randevou sou plas oswa pa telefòn."
+        "details": "Sèvis gratis ofri an fransè, anglè, panyòl, arab ak lòt lang. Randevou sou plas oswa pa telefòn.",
+        "sections": [
+          {
+            "title": "Sèvis endividyèl",
+            "items": [
+              {
+                "name": "Asistans pou enstalasyon ak entegrasyon",
+                "description": "Sipò pou kat RAMQ, NAS, enskripsyon gadri, enskripsyon lekòl ak pwosedi enstalasyon."
+              },
+              {
+                "name": "Asistans fòmilè administratif",
+                "description": "Alokasyon familyal, demann parennaj, fòmilè sitwayènte, renouvèlman pèmi travay."
+              },
+              {
+                "name": "Rechèch lojman",
+                "description": "Sipò pou jwenn lojman ak konprann dwa lokatè/pwopriyetè."
+              },
+              {
+                "name": "Deklarasyon solànèl",
+                "description": "Deklarasyon solànèl, lèt envitasyon, otorizasyon vwayaj, pwokourasyon ak kopi sètifye. Premye 15 kopi gratis pou imigran ki nan Kanada mwens ke 5 an."
+              },
+              {
+                "name": "Klinik jiridik",
+                "description": "Enfòmasyon jiridik gratis sou lojman, imigrasyon, dwa familyal atravè patnè Pro Bono ak Droit Légal nou yo."
+              },
+              {
+                "name": "Rapò denpô",
+                "description": "Asistans anyèl pou rapò denpô atravè klinik fiskal nou an."
+              },
+              {
+                "name": "Enfòmasyon ak referans",
+                "description": "Evalyasyon pwofesyonèl bezwen ak referans vè resous kominotè apwopriye."
+              },
+              {
+                "name": "Medyasyon entèkiltirèl ak entèpretasyon",
+                "description": "Èd pou konprann kominikasyon gouvènman an ak navige nan sistèm sosyal yo."
+              },
+              {
+                "name": "Suivi pèsonalize ak sipò psikososyal",
+                "description": "Sipò konfidansyèl ak gidans emosyonèl pandan tout vwayaj entegrasyon an."
+              }
+            ]
+          },
+          {
+            "title": "Aktivite gwoup",
+            "items": [
+              {
+                "name": "Sesyon enfòmasyon",
+                "description": "Atelye sou dwa lokatè, jesyon bidjè, sistèm lekòl kebèkwa, enpô ak preparasyon pou livè."
+              },
+              {
+                "name": "Komite Espas Gason",
+                "description": "Sipò psikososyal espesyalize, gidans pèsonalize ak referans vè resous pou gason imigran."
+              },
+              {
+                "name": "Kan vakans familyal",
+                "description": "Sejou nan chale bò lak toupre Monreyal pou fanmi, nan yon kad entèkiltirèl."
+              },
+              {
+                "name": "Soti familyal",
+                "description": "Aktivite kiltirèl ak dekouvèt: Vil Kebèk, Chit Montmorency, Zoo Granby, Jaden Botanik, Biyodòm, kèy pòm, kabàn a sik."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lendi-Vandredi 8è30-17è · Sèvis gratis"
+        }
       },
       "french": {
         "title": "Aprantisaj fransè",
         "description": "Kou fransè adapte pou imigran, tout nivo, orè fleksib (8è30-22è). Teste nivo ou gratis!",
-        "fullDescription": "Fòmasyon fransè a tan plen ak a tan pasyèl, adapte ak nivo aprantan an. Pwofesè kalifye nou yo itilize metòd pedagojik modèn.",
+        "fullDescription": "Fransè se lang ofisyèl ak komen nan Kebèk. CARI ofri kou fransè gratis finanse pa gouvènman an, a tan plen ak a tan pasyèl, soti nan nivo debitan rive nan nivo avanse.",
         "benefits": [
           "Kou a tan plen ak tan pasyèl",
           "Orè fleksib de 8è30 a 22è",
@@ -215,12 +284,65 @@
           "Metòd adapte pou imigran",
           "Tès nivo gratis an 10 minit"
         ],
-        "details": "Kou gratis finanse pa MIFI. Posibilite alokasyon patisipasyon. Enskripsyon kontinyèl."
+        "details": "Kou gratis finanse pa MIFI. Posibilite alokasyon patisipasyon. Enskripsyon kontinyèl.",
+        "sections": [
+          {
+            "title": "Kou a tan plen",
+            "description": "Pwogram entansif 25 èdtan pa semèn pou moun ki gen ti jan edikasyon. 20 èdtan nan klas ak yon pwofesè ak 5 èdtan ak yon animatè. Sesyon 11 semèn, 4 sesyon pa ane.",
+            "items": []
+          },
+          {
+            "title": "Kou a tan pasyèl",
+            "description": "Pwogram pou imigran ki konn li ak ekri (minimòm 9 ane lekòl). Ofri atravè Pwogram entegrasyon lengwistik imigran yo (PILI).",
+            "items": [
+              {
+                "name": "Nivo 1 a 8 disponib",
+                "description": ""
+              },
+              {
+                "name": "Maten: 9è-12è",
+                "description": "9 a 12 èdtan pa semèn"
+              },
+              {
+                "name": "Aprè-midi: 12è30-15è30",
+                "description": "9 a 12 èdtan pa semèn"
+              },
+              {
+                "name": "Aswè: 18è30-21è30",
+                "description": "6 a 9 èdtan pa semèn"
+              }
+            ],
+            "metadata": "Sesyon 2025-2026: 7 jiyè - 21 septanm 2025 · 6 oktòb - 21 desanm 2025 · 12 janvye - 29 mas 2026"
+          },
+          {
+            "title": "Aktivite gwoup",
+            "items": [
+              {
+                "name": "Soti nan katye a",
+                "description": "Vizit bibliyotèk, mize, sant lwazi, makèt ak fripri."
+              },
+              {
+                "name": "Rali ak tounè",
+                "description": "Dekouvèt Vye Pò a ak eksplorasyon katye."
+              }
+            ]
+          },
+          {
+            "title": "Gadri",
+            "description": "Gadri disponib pou timoun 0 a 5 an, ranbouse nèt pa MIFI.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Enskripsyon: quebec.ca/education/apprendre-le-francais"
+        }
       },
       "employment": {
         "title": "Èd pou travay",
         "description": "Atelye CV, similasyon entèvyou, coaching pwofesyonèl ak rankont ak anplwayè.",
-        "fullDescription": "Apwoch dinamik rechèch travay, aktivite rezo ak koneksyon ak anplwayè. Akonpayman pèsonalize pou fasilite entegrasyon ou nan mache travay kebèkwa a.",
+        "fullDescription": "Jwenn travay esansyèl pou entegrasyon reyisi! Depatman nou an sipòte entegrasyon imigran yo nan mache travay la atravè gidans pèsonalize ak aktivite gwoup.",
         "benefits": [
           "Atelye redaksyon CV ak lèt motivasyon",
           "Similasyon entèvyou pèsonalize",
@@ -229,12 +351,90 @@
           "Akonpayman nan rechèch aktif",
           "85% jwenn travay an 6 mwa"
         ],
-        "details": "Sèvis gratis ak suivi pèsonalize. Randevou endividyèl ak atelye gwoup regilye."
+        "details": "Sèvis gratis ak suivi pèsonalize. Randevou endividyèl ak atelye gwoup regilye.",
+        "sections": [
+          {
+            "title": "Pou kandida yo",
+            "items": [
+              {
+                "name": "Plasman travay",
+                "description": "Patenarya ak konpayi kebèkwa pou plasman travay ak estaj."
+              },
+              {
+                "name": "Rezo kontak",
+                "description": "Rezo pwofesyonèl ak rankont ak anplwayè."
+              },
+              {
+                "name": "Redaksyon CV",
+                "description": "Èd pou ekri yon CV adapte pou mache travay kebèkwa a."
+              },
+              {
+                "name": "Atelye rechèch travay",
+                "description": "8 atelye pa ane, sesyon 5 semèn (9è-16è), anviwon 15 patisipan. Metòd ak zouti rechèch travay."
+              },
+              {
+                "name": "Konpetans peyi etranje",
+                "description": "Evalyasyon konpetans, estrateji rechèch, kominikasyon, rezo, eksperyans nan yon espas travay kebèkwa."
+              },
+              {
+                "name": "Akonpayman pèsonalize",
+                "description": "Gidans endividyèl: CV, lèt motivasyon, preparasyon entèvyou, oryantasyon mache travay, referans vè anplwayè."
+              },
+              {
+                "name": "Preparasyon entèvyou",
+                "description": "Similasyon entèvyou ak coaching pèsonalize."
+              }
+            ]
+          },
+          {
+            "title": "Pou anplwayè yo",
+            "items": [
+              {
+                "name": "Piblikasyon pòs",
+                "description": "Aksè a yon gwoup divèsifye kandida imigran kalifye."
+              },
+              {
+                "name": "Pre-seleksyon kandida",
+                "description": "Seleksyon nan baz talan nou nan plizyè sektè."
+              },
+              {
+                "name": "Pwofil disponib",
+                "description": "Administrasyon, kontabilite, enfòmatik, jeni, telekominikasyon, restoran, jiridik, anviwonman."
+              },
+              {
+                "name": "Suivi retansyon travay",
+                "description": "Sipò pou anplwayè ki entegre divèsite nan espas travay la."
+              },
+              {
+                "name": "Èd finansye",
+                "description": "Gidans pou jwenn aksè nan pwogram sibvansyon salè gouvènman an."
+              }
+            ]
+          },
+          {
+            "title": "Rezo",
+            "items": [
+              {
+                "name": "Rankont ak anplwayè",
+                "description": "Evènman rezo chak mwa ant anplwayè ak chèchè travay."
+              },
+              {
+                "name": "Randevou Travay Laurentian",
+                "description": "Evènman anyèl ki konekte anplwayè ak plis pase 100 chèchè travay."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lendi-Vandredi 8è30-17è"
+        }
       },
       "family": {
-        "title": "Sèvis familyal",
+        "title": "Paran ak Jèn",
         "description": "Sipò pou fanmi, aktivite pou timoun ak adolesan, èd pou edikasyon.",
-        "fullDescription": "Akonpayman paran imigran ak sèvis gadri, oryantasyon lekòl ak aktivite ki favorize devlopman global timoun yo ak entegrasyon paran yo.",
+        "fullDescription": "Depatman nou an sipòte fanmi imigran pou konprann sistèm lekòl kebèkwa a, ofri sipò psikolojik, sèvis gadri epi kontribye nan devlopman ak siksè akademik timoun yo.",
         "benefits": [
           "Sèvis gadri pou jèn timoun",
           "Èd pou oryantasyon lekòl",
@@ -243,12 +443,66 @@
           "Atelye pou paran",
           "Soti familyal òganize"
         ],
-        "details": "Sèvis gratis oswa a ti pri. Plas limite, enskripsyon obligatwa."
+        "details": "Sèvis gratis oswa a ti pri. Plas limite, enskripsyon obligatwa.",
+        "sections": [
+          {
+            "title": "Sipò endividyèl",
+            "items": [
+              {
+                "name": "Gidans sistèm lekòl",
+                "description": "Sipò ak oryantasyon pou fanmi imigran ki ap navige nan sistèm lekòl kebèkwa a, fasilite kominikasyon ant lekòl ak fanmi."
+              },
+              {
+                "name": "Klinik Timoun-Fanmi",
+                "description": "Sèvis gratis ak konfidansyèl kote fanmi ka diskite sou defi ki gen rapò ak timoun ak pèsonèl espesyalize, nan yon anviwonman san danje ak pwofesyonèl."
+              }
+            ]
+          },
+          {
+            "title": "Aktivite gwoup",
+            "items": [
+              {
+                "name": "Atelye Espas Paran",
+                "description": "9 atelye pou ede paran konprann wòl yo nan siksè akademik pitit yo epi navige nan sistèm lekòl la."
+              },
+              {
+                "name": "Gwoup sipò paran",
+                "description": "Ranfòse konpetans parantal ak pwogram 'Y a personne de parfait': konpòtman, devlopman, sekirite ak wòl parantal."
+              },
+              {
+                "name": "Gadri Grandi nan kominote",
+                "description": "Pwogram edikativ ki ofri aktivite fizik, jwèt ak edikasyon pou timoun."
+              },
+              {
+                "name": "Kan ete a ti pri",
+                "description": "Kan ete pou timoun laj primè ki soti nan fanmi imigran a ti revni, ak pratik fransè."
+              },
+              {
+                "name": "Kan vakans mas",
+                "description": "Pwogramasyon kan pandan vakans lekòl mwa mas."
+              },
+              {
+                "name": "Dine sante",
+                "description": "Pwogram dine chak mwa madi pou aprann abitid alimantè sante atravè kwit manje kolektif, an kolaborasyon ak Fanm nan mond lan."
+              }
+            ]
+          },
+          {
+            "title": "Gadri",
+            "description": "Gadri disponib pou paran ki ap patisipe nan aktivite yo, enkli demandè azil. Rele pou disponibilite.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 290",
+          "email": "info@cari.qc.ca",
+          "note": "Lendi-Vandredi 8è30-17è"
+        }
       },
       "women": {
         "title": "Fanm nan mond lan",
         "description": "Pwogram espesifik pou fanm imigran: otonomi, sante, travay.",
-        "fullDescription": "Espas dedye pou kraze izolman fanm yo atravè kreyasyon lyen entèkiltirèl, rezo antred mityèl ak devlopman konpetans pwofesyonèl.",
+        "fullDescription": "Atravè konvèsasyon ak aktivite divès, nou ofri fanm yo espas pou yon pi bon konpreyansyon sosyete akèy la ak tèt yo. Devlopman konpetans, rezo, volontarya ak patisipasyon sivik.",
         "benefits": [
           "Atelye otonomi ak estim de swa",
           "Fòmasyon pwofesyonèl adapte",
@@ -257,12 +511,81 @@
           "Enfòmasyon sou sante fanm",
           "Akonpayman vè travay"
         ],
-        "details": "Gratis ak konfidansyèl. Gwoup akèyan ak byenveyan. Gadri disponib sou demann."
+        "details": "Gratis ak konfidansyèl. Gwoup akèyan ak byenveyan. Gadri disponib sou demann.",
+        "sections": [
+          {
+            "title": "Aktivite gwoup",
+            "items": [
+              {
+                "name": "Kouti ak atizana",
+                "description": "Atelye kreyatif nan yon anviwonman akèyan: kouti machin, koupe twal, ajisteman ak reparasyon rad."
+              },
+              {
+                "name": "Sante ak kwizin entènasyonal",
+                "description": "Aprann abitid alimantè sante ak pwodui kebèkwa epi dekouvri pla tradisyonèl nan diferan peyi."
+              },
+              {
+                "name": "Pratik fransè",
+                "description": "Amelyore konpreyansyon oral ak kominikasyon atravè aplikasyon pratik kou fransè yo."
+              },
+              {
+                "name": "Priz de pawòl ak pòtfolyo pwofesyonèl",
+                "description": "Devlope otonomi pwofesyonèl, pran desizyon, fiksasyon objektif ak teknik pwomosyon tèt ou."
+              },
+              {
+                "name": "Patisipasyon sivik",
+                "description": "Atelye sou sosyete kebèkwa, kondisyon fanm, konsyantizasyon dwa ak angajman sosyal."
+              },
+              {
+                "name": "Kafe diskisyon",
+                "description": "Rasanbleman enfòmèl pou fanm imigran ki pataje eksperyans yo nan sosyete kebèkwa."
+              },
+              {
+                "name": "Yoga",
+                "description": "Sesyon fizik ak jesyon strès."
+              },
+              {
+                "name": "Soti familyal",
+                "description": "Ekskisyon òganize an patenarya ak sèvis akèy ak entegrasyon an."
+              },
+              {
+                "name": "Bibliyotèk vivan",
+                "description": "Temwayaj pèsonèl sou divèsite, rasis, dwa moun ak egalite sèks pou konbat estereotip."
+              },
+              {
+                "name": "Klib lekti ak istwa lavi",
+                "description": "Diskisyon lekti konbine ak pwojè ekriti kolaboratif ki kaptire naratif pèsonèl."
+              },
+              {
+                "name": "Eko Kouti",
+                "description": "Atelye edikativ sou enpak endistri tekstil la ak altènativ eko-kreyatif."
+              },
+              {
+                "name": "Espas Fanm",
+                "description": "Atelye konsyantizasyon sou enpak sosyo-ekolojik endistri tekstil la ak altènativ dirab."
+              }
+            ]
+          },
+          {
+            "title": "Sèvis endividyèl",
+            "items": [
+              {
+                "name": "Sipò psikososyal",
+                "description": "Gidans pèsonalize ak konfidansyèl pou adrese bezwen espesifik ak defi fanm imigran yo."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lendi-Vandredi 8è30-17è · Gratis ak konfidansyèl"
+        }
       },
       "volunteering": {
-        "title": "Volontarya ak Jimelaaj",
+        "title": "Fòmasyon ak Lavi Kominotè",
         "description": "Rankont entèkiltirèl, aktivite sosyal ak opòtinite volontarya.",
-        "fullDescription": "Pwogram jimelaaj entèkiltirèl, devlopman konpetans, kou lang ak enfòmatik, pakou entegrasyon sivik ak opòtinite volontarya.",
+        "fullDescription": "Ede nouvo rive yo devlope angajman sivik ak enplike yo nan sosyete akèy la atravè fòmasyon ak aktivite gwoup. Bati otonomi, konpetans ak rezo.",
         "benefits": [
           "Jimelaaj ak yon moun kebèkwa",
           "Kou lang ak enfòmatik",
@@ -271,7 +594,98 @@
           "Aktivite sosyal ak kiltirèl",
           "Devlopman rezo ou"
         ],
-        "details": "Gratis. Angajman fleksib selon disponibilite ou. Sètifika volontarya disponib."
+        "details": "Gratis. Angajman fleksib selon disponibilite ou. Sètifika volontarya disponib.",
+        "sections": [
+          {
+            "title": "Fòmasyon",
+            "items": [
+              {
+                "name": "Kou anglè",
+                "description": "Nivo entèmedyè ak avanse pou rezidan pèmanan ak sitwayen kanadyen ki pale fransè. Gramè, ekriti, lekti, konpreyansyon ak konvèsasyon."
+              },
+              {
+                "name": "Kou enfòmatik",
+                "description": "Sesyon 6 semèn: Word, Excel, PowerPoint nan nivo debitan, entèmedyè ak avanse."
+              },
+              {
+                "name": "Konvèsasyon anglè",
+                "description": "Atelye kominikasyon ak pwononsyasyon pou tout nivo."
+              },
+              {
+                "name": "Kominike epi patisipe",
+                "description": "6 atelye sou kominikasyon oral, priz de pawòl ak angajman sivik pou moun ki pale fransè."
+              },
+              {
+                "name": "Preparasyon egzamen sitwayènte",
+                "description": "Zouti ak resous pou prepare pou egzamen sitwayènte kanadyen an."
+              },
+              {
+                "name": "ABC entegrasyon mwen",
+                "description": "4 atelye ki kouvri entegrasyon kotidyen, aktif, akademik ak sosyal."
+              },
+              {
+                "name": "Jou konekte",
+                "description": "Atelye sou zouti teknoloji ak entènèt pou lavi chak jou."
+              },
+              {
+                "name": "Sibè-gouvènman",
+                "description": "Entwodiksyon nan sèvis gouvènman anliy ak avantaj disponib."
+              },
+              {
+                "name": "Espas Rezo",
+                "description": "Atelye devlopman rezo ak konpetans rezo sosyal (Facebook, LinkedIn, Instagram)."
+              }
+            ]
+          },
+          {
+            "title": "Aktivite lavi kominotè",
+            "items": [
+              {
+                "name": "Jedi EPVC",
+                "description": "Atelye de fwa pa mwa ak de trak: Eko-sitwayen (anviwonman, zewo dechè, jaden) ak Dekouvri Kebèk (istwa, kwizin, ekspresyon, folklò)."
+              },
+              {
+                "name": "Patisipasyon sivik",
+                "description": "Konsiltasyon piblik, espas angajman sivik pou 18-35 an, sesyon enfòmasyon sou volontarya."
+              },
+              {
+                "name": "Aktivite sosyo-kiltirèl",
+                "description": "Soti nan mize ak teyat, diskisyon fim, selebrasyon entèkiltirèl, pwojè kreyatif enkli teyat angaje ak maraton ekriti."
+              },
+              {
+                "name": "Entegrasyon atravè aktivite plennè",
+                "description": "Aktivite plennè ak espò lokal pou ankouraje entegrasyon."
+              }
+            ]
+          },
+          {
+            "title": "Rankont entèkiltirèl",
+            "items": [
+              {
+                "name": "Jimelaaj lengwistik",
+                "description": "Pwogram echanj lengwistik pou pratike fransè ak volontè."
+              },
+              {
+                "name": "Jimelaaj entèkiltirèl",
+                "description": "Pon sosyal ak lengwistik ant nouvo rive ak moun kebèkwa."
+              },
+              {
+                "name": "Jimelaaj atistik",
+                "description": "Kolaborasyon atistik ant atis kebèkwa ak atis imigran pou ekspozisyon kolektif."
+              }
+            ]
+          },
+          {
+            "title": "Volontarya",
+            "description": "Enplike ou! Opòtinite volontarya: travay administratif, akèy evènman, ko-animasyon atelye, entèpretasyon, sipò gadri ak òganizasyon sesyon.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lendi-Vandredi 8è30-17è · Sèvis gratis"
+        }
       }
     }
   },

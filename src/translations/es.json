@@ -67,7 +67,7 @@
       "welcome": {
         "title": "Acogida e Integración",
         "description": "Información, orientación y apoyo personalizado para facilitar su establecimiento.",
-        "fullDescription": "Acompañamiento individualizado y actividades grupales para facilitar su instalación e integración en su nueva comunidad. Le ayudamos a ser autónomo y prosperar en Quebec.",
+        "fullDescription": "Nuestro servicio de acogida e integración acompaña a los inmigrantes a través de consejeros profesionales que ofrecen asistencia integral para la integración personal y profesional.",
         "benefits": [
           "Sesiones individuales de información y orientación",
           "Apoyo en trámites administrativos",
@@ -75,12 +75,81 @@
           "Referencias a recursos comunitarios",
           "Apoyo para la autonomía e independencia"
         ],
-        "details": "Servicio gratuito en francés, inglés, español, árabe y otros idiomas. Citas presenciales o telefónicas."
+        "details": "Servicio gratuito en francés, inglés, español, árabe y otros idiomas. Citas presenciales o telefónicas.",
+        "sections": [
+          {
+            "title": "Servicios individuales",
+            "items": [
+              {
+                "name": "Asistencia para el establecimiento y la integración",
+                "description": "Apoyo para la tarjeta RAMQ, NAS, inscripción en guardería, inscripción escolar y trámites de establecimiento."
+              },
+              {
+                "name": "Asistencia con formularios administrativos",
+                "description": "Asignaciones familiares, solicitudes de patrocinio, formularios de ciudadanía, renovaciones de permisos de trabajo."
+              },
+              {
+                "name": "Búsqueda de vivienda",
+                "description": "Apoyo en la búsqueda de vivienda y comprensión de los derechos de inquilinos y propietarios."
+              },
+              {
+                "name": "Declaraciones juradas",
+                "description": "Declaraciones solemnes, cartas de invitación, autorizaciones de viaje, poderes notariales y copias certificadas. Primeras 15 copias gratuitas para inmigrantes en Canadá hace menos de 5 años."
+              },
+              {
+                "name": "Clínica jurídica",
+                "description": "Información legal gratuita sobre vivienda, inmigración, derecho familiar a través de nuestros socios Pro Bono y Droit Légal."
+              },
+              {
+                "name": "Declaraciones de impuestos",
+                "description": "Asistencia anual para la declaración de impuestos a través de nuestra clínica fiscal."
+              },
+              {
+                "name": "Información y referencia",
+                "description": "Evaluación profesional de necesidades y referencia a recursos comunitarios apropiados."
+              },
+              {
+                "name": "Mediación intercultural e interpretación",
+                "description": "Ayuda para comprender las comunicaciones gubernamentales y navegar los sistemas sociales."
+              },
+              {
+                "name": "Seguimiento personalizado y apoyo psicosocial",
+                "description": "Apoyo confidencial y orientación emocional durante todo el proceso de integración."
+              }
+            ]
+          },
+          {
+            "title": "Actividades grupales",
+            "items": [
+              {
+                "name": "Sesiones informativas",
+                "description": "Talleres sobre derechos de inquilinos, gestión del presupuesto, sistema escolar quebequense, impuestos y preparación para el invierno."
+              },
+              {
+                "name": "Comité Espacio Hombres",
+                "description": "Apoyo psicosocial especializado, orientación personalizada y referencia a recursos para hombres inmigrantes."
+              },
+              {
+                "name": "Campamento vacacional familiar",
+                "description": "Estadías en cabañas junto a un lago cerca de Montreal para familias, en un entorno intercultural."
+              },
+              {
+                "name": "Salidas familiares",
+                "description": "Actividades culturales y de descubrimiento: ciudad de Quebec, cataratas Montmorency, zoológico de Granby, Jardín Botánico, Biodomo, recolección de manzanas, cabañas de azúcar."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Vie 8:30-17:00 · Servicio gratuito"
+        }
       },
       "french": {
         "title": "Francización",
-        "description": "Cursos de francés adaptados para inmigrantes, todos los niveles, horarios flexibles (8:30-22h).",
-        "fullDescription": "Formación en francés a tiempo completo y parcial, adaptada al nivel del estudiante. Nuestros profesores calificados utilizan métodos de enseñanza modernos.",
+        "description": "Cursos de francés adaptados para inmigrantes, todos los niveles, horarios flexibles (8:30-22h). ¡Prueba tu nivel gratis!",
+        "fullDescription": "El francés es el idioma oficial y común de Quebec. CARI ofrece cursos de francés gratuitos financiados por el gobierno, a tiempo completo y parcial, desde nivel principiante hasta avanzado.",
         "benefits": [
           "Cursos a tiempo completo y parcial",
           "Horarios flexibles de 8:30 a 22:00",
@@ -89,12 +158,65 @@
           "Métodos adaptados para inmigrantes",
           "Prueba de nivel gratuita de 10 minutos"
         ],
-        "details": "Cursos gratuitos financiados por MIFI. Posibilidad de subsidio de participación. Inscripción continua."
+        "details": "Cursos gratuitos financiados por MIFI. Posibilidad de subsidio de participación. Inscripción continua.",
+        "sections": [
+          {
+            "title": "Cursos a tiempo completo",
+            "description": "Programa intensivo de 25 horas semanales para personas con escolaridad limitada. 20 horas en clase con un profesor y 5 horas con un facilitador. Sesiones de 11 semanas, 4 sesiones por año.",
+            "items": []
+          },
+          {
+            "title": "Cursos a tiempo parcial",
+            "description": "Programa para inmigrantes alfabetizados (mínimo 9 años de escolaridad). Ofrecido a través del Programme d'intégration linguistique des immigrants (PILI).",
+            "items": [
+              {
+                "name": "Niveles 1 a 8 disponibles",
+                "description": ""
+              },
+              {
+                "name": "Mañana: 9:00-12:00",
+                "description": "9 a 12 horas por semana"
+              },
+              {
+                "name": "Tarde: 12:30-15:30",
+                "description": "9 a 12 horas por semana"
+              },
+              {
+                "name": "Noche: 18:30-21:30",
+                "description": "6 a 9 horas por semana"
+              }
+            ],
+            "metadata": "2025-2026 sessions: July 7 to September 21, 2025 · October 6 to December 21, 2025 · January 12 to March 29, 2026"
+          },
+          {
+            "title": "Actividades grupales",
+            "items": [
+              {
+                "name": "Salidas por el barrio",
+                "description": "Visitas a bibliotecas, museos, centros recreativos, tiendas de comestibles y tiendas de segunda mano."
+              },
+              {
+                "name": "Rallyes y recorridos",
+                "description": "Descubrimiento del Viejo Puerto y exploración del barrio."
+              }
+            ]
+          },
+          {
+            "title": "Servicio de guardería",
+            "description": "Servicio de guardería disponible para niños de 0 a 5 años, totalmente reembolsado por el MIFI.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Inscripción: quebec.ca/education/apprendre-le-francais"
+        }
       },
       "employment": {
         "title": "Ayuda al Empleo",
         "description": "Talleres de CV, simulaciones de entrevistas, coaching profesional y encuentros con empleadores.",
-        "fullDescription": "Enfoques dinámicos de búsqueda de empleo, actividades de networking y conexión con empleadores. Acompañamiento personalizado para facilitar su integración al mercado laboral quebequense.",
+        "fullDescription": "¡Encontrar un empleo es esencial para una integración exitosa! Nuestro departamento apoya la integración de los inmigrantes al mercado laboral a través de orientación personalizada y actividades grupales.",
         "benefits": [
           "Talleres de redacción de CV y cartas de presentación",
           "Simulaciones de entrevistas personalizadas",
@@ -103,12 +225,90 @@
           "Apoyo en la búsqueda activa de empleo",
           "85% encuentran empleo en 6 meses"
         ],
-        "details": "Servicio gratuito con seguimiento personalizado. Citas individuales y talleres grupales regulares."
+        "details": "Servicio gratuito con seguimiento personalizado. Citas individuales y talleres grupales regulares.",
+        "sections": [
+          {
+            "title": "Para candidatos",
+            "items": [
+              {
+                "name": "Colocación laboral",
+                "description": "Alianzas con empresas quebequenses para colocaciones laborales y pasantías."
+              },
+              {
+                "name": "Red de contactos",
+                "description": "Networking profesional y encuentros con empleadores."
+              },
+              {
+                "name": "Redacción de CV",
+                "description": "Ayuda para redactar un CV adaptado al mercado laboral quebequense."
+              },
+              {
+                "name": "Talleres de búsqueda de empleo",
+                "description": "8 talleres por año, sesiones de 5 semanas (9:00-16:00), aproximadamente 15 participantes. Métodos y herramientas de búsqueda de empleo."
+              },
+              {
+                "name": "Competencias del extranjero",
+                "description": "Evaluación de competencias, estrategias de búsqueda, comunicación, networking, experiencia en un entorno laboral quebequense."
+              },
+              {
+                "name": "Acompañamiento personalizado",
+                "description": "Orientación individual: CV, cartas de presentación, preparación para entrevistas, orientación del mercado laboral, referencias a empleadores."
+              },
+              {
+                "name": "Preparación para entrevistas",
+                "description": "Simulaciones de entrevistas y coaching personalizado."
+              }
+            ]
+          },
+          {
+            "title": "Para empleadores",
+            "items": [
+              {
+                "name": "Ofertas de empleo",
+                "description": "Acceso a un grupo diverso de candidatos inmigrantes calificados."
+              },
+              {
+                "name": "Preselección de candidatos",
+                "description": "Selección de nuestro banco de talentos en múltiples sectores."
+              },
+              {
+                "name": "Perfiles disponibles",
+                "description": "Administración, contabilidad, informática, ingeniería, telecomunicaciones, servicio alimentario, legal, medio ambiente."
+              },
+              {
+                "name": "Seguimiento de retención laboral",
+                "description": "Apoyo a empleadores que integran la diversidad en el lugar de trabajo."
+              },
+              {
+                "name": "Asistencia financiera",
+                "description": "Orientación para acceder a programas gubernamentales de subvención salarial."
+              }
+            ]
+          },
+          {
+            "title": "Networking",
+            "items": [
+              {
+                "name": "Encuentros con empleadores",
+                "description": "Eventos mensuales de networking entre empleadores y buscadores de empleo."
+              },
+              {
+                "name": "Rendez-vous Empleo de las Laurentides",
+                "description": "Evento anual que conecta empleadores con más de 100 buscadores de empleo."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Vie 8:30-17:00"
+        }
       },
       "family": {
-        "title": "Servicios Familiares",
+        "title": "Padres y Juventud",
         "description": "Apoyo a familias, actividades para niños y adolescentes, ayuda con la escolarización.",
-        "fullDescription": "Apoyo a padres inmigrantes con servicios de guardería, orientación escolar y actividades que promueven el desarrollo integral de los niños y la integración parental.",
+        "fullDescription": "Nuestro departamento apoya a las familias inmigrantes en la comprensión del sistema escolar quebequense, ofrece apoyo psicológico, servicios de guardería y contribuye al desarrollo y éxito académico de los niños.",
         "benefits": [
           "Servicios de guardería para niños pequeños",
           "Ayuda con la orientación escolar",
@@ -117,12 +317,66 @@
           "Talleres para padres",
           "Salidas familiares organizadas"
         ],
-        "details": "Servicios gratuitos o de bajo costo. Plazas limitadas, inscripción requerida."
+        "details": "Servicios gratuitos o de bajo costo. Plazas limitadas, inscripción requerida.",
+        "sections": [
+          {
+            "title": "Apoyo individual",
+            "items": [
+              {
+                "name": "Orientación del sistema escolar",
+                "description": "Apoyo y orientación para familias inmigrantes que navegan el sistema escolar quebequense, facilitando la comunicación entre la escuela y la familia."
+              },
+              {
+                "name": "Clínica Infancia-Familia",
+                "description": "Servicio gratuito y confidencial donde las familias pueden hablar sobre desafíos relacionados con los niños con personal especializado, en un entorno seguro y profesional."
+              }
+            ]
+          },
+          {
+            "title": "Actividades grupales",
+            "items": [
+              {
+                "name": "Talleres Espacio Padres",
+                "description": "9 talleres que ayudan a los padres a comprender su papel en el éxito académico de sus hijos y a navegar el sistema escolar."
+              },
+              {
+                "name": "Grupos de apoyo para padres",
+                "description": "Fortalecimiento de las habilidades parentales con el programa 'Y'a personne de parfait': comportamiento, desarrollo, seguridad y rol parental."
+              },
+              {
+                "name": "Guardería Crecer en comunidad",
+                "description": "Programa educativo que ofrece actividades físicas, lúdicas y educativas para niños."
+              },
+              {
+                "name": "Campamentos de verano de bajo costo",
+                "description": "Campamentos de verano para niños de primaria de familias inmigrantes de bajos ingresos, con práctica del francés."
+              },
+              {
+                "name": "Campamento de la semana de descanso",
+                "description": "Programación de campamento durante la semana de descanso escolar de marzo."
+              },
+              {
+                "name": "Almuerzos saludables",
+                "description": "Programas mensuales de almuerzo los martes para aprender hábitos alimenticios saludables a través de la cocina colectiva, en colaboración con Mujeres del Mundo."
+              }
+            ]
+          },
+          {
+            "title": "Servicio de guardería",
+            "description": "Servicio de guardería disponible para padres que participan en actividades, incluyendo solicitantes de asilo. Llame para consultar disponibilidad.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 290",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Vie 8:30-17:00"
+        }
       },
       "women": {
         "title": "Mujeres del Mundo",
         "description": "Programas específicos para mujeres inmigrantes: autonomía, salud, empleo.",
-        "fullDescription": "Espacio dedicado a romper el aislamiento de las mujeres mediante conexiones interculturales, redes de apoyo mutuo y desarrollo de competencias profesionales para mujeres inmigrantes y residentes.",
+        "fullDescription": "A través de la conversación y actividades diversas, ofrecemos a las mujeres espacios para una mejor comprensión de la sociedad de acogida y de sí mismas. Desarrollo de competencias, networking, voluntariado y participación cívica.",
         "benefits": [
           "Talleres de autonomía y autoestima",
           "Formación profesional adaptada",
@@ -131,12 +385,81 @@
           "Información sobre salud femenina",
           "Acompañamiento hacia el empleo"
         ],
-        "details": "Gratuito y confidencial. Grupo acogedor y solidario. Servicio de guardería disponible bajo solicitud."
+        "details": "Gratuito y confidencial. Grupo acogedor y solidario. Servicio de guardería disponible bajo solicitud.",
+        "sections": [
+          {
+            "title": "Actividades grupales",
+            "items": [
+              {
+                "name": "Costura y manualidades",
+                "description": "Talleres creativos en un ambiente acogedor: costura a máquina, corte de telas, alteraciones y reparaciones de ropa."
+              },
+              {
+                "name": "Salud y cocina internacional",
+                "description": "Aprendizaje de hábitos alimenticios saludables con productos quebequenses y descubrimiento de platos tradicionales de diferentes países."
+              },
+              {
+                "name": "Práctica del francés",
+                "description": "Mejora de la comprensión oral y la comunicación mediante la aplicación práctica de los cursos de francés."
+              },
+              {
+                "name": "Oratoria y portafolio profesional",
+                "description": "Desarrollo de la autonomía profesional, toma de decisiones, establecimiento de metas y técnicas de autopromoción."
+              },
+              {
+                "name": "Participación cívica",
+                "description": "Talleres sobre la sociedad quebequense, condiciones de las mujeres, conciencia de derechos y compromiso social."
+              },
+              {
+                "name": "Cafés de discusión",
+                "description": "Encuentros informales para mujeres inmigrantes que comparten sus experiencias en la sociedad quebequense."
+              },
+              {
+                "name": "Yoga",
+                "description": "Sesiones de acondicionamiento físico y manejo del estrés."
+              },
+              {
+                "name": "Salidas familiares",
+                "description": "Excursiones organizadas en asociación con el servicio de acogida e integración."
+              },
+              {
+                "name": "Bibliotecas vivientes",
+                "description": "Testimonios personales sobre diversidad, racismo, derechos humanos e igualdad de género para combatir los estereotipos."
+              },
+              {
+                "name": "Club de lectura e historias de vida",
+                "description": "Discusiones de lectura combinadas con proyectos de escritura colaborativa que capturan narrativas personales."
+              },
+              {
+                "name": "Eco Costura",
+                "description": "Talleres educativos sobre los impactos de la industria textil y alternativas eco-creativas."
+              },
+              {
+                "name": "Lugar de Mujeres",
+                "description": "Talleres de concientización sobre los impactos socioecológicos de la industria textil y alternativas sostenibles."
+              }
+            ]
+          },
+          {
+            "title": "Servicios individuales",
+            "items": [
+              {
+                "name": "Apoyo psicosocial",
+                "description": "Orientación personalizada y confidencial para abordar las necesidades y desafíos específicos de las mujeres inmigrantes."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Vie 8:30-17:00 · Gratuito y confidencial"
+        }
       },
       "volunteering": {
-        "title": "Voluntariado y Emparejamiento",
+        "title": "Formación y Vida Comunitaria",
         "description": "Encuentros interculturales, actividades sociales y oportunidades de voluntariado.",
-        "fullDescription": "Programa de hermanamiento intercultural, desarrollo de competencias, cursos de idiomas e informática, trayecto de integración ciudadana y oportunidades de voluntariado para fomentar la pertenencia comunitaria.",
+        "fullDescription": "Ayudar a los recién llegados a desarrollar su compromiso cívico e involucrarse en la sociedad de acogida a través de formación y actividades grupales. Desarrollo de autonomía, competencias y networking.",
         "benefits": [
           "Hermanamiento con un quebequense",
           "Cursos de idiomas e informática",
@@ -145,7 +468,98 @@
           "Actividades sociales y culturales",
           "Desarrollo de su red de contactos"
         ],
-        "details": "Gratuito. Compromiso flexible según su disponibilidad. Certificados de voluntariado disponibles."
+        "details": "Gratuito. Compromiso flexible según su disponibilidad. Certificados de voluntariado disponibles.",
+        "sections": [
+          {
+            "title": "Formación",
+            "items": [
+              {
+                "name": "Cursos de inglés",
+                "description": "Niveles intermedio y avanzado para residentes permanentes y ciudadanos canadienses que hablan francés. Gramática, escritura, lectura, comprensión y conversación."
+              },
+              {
+                "name": "Cursos de informática",
+                "description": "Sesiones de 6 semanas: Word, Excel, PowerPoint en niveles principiante, intermedio y avanzado."
+              },
+              {
+                "name": "Conversación en inglés",
+                "description": "Talleres de comunicación y pronunciación para todos los niveles."
+              },
+              {
+                "name": "Comunicar y participar",
+                "description": "6 talleres sobre comunicación oral, oratoria y compromiso cívico para francófonos."
+              },
+              {
+                "name": "Preparación para el examen de ciudadanía",
+                "description": "Herramientas y recursos para prepararse para el examen de ciudadanía canadiense."
+              },
+              {
+                "name": "El ABC de mi integración",
+                "description": "4 talleres que cubren la integración cotidiana, activa, académica y social."
+              },
+              {
+                "name": "Jornadas Conectadas",
+                "description": "Talleres sobre herramientas tecnológicas y la web para la vida cotidiana."
+              },
+              {
+                "name": "Cibergobierno",
+                "description": "Introducción a los servicios gubernamentales en línea y beneficios disponibles."
+              },
+              {
+                "name": "Espacio Red",
+                "description": "Talleres de desarrollo de networking y habilidades en redes sociales (Facebook, LinkedIn, Instagram)."
+              }
+            ]
+          },
+          {
+            "title": "Actividades de vida comunitaria",
+            "items": [
+              {
+                "name": "Jueves EPVC",
+                "description": "Talleres quincenales con dos vertientes: Ecociudadano (medio ambiente, residuo cero, jardinería) y Conocer Quebec (historia, gastronomía, expresiones, folclore)."
+              },
+              {
+                "name": "Participación cívica",
+                "description": "Consultas públicas, espacios de compromiso cívico para jóvenes de 18 a 35 años, sesiones informativas sobre el voluntariado."
+              },
+              {
+                "name": "Actividades socioculturales",
+                "description": "Salidas a museos y teatro, discusiones cinematográficas, celebraciones interculturales, proyectos creativos incluyendo teatro comprometido y maratones de escritura."
+              },
+              {
+                "name": "Integración a través de actividades al aire libre",
+                "description": "Actividades al aire libre y deportes locales para promover la integración."
+              }
+            ]
+          },
+          {
+            "title": "Encuentros interculturales",
+            "items": [
+              {
+                "name": "Hermanamiento lingüístico",
+                "description": "Programa de intercambio lingüístico para practicar francés con voluntarios."
+              },
+              {
+                "name": "Hermanamiento intercultural",
+                "description": "Puente social y lingüístico entre recién llegados y quebequenses."
+              },
+              {
+                "name": "Hermanamiento artístico",
+                "description": "Colaboración artística entre artistas quebequenses e inmigrantes para exposiciones colectivas."
+              }
+            ]
+          },
+          {
+            "title": "Voluntariado",
+            "description": "¡Involúcrese! Oportunidades de voluntariado: trabajo administrativo, animación de eventos, cofacilitación de talleres, interpretación, apoyo en guardería y organización de sesiones.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Vie 8:30-17:00 · Servicio gratuito"
+        }
       }
     },
     "learnMore": "Más información",

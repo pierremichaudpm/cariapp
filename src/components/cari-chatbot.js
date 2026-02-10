@@ -33,13 +33,104 @@ IDENTITÉ DU CARI:
 - Halte-garderie disponible sur place | Accessible aux personnes à mobilité réduite
 - Partenaires: Gouvernement du Québec, Centraide, Ville de Montréal, Arr. Saint-Laurent, Emploi et Développement social Canada
 
-6 SERVICES:
-1. ACCUEIL ET INTÉGRATION: aide aux démarches (NAS, RAMQ, logement, école, formulaires), information et orientation, médiation interculturelle, assermentation, clinique d'impôts gratuite (mars-avril), soutien psychosocial, aide aux demandeurs d'asile
-2. FRANCISATION: cours de français gratuits (temps complet 25h/sem, temps partiel, jour et soir), niveaux débutant à avancé, ateliers de conversation. Inscription: quebec.ca/education/apprendre-le-francais ou appeler le CARI
-3. EMPLOI: ateliers recherche d'emploi, rédaction CV québécois, simulation entrevue, coaching professionnel, réseautage avec employeurs, accès au marché caché
-4. FORMATIONS ET VIE COMMUNAUTAIRE: jumelage interculturel, cours d'anglais, informatique, préparation citoyenneté, bénévolat
-5. FEMMES DU MONDE: ateliers couture/cuisine/français, soutien aux femmes immigrantes, intervention en cas de violence conjugale
-6. PARENTS-JEUNESSE: soutien parental, halte-garderie, camp d'été, clinique psychoéducation, ICSI dans les écoles
+6 SERVICES DÉTAILLÉS:
+
+1. ACCUEIL ET INTÉGRATION — Tél: (514) 748-2007 | info@cari.qc.ca
+Services individuels:
+- Aide à l'installation et à l'intégration: accompagnement carte RAMQ, NAS, inscription garderie, inscription scolaire, démarches d'installation
+- Aide aux formulaires administratifs: allocations familiales, demandes de parrainage, formulaires de citoyenneté, renouvellement de permis de travail
+- Recherche de logement: accompagnement dans la recherche et compréhension des droits locataires/propriétaires
+- Assermentation: déclarations solennelles, lettres d'invitation, autorisations de voyage, procurations, copies certifiées. 15 premières copies gratuites pour immigrants au Canada depuis moins de 5 ans
+- Clinique juridique: information juridique gratuite sur le logement, l'immigration, le droit familial via partenaires Pro Bono et Droit Légal
+- Déclarations de revenus: aide annuelle via clinique d'impôts (mars-avril)
+- Information et référence: évaluation professionnelle des besoins et orientation vers les ressources communautaires
+- Médiation interculturelle et interprétation: aide à la compréhension des communications gouvernementales et navigation dans les systèmes sociaux
+- Suivi personnalisé et soutien psychosocial: accompagnement confidentiel et soutien émotionnel
+Activités collectives:
+- Séances d'information: ateliers sur droits locataires, gestion budgétaire, système scolaire québécois, impôts, préparation à l'hiver
+- Comité Espace hommes: soutien psychosocial spécialisé pour hommes immigrants
+- Camp vacances familiales: séjours en chalets au bord d'un lac près de Montréal
+- Sorties familiales: Québec, chutes Montmorency, Zoo de Granby, Jardin botanique, Biodôme, cueillette de pommes, cabanes à sucre
+
+2. FRANCISATION — Tél: (514) 748-2007 poste 245 | francisation.cari@cari.qc.ca | Inscription: quebec.ca/education/apprendre-le-francais
+Cours à temps plein: programme intensif 25h/semaine pour personnes peu scolarisées. 20h en classe + 5h avec animateur. Sessions de 11 semaines, 4 sessions/année
+Cours à temps partiel (PILI): pour immigrants alphabétisés (min. 9 ans de scolarité). Niveaux 1 à 8
+- Matin: 9h-12h (9 à 12h/semaine)
+- Après-midi: 12h30-15h30 (9 à 12h/semaine)
+- Soir: 18h30-21h30 (6 à 9h/semaine)
+- Sessions 2025-2026: 7 juillet-21 septembre 2025, 6 octobre-21 décembre 2025, 12 janvier-29 mars 2026
+Activités collectives: sorties de quartier (bibliothèques, musées, centres de loisirs, épiceries, friperies), rallyes et visites (Vieux-Port, exploration du quartier)
+Halte-garderie: service de garde pour enfants 0-5 ans, entièrement remboursé par le MIFI
+
+3. AIDE À L'EMPLOI — Tél: (514) 748-2007 | info@cari.qc.ca
+Espace candidats:
+- Placement en emploi: partenariats avec entreprises québécoises pour emploi et stages
+- Réseau de contacts: réseautage professionnel et rencontres avec employeurs
+- Production de CV: aide à la rédaction adaptée au marché québécois
+- Ateliers de recherche d'emploi: 8 ateliers/année, sessions de 5 semaines (9h-16h), environ 15 participants
+- Compétences d'ailleurs: évaluation des compétences, stratégies de recherche, communication, réseautage, expérience en milieu de travail québécois
+- Soutien personnalisé: CV, lettres de motivation, préparation aux entrevues, orientation sur le marché, références employeurs
+- Préparation aux entrevues: simulations d'entrevues et coaching personnalisé
+Espace employeurs:
+- Affichage de postes et accès à un bassin diversifié de candidats qualifiés
+- Présélection de candidats dans plusieurs secteurs: administration, comptabilité, informatique, ingénierie, télécommunications, alimentation, juridique, environnement
+- Suivi de maintien en emploi et soutien pour l'intégration de la diversité
+- Aide financière: accompagnement pour subventions salariales gouvernementales
+Espace réseautage:
+- Rencontres employeurs mensuelles
+- Rendez-vous Laurentien de l'Emploi: événement annuel connectant employeurs et 100+ chercheurs d'emploi
+
+4. FORMATION ET VIE COMMUNAUTAIRE — Tél: (514) 748-2007 | info@cari.qc.ca
+Formations:
+- Cours d'anglais: niveaux intermédiaire et avancé pour résidents permanents et citoyens parlant français
+- Cours d'informatique: sessions de 6 semaines (Word, Excel, PowerPoint), niveaux débutant à avancé
+- Conversation anglaise: ateliers de communication et prononciation
+- Communiquer et participer: 6 ateliers de communication orale et prise de parole en public
+- Préparation à l'examen de citoyenneté canadienne
+- L'ABC de mon intégration: 4 ateliers (intégration quotidienne, active, académique et sociale)
+- Les Journées branchées: ateliers sur les outils technologiques et web
+- Cybergouvernement: services gouvernementaux en ligne et prestations disponibles
+- Espace Réseau: développement de réseaux et compétences médias sociaux (Facebook, LinkedIn, Instagram)
+Activités vie communautaire:
+- Les Jeudis de l'EPVC: ateliers bimensuels — parcours Éco-citoyen (environnement, zéro déchet, jardinage) et Québec je connais (histoire, cuisine, expressions, folklore)
+- Participation citoyenne: consultations publiques, espaces d'implication civique 18-35 ans
+- Activités socio-culturelles: sorties musées et théâtres, discussions de films, célébrations interculturelles, théâtre engagé, marathon d'écriture
+- Intégration par le plein air: activités extérieures et sports locaux
+Rencontres interculturelles:
+- Jumelage linguistique: échange linguistique pour pratiquer le français avec des bénévoles
+- Jumelage interculturel: pont social et linguistique entre nouveaux arrivants et Québécois
+- Jumelage artistique: collaboration entre artistes québécois et immigrants pour expositions collectives
+Bénévolat: travail administratif, accueil d'événements, co-animation d'ateliers, interprétation, soutien à la garderie
+
+5. FEMMES DU MONDE — Tél: (514) 748-2007 | info@cari.qc.ca | Gratuit et confidentiel
+Activités collectives:
+- Couture et artisanat: couture machine, coupe de tissu, retouches et réparations de vêtements
+- Santé et cuisine internationale: saines habitudes alimentaires avec produits québécois et plats traditionnels de différents pays
+- Pratique du français: amélioration de la compréhension orale et communication
+- Prise de parole et portfolio professionnel: autonomie professionnelle, prise de décision, objectifs, autopromotion
+- Participation citoyenne: ateliers sur la société québécoise, droits des femmes, engagement social
+- Cafés-discussions: rencontres informelles pour partager expériences
+- Yoga: mise en forme et gestion du stress
+- Sorties familiales: excursions organisées
+- Bibliothèques vivantes: témoignages sur diversité, racisme, droits humains, égalité des genres
+- Club de lecture et récits de vie: discussions de lecture et projets d'écriture collaborative
+- Elle coud Écolo: impacts de l'industrie textile et alternatives éco-créatives
+- Place aux femmes: sensibilisation aux impacts socio-écologiques de l'industrie textile
+Services individuels:
+- Soutien psychosocial: accompagnement personnalisé et confidentiel pour femmes immigrantes
+
+6. PARENTS-JEUNESSE — Tél: (514) 748-2007 poste 290 | info@cari.qc.ca
+Interventions individuelles:
+- Accompagnement système scolaire: soutien et orientation pour familles immigrantes, facilitation communication école-famille
+- Clinique Enfance-famille: service gratuit et confidentiel avec personnel spécialisé pour défis liés aux enfants
+Activités collectives:
+- Ateliers Espace parents: 9 ateliers sur le rôle des parents dans la réussite scolaire
+- Groupes d'entraide pour parents: programme « Y'a personne de parfait » — comportement, développement, sécurité, rôle parental
+- Je grandis en halte-garderie communautaire: activités physiques, ludiques et éducatives pour enfants
+- Camps d'été à faible coût: pour enfants du primaire de familles immigrantes à revenus modestes, avec pratique du français
+- Camp de la relâche: programmation pendant la semaine de relâche scolaire
+- Dîners santé: programmes mensuels les mardis pour apprendre de saines habitudes alimentaires par la cuisine collective
+Halte-garderie: service de garde pour parents participant aux activités, incluant demandeurs d'asile
 
 GUIDES PRATIQUES — résumés pour référence rapide:
 

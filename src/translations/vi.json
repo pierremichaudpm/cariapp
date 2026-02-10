@@ -193,7 +193,7 @@
       "welcome": {
         "title": "Tiếp đón & Hội nhập",
         "description": "Thông tin, hướng dẫn và hỗ trợ cá nhân hóa để thuận lợi cho việc định cư.",
-        "fullDescription": "Hỗ trợ cá nhân và hoạt động nhóm để thúc đẩy việc định cư và hội nhập vào môi trường sống mới. Chúng tôi giúp bạn tự lập và phát triển tại Quebec.",
+        "fullDescription": "Dịch vụ tiếp đón và hội nhập của chúng tôi hỗ trợ người nhập cư thông qua các tư vấn viên chuyên nghiệp cung cấp hỗ trợ toàn diện cho việc hội nhập cá nhân và nghề nghiệp.",
         "benefits": [
           "Buổi tư vấn thông tin và hướng dẫn cá nhân",
           "Hỗ trợ thủ tục hành chính",
@@ -201,12 +201,81 @@
           "Giới thiệu tài nguyên cộng đồng",
           "Hỗ trợ tự chủ và độc lập"
         ],
-        "details": "Dịch vụ miễn phí bằng tiếng Pháp, Anh, Tây Ban Nha, Ả Rập và các ngôn ngữ khác. Hẹn gặp trực tiếp hoặc qua điện thoại."
+        "details": "Dịch vụ miễn phí bằng tiếng Pháp, Anh, Tây Ban Nha, Ả Rập và các ngôn ngữ khác. Hẹn gặp trực tiếp hoặc qua điện thoại.",
+        "sections": [
+          {
+            "title": "Dịch vụ cá nhân",
+            "items": [
+              {
+                "name": "Hỗ trợ định cư và hội nhập",
+                "description": "Hỗ trợ thẻ RAMQ, NAS, đăng ký nhà trẻ, ghi danh trường học và các thủ tục định cư."
+              },
+              {
+                "name": "Hỗ trợ biểu mẫu hành chính",
+                "description": "Trợ cấp gia đình, đơn bảo lãnh, mẫu đơn quốc tịch, gia hạn giấy phép lao động."
+              },
+              {
+                "name": "Tìm kiếm nhà ở",
+                "description": "Hỗ trợ tìm nhà ở và hiểu quyền lợi của người thuê/chủ nhà."
+              },
+              {
+                "name": "Tuyên thệ tuyên bố",
+                "description": "Tuyên bố trang trọng, thư mời, giấy phép đi lại, giấy ủy quyền và bản sao có chứng thực. 15 bản sao đầu tiên miễn phí cho người nhập cư ở Canada dưới 5 năm."
+              },
+              {
+                "name": "Phòng tư vấn pháp lý",
+                "description": "Thông tin pháp lý miễn phí về nhà ở, nhập cư, luật gia đình qua đối tác Pro Bono và Droit Légal."
+              },
+              {
+                "name": "Khai thuế",
+                "description": "Hỗ trợ khai thuế hàng năm qua phòng thuế của chúng tôi."
+              },
+              {
+                "name": "Thông tin và giới thiệu",
+                "description": "Đánh giá nhu cầu chuyên nghiệp và giới thiệu đến các tài nguyên cộng đồng phù hợp."
+              },
+              {
+                "name": "Hòa giải và phiên dịch đa văn hóa",
+                "description": "Hỗ trợ hiểu các thông báo chính phủ và điều hướng các hệ thống xã hội."
+              },
+              {
+                "name": "Theo dõi cá nhân và hỗ trợ tâm lý xã hội",
+                "description": "Hỗ trợ bảo mật và hướng dẫn tinh thần trong suốt hành trình hội nhập."
+              }
+            ]
+          },
+          {
+            "title": "Hoạt động nhóm",
+            "items": [
+              {
+                "name": "Buổi thông tin",
+                "description": "Hội thảo về quyền người thuê nhà, quản lý ngân sách, hệ thống trường học Quebec, thuế và chuẩn bị cho mùa đông."
+              },
+              {
+                "name": "Ủy ban Không gian nam giới",
+                "description": "Hỗ trợ tâm lý xã hội chuyên biệt, hướng dẫn cá nhân hóa và giới thiệu tài nguyên cho nam giới nhập cư."
+              },
+              {
+                "name": "Trại hè gia đình",
+                "description": "Nghỉ tại nhà gỗ bên hồ gần Montreal cho các gia đình, trong môi trường đa văn hóa."
+              },
+              {
+                "name": "Chuyến đi gia đình",
+                "description": "Hoạt động văn hóa và khám phá: Thành phố Quebec, Thác Montmorency, Vườn thú Granby, Vườn Bách thảo, Biodome, hái táo, xưởng đường."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Thứ 2-Thứ 6 8:30-17:00 · Dịch vụ miễn phí"
+        }
       },
       "french": {
         "title": "Học tiếng Pháp",
         "description": "Khóa tiếng Pháp cho người nhập cư, mọi trình độ, lịch linh hoạt (8:30-22:00). Kiểm tra trình độ miễn phí!",
-        "fullDescription": "Đào tạo tiếng Pháp toàn thời gian và bán thời gian, phù hợp với trình độ học viên. Giáo viên giỏi sử dụng phương pháp giảng dạy hiện đại.",
+        "fullDescription": "Tiếng Pháp là ngôn ngữ chính thức và phổ biến của Quebec. CARI cung cấp các khóa tiếng Pháp miễn phí do chính phủ tài trợ, toàn thời gian và bán thời gian, từ trình độ sơ cấp đến nâng cao.",
         "benefits": [
           "Khóa toàn thời gian và bán thời gian",
           "Lịch linh hoạt từ 8:30 đến 22:00",
@@ -215,12 +284,65 @@
           "Phương pháp phù hợp cho người nhập cư",
           "Kiểm tra trình độ miễn phí trong 10 phút"
         ],
-        "details": "Khóa học miễn phí do MIFI tài trợ. Có thể nhận trợ cấp tham gia. Đăng ký liên tục."
+        "details": "Khóa học miễn phí do MIFI tài trợ. Có thể nhận trợ cấp tham gia. Đăng ký liên tục.",
+        "sections": [
+          {
+            "title": "Khóa toàn thời gian",
+            "description": "Chương trình chuyên sâu 25 giờ/tuần dành cho người có trình độ học vấn hạn chế. 20 giờ trên lớp với giáo viên và 5 giờ với hướng dẫn viên. Phiên học 11 tuần, 4 phiên/năm.",
+            "items": []
+          },
+          {
+            "title": "Khóa bán thời gian",
+            "description": "Chương trình dành cho người nhập cư biết chữ (tối thiểu 9 năm học). Được cung cấp qua Chương trình hội nhập ngôn ngữ cho người nhập cư (PILI).",
+            "items": [
+              {
+                "name": "Trình độ 1 đến 8 có sẵn",
+                "description": ""
+              },
+              {
+                "name": "Buổi sáng: 9:00-12:00",
+                "description": "9 đến 12 giờ mỗi tuần"
+              },
+              {
+                "name": "Buổi chiều: 12:30-15:30",
+                "description": "9 đến 12 giờ mỗi tuần"
+              },
+              {
+                "name": "Buổi tối: 18:30-21:30",
+                "description": "6 đến 9 giờ mỗi tuần"
+              }
+            ],
+            "metadata": "Phiên học 2025-2026: 7 tháng 7 đến 21 tháng 9 năm 2025 · 6 tháng 10 đến 21 tháng 12 năm 2025 · 12 tháng 1 đến 29 tháng 3 năm 2026"
+          },
+          {
+            "title": "Hoạt động nhóm",
+            "items": [
+              {
+                "name": "Chuyến đi khu phố",
+                "description": "Tham quan thư viện, bảo tàng, trung tâm giải trí, cửa hàng tạp hóa và cửa hàng đồ cũ."
+              },
+              {
+                "name": "Cuộc thi đua và tham quan",
+                "description": "Khám phá Cảng cũ và dạo quanh khu phố."
+              }
+            ]
+          },
+          {
+            "title": "Giữ trẻ",
+            "description": "Dịch vụ giữ trẻ cho trẻ từ 0 đến 5 tuổi, được MIFI hoàn trả toàn bộ.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Đăng ký: quebec.ca/education/apprendre-le-francais"
+        }
       },
       "employment": {
         "title": "Hỗ trợ việc làm",
         "description": "Hội thảo CV, mô phỏng phỏng vấn, huấn luyện nghề nghiệp và gặp gỡ nhà tuyển dụng.",
-        "fullDescription": "Phương pháp tìm việc năng động, hoạt động kết nối và liên hệ nhà tuyển dụng. Hỗ trợ cá nhân hóa để hội nhập thị trường lao động Quebec.",
+        "fullDescription": "Tìm việc là yếu tố thiết yếu để hội nhập thành công! Bộ phận của chúng tôi hỗ trợ người nhập cư hội nhập vào thị trường lao động thông qua hướng dẫn cá nhân và các hoạt động nhóm.",
         "benefits": [
           "Hội thảo viết CV và thư xin việc",
           "Mô phỏng phỏng vấn cá nhân",
@@ -229,12 +351,90 @@
           "Hỗ trợ tìm việc chủ động",
           "85% tìm được việc trong 6 tháng"
         ],
-        "details": "Dịch vụ miễn phí với theo dõi cá nhân. Lịch hẹn cá nhân và hội thảo nhóm thường xuyên."
+        "details": "Dịch vụ miễn phí với theo dõi cá nhân. Lịch hẹn cá nhân và hội thảo nhóm thường xuyên.",
+        "sections": [
+          {
+            "title": "Dành cho ứng viên",
+            "items": [
+              {
+                "name": "Giới thiệu việc làm",
+                "description": "Hợp tác với các doanh nghiệp Quebec để giới thiệu việc làm và thực tập."
+              },
+              {
+                "name": "Mạng lưới liên hệ",
+                "description": "Kết nối chuyên nghiệp và gặp gỡ nhà tuyển dụng."
+              },
+              {
+                "name": "Viết CV",
+                "description": "Hỗ trợ viết CV phù hợp với thị trường lao động Quebec."
+              },
+              {
+                "name": "Hội thảo tìm việc",
+                "description": "8 hội thảo mỗi năm, phiên 5 tuần (9:00-16:00), khoảng 15 người tham gia. Phương pháp và công cụ tìm việc."
+              },
+              {
+                "name": "Năng lực từ nước ngoài",
+                "description": "Đánh giá năng lực, chiến lược tìm kiếm, giao tiếp, kết nối, trải nghiệm tại nơi làm việc Quebec."
+              },
+              {
+                "name": "Hỗ trợ cá nhân hóa",
+                "description": "Hướng dẫn cá nhân: CV, thư xin việc, chuẩn bị phỏng vấn, định hướng thị trường lao động, giới thiệu nhà tuyển dụng."
+              },
+              {
+                "name": "Chuẩn bị phỏng vấn",
+                "description": "Mô phỏng phỏng vấn và huấn luyện cá nhân."
+              }
+            ]
+          },
+          {
+            "title": "Dành cho nhà tuyển dụng",
+            "items": [
+              {
+                "name": "Đăng tin tuyển dụng",
+                "description": "Tiếp cận nguồn ứng viên nhập cư đa dạng và có trình độ."
+              },
+              {
+                "name": "Sơ tuyển ứng viên",
+                "description": "Chọn lọc từ nguồn nhân tài của chúng tôi trong nhiều lĩnh vực."
+              },
+              {
+                "name": "Hồ sơ có sẵn",
+                "description": "Hành chính, kế toán, tin học, kỹ thuật, viễn thông, ẩm thực, pháp lý, môi trường."
+              },
+              {
+                "name": "Theo dõi duy trì việc làm",
+                "description": "Hỗ trợ nhà tuyển dụng trong việc tích hợp đa dạng tại nơi làm việc."
+              },
+              {
+                "name": "Hỗ trợ tài chính",
+                "description": "Hướng dẫn tiếp cận các chương trình trợ cấp lương của chính phủ."
+              }
+            ]
+          },
+          {
+            "title": "Kết nối",
+            "items": [
+              {
+                "name": "Gặp gỡ nhà tuyển dụng",
+                "description": "Sự kiện kết nối hàng tháng giữa nhà tuyển dụng và người tìm việc."
+              },
+              {
+                "name": "Hẹn gặp Việc làm Laurentien",
+                "description": "Sự kiện hàng năm kết nối nhà tuyển dụng với hơn 100 người tìm việc."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Thứ 2-Thứ 6 8:30-17:00"
+        }
       },
       "family": {
-        "title": "Dịch vụ gia đình",
+        "title": "Phụ huynh và Thanh thiếu niên",
         "description": "Hỗ trợ gia đình, hoạt động cho trẻ em và thanh thiếu niên, giúp đỡ về trường học.",
-        "fullDescription": "Hỗ trợ phụ huynh nhập cư với dịch vụ giữ trẻ, hướng dẫn trường học và hoạt động thúc đẩy sự phát triển toàn diện của trẻ.",
+        "fullDescription": "Bộ phận của chúng tôi hỗ trợ các gia đình nhập cư trong việc hiểu hệ thống trường học Quebec, cung cấp hỗ trợ tâm lý, dịch vụ giữ trẻ và đóng góp vào sự phát triển và thành công học tập của trẻ.",
         "benefits": [
           "Dịch vụ giữ trẻ nhỏ",
           "Hỗ trợ hướng dẫn trường học",
@@ -243,12 +443,66 @@
           "Hội thảo cho phụ huynh",
           "Các chuyến đi gia đình được tổ chức"
         ],
-        "details": "Dịch vụ miễn phí hoặc chi phí thấp. Chỗ hạn chế, cần đăng ký."
+        "details": "Dịch vụ miễn phí hoặc chi phí thấp. Chỗ hạn chế, cần đăng ký.",
+        "sections": [
+          {
+            "title": "Hỗ trợ cá nhân",
+            "items": [
+              {
+                "name": "Hướng dẫn hệ thống trường học",
+                "description": "Hỗ trợ và định hướng cho các gia đình nhập cư điều hướng hệ thống trường học Quebec, tạo điều kiện giao tiếp giữa nhà trường và gia đình."
+              },
+              {
+                "name": "Phòng khám Trẻ em-Gia đình",
+                "description": "Dịch vụ miễn phí và bảo mật nơi các gia đình có thể thảo luận về các thách thức liên quan đến trẻ em với nhân viên chuyên môn, trong môi trường an toàn và chuyên nghiệp."
+              }
+            ]
+          },
+          {
+            "title": "Hoạt động nhóm",
+            "items": [
+              {
+                "name": "Hội thảo Không gian Phụ huynh",
+                "description": "9 hội thảo giúp phụ huynh hiểu vai trò của mình trong thành công học tập của con và điều hướng hệ thống trường học."
+              },
+              {
+                "name": "Nhóm hỗ trợ phụ huynh",
+                "description": "Tăng cường kỹ năng nuôi dạy con với chương trình 'Không ai hoàn hảo': hành vi, phát triển, an toàn và vai trò phụ huynh."
+              },
+              {
+                "name": "Giữ trẻ Lớn lên trong cộng đồng",
+                "description": "Chương trình giáo dục cung cấp hoạt động thể chất, vui chơi và giáo dục cho trẻ em."
+              },
+              {
+                "name": "Trại hè chi phí thấp",
+                "description": "Trại hè cho trẻ tiểu học từ các gia đình nhập cư thu nhập thấp, với thực hành tiếng Pháp."
+              },
+              {
+                "name": "Trại nghỉ tháng Ba",
+                "description": "Chương trình trại trong kỳ nghỉ tháng Ba của trường học."
+              },
+              {
+                "name": "Bữa trưa lành mạnh",
+                "description": "Chương trình bữa trưa hàng tháng vào thứ Ba để học thói quen ăn uống lành mạnh qua nấu ăn tập thể, hợp tác với Phụ nữ thế giới."
+              }
+            ]
+          },
+          {
+            "title": "Giữ trẻ",
+            "description": "Dịch vụ giữ trẻ cho phụ huynh tham gia hoạt động, bao gồm cả người xin tị nạn. Gọi để biết tình trạng chỗ trống.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, ext. 290",
+          "email": "info@cari.qc.ca",
+          "note": "Thứ 2-Thứ 6 8:30-17:00"
+        }
       },
       "women": {
         "title": "Phụ nữ thế giới",
         "description": "Chương trình dành riêng cho phụ nữ nhập cư: tự chủ, sức khỏe, việc làm.",
-        "fullDescription": "Không gian dành riêng để phá vỡ sự cô lập thông qua kết nối đa văn hóa, mạng lưới hỗ trợ lẫn nhau và phát triển kỹ năng nghề nghiệp.",
+        "fullDescription": "Thông qua trò chuyện và các hoạt động đa dạng, chúng tôi cung cấp cho phụ nữ không gian để hiểu rõ hơn về xã hội tiếp nhận và bản thân. Phát triển kỹ năng, kết nối, tình nguyện và tham gia công dân.",
         "benefits": [
           "Hội thảo tự chủ và tự trọng",
           "Đào tạo nghề phù hợp",
@@ -257,12 +511,81 @@
           "Thông tin sức khỏe phụ nữ",
           "Hỗ trợ tìm việc"
         ],
-        "details": "Miễn phí và bảo mật. Nhóm thân thiện và hỗ trợ. Giữ trẻ theo yêu cầu."
+        "details": "Miễn phí và bảo mật. Nhóm thân thiện và hỗ trợ. Giữ trẻ theo yêu cầu.",
+        "sections": [
+          {
+            "title": "Hoạt động nhóm",
+            "items": [
+              {
+                "name": "May vá và thủ công",
+                "description": "Hội thảo sáng tạo trong môi trường thân thiện: may máy, cắt vải, sửa chữa và chỉnh sửa quần áo."
+              },
+              {
+                "name": "Sức khỏe và ẩm thực quốc tế",
+                "description": "Học thói quen ăn uống lành mạnh với sản phẩm Quebec và khám phá các món ăn truyền thống từ nhiều quốc gia."
+              },
+              {
+                "name": "Thực hành tiếng Pháp",
+                "description": "Cải thiện khả năng hiểu và giao tiếp bằng cách ứng dụng thực tế các khóa tiếng Pháp."
+              },
+              {
+                "name": "Kỹ năng thuyết trình và hồ sơ nghề nghiệp",
+                "description": "Phát triển sự tự chủ nghề nghiệp, ra quyết định, đặt mục tiêu và kỹ thuật tự giới thiệu."
+              },
+              {
+                "name": "Tham gia công dân",
+                "description": "Hội thảo về xã hội Quebec, điều kiện phụ nữ, nhận thức quyền lợi và tham gia xã hội."
+              },
+              {
+                "name": "Quán cà phê thảo luận",
+                "description": "Buổi gặp gỡ không chính thức cho phụ nữ nhập cư chia sẻ trải nghiệm trong xã hội Quebec."
+              },
+              {
+                "name": "Yoga",
+                "description": "Buổi tập thể dục và quản lý căng thẳng."
+              },
+              {
+                "name": "Chuyến đi gia đình",
+                "description": "Các chuyến tham quan được tổ chức phối hợp với dịch vụ tiếp đón và hội nhập."
+              },
+              {
+                "name": "Thư viện sống",
+                "description": "Lời chứng cá nhân về sự đa dạng, phân biệt chủng tộc, nhân quyền và bình đẳng giới để chống lại định kiến."
+              },
+              {
+                "name": "Câu lạc bộ sách và câu chuyện cuộc đời",
+                "description": "Thảo luận về đọc sách kết hợp với các dự án viết hợp tác ghi lại câu chuyện cá nhân."
+              },
+              {
+                "name": "May vá sinh thái",
+                "description": "Hội thảo giáo dục về tác động của ngành dệt may và các giải pháp sáng tạo sinh thái."
+              },
+              {
+                "name": "Không gian Phụ nữ",
+                "description": "Hội thảo nâng cao nhận thức về tác động kinh tế xã hội sinh thái của ngành dệt may và các giải pháp bền vững."
+              }
+            ]
+          },
+          {
+            "title": "Dịch vụ cá nhân",
+            "items": [
+              {
+                "name": "Hỗ trợ tâm lý xã hội",
+                "description": "Hướng dẫn cá nhân hóa và bảo mật để giải quyết các nhu cầu và thách thức cụ thể của phụ nữ nhập cư."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Thứ 2-Thứ 6 8:30-17:00 · Miễn phí và bảo mật"
+        }
       },
       "volunteering": {
-        "title": "Tình nguyện & Kết đôi",
+        "title": "Đào tạo và Đời sống Cộng đồng",
         "description": "Gặp gỡ đa văn hóa, hoạt động xã hội và cơ hội tình nguyện.",
-        "fullDescription": "Chương trình kết đôi đa văn hóa, phát triển kỹ năng, khóa ngôn ngữ và tin học, lộ trình hội nhập công dân và cơ hội tình nguyện.",
+        "fullDescription": "Giúp người mới đến phát triển sự tham gia công dân và tham gia vào xã hội tiếp nhận thông qua đào tạo và hoạt động nhóm. Xây dựng sự tự chủ, kỹ năng và mạng lưới.",
         "benefits": [
           "Kết đôi với người Quebec",
           "Khóa ngôn ngữ và tin học",
@@ -271,7 +594,98 @@
           "Hoạt động xã hội và văn hóa",
           "Phát triển mạng lưới của bạn"
         ],
-        "details": "Miễn phí. Cam kết linh hoạt theo thời gian của bạn. Chứng nhận tình nguyện có sẵn."
+        "details": "Miễn phí. Cam kết linh hoạt theo thời gian của bạn. Chứng nhận tình nguyện có sẵn.",
+        "sections": [
+          {
+            "title": "Đào tạo",
+            "items": [
+              {
+                "name": "Khóa tiếng Anh",
+                "description": "Trình độ trung cấp và nâng cao cho thường trú nhân và công dân Canada nói tiếng Pháp. Ngữ pháp, viết, đọc, hiểu và hội thoại."
+              },
+              {
+                "name": "Khóa tin học",
+                "description": "Phiên 6 tuần: Word, Excel, PowerPoint ở trình độ sơ cấp, trung cấp và nâng cao."
+              },
+              {
+                "name": "Hội thoại tiếng Anh",
+                "description": "Hội thảo giao tiếp và phát âm cho mọi trình độ."
+              },
+              {
+                "name": "Giao tiếp và tham gia",
+                "description": "6 hội thảo về giao tiếp miệng, thuyết trình và tham gia công dân cho người nói tiếng Pháp."
+              },
+              {
+                "name": "Chuẩn bị thi quốc tịch",
+                "description": "Công cụ và tài liệu để chuẩn bị cho kỳ thi quốc tịch Canada."
+              },
+              {
+                "name": "ABC của sự hội nhập",
+                "description": "4 hội thảo bao gồm hội nhập hàng ngày, chủ động, học thuật và xã hội."
+              },
+              {
+                "name": "Ngày kết nối",
+                "description": "Hội thảo về công cụ công nghệ và web cho cuộc sống hàng ngày."
+              },
+              {
+                "name": "Chính phủ điện tử",
+                "description": "Giới thiệu các dịch vụ chính phủ trực tuyến và các quyền lợi có sẵn."
+              },
+              {
+                "name": "Không gian Mạng lưới",
+                "description": "Hội thảo phát triển mạng lưới và kỹ năng mạng xã hội (Facebook, LinkedIn, Instagram)."
+              }
+            ]
+          },
+          {
+            "title": "Hoạt động Đời sống Cộng đồng",
+            "items": [
+              {
+                "name": "Thứ Năm EPVC",
+                "description": "Hội thảo hai tuần một lần với hai hướng: Công dân sinh thái (môi trường, không rác thải, làm vườn) và Khám phá Quebec (lịch sử, ẩm thực, thành ngữ, văn hóa dân gian)."
+              },
+              {
+                "name": "Tham gia công dân",
+                "description": "Tham vấn công cộng, không gian tham gia công dân cho người 18-35 tuổi, buổi thông tin về tình nguyện."
+              },
+              {
+                "name": "Hoạt động văn hóa xã hội",
+                "description": "Tham quan bảo tàng và nhà hát, thảo luận phim, lễ kỷ niệm đa văn hóa, dự án sáng tạo bao gồm sân khấu tham gia và marathon viết."
+              },
+              {
+                "name": "Hội nhập qua hoạt động ngoài trời",
+                "description": "Hoạt động ngoài trời và thể thao địa phương để thúc đẩy hội nhập."
+              }
+            ]
+          },
+          {
+            "title": "Gặp gỡ Đa văn hóa",
+            "items": [
+              {
+                "name": "Kết đôi ngôn ngữ",
+                "description": "Chương trình trao đổi ngôn ngữ để thực hành tiếng Pháp với tình nguyện viên."
+              },
+              {
+                "name": "Kết đôi đa văn hóa",
+                "description": "Cầu nối xã hội và ngôn ngữ giữa người mới đến và người Quebec."
+              },
+              {
+                "name": "Kết đôi nghệ thuật",
+                "description": "Hợp tác nghệ thuật giữa nghệ sĩ Quebec và nghệ sĩ nhập cư cho các triển lãm tập thể."
+              }
+            ]
+          },
+          {
+            "title": "Tình nguyện",
+            "description": "Hãy tham gia! Cơ hội tình nguyện: công việc hành chính, tổ chức sự kiện, đồng hướng dẫn hội thảo, phiên dịch, hỗ trợ giữ trẻ và tổ chức phiên học.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Thứ 2-Thứ 6 8:30-17:00 · Dịch vụ miễn phí"
+        }
       }
     }
   },
