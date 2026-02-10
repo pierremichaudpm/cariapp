@@ -58,7 +58,6 @@ Cours à temps partiel (PILI): pour immigrants alphabétisés (min. 9 ans de sco
 - Matin: 9h-12h (9 à 12h/semaine)
 - Après-midi: 12h30-15h30 (9 à 12h/semaine)
 - Soir: 18h30-21h30 (6 à 9h/semaine)
-- Sessions 2025-2026: 7 juillet-21 septembre 2025, 6 octobre-21 décembre 2025, 12 janvier-29 mars 2026
 Activités collectives: sorties de quartier (bibliothèques, musées, centres de loisirs, épiceries, friperies), rallyes et visites (Vieux-Port, exploration du quartier)
 Halte-garderie: service de garde pour enfants 0-5 ans, entièrement remboursé par le MIFI
 
