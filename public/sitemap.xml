@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- CARI St-Laurent React Application Sitemap -->
+  <!-- Generated for Netlify deployment -->
+
+  <!-- Homepage - Primary language (French) -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cari-st-laurent.netlify.app/" />
+  </url>
+
+  <!-- Needs Section -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/#besoins</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/#besoins" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/#besoins?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/#besoins?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/#besoins?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/#besoins?lang=ru" />
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/#services</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/#services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/#services?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/#services?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/#services?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/#services?lang=ru" />
+  </url>
+
+  <!-- Appointment Section -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/#rdv</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/#rdv" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/#rdv?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/#rdv?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/#rdv?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/#rdv?lang=ru" />
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/#contact</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/#contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/#contact?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/#contact?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/#contact?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/#contact?lang=ru" />
+  </url>
+
+  <!-- Individual Service Pages (for SEO) -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/service/accueil-integration</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/service/accueil-integration" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/service/welcome-integration?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/service/welcome-integration?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/service/welcome-integration?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/service/welcome-integration?lang=ru" />
+  </url>
+
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/service/francisation</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/service/francisation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/service/french-learning?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/service/french-learning?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/service/french-learning?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/service/french-learning?lang=ru" />
+  </url>
+
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/service/aide-emploi</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/service/aide-emploi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/service/employment-assistance?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/service/employment-assistance?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/service/employment-assistance?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/service/employment-assistance?lang=ru" />
+  </url>
+
+  <!-- About Page (if exists) -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/about</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/about?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/about?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/about?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/about?lang=ru" />
+  </url>
+
+  <!-- Privacy Policy (if exists) -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/privacy</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/privacy?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/privacy?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/privacy?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/privacy?lang=ru" />
+  </url>
+
+  <!-- Terms of Service (if exists) -->
+  <url>
+    <loc>https://cari-st-laurent.netlify.app/terms</loc>
+    <lastmod>2024-01-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cari-st-laurent.netlify.app/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cari-st-laurent.netlify.app/terms?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cari-st-laurent.netlify.app/terms?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://cari-st-laurent.netlify.app/terms?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cari-st-laurent.netlify.app/terms?lang=ru" />
+  </url>
+
+</urlset>

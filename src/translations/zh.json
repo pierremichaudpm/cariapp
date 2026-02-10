@@ -1,0 +1,424 @@
+{
+  "nav": {
+    "home": "主页",
+    "needs": "您的需求？",
+    "activities": "活动",
+    "news": "资源",
+    "talk": "预约咨询",
+    "talkToAdvisor": "与顾问交谈",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "在魁北克<span class='highlight'>找到归属</span>",
+    "subtitle": "就业、法语、住房、手续办理：从头到尾的免费陪伴服务",
+    "discoverServices": "了解我们的服务",
+    "letsTalk": "与顾问交谈",
+    "stats": {
+      "peopleHelped": "每年帮助人数",
+      "satisfaction": "满意度",
+      "findEmployment": "成功就业"
+    },
+    "testFrench": "测试我的法语",
+    "slides": {
+      "slide1": {
+        "quote": "「感谢CARI，我在6个月内找到了理想的工作！」",
+        "author": "Asma B.",
+        "role": "摩洛哥 • 2020年抵达"
+      },
+      "slide2": {
+        "quote": "「从难民到企业家，CARI一直陪伴着我」",
+        "author": "Jean-Pierre H.",
+        "role": "海地 • 2020年抵达"
+      },
+      "slide3": {
+        "quote": "「法语似乎不可能学会，现在我说得很流利！」",
+        "author": "Jasmine M.",
+        "role": "海地 • 2021年抵达"
+      },
+      "slide4": {
+        "quote": "「我的孩子们很快乐，我们在这里找到了自己的位置」",
+        "author": "Karla A.",
+        "role": "刚果民主共和国 • 2019年抵达"
+      },
+      "slide5": {
+        "quote": "「帮助理解魁北克体系改变了一切」",
+        "author": "Wei L.",
+        "role": "中国 • 2022年抵达"
+      }
+    }
+  },
+  "needs": {
+    "title": "您有什么需求？",
+    "subtitle": "我们陪伴您融入魁北克的每一步",
+    "cards": {
+      "welcome": "我刚到这里",
+      "french": "我在学法语",
+      "employment": "我在找工作",
+      "family": "我有家庭",
+      "women": "我是女性",
+      "volunteering": "我想做志愿者"
+    },
+    "instruction": "选择服务了解更多"
+  },
+  "services": {
+    "title": "我们的服务",
+    "subtitle": "适合您情况的解决方案",
+    "learnMore": "了解更多",
+    "modal": {
+      "benefits": "您将获得",
+      "details": "服务详情",
+      "close": "关闭"
+    },
+    "cards": {
+      "welcome": {
+        "title": "接待与融入",
+        "description": "信息咨询、指导和个性化陪伴，帮助您顺利安顿。",
+        "fullDescription": "个性化陪伴和小组活动，促进您的安置并帮助您融入新的生活环境。我们帮助您在魁北克实现自主和发展。",
+        "benefits": [
+          "个人信息和指导咨询",
+          "行政手续陪伴",
+          "建立联系的小组活动",
+          "社区资源推荐",
+          "自主独立支持"
+        ],
+        "details": "免费服务，提供法语、英语、西班牙语、阿拉伯语和其他语言。现场或电话预约。"
+      },
+      "french": {
+        "title": "法语培训",
+        "description": "适合移民的法语课程，所有水平，时间灵活（8:30-22:00）。免费测试您的水平！",
+        "fullDescription": "提供全日制和非全日制法语培训，根据学员的法语水平进行调整。我们的合格和细心的教师使用现代教学方法。",
+        "benefits": [
+          "全日制和非全日制课程",
+          "8:30至22:00灵活时间",
+          "接受所有水平",
+          "合格有经验的教师",
+          "适合移民的方法",
+          "10分钟免费水平测试"
+        ],
+        "details": "由MIFI资助的免费课程。可能提供参与津贴。滚动招生。"
+      },
+      "employment": {
+        "title": "就业帮助",
+        "description": "简历工作坊、面试模拟、职业辅导和雇主见面会。",
+        "fullDescription": "动态求职方法、社交活动和雇主联系。个性化陪伴，帮助您融入魁北克劳动力市场。",
+        "benefits": [
+          "简历和求职信撰写工作坊",
+          "个性化面试模拟",
+          "一对一职业辅导",
+          "与雇主直接见面",
+          "主动求职陪伴",
+          "85%的人在6个月内找到工作"
+        ],
+        "details": "免费服务，提供个性化跟进。定期举办个人预约和小组工作坊。"
+      },
+      "family": {
+        "title": "家庭服务",
+        "description": "家庭支持、儿童和青少年活动、入学帮助。",
+        "fullDescription": "为移民家长提供陪伴，包括托儿服务、学校指导和促进儿童全面发展及家长融入的活动。",
+        "benefits": [
+          "幼儿托儿服务",
+          "学校指导帮助",
+          "教育和娱乐活动",
+          "作业和课程支持",
+          "家长工作坊",
+          "组织家庭出游"
+        ],
+        "details": "免费或低成本服务。名额有限，需要注册。"
+      },
+      "women": {
+        "title": "世界女性",
+        "description": "专为移民女性设计的项目：自主、健康、就业。",
+        "fullDescription": "专属空间，通过建立跨文化联系、互助网络和为移民女性及居民发展职业技能，打破女性的孤立。",
+        "benefits": [
+          "自主和自尊工作坊",
+          "适应性职业培训",
+          "女性互助网络",
+          "跨文化活动",
+          "女性健康信息",
+          "就业陪伴"
+        ],
+        "details": "免费且保密。热情友好的小组。可按需提供儿童照顾。"
+      },
+      "volunteering": {
+        "title": "志愿服务与配对",
+        "description": "跨文化交流、社交活动和志愿服务机会。",
+        "fullDescription": "跨文化配对项目、技能发展、语言和计算机课程、公民融入路径和志愿服务机会，促进社区归属感。",
+        "benefits": [
+          "与魁北克人配对",
+          "语言和计算机课程",
+          "加拿大公民工作坊",
+          "志愿服务机会",
+          "社交和文化活动",
+          "扩展您的人际网络"
+        ],
+        "details": "免费。根据您的时间灵活参与。提供志愿服务证书。"
+      }
+    }
+  },
+  "appointment": {
+    "title": "预约咨询",
+    "subtitle": "选择您感兴趣的服务",
+    "consultationTypes": {
+      "welcome": "接待与融入咨询",
+      "french": "法语培训咨询",
+      "employment": "就业咨询",
+      "family": "家庭服务咨询",
+      "women": "世界女性咨询",
+      "volunteering": "志愿服务咨询"
+    },
+    "form": {
+      "name": "全名",
+      "phone": "电话",
+      "email": "电子邮箱",
+      "service": "所需服务",
+      "date": "首选日期",
+      "time": "首选时间",
+      "message": "留言（可选）",
+      "submit": "确认预约",
+      "namePlaceholder": "名和姓",
+      "phonePlaceholder": "(514) 123-4567",
+      "emailPlaceholder": "您的@邮箱.com",
+      "messagePlaceholder": "简要描述您的情况...",
+      "selectTime": "选择时间",
+      "confirmationNote": "您将在24小时内收到电子邮件确认"
+    },
+    "steps": {
+      "yourNeed": "您的需求",
+      "yourInfo": "您的信息",
+      "confirmation": "确认"
+    },
+    "contact": {
+      "hoursLabel": "时间",
+      "schedule": "周一至周五：9:00 - 17:00"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们在这里帮助您",
+    "form": {
+      "name": "全名",
+      "email": "电子邮箱",
+      "subject": "主题",
+      "message": "您的留言",
+      "submit": "发送留言"
+    },
+    "info": {
+      "address": "774 boulevard Décarie, Bureau 300, Saint-Laurent H4L 3L5",
+      "phone": "(514) 748-2007",
+      "email": "carist@cari.qc.ca",
+      "hours": "周一至周五 9:00-12:00, 12:30-16:30",
+      "frenchHours": "法语培训：8:30-22:00",
+      "addressLabel": "地址",
+      "phoneLabel": "电话",
+      "emailLabel": "电子邮件",
+      "hoursLabel": "营业时间",
+      "accessLabel": "交通",
+      "metro": "地铁：Du Collège站（橙线）",
+      "bus": "公交：17、64、121、368路",
+      "parking": "现场免费停车"
+    },
+    "mapText": "网站上提供交互式地图",
+    "viewGoogleMaps": "在谷歌地图上查看",
+    "subjects": {
+      "general": "一般咨询",
+      "info": "信息请求",
+      "appointment": "预约",
+      "french": "法语课程",
+      "employment": "就业帮助",
+      "family": "家庭服务"
+    }
+  },
+  "chatbot": {
+    "title": "CARI 助手",
+    "placeholder": "请提出您的问题...",
+    "typing": "CARI 助手正在输入...",
+    "responses": {
+      "greeting": "您好！我很高兴为您提供帮助。CARI 提供6项主要服务，帮助您融入魁北克。您对哪项服务最感兴趣？",
+      "services": "我们的6项服务：\n• 接待与融入\n• 法语培训（8:30-22:00）\n• 就业帮助（85%成功率！）\n• 家庭服务\n• 世界女性\n• 志愿服务与配对\n\n您想了解哪一项的更多信息？",
+      "appointment": "预约方式：\n• 致电 (514) 748-2007\n• 填写本页表格\n• 周一至周五 9:00-16:30\n\n您需要哪种咨询？（接待/法语/就业）",
+      "contact": "(514) 748-2007\ncarist@cari.qc.ca\n774 boul. Décarie #300, Saint-Laurent\n周一至周五：9:00-12:00, 12:30-16:30\n\n我还能为您提供什么帮助？",
+      "french": "我们的法语课程：\n• 8:30-22:00（非常灵活！）\n• 接受所有水平\n• 适合移民的方法\n• 免费水平测试\n\n您想安排评估吗？",
+      "employment": "我们的就业帮助：\n• 简历/求职信工作坊\n• 面试模拟\n• 职业辅导\n• 雇主见面会\n• 85%的人在6个月内找到工作！\n\n您对就业咨询感兴趣吗？",
+      "default": "我可以帮助您：\n• 了解我们的服务信息\n• 预约咨询\n• 联系方式\n• 个性化建议\n\n您想了解什么？"
+    },
+    "status": "在线",
+    "error": "抱歉，发生了错误。请重试。",
+    "suggestions": {
+      "services": "服务",
+      "appointment": "预约",
+      "appointmentInput": "预约咨询",
+      "french": "法语",
+      "frenchInput": "法语课程"
+    }
+  },
+  "success": {
+    "contact": "谢谢！您的请求已发送。我们将很快与您联系。",
+    "appointment": "✅ 预约已确认！您将在几分钟内收到电子邮件和短信确认。"
+  },
+  "newsSection": {
+    "title": "资源",
+    "subtitle": "实用指南、见证和新闻，助您融入新生活"
+  },
+  "activitiesSection": {
+    "title": "我们即将举办的活动",
+    "subtitle": "加入我们的社区，参加我们的研讨会、课程和活动",
+    "allEvents": "我们所有的活动"
+  },
+  "testimonialsSection": {
+    "title": "他们在CARI取得了成功",
+    "subtitle": "了解那些在魁北克找到自己位置的人的励志故事"
+  },
+  "news": {
+    "moreContentButton": "所有资源",
+    "moreNewsTitle": "所有资源",
+    "filters": {
+      "all": "查看全部",
+      "guide": "实用指南",
+      "histoire": "在地故事",
+      "actualite": "最新消息"
+    },
+    "contentTypes": {
+      "guide": "指南",
+      "histoire": "故事",
+      "actualite": "新闻"
+    }
+  },
+  "newsModal": {
+    "share": "分享",
+    "shareOn": {
+      "facebook": "分享到Facebook",
+      "twitter": "分享到Twitter",
+      "linkedin": "分享到LinkedIn",
+      "whatsapp": "分享到WhatsApp"
+    }
+  },
+  "activities": {
+    "registerButton": "注册",
+    "moreEventsButton": "更多活动",
+    "filters": {
+      "all": "查看全部",
+      "welcome": "欢迎",
+      "french": "法语",
+      "employment": "就业",
+      "family": "家庭",
+      "women": "妇女"
+    }
+  },
+  "parallax": {
+    "statsTitle": "携手共进，我们创造不同",
+    "statsSubtitle": "自1989年以来，CARI一直帮助新移民走向成功",
+    "stats": {
+      "peopleHelped": "帮助人数/年",
+      "languagesSpoken": "使用的语言",
+      "countries": "代表的国家",
+      "yearsOfService": "服务年限"
+    },
+    "ctaTitle": "准备开始您在魁北克的新生活了吗？",
+    "ctaSubtitle": "我们的多语言团队将在您融入的每一步为您提供支持。"
+  },
+  "footer": {
+    "copyright": "© 2026 版权所有。",
+    "tagline": "帮助移民的非营利组织"
+  },
+  "aria": {
+    "close": "关闭",
+    "carousel": "页眉轮播",
+    "carouselNav": "轮播导航",
+    "previousSlide": "上一张幻灯片",
+    "nextSlide": "下一张幻灯片",
+    "goToSlide": "转到幻灯片",
+    "carouselSlider": "轮播滑块",
+    "closeModal": "关闭窗口",
+    "previousTestimonial": "上一个见证",
+    "nextTestimonial": "下一个见证",
+    "goToTestimonial": "转到见证",
+    "learnMoreAbout": "了解更多关于"
+  },
+  "loading": "加载中...",
+  "newsCategories": {
+    "francisation": "法语学习",
+    "emploi": "就业",
+    "femmes": "世界女性",
+    "integration": "融入",
+    "parents": "家长与青少年"
+  },
+  "media": {
+    "videoNotSupported": "您的浏览器不支持视频播放。",
+    "audioNotSupported": "您的浏览器不支持音频播放。"
+  },
+  "testimonials": {
+    "arrived": "抵达",
+    "items": [
+      {
+        "name": "Asma B.",
+        "country": "摩洛哥",
+        "year": "2020",
+        "text": "感谢CARI，我在6个月内找到了理想的工作！个性化支持和研讨会给了我在面试中成功所需的信心。",
+        "service": "就业援助"
+      },
+      {
+        "name": "Jean-Pierre H.",
+        "country": "海地",
+        "year": "2020",
+        "text": "从难民到企业家，CARI在每一步都陪伴着我。如今我拥有自己的公司，雇用了5名员工。",
+        "service": "全面支持"
+      },
+      {
+        "name": "Jasmine M.",
+        "country": "海地",
+        "year": "2021",
+        "text": "法语曾经看起来不可能，现在我能流利地说了！课程非常棒，老师们非常有耐心。",
+        "service": "法语学习"
+      },
+      {
+        "name": "Karla A.",
+        "country": "刚果",
+        "year": "2019",
+        "text": "我的孩子们很快乐，我们在这里找到了自己的位置。CARI的家庭服务改变了一切。",
+        "service": "家庭服务"
+      },
+      {
+        "name": "Wei L.",
+        "country": "中国",
+        "year": "2022",
+        "text": "帮助理解魁北克体系改变了一切。我现在在蒙特利尔感觉像在家一样。",
+        "service": "接待与融入"
+      }
+    ],
+    "parallaxItems": [
+      {
+        "quote": "感谢CARI，我在6个月内找到了理想的工作！团队在每一步都陪伴着我。",
+        "name": "Asma B.",
+        "origin": "摩洛哥 • 2020年抵达"
+      },
+      {
+        "quote": "法语课程让我能够迅速独立。我推荐给所有新移民！",
+        "name": "Ahmed K.",
+        "origin": "叙利亚 • 2021年抵达"
+      },
+      {
+        "quote": "世界女性项目给了我信心和一个很棒的朋友圈。",
+        "name": "Maria L.",
+        "origin": "哥伦比亚 • 2019年抵达"
+      }
+    ]
+  },
+  "mission": {
+    "tagline": "多样性让我们团结",
+    "title": "我们的使命",
+    "statement": "欢迎、帮助和陪伴移民融入个人、社会和职业生活。",
+    "visionLabel": "我们的愿景",
+    "vision": "通过创新的专业知识和实践服务和团结，共创美好生活。",
+    "valuesLabel": "我们的价值观",
+    "values": ["奉献", "信任", "宽容", "利他", "团结", "公平"],
+    "historyCTA": "我们的故事",
+    "historyTitle": "我们的故事",
+    "buildingAlt": "CARI St-Laurent大楼",
+    "founded": "成立",
+    "historyIntro": "圣洛朗移民社会和经济接待与转介中心（CARI St-Laurent）创建于1989年，是一个非营利、非宗教和无党派组织。",
+    "approachLabel": "我们的方法",
+    "approach": "基于尊重差异、对他人开放以及民族文化和宗教多样性的跨文化方法。",
+    "impactLabel": "我们的影响",
+    "impact": "每年为来自128个国家、说95种不同语言的7000多人提供支持。"
+  }
+}

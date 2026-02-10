@@ -1,0 +1,431 @@
+{
+  "nav": {
+    "home": "Tahanan",
+    "needs": "Mga Pangangailangan Mo",
+    "activities": "Mga Aktibidad",
+    "news": "Mga Mapagkukunan",
+    "talk": "Appointment",
+    "talkToAdvisor": "Makipag-usap sa tagapayo",
+    "contact": "Makipag-ugnayan"
+  },
+  "hero": {
+    "title": "Hanapin ang <span class='highlight'>iyong lugar</span> sa Quebec",
+    "subtitle": "Trabaho, Pranses, pabahay, proseso: libreng tulong mula A hanggang Z",
+    "discoverServices": "Tuklasin ang aming mga serbisyo",
+    "letsTalk": "Makipag-usap sa tagapayo",
+    "testFrench": "Subukan ang aking Pranses",
+    "stats": {
+      "peopleHelped": "Taong natulungan/taon",
+      "satisfaction": "Kasiyahan",
+      "findEmployment": "Nakahanap ng trabaho"
+    },
+    "slides": {
+      "slide1": {
+        "quote": "« Salamat sa CARI, nakita ko ang dream job ko sa loob ng 6 na buwan! »",
+        "author": "Asma B.",
+        "role": "Morocco • Dumating 2020"
+      },
+      "slide2": {
+        "quote": "« Mula refugee hanggang negosyante, sinamahan ako ng CARI »",
+        "author": "Jean-Pierre H.",
+        "role": "Haiti • Dumating 2020"
+      },
+      "slide3": {
+        "quote": "« Parang imposible ang Pranses, ngayon fluent na ako! »",
+        "author": "Jasmine M.",
+        "role": "Haiti • Dumating 2021"
+      },
+      "slide4": {
+        "quote": "« Masaya ang mga anak ko, nahanap namin ang lugar namin dito »",
+        "author": "Karla A.",
+        "role": "DRC • Dumating 2019"
+      },
+      "slide5": {
+        "quote": "« Ang tulong sa pag-unawa ng sistema ng Quebec ay nagbago ng lahat »",
+        "author": "Wei L.",
+        "role": "China • Dumating 2022"
+      }
+    }
+  },
+  "needs": {
+    "title": "Ano ang mga pangangailangan mo?",
+    "subtitle": "Kasama ka namin sa bawat hakbang ng iyong integrasyon sa Quebec",
+    "instruction": "Pumili ng serbisyo para matuto pa",
+    "cards": {
+      "welcome": "Bagong dating ako",
+      "french": "Nag-aaral ako ng Pranses",
+      "employment": "Naghahanap ako ng trabaho",
+      "family": "May pamilya ako",
+      "women": "Ako ay babae",
+      "volunteering": "Gusto kong makilahok"
+    }
+  },
+  "newsSection": {
+    "title": "Mga Mapagkukunan",
+    "subtitle": "Mga praktikal na gabay, testimonya at balita para sa matagumpay na integrasyon"
+  },
+  "news": {
+    "moreContentButton": "Lahat ng mapagkukunan",
+    "moreNewsTitle": "Lahat ng mapagkukunan",
+    "filters": {
+      "all": "Tingnan lahat",
+      "guide": "Mga praktikal na gabay",
+      "histoire": "Mga kwento mula dito",
+      "actualite": "Balita"
+    },
+    "contentTypes": {
+      "guide": "GABAY",
+      "histoire": "KWENTO",
+      "actualite": "BALITA"
+    }
+  },
+  "newsModal": {
+    "share": "Ibahagi",
+    "shareOn": {
+      "facebook": "Ibahagi sa Facebook",
+      "twitter": "Ibahagi sa Twitter",
+      "linkedin": "Ibahagi sa LinkedIn",
+      "whatsapp": "Ibahagi sa WhatsApp"
+    }
+  },
+  "newsCategories": {
+    "francisation": "Pag-aaral ng Pranses",
+    "emploi": "Trabaho",
+    "femmes": "Kababaihan ng Mundo",
+    "integration": "Integrasyon",
+    "parents": "Magulang at Kabataan"
+  },
+  "media": {
+    "videoNotSupported": "Hindi sinusuportahan ng iyong browser ang pag-play ng video.",
+    "audioNotSupported": "Hindi sinusuportahan ng iyong browser ang pag-play ng audio."
+  },
+  "activitiesSection": {
+    "title": "Mga Susunod na Aktibidad",
+    "subtitle": "Sumali sa aming komunidad at lumahok sa mga workshop, kurso at kaganapan",
+    "allEvents": "Lahat ng kaganapan"
+  },
+  "activities": {
+    "registerButton": "Mag-register",
+    "moreEventsButton": "Higit pang kaganapan",
+    "filters": {
+      "all": "Tingnan lahat",
+      "welcome": "Pagtanggap",
+      "french": "Pranses",
+      "employment": "Trabaho",
+      "family": "Pamilya",
+      "women": "Kababaihan"
+    }
+  },
+  "testimonialsSection": {
+    "title": "Nagtagumpay sila sa CARI",
+    "subtitle": "Tuklasin ang mga nakaka-inspire na kwento ng mga nakahanap ng lugar sa Quebec"
+  },
+  "testimonials": {
+    "arrived": "Dumating",
+    "items": [
+      {
+        "name": "Asma B.",
+        "country": "Morocco",
+        "year": "2020",
+        "text": "Salamat sa CARI, nakita ko ang dream job ko sa loob ng 6 na buwan! Ang personalized na suporta at mga workshop ay nagbigay sa akin ng kumpiyansa para magtagumpay sa mga interview.",
+        "service": "Tulong sa trabaho"
+      },
+      {
+        "name": "Jean-Pierre H.",
+        "country": "Haiti",
+        "year": "2020",
+        "text": "Mula refugee hanggang negosyante, sinamahan ako ng CARI sa bawat hakbang. Ngayon, may sarili akong negosyo at may 5 empleyado.",
+        "service": "Komprehensibong suporta"
+      },
+      {
+        "name": "Jasmine M.",
+        "country": "Haiti",
+        "year": "2021",
+        "text": "Parang imposible ang Pranses, ngayon fluent na ako! Napakagaling ng mga kurso at napaka-pasensyoso ng mga guro.",
+        "service": "Pag-aaral ng Pranses"
+      },
+      {
+        "name": "Karla A.",
+        "country": "DRC",
+        "year": "2019",
+        "text": "Masaya ang mga anak ko, nahanap namin ang lugar namin dito. Ang family services ng CARI ay nagbago ng lahat.",
+        "service": "Serbisyo para sa pamilya"
+      },
+      {
+        "name": "Wei L.",
+        "country": "China",
+        "year": "2022",
+        "text": "Ang tulong sa pag-unawa ng sistema ng Quebec ay nagbago ng lahat. Pakiramdam ko ngayon ay nandito na ang tahanan ko sa Montreal.",
+        "service": "Pagtanggap at Integrasyon"
+      }
+    ],
+    "parallaxItems": [
+      {
+        "quote": "Salamat sa CARI, nakita ko ang dream job ko sa loob ng 6 na buwan! Sinamahan ako ng team sa bawat hakbang.",
+        "name": "Asma B.",
+        "origin": "Morocco • Dumating 2020"
+      },
+      {
+        "quote": "Ang mga kurso sa Pranses ay nagpahintulot sa akin na maging independent agad. Inirerekomenda ko sa lahat ng bagong dating!",
+        "name": "Ahmed K.",
+        "origin": "Syria • Dumating 2021"
+      },
+      {
+        "quote": "Ang programa ng Kababaihan ng Mundo ay nagbigay sa akin ng kumpiyansa at kahanga-hangang network ng mga kaibigan.",
+        "name": "Maria L.",
+        "origin": "Colombia • Dumating 2019"
+      }
+    ]
+  },
+  "services": {
+    "title": "Mga Serbisyo Namin",
+    "subtitle": "Mga solusyon na angkop sa iyong sitwasyon",
+    "learnMore": "Matuto pa",
+    "modal": {
+      "benefits": "Ang makukuha mo",
+      "details": "Detalye ng serbisyo",
+      "close": "Isara"
+    },
+    "cards": {
+      "welcome": {
+        "title": "Pagtanggap at Integrasyon",
+        "description": "Impormasyon, oryentasyon at personalized na suporta para mapadali ang iyong pag-settle.",
+        "fullDescription": "Indibidwal na suporta at mga aktibidad ng grupo para sa iyong pagtatatag at integrasyon sa bagong kapaligiran. Tinutulungan ka naming maging independent at umunlad sa Quebec.",
+        "benefits": [
+          "Indibidwal na sesyon ng impormasyon at oryentasyon",
+          "Suporta sa mga administratibong proseso",
+          "Mga aktibidad ng grupo para bumuo ng koneksyon",
+          "Mga referral sa mga mapagkukunan ng komunidad",
+          "Suporta para sa kalayaan at independensya"
+        ],
+        "details": "Libreng serbisyo sa Pranses, Ingles, Espanyol, Arabe at iba pang wika. Appointment sa opisina o sa telepono."
+      },
+      "french": {
+        "title": "Pag-aaral ng Pranses",
+        "description": "Mga kurso sa Pranses para sa mga imigrante, lahat ng antas, flexible na iskedyul (8:30-22:00). Subukan ang iyong antas nang libre!",
+        "fullDescription": "Full-time at part-time na pagsasanay sa Pranses, angkop sa antas ng mag-aaral. Ang aming mga kwalipikadong guro ay gumagamit ng modernong pamamaraan.",
+        "benefits": [
+          "Full-time at part-time na mga kurso",
+          "Flexible na iskedyul mula 8:30 hanggang 22:00",
+          "Lahat ng antas tinatanggap",
+          "Mga kwalipikado at may karanasang guro",
+          "Mga pamamaraan na angkop sa mga imigrante",
+          "Libreng level test sa loob ng 10 minuto"
+        ],
+        "details": "Libreng kurso na pondo ng MIFI. Posibleng may allowance sa partisipasyon. Patuloy na pagpapatala."
+      },
+      "employment": {
+        "title": "Tulong sa Trabaho",
+        "description": "Mga workshop sa CV, simulation ng interview, professional coaching at pagkikita sa mga employer.",
+        "fullDescription": "Dinamikong paraan ng paghahanap ng trabaho, networking at koneksyon sa mga employer. Personalized na suporta para sa iyong integrasyon sa merkado ng trabaho sa Quebec.",
+        "benefits": [
+          "Mga workshop sa pagsulat ng CV at cover letter",
+          "Personalized na simulation ng interview",
+          "Indibidwal na professional coaching",
+          "Direktang pagkikita sa mga employer",
+          "Suporta sa aktibong paghahanap ng trabaho",
+          "85% nakahanap ng trabaho sa loob ng 6 na buwan"
+        ],
+        "details": "Libreng serbisyo na may personalized na follow-up. Indibidwal na appointment at regular na grupo workshop."
+      },
+      "family": {
+        "title": "Serbisyo para sa Pamilya",
+        "description": "Suporta sa mga pamilya, aktibidad para sa mga bata at kabataan, tulong sa pag-aaral.",
+        "fullDescription": "Suporta sa mga magulang na imigrante na may childcare, school orientation at mga aktibidad na nagtataguyod ng pangkalahatang pag-unlad ng mga bata.",
+        "benefits": [
+          "Childcare para sa maliliit na bata",
+          "Tulong sa school orientation",
+          "Mga edukasyonal at recreational na aktibidad",
+          "Suporta sa homework at aralin",
+          "Mga workshop para sa magulang",
+          "Organisadong family outings"
+        ],
+        "details": "Libre o mababang gastos na serbisyo. Limitadong slot, kailangan ng registration."
+      },
+      "women": {
+        "title": "Kababaihan ng Mundo",
+        "description": "Mga espesyal na programa para sa mga babaeng imigrante: independensya, kalusugan, trabaho.",
+        "fullDescription": "Dedikadong espasyo para basagin ang pagkakahiwalay ng mga babae sa pamamagitan ng intercultural na koneksyon, mutual support network at propesyonal na skill development.",
+        "benefits": [
+          "Mga workshop sa independensya at self-esteem",
+          "Angkop na propesyonal na pagsasanay",
+          "Support network sa pagitan ng mga babae",
+          "Intercultural na mga aktibidad",
+          "Impormasyon sa kalusugan ng kababaihan",
+          "Suporta sa paghahanap ng trabaho"
+        ],
+        "details": "Libre at confidential. Welcoming at supportive na grupo. Childcare available kapag hiniling."
+      },
+      "volunteering": {
+        "title": "Boluntaryo at Pairing",
+        "description": "Intercultural na pagkikita, sosyal na aktibidad at pagkakataon sa boluntaryo.",
+        "fullDescription": "Intercultural pairing program, skill development, kurso sa wika at computer, citizenship integration pathway at mga pagkakataon sa boluntaryo.",
+        "benefits": [
+          "Pairing sa isang Quebecer",
+          "Kurso sa wika at computer",
+          "Canadian citizenship workshop",
+          "Mga pagkakataon sa boluntaryo",
+          "Sosyal at kultural na mga aktibidad",
+          "Pagpapalawak ng iyong network"
+        ],
+        "details": "Libre. Flexible na commitment ayon sa iyong availability. May mga volunteer certificate."
+      }
+    }
+  },
+  "appointment": {
+    "title": "Mag-set ng appointment",
+    "subtitle": "Piliin ang serbisyong interesado ka",
+    "steps": {
+      "yourNeed": "Pangangailangan Mo",
+      "yourInfo": "Impormasyon Mo",
+      "confirmation": "Kumpirmasyon"
+    },
+    "consultationTypes": {
+      "welcome": "Konsultasyon sa Pagtanggap at Integrasyon",
+      "french": "Konsultasyon sa Pranses",
+      "employment": "Konsultasyon sa Trabaho",
+      "family": "Konsultasyon sa Serbisyo ng Pamilya",
+      "women": "Konsultasyon sa Kababaihan ng Mundo",
+      "volunteering": "Konsultasyon sa Boluntaryo"
+    },
+    "form": {
+      "name": "Buong pangalan",
+      "phone": "Telepono",
+      "email": "Email",
+      "service": "Gustong serbisyo",
+      "date": "Gustong petsa",
+      "time": "Gustong oras",
+      "message": "Mensahe (opsyonal)",
+      "submit": "Kumpirmahin ang appointment",
+      "namePlaceholder": "Pangalan at apelyido",
+      "phonePlaceholder": "(514) 123-4567",
+      "emailPlaceholder": "iyong@email.com",
+      "messagePlaceholder": "Ilarawan nang maikli ang iyong sitwasyon...",
+      "selectTime": "Pumili ng oras",
+      "confirmationNote": "Makakatanggap ka ng kumpirmasyon sa email sa loob ng 24 oras"
+    },
+    "contact": {
+      "hoursLabel": "Oras ng opisina",
+      "schedule": "Lunes-Biyernes: 9:00 - 17:00"
+    }
+  },
+  "contact": {
+    "title": "Makipag-ugnayan sa Amin",
+    "subtitle": "Nandito kami para tulungan ka",
+    "mapText": "Interactive na mapa available sa site",
+    "viewGoogleMaps": "Tingnan sa Google Maps",
+    "subjects": {
+      "general": "Pangkalahatang tanong",
+      "info": "Hiling ng impormasyon",
+      "appointment": "Pag-book ng appointment",
+      "french": "Kurso sa Pranses",
+      "employment": "Tulong sa trabaho",
+      "family": "Serbisyo para sa pamilya"
+    },
+    "form": {
+      "name": "Buong pangalan",
+      "email": "Email",
+      "subject": "Paksa",
+      "message": "Iyong mensahe",
+      "submit": "Ipadala ang mensahe"
+    },
+    "info": {
+      "addressLabel": "Address",
+      "phoneLabel": "Telepono",
+      "emailLabel": "Email",
+      "hoursLabel": "Oras ng opisina",
+      "accessLabel": "Pag-access",
+      "address": "774 boulevard Décarie, Bureau 300, Saint-Laurent H4L 3L5",
+      "phone": "(514) 748-2007",
+      "email": "carist@cari.qc.ca",
+      "hours": "Lunes-Biyernes 9:00-12:00, 12:30-16:30",
+      "frenchHours": "Pranses: 8:30-22:00",
+      "metro": "Metro: Du Collège (orange line)",
+      "bus": "Bus: 17, 64, 121, 368",
+      "parking": "Libreng parking sa lugar"
+    }
+  },
+  "chatbot": {
+    "title": "CARI Assistant",
+    "placeholder": "Itanong ang iyong katanungan...",
+    "typing": "Nagta-type ang CARI Assistant...",
+    "status": "Online",
+    "error": "Paumanhin, may error. Pakisubukan ulit.",
+    "suggestions": {
+      "services": "Serbisyo",
+      "appointment": "Appointment",
+      "appointmentInput": "Mag-set ng appointment",
+      "french": "Pranses",
+      "frenchInput": "Kurso sa Pranses"
+    },
+    "responses": {
+      "greeting": "Kumusta! Masaya akong tumulong sa iyo. Nag-aalok ang CARI ng 6 na pangunahing serbisyo para sa iyong integrasyon sa Quebec. Aling serbisyo ang interesado ka?",
+      "services": "6 na serbisyo namin:\n• Pagtanggap at Integrasyon\n• Pranses (8:30-22:00)\n• Tulong sa Trabaho (85% tagumpay!)\n• Serbisyo para sa Pamilya\n• Kababaihan ng Mundo\n• Boluntaryo at Pairing\n\nAlin ang gusto mong malaman pa?",
+      "appointment": "Para mag-book:\n• Tumawag sa (514) 748-2007\n• Punan ang form sa page na ito\n• Lunes-Biyernes 9:00-16:30\n\nAnong uri ng konsultasyon? (pagtanggap/pranses/trabaho)",
+      "contact": "(514) 748-2007\ncarist@cari.qc.ca\n774 boul. Décarie #300, Saint-Laurent\nLunes-Biyernes: 9:00-12:00, 12:30-16:30\n\nPaano ko pa matutulungan?",
+      "french": "Kurso sa Pranses:\n• 8:30-22:00 (napaka-flexible!)\n• Lahat ng antas\n• Pamamaraan para sa mga imigrante\n• Libreng level assessment\n\nGusto mo bang mag-iskedyul ng evaluation?",
+      "employment": "Tulong sa trabaho:\n• CV/cover letter workshop\n• Simulation ng interview\n• Professional coaching\n• Pagkikita sa mga employer\n• 85% nakahanap ng trabaho sa 6 na buwan!\n\nInteresado sa employment consultation?",
+      "default": "Makakatulong ako sa:\n• Impormasyon tungkol sa serbisyo\n• Pag-book ng appointment\n• Contact details\n• Personalized na payo\n\nAno ang gusto mong malaman?"
+    }
+  },
+  "success": {
+    "contact": "Salamat! Naipadala na ang iyong request. Makikipag-ugnayan kami sa lalong madaling panahon.",
+    "appointment": "✅ Na-confirm ang appointment! Makakatanggap ka ng kumpirmasyon sa email at SMS sa susunod na ilang minuto."
+  },
+  "parallax": {
+    "statsTitle": "Magkasama, gumagawa tayo ng pagbabago",
+    "statsSubtitle": "Mula 1989, sinusuportahan ng CARI ang mga bagong dating tungo sa tagumpay",
+    "stats": {
+      "peopleHelped": "Mga taong natulungan/taon",
+      "languagesSpoken": "Mga wikang ginagamit",
+      "countries": "Mga bansang kinakatawan",
+      "yearsOfService": "Taon ng karanasan"
+    },
+    "ctaTitle": "Handa ka na bang simulan ang bagong buhay mo sa Quebec?",
+    "ctaSubtitle": "Ang aming multilingual na team ay nandito para samahan ka sa bawat hakbang ng iyong integrasyon."
+  },
+  "footer": {
+    "copyright": "© 2026 Lahat ng karapatan ay nakalaan.",
+    "tagline": "Non-profit na organisasyon na tumutulong sa mga imigrante"
+  },
+  "aria": {
+    "close": "Isara",
+    "closeModal": "Isara ang window",
+    "carousel": "Header carousel",
+    "carouselNav": "Carousel navigation",
+    "previousSlide": "Nakaraang slide",
+    "nextSlide": "Susunod na slide",
+    "goToSlide": "Pumunta sa slide",
+    "carouselSlider": "Carousel slider",
+    "previousTestimonial": "Nakaraang testimonya",
+    "nextTestimonial": "Susunod na testimonya",
+    "goToTestimonial": "Pumunta sa testimonya",
+    "learnMoreAbout": "Matuto pa tungkol sa"
+  },
+  "loading": "Naglo-load...",
+  "mission": {
+    "tagline": "Ang pagkakaiba-iba ay nagsasama sa atin",
+    "title": "Ang aming misyon",
+    "statement": "Tanggapin, tulungan at samahan ang mga imigrante sa kanilang personal, panlipunan at propesyonal na pagsasama.",
+    "visionLabel": "Ang aming pananaw",
+    "vision": "Maglingkod at magsama-sama sa pamamagitan ng makabagong kadalubhasaan at mga gawain para sa mas magandang pamumuhay.",
+    "valuesLabel": "Ang aming mga pagpapahalaga",
+    "values": [
+      "Dedikasyon",
+      "Tiwala",
+      "Pagpaparaya",
+      "Altruismo",
+      "Pagkakaisa",
+      "Katarungan"
+    ],
+    "historyCTA": "Ang aming kasaysayan",
+    "historyTitle": "Ang aming kasaysayan",
+    "buildingAlt": "Gusali ng CARI St-Laurent",
+    "founded": "Itinatag",
+    "historyIntro": "Nilikha noong 1989, ang Centre d'Accueil et de Référence sociale et économique pour Immigrants de Saint-Laurent (CARI St-Laurent) ay isang organisasyong walang tubo, walang relihiyon at walang partidong pulitikal.",
+    "approachLabel": "Ang aming diskarte",
+    "approach": "Isang intercultural na diskarte batay sa paggalang sa pagkakaiba, pagbubukas sa iba at sa ethnic-cultural at relihiyosong pagkakaiba-iba.",
+    "impactLabel": "Ang aming epekto",
+    "impact": "Mahigit 7,000 tao ang tinutulungan bawat taon, mula sa 128 bansa at nagsasalita ng 95 iba't ibang wika."
+  }
+}

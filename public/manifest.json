@@ -1,0 +1,36 @@
+{
+  "short_name": "CARI St-Laurent",
+  "name": "CARI St-Laurent - Votre réussite au Québec commence ici",
+  "description": "Depuis 1992, nous accompagnons les nouveaux arrivants vers l'emploi, l'apprentissage du français et l'intégration sociale.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6cbac7",
+  "background_color": "#ffffff"
+}

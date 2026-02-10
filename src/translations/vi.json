@@ -1,0 +1,431 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "needs": "Nhu cầu của bạn",
+    "activities": "Hoạt động",
+    "news": "Tài nguyên",
+    "talk": "Đặt hẹn",
+    "talkToAdvisor": "Nói chuyện với tư vấn viên",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Tìm <span class='highlight'>chỗ đứng</span> tại Quebec",
+    "subtitle": "Việc làm, tiếng Pháp, nhà ở, thủ tục: hỗ trợ miễn phí từ A đến Z",
+    "discoverServices": "Khám phá dịch vụ của chúng tôi",
+    "letsTalk": "Nói chuyện với tư vấn viên",
+    "testFrench": "Kiểm tra tiếng Pháp của tôi",
+    "stats": {
+      "peopleHelped": "Người được giúp/năm",
+      "satisfaction": "Hài lòng",
+      "findEmployment": "Tìm được việc"
+    },
+    "slides": {
+      "slide1": {
+        "quote": "« Nhờ CARI, tôi tìm được công việc mơ ước trong 6 tháng! »",
+        "author": "Asma B.",
+        "role": "Ma Rốc • Đến 2020"
+      },
+      "slide2": {
+        "quote": "« Từ người tị nạn đến doanh nhân, CARI đã đồng hành cùng tôi »",
+        "author": "Jean-Pierre H.",
+        "role": "Haiti • Đến 2020"
+      },
+      "slide3": {
+        "quote": "« Tiếng Pháp tưởng chừng bất khả thi, giờ tôi nói lưu loát! »",
+        "author": "Jasmine M.",
+        "role": "Haiti • Đến 2021"
+      },
+      "slide4": {
+        "quote": "« Con cái tôi hạnh phúc, chúng tôi đã tìm được chỗ đứng »",
+        "author": "Karla A.",
+        "role": "CHDC Congo • Đến 2019"
+      },
+      "slide5": {
+        "quote": "« Sự giúp đỡ để hiểu hệ thống Quebec đã thay đổi tất cả »",
+        "author": "Wei L.",
+        "role": "Trung Quốc • Đến 2022"
+      }
+    }
+  },
+  "needs": {
+    "title": "Nhu cầu của bạn là gì?",
+    "subtitle": "Chúng tôi đồng hành cùng bạn trong mọi bước hội nhập tại Quebec",
+    "instruction": "Chọn một dịch vụ để tìm hiểu thêm",
+    "cards": {
+      "welcome": "Tôi mới đến",
+      "french": "Tôi đang học tiếng Pháp",
+      "employment": "Tôi đang tìm việc",
+      "family": "Tôi có gia đình",
+      "women": "Tôi là phụ nữ",
+      "volunteering": "Tôi muốn tham gia"
+    }
+  },
+  "newsSection": {
+    "title": "Tài nguyên",
+    "subtitle": "Hướng dẫn thực hành, câu chuyện và tin tức hỗ trợ hội nhập"
+  },
+  "news": {
+    "moreContentButton": "Tất cả tài nguyên",
+    "moreNewsTitle": "Tất cả tài nguyên",
+    "filters": {
+      "all": "Xem tất cả",
+      "guide": "Hướng dẫn thực hành",
+      "histoire": "Câu chuyện từ đây",
+      "actualite": "Tin tức"
+    },
+    "contentTypes": {
+      "guide": "HƯỚNG DẪN",
+      "histoire": "CÂU CHUYỆN",
+      "actualite": "TIN TỨC"
+    }
+  },
+  "newsModal": {
+    "share": "Chia sẻ",
+    "shareOn": {
+      "facebook": "Chia sẻ trên Facebook",
+      "twitter": "Chia sẻ trên Twitter",
+      "linkedin": "Chia sẻ trên LinkedIn",
+      "whatsapp": "Chia sẻ trên WhatsApp"
+    }
+  },
+  "newsCategories": {
+    "francisation": "Học tiếng Pháp",
+    "emploi": "Việc làm",
+    "femmes": "Phụ nữ thế giới",
+    "integration": "Hội nhập",
+    "parents": "Phụ huynh & Thanh thiếu niên"
+  },
+  "media": {
+    "videoNotSupported": "Trình duyệt của bạn không hỗ trợ phát video.",
+    "audioNotSupported": "Trình duyệt của bạn không hỗ trợ phát âm thanh."
+  },
+  "activitiesSection": {
+    "title": "Hoạt động sắp tới",
+    "subtitle": "Tham gia cộng đồng và tham dự các hội thảo, khóa học và sự kiện",
+    "allEvents": "Tất cả sự kiện"
+  },
+  "activities": {
+    "registerButton": "Đăng ký",
+    "moreEventsButton": "Thêm sự kiện",
+    "filters": {
+      "all": "Xem tất cả",
+      "welcome": "Tiếp đón",
+      "french": "Tiếng Pháp",
+      "employment": "Việc làm",
+      "family": "Gia đình",
+      "women": "Phụ nữ"
+    }
+  },
+  "testimonialsSection": {
+    "title": "Họ đã thành công với CARI",
+    "subtitle": "Khám phá những câu chuyện truyền cảm hứng của những người đã tìm được chỗ đứng tại Quebec"
+  },
+  "testimonials": {
+    "arrived": "Đến",
+    "items": [
+      {
+        "name": "Asma B.",
+        "country": "Ma Rốc",
+        "year": "2020",
+        "text": "Nhờ CARI, tôi tìm được công việc mơ ước trong 6 tháng! Sự hỗ trợ cá nhân và các hội thảo đã cho tôi sự tự tin để thành công trong các cuộc phỏng vấn.",
+        "service": "Hỗ trợ việc làm"
+      },
+      {
+        "name": "Jean-Pierre H.",
+        "country": "Haiti",
+        "year": "2020",
+        "text": "Từ người tị nạn đến doanh nhân, CARI đã đồng hành cùng tôi ở mọi bước. Hôm nay tôi có doanh nghiệp riêng và tuyển dụng 5 người.",
+        "service": "Hỗ trợ toàn diện"
+      },
+      {
+        "name": "Jasmine M.",
+        "country": "Haiti",
+        "year": "2021",
+        "text": "Tiếng Pháp tưởng chừng bất khả thi, giờ tôi nói lưu loát! Các khóa học tuyệt vời và giáo viên rất kiên nhẫn.",
+        "service": "Học tiếng Pháp"
+      },
+      {
+        "name": "Karla A.",
+        "country": "CHDC Congo",
+        "year": "2019",
+        "text": "Con cái tôi hạnh phúc, chúng tôi đã tìm được chỗ đứng. Dịch vụ gia đình của CARI đã tạo nên sự khác biệt.",
+        "service": "Dịch vụ gia đình"
+      },
+      {
+        "name": "Wei L.",
+        "country": "Trung Quốc",
+        "year": "2022",
+        "text": "Sự giúp đỡ để hiểu hệ thống Quebec đã thay đổi tất cả. Giờ tôi cảm thấy như ở nhà tại Montreal.",
+        "service": "Tiếp đón & Hội nhập"
+      }
+    ],
+    "parallaxItems": [
+      {
+        "quote": "Nhờ CARI, tôi tìm được công việc mơ ước trong 6 tháng! Đội ngũ đã đồng hành cùng tôi ở mọi bước.",
+        "name": "Asma B.",
+        "origin": "Ma Rốc • Đến 2020"
+      },
+      {
+        "quote": "Các khóa tiếng Pháp giúp tôi nhanh chóng tự lập. Tôi khuyến nghị cho tất cả người mới đến!",
+        "name": "Ahmed K.",
+        "origin": "Syria • Đến 2021"
+      },
+      {
+        "quote": "Chương trình Phụ nữ thế giới cho tôi sự tự tin và mạng lưới bạn bè tuyệt vời.",
+        "name": "Maria L.",
+        "origin": "Colombia • Đến 2019"
+      }
+    ]
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "subtitle": "Giải pháp phù hợp với hoàn cảnh của bạn",
+    "learnMore": "Tìm hiểu thêm",
+    "modal": {
+      "benefits": "Bạn sẽ nhận được",
+      "details": "Chi tiết dịch vụ",
+      "close": "Đóng"
+    },
+    "cards": {
+      "welcome": {
+        "title": "Tiếp đón & Hội nhập",
+        "description": "Thông tin, hướng dẫn và hỗ trợ cá nhân hóa để thuận lợi cho việc định cư.",
+        "fullDescription": "Hỗ trợ cá nhân và hoạt động nhóm để thúc đẩy việc định cư và hội nhập vào môi trường sống mới. Chúng tôi giúp bạn tự lập và phát triển tại Quebec.",
+        "benefits": [
+          "Buổi tư vấn thông tin và hướng dẫn cá nhân",
+          "Hỗ trợ thủ tục hành chính",
+          "Hoạt động nhóm để kết nối",
+          "Giới thiệu tài nguyên cộng đồng",
+          "Hỗ trợ tự chủ và độc lập"
+        ],
+        "details": "Dịch vụ miễn phí bằng tiếng Pháp, Anh, Tây Ban Nha, Ả Rập và các ngôn ngữ khác. Hẹn gặp trực tiếp hoặc qua điện thoại."
+      },
+      "french": {
+        "title": "Học tiếng Pháp",
+        "description": "Khóa tiếng Pháp cho người nhập cư, mọi trình độ, lịch linh hoạt (8:30-22:00). Kiểm tra trình độ miễn phí!",
+        "fullDescription": "Đào tạo tiếng Pháp toàn thời gian và bán thời gian, phù hợp với trình độ học viên. Giáo viên giỏi sử dụng phương pháp giảng dạy hiện đại.",
+        "benefits": [
+          "Khóa toàn thời gian và bán thời gian",
+          "Lịch linh hoạt từ 8:30 đến 22:00",
+          "Chấp nhận mọi trình độ",
+          "Giáo viên có trình độ và kinh nghiệm",
+          "Phương pháp phù hợp cho người nhập cư",
+          "Kiểm tra trình độ miễn phí trong 10 phút"
+        ],
+        "details": "Khóa học miễn phí do MIFI tài trợ. Có thể nhận trợ cấp tham gia. Đăng ký liên tục."
+      },
+      "employment": {
+        "title": "Hỗ trợ việc làm",
+        "description": "Hội thảo CV, mô phỏng phỏng vấn, huấn luyện nghề nghiệp và gặp gỡ nhà tuyển dụng.",
+        "fullDescription": "Phương pháp tìm việc năng động, hoạt động kết nối và liên hệ nhà tuyển dụng. Hỗ trợ cá nhân hóa để hội nhập thị trường lao động Quebec.",
+        "benefits": [
+          "Hội thảo viết CV và thư xin việc",
+          "Mô phỏng phỏng vấn cá nhân",
+          "Huấn luyện nghề nghiệp cá nhân",
+          "Gặp gỡ trực tiếp nhà tuyển dụng",
+          "Hỗ trợ tìm việc chủ động",
+          "85% tìm được việc trong 6 tháng"
+        ],
+        "details": "Dịch vụ miễn phí với theo dõi cá nhân. Lịch hẹn cá nhân và hội thảo nhóm thường xuyên."
+      },
+      "family": {
+        "title": "Dịch vụ gia đình",
+        "description": "Hỗ trợ gia đình, hoạt động cho trẻ em và thanh thiếu niên, giúp đỡ về trường học.",
+        "fullDescription": "Hỗ trợ phụ huynh nhập cư với dịch vụ giữ trẻ, hướng dẫn trường học và hoạt động thúc đẩy sự phát triển toàn diện của trẻ.",
+        "benefits": [
+          "Dịch vụ giữ trẻ nhỏ",
+          "Hỗ trợ hướng dẫn trường học",
+          "Hoạt động giáo dục và giải trí",
+          "Hỗ trợ bài tập và bài học",
+          "Hội thảo cho phụ huynh",
+          "Các chuyến đi gia đình được tổ chức"
+        ],
+        "details": "Dịch vụ miễn phí hoặc chi phí thấp. Chỗ hạn chế, cần đăng ký."
+      },
+      "women": {
+        "title": "Phụ nữ thế giới",
+        "description": "Chương trình dành riêng cho phụ nữ nhập cư: tự chủ, sức khỏe, việc làm.",
+        "fullDescription": "Không gian dành riêng để phá vỡ sự cô lập thông qua kết nối đa văn hóa, mạng lưới hỗ trợ lẫn nhau và phát triển kỹ năng nghề nghiệp.",
+        "benefits": [
+          "Hội thảo tự chủ và tự trọng",
+          "Đào tạo nghề phù hợp",
+          "Mạng lưới hỗ trợ giữa phụ nữ",
+          "Hoạt động đa văn hóa",
+          "Thông tin sức khỏe phụ nữ",
+          "Hỗ trợ tìm việc"
+        ],
+        "details": "Miễn phí và bảo mật. Nhóm thân thiện và hỗ trợ. Giữ trẻ theo yêu cầu."
+      },
+      "volunteering": {
+        "title": "Tình nguyện & Kết đôi",
+        "description": "Gặp gỡ đa văn hóa, hoạt động xã hội và cơ hội tình nguyện.",
+        "fullDescription": "Chương trình kết đôi đa văn hóa, phát triển kỹ năng, khóa ngôn ngữ và tin học, lộ trình hội nhập công dân và cơ hội tình nguyện.",
+        "benefits": [
+          "Kết đôi với người Quebec",
+          "Khóa ngôn ngữ và tin học",
+          "Hội thảo quốc tịch Canada",
+          "Cơ hội tình nguyện",
+          "Hoạt động xã hội và văn hóa",
+          "Phát triển mạng lưới của bạn"
+        ],
+        "details": "Miễn phí. Cam kết linh hoạt theo thời gian của bạn. Chứng nhận tình nguyện có sẵn."
+      }
+    }
+  },
+  "appointment": {
+    "title": "Hãy đặt lịch hẹn",
+    "subtitle": "Chọn dịch vụ bạn quan tâm",
+    "steps": {
+      "yourNeed": "Nhu cầu",
+      "yourInfo": "Thông tin",
+      "confirmation": "Xác nhận"
+    },
+    "consultationTypes": {
+      "welcome": "Tư vấn Tiếp đón & Hội nhập",
+      "french": "Tư vấn Tiếng Pháp",
+      "employment": "Tư vấn Việc làm",
+      "family": "Tư vấn Dịch vụ gia đình",
+      "women": "Tư vấn Phụ nữ thế giới",
+      "volunteering": "Tư vấn Tình nguyện"
+    },
+    "form": {
+      "name": "Họ và tên",
+      "phone": "Điện thoại",
+      "email": "Email",
+      "service": "Dịch vụ mong muốn",
+      "date": "Ngày ưu tiên",
+      "time": "Giờ ưu tiên",
+      "message": "Tin nhắn (tùy chọn)",
+      "submit": "Xác nhận lịch hẹn",
+      "namePlaceholder": "Họ và tên",
+      "phonePlaceholder": "(514) 123-4567",
+      "emailPlaceholder": "email@cuaban.com",
+      "messagePlaceholder": "Mô tả ngắn gọn tình huống của bạn...",
+      "selectTime": "Chọn giờ",
+      "confirmationNote": "Bạn sẽ nhận xác nhận qua email trong 24 giờ"
+    },
+    "contact": {
+      "hoursLabel": "Giờ làm việc",
+      "schedule": "Thứ 2-Thứ 6: 9:00 - 17:00"
+    }
+  },
+  "contact": {
+    "title": "Liên hệ chúng tôi",
+    "subtitle": "Chúng tôi ở đây để giúp bạn",
+    "mapText": "Bản đồ tương tác có sẵn trên trang web",
+    "viewGoogleMaps": "Xem trên Google Maps",
+    "subjects": {
+      "general": "Yêu cầu chung",
+      "info": "Yêu cầu thông tin",
+      "appointment": "Đặt lịch hẹn",
+      "french": "Khóa tiếng Pháp",
+      "employment": "Hỗ trợ việc làm",
+      "family": "Dịch vụ gia đình"
+    },
+    "form": {
+      "name": "Họ và tên",
+      "email": "Email",
+      "subject": "Chủ đề",
+      "message": "Tin nhắn của bạn",
+      "submit": "Gửi tin nhắn"
+    },
+    "info": {
+      "addressLabel": "Địa chỉ",
+      "phoneLabel": "Điện thoại",
+      "emailLabel": "Email",
+      "hoursLabel": "Giờ mở cửa",
+      "accessLabel": "Đường đi",
+      "address": "774 boulevard Décarie, Bureau 300, Saint-Laurent H4L 3L5",
+      "phone": "(514) 748-2007",
+      "email": "carist@cari.qc.ca",
+      "hours": "Thứ 2-Thứ 6 9:00-12:00, 12:30-16:30",
+      "frenchHours": "Tiếng Pháp: 8:30-22:00",
+      "metro": "Tàu điện ngầm: Du Collège (tuyến cam)",
+      "bus": "Xe buýt: 17, 64, 121, 368",
+      "parking": "Bãi đỗ xe miễn phí tại chỗ"
+    }
+  },
+  "chatbot": {
+    "title": "Trợ lý CARI",
+    "placeholder": "Đặt câu hỏi của bạn...",
+    "typing": "Trợ lý CARI đang nhập...",
+    "status": "Trực tuyến",
+    "error": "Xin lỗi, đã xảy ra lỗi. Vui lòng thử lại.",
+    "suggestions": {
+      "services": "Dịch vụ",
+      "appointment": "Lịch hẹn",
+      "appointmentInput": "Đặt lịch hẹn",
+      "french": "Tiếng Pháp",
+      "frenchInput": "Khóa tiếng Pháp"
+    },
+    "responses": {
+      "greeting": "Xin chào! Tôi rất vui được giúp bạn. CARI cung cấp 6 dịch vụ chính cho việc hội nhập tại Quebec. Dịch vụ nào bạn quan tâm nhất?",
+      "services": "6 dịch vụ:\n• Tiếp đón & Hội nhập\n• Tiếng Pháp (8:30-22:00)\n• Hỗ trợ việc làm (85% thành công!)\n• Dịch vụ gia đình\n• Phụ nữ thế giới\n• Tình nguyện & Kết đôi\n\nBạn muốn biết thêm về dịch vụ nào?",
+      "appointment": "Đặt lịch hẹn:\n• Gọi (514) 748-2007\n• Điền biểu mẫu trên trang này\n• T2-T6 9:00-16:30\n\nLoại tư vấn? (tiếp đón/tiếng Pháp/việc làm)",
+      "contact": "(514) 748-2007\ncarist@cari.qc.ca\n774 boul. Décarie #300, Saint-Laurent\nT2-T6: 9:00-12:00, 12:30-16:30\n\nTôi có thể giúp gì thêm?",
+      "french": "Khóa tiếng Pháp:\n• 8:30-22:00 (rất linh hoạt!)\n• Mọi trình độ\n• Phương pháp cho người nhập cư\n• Kiểm tra trình độ miễn phí\n\nBạn muốn đặt lịch kiểm tra?",
+      "employment": "Hỗ trợ việc làm:\n• Hội thảo CV/thư xin việc\n• Mô phỏng phỏng vấn\n• Huấn luyện nghề\n• Gặp nhà tuyển dụng\n• 85% tìm việc trong 6 tháng!\n\nQuan tâm tư vấn việc làm?",
+      "default": "Tôi có thể giúp:\n• Thông tin dịch vụ\n• Đặt lịch hẹn\n• Liên hệ\n• Tư vấn cá nhân\n\nBạn muốn biết gì?"
+    }
+  },
+  "success": {
+    "contact": "Cảm ơn! Yêu cầu đã được gửi. Chúng tôi sẽ liên hệ sớm.",
+    "appointment": "✅ Lịch hẹn xác nhận! Bạn sẽ nhận xác nhận qua email và SMS trong vài phút."
+  },
+  "parallax": {
+    "statsTitle": "Cùng nhau, chúng ta tạo nên sự khác biệt",
+    "statsSubtitle": "Từ 1989, CARI đồng hành cùng người mới đến hướng tới thành công",
+    "stats": {
+      "peopleHelped": "Người được giúp/năm",
+      "languagesSpoken": "Ngôn ngữ được sử dụng",
+      "countries": "Quốc gia đại diện",
+      "yearsOfService": "Năm kinh nghiệm"
+    },
+    "ctaTitle": "Sẵn sàng bắt đầu cuộc sống mới tại Quebec?",
+    "ctaSubtitle": "Đội ngũ đa ngôn ngữ hỗ trợ bạn mọi bước hội nhập."
+  },
+  "footer": {
+    "copyright": "© 2026 Mọi quyền được bảo lưu.",
+    "tagline": "Tổ chức phi lợi nhuận hỗ trợ người nhập cư"
+  },
+  "aria": {
+    "close": "Đóng",
+    "closeModal": "Đóng cửa sổ",
+    "carousel": "Băng chuyền tiêu đề",
+    "carouselNav": "Điều hướng băng chuyền",
+    "previousSlide": "Slide trước",
+    "nextSlide": "Slide tiếp",
+    "goToSlide": "Đi đến slide",
+    "carouselSlider": "Thanh trượt băng chuyền",
+    "previousTestimonial": "Lời chứng trước",
+    "nextTestimonial": "Lời chứng tiếp",
+    "goToTestimonial": "Đi đến lời chứng",
+    "learnMoreAbout": "Tìm hiểu thêm về"
+  },
+  "loading": "Đang tải...",
+  "mission": {
+    "tagline": "Sự đa dạng gắn kết chúng ta",
+    "title": "Sứ mệnh của chúng tôi",
+    "statement": "Chào đón, giúp đỡ và đồng hành cùng người nhập cư trong quá trình hòa nhập cá nhân, xã hội và nghề nghiệp.",
+    "visionLabel": "Tầm nhìn của chúng tôi",
+    "vision": "Phục vụ và đoàn kết thông qua chuyên môn và thực tiễn sáng tạo để cùng nhau sống tốt hơn.",
+    "valuesLabel": "Giá trị của chúng tôi",
+    "values": [
+      "Cống hiến",
+      "Tin tưởng",
+      "Khoan dung",
+      "Vị tha",
+      "Đoàn kết",
+      "Công bằng"
+    ],
+    "historyCTA": "Câu chuyện của chúng tôi",
+    "historyTitle": "Câu chuyện của chúng tôi",
+    "buildingAlt": "Tòa nhà CARI St-Laurent",
+    "founded": "Thành lập",
+    "historyIntro": "Được thành lập năm 1989, Trung tâm Tiếp nhận và Giới thiệu xã hội và kinh tế cho Người nhập cư Saint-Laurent (CARI St-Laurent) là một tổ chức phi lợi nhuận, phi giáo phái và phi đảng phái.",
+    "approachLabel": "Phương pháp tiếp cận",
+    "approach": "Một cách tiếp cận liên văn hóa dựa trên sự tôn trọng sự khác biệt, cởi mở với người khác và sự đa dạng dân tộc văn hóa và tôn giáo.",
+    "impactLabel": "Tác động của chúng tôi",
+    "impact": "Hơn 7.000 người được hỗ trợ mỗi năm, đến từ 128 quốc gia và nói 95 ngôn ngữ khác nhau."
+  }
+}

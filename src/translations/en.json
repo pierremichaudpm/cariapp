@@ -1,0 +1,431 @@
+{
+  "nav": {
+    "home": "Home",
+    "needs": "Your needs",
+    "activities": "Activities",
+    "news": "Resources",
+    "talk": "Appointment",
+    "talkToAdvisor": "Talk to an advisor",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Find <span class='highlight'>your place</span> in Quebec",
+    "subtitle": "Employment, French, housing, procedures: free support from A to Z",
+    "discoverServices": "Discover our services",
+    "letsTalk": "Talk to an advisor",
+    "testFrench": "Test my French",
+    "stats": {
+      "peopleHelped": "People helped/year",
+      "satisfaction": "Satisfaction",
+      "findEmployment": "Find employment"
+    },
+    "slides": {
+      "slide1": {
+        "quote": "« Thanks to CARI, I found my dream job in 6 months! »",
+        "author": "Asma B.",
+        "role": "Morocco • Arrived 2020"
+      },
+      "slide2": {
+        "quote": "« From refugee to entrepreneur, CARI supported me »",
+        "author": "Jean-Pierre H.",
+        "role": "Haiti • Arrived 2020"
+      },
+      "slide3": {
+        "quote": "« French seemed impossible, now I speak it fluently! »",
+        "author": "Jasmine M.",
+        "role": "Haiti • Arrived 2021"
+      },
+      "slide4": {
+        "quote": "« My children are thriving, we found our place here »",
+        "author": "Karla A.",
+        "role": "DRC • Arrived 2019"
+      },
+      "slide5": {
+        "quote": "« The help understanding the Quebec system changed everything »",
+        "author": "Wei L.",
+        "role": "China • Arrived 2022"
+      }
+    }
+  },
+  "needs": {
+    "title": "What are your needs?",
+    "subtitle": "We support you at every step of your integration in Quebec",
+    "instruction": "Select a service to learn more",
+    "cards": {
+      "welcome": "I just arrived",
+      "french": "I'm learning French",
+      "employment": "I'm looking for a job",
+      "family": "I have a family",
+      "women": "I am a woman",
+      "volunteering": "I want to get involved"
+    }
+  },
+  "newsSection": {
+    "title": "Resources",
+    "subtitle": "Practical guides, testimonials and news to support your integration"
+  },
+  "news": {
+    "moreContentButton": "All resources",
+    "moreNewsTitle": "All resources",
+    "filters": {
+      "all": "View all",
+      "guide": "Practical guides",
+      "histoire": "Stories from here",
+      "actualite": "News"
+    },
+    "contentTypes": {
+      "guide": "GUIDE",
+      "histoire": "STORY",
+      "actualite": "NEWS"
+    }
+  },
+  "newsModal": {
+    "share": "Share",
+    "shareOn": {
+      "facebook": "Share on Facebook",
+      "twitter": "Share on Twitter",
+      "linkedin": "Share on LinkedIn",
+      "whatsapp": "Share on WhatsApp"
+    }
+  },
+  "newsCategories": {
+    "francisation": "French Learning",
+    "emploi": "Employment",
+    "femmes": "Women of the World",
+    "integration": "Integration",
+    "parents": "Parents & Youth"
+  },
+  "media": {
+    "videoNotSupported": "Your browser does not support video playback.",
+    "audioNotSupported": "Your browser does not support audio playback."
+  },
+  "activitiesSection": {
+    "title": "Our Upcoming Activities",
+    "subtitle": "Join our community and participate in our workshops, courses and events",
+    "allEvents": "All Our Events"
+  },
+  "activities": {
+    "registerButton": "Register",
+    "moreEventsButton": "More events",
+    "filters": {
+      "all": "View all",
+      "welcome": "Welcome",
+      "french": "French",
+      "employment": "Employment",
+      "family": "Family",
+      "women": "Women"
+    }
+  },
+  "testimonialsSection": {
+    "title": "They Succeeded with CARI",
+    "subtitle": "Discover the inspiring stories of those who found their place in Quebec"
+  },
+  "testimonials": {
+    "arrived": "Arrived",
+    "items": [
+      {
+        "name": "Asma B.",
+        "country": "Morocco",
+        "year": "2020",
+        "text": "Thanks to CARI, I found my dream job in 6 months! The personalized support and workshops gave me the confidence I needed to succeed in my interviews.",
+        "service": "Employment Assistance"
+      },
+      {
+        "name": "Jean-Pierre H.",
+        "country": "Haiti",
+        "year": "2020",
+        "text": "From refugee to entrepreneur, CARI supported me at every step. Today, I have my own business and employ 5 people.",
+        "service": "Global Support"
+      },
+      {
+        "name": "Jasmine M.",
+        "country": "Haiti",
+        "year": "2021",
+        "text": "French seemed impossible, now I speak it fluently! The courses are excellent and the teachers very patient.",
+        "service": "French Learning"
+      },
+      {
+        "name": "Karla A.",
+        "country": "DRC",
+        "year": "2019",
+        "text": "My children are thriving, we found our place here. CARI's family services made all the difference.",
+        "service": "Family Services"
+      },
+      {
+        "name": "Wei L.",
+        "country": "China",
+        "year": "2022",
+        "text": "The help understanding the Quebec system changed everything. I now feel at home in Montreal.",
+        "service": "Welcome & Integration"
+      }
+    ],
+    "parallaxItems": [
+      {
+        "quote": "Thanks to CARI, I found my dream job in 6 months! The team supported me at every step.",
+        "name": "Asma B.",
+        "origin": "Morocco • Arrived 2020"
+      },
+      {
+        "quote": "The French courses allowed me to become independent quickly. I recommend them to all newcomers!",
+        "name": "Ahmed K.",
+        "origin": "Syria • Arrived 2021"
+      },
+      {
+        "quote": "The Women of the World program gave me confidence and an amazing network of friends.",
+        "name": "Maria L.",
+        "origin": "Colombia • Arrived 2019"
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Solutions adapted to your situation",
+    "learnMore": "Learn more",
+    "modal": {
+      "benefits": "What you get",
+      "details": "Service details",
+      "close": "Close"
+    },
+    "cards": {
+      "welcome": {
+        "title": "Welcome & Integration",
+        "description": "Information, orientation and personalized support to facilitate your settlement.",
+        "fullDescription": "Individualized support and group activities to promote your settlement and facilitate your integration into your new community. We help you become independent and thrive in Quebec.",
+        "benefits": [
+          "Individual information and orientation sessions",
+          "Support with administrative procedures",
+          "Group activities to build connections",
+          "Referrals to community resources",
+          "Support for autonomy and independence"
+        ],
+        "details": "Free service offered in French, English, Spanish, Arabic and other languages. In-person or phone appointments."
+      },
+      "french": {
+        "title": "French Learning",
+        "description": "French courses adapted for immigrants, all levels, flexible schedules (8:30 AM-10 PM). Test your level for free!",
+        "fullDescription": "Full-time and part-time French training, adapted to the learner's level. Our qualified and attentive teachers use modern teaching methods.",
+        "benefits": [
+          "Full-time and part-time courses",
+          "Flexible schedules from 8:30 AM to 10 PM",
+          "All levels accepted",
+          "Qualified and experienced teachers",
+          "Methods adapted for immigrants",
+          "Free 10-minute level test"
+        ],
+        "details": "Free courses funded by MIFI. Possibility of participation allowance. Continuous enrollment."
+      },
+      "employment": {
+        "title": "Employment Assistance",
+        "description": "Resume workshops, interview simulations, professional coaching and meetings with employers.",
+        "fullDescription": "Dynamic job search approaches, networking activities and connections with employers. Personalized support to facilitate your integration into the Quebec job market.",
+        "benefits": [
+          "Resume and cover letter writing workshops",
+          "Personalized interview simulations",
+          "Individual professional coaching",
+          "Direct meetings with employers",
+          "Support in active job searching",
+          "85% find a job within 6 months"
+        ],
+        "details": "Free service with personalized follow-up. Individual appointments and regular group workshops."
+      },
+      "family": {
+        "title": "Family Services",
+        "description": "Support for families, activities for children and teenagers, help with schooling.",
+        "fullDescription": "Support for immigrant parents with childcare services, school orientation and activities promoting children's overall development and parental integration.",
+        "benefits": [
+          "Childcare services for young children",
+          "Help with school orientation",
+          "Educational and recreational activities",
+          "Homework and lesson support",
+          "Workshops for parents",
+          "Organized family outings"
+        ],
+        "details": "Free or low-cost services. Limited spots, registration required."
+      },
+      "women": {
+        "title": "Women of the World",
+        "description": "Specific programs for immigrant women: autonomy, health, employment.",
+        "fullDescription": "A dedicated space to break women's isolation through intercultural connections, mutual support networks and professional skills development for immigrant women and residents.",
+        "benefits": [
+          "Autonomy and self-esteem workshops",
+          "Adapted professional training",
+          "Women's support network",
+          "Intercultural activities",
+          "Women's health information",
+          "Employment support"
+        ],
+        "details": "Free and confidential. Welcoming and supportive group. Childcare available on request."
+      },
+      "volunteering": {
+        "title": "Volunteering & Pairing",
+        "description": "Intercultural meetings, social activities and volunteering opportunities.",
+        "fullDescription": "Intercultural pairing program, skills development, language and computer courses, citizenship integration pathway and volunteering opportunities to foster community belonging.",
+        "benefits": [
+          "Pairing with a Quebecer",
+          "Language and computer courses",
+          "Canadian citizenship workshops",
+          "Volunteering opportunities",
+          "Social and cultural activities",
+          "Developing your network"
+        ],
+        "details": "Free. Flexible commitment based on your availability. Volunteering certificates available."
+      }
+    }
+  },
+  "appointment": {
+    "title": "Let's make an appointment",
+    "subtitle": "Choose the service that interests you",
+    "steps": {
+      "yourNeed": "Your Need",
+      "yourInfo": "Your Information",
+      "confirmation": "Confirmation"
+    },
+    "consultationTypes": {
+      "welcome": "Welcome & Integration Consultation",
+      "french": "French Learning Consultation",
+      "employment": "Employment Consultation",
+      "family": "Family Services Consultation",
+      "women": "Women of the World Consultation",
+      "volunteering": "Volunteering Consultation"
+    },
+    "form": {
+      "name": "Full name",
+      "phone": "Phone number",
+      "email": "Email address",
+      "service": "Desired service",
+      "date": "Preferred date",
+      "time": "Preferred time",
+      "message": "Message (optional)",
+      "submit": "Confirm appointment",
+      "namePlaceholder": "First and last name",
+      "phonePlaceholder": "(514) 123-4567",
+      "emailPlaceholder": "your@email.com",
+      "messagePlaceholder": "Briefly describe your situation...",
+      "selectTime": "Choose a time",
+      "confirmationNote": "You will receive a confirmation by email within 24 hours"
+    },
+    "contact": {
+      "hoursLabel": "Hours",
+      "schedule": "Mon-Fri: 9 AM - 5 PM"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you",
+    "mapText": "Interactive map available on the site",
+    "viewGoogleMaps": "View on Google Maps",
+    "subjects": {
+      "general": "General inquiry",
+      "info": "Information request",
+      "appointment": "Appointment booking",
+      "french": "French courses",
+      "employment": "Employment help",
+      "family": "Family services"
+    },
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "subject": "Subject",
+      "message": "Your message",
+      "submit": "Send message"
+    },
+    "info": {
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "hoursLabel": "Business Hours",
+      "accessLabel": "Access",
+      "address": "774 Décarie Blvd, Suite 300, Saint-Laurent H4L 3L5",
+      "phone": "(514) 748-2007",
+      "email": "carist@cari.qc.ca",
+      "hours": "Mon-Fri 9 AM-12 PM, 12:30-4:30 PM",
+      "frenchHours": "French Learning: 8:30 AM-10 PM",
+      "metro": "Metro: Du Collège (orange line)",
+      "bus": "Bus: 17, 64, 121, 368",
+      "parking": "Free parking on site"
+    }
+  },
+  "chatbot": {
+    "title": "CARI Assistant",
+    "placeholder": "Ask your question...",
+    "typing": "CARI Assistant is typing...",
+    "status": "Online",
+    "error": "Sorry, an error occurred. Please try again.",
+    "suggestions": {
+      "services": "Services",
+      "appointment": "Appointment",
+      "appointmentInput": "Make an appointment",
+      "french": "French",
+      "frenchInput": "French courses"
+    },
+    "responses": {
+      "greeting": "Hello! I'm delighted to help you. CARI offers 6 main services for your integration in Quebec. Which service interests you most?",
+      "services": "Our 6 services:\n• Welcome & Integration\n• French Learning (8:30 AM-10 PM)\n• Employment Assistance (85% success!)\n• Family Services\n• Women of the World\n• Volunteering & Pairing\n\nWhich one would you like more info about?",
+      "appointment": "To book an appointment:\n• Call (514) 748-2007\n• Fill the form on this page\n• Available Mon-Fri 9 AM-4:30 PM\n\nWhat type of consultation? (welcome/french/employment)",
+      "contact": "(514) 748-2007\ncarist@cari.qc.ca\n774 Décarie Blvd #300, Saint-Laurent\nMon-Fri: 9 AM-12 PM, 12:30-4:30 PM\n\nHow can I help you further?",
+      "french": "Our French courses:\n• 8:30 AM-10 PM (very flexible!)\n• All levels accepted\n• Methods adapted for immigrants\n• Free level assessment\n\nWould you like to schedule an evaluation?",
+      "employment": "Our employment assistance:\n• Resume/cover letter workshops\n• Interview simulations\n• Professional coaching\n• Employer meetings\n• 85% find a job within 6 months!\n\nInterested in employment consultation?",
+      "default": "I can help you with:\n• Information about our services\n• Appointment booking\n• Contact details\n• Personalized advice\n\nWhat would you like to know?"
+    }
+  },
+  "success": {
+    "contact": "Thank you! Your request has been sent. We will contact you shortly.",
+    "appointment": "✅ Appointment confirmed! You will receive a confirmation by email and SMS in the next few minutes."
+  },
+  "parallax": {
+    "statsTitle": "Together, we make a difference",
+    "statsSubtitle": "Since 1989, CARI has been supporting newcomers to success",
+    "stats": {
+      "peopleHelped": "People helped/year",
+      "languagesSpoken": "Languages spoken",
+      "countries": "Countries represented",
+      "yearsOfService": "Years of experience"
+    },
+    "ctaTitle": "Ready to start your new life in Quebec?",
+    "ctaSubtitle": "Our multilingual team is here to support you every step of your integration."
+  },
+  "footer": {
+    "copyright": "© 2026 All rights reserved.",
+    "tagline": "Non-profit organization helping immigrants"
+  },
+  "aria": {
+    "close": "Close",
+    "closeModal": "Close window",
+    "carousel": "Header carousel",
+    "carouselNav": "Carousel navigation",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "goToSlide": "Go to slide",
+    "carouselSlider": "Carousel slider",
+    "previousTestimonial": "Previous testimonial",
+    "nextTestimonial": "Next testimonial",
+    "goToTestimonial": "Go to testimonial",
+    "learnMoreAbout": "Learn more about"
+  },
+  "loading": "Loading...",
+  "mission": {
+    "tagline": "Diversity brings us together",
+    "title": "Our Mission",
+    "statement": "Welcome, help and accompany immigrants in their personal, social and professional integration.",
+    "visionLabel": "Our Vision",
+    "vision": "Serve and unite through innovative expertise and practices for a better life together.",
+    "valuesLabel": "Our Values",
+    "values": [
+      "Devotion",
+      "Trust",
+      "Tolerance",
+      "Altruism",
+      "Solidarity",
+      "Equity"
+    ],
+    "historyCTA": "Our Story",
+    "historyTitle": "Our Story",
+    "buildingAlt": "CARI St-Laurent Building",
+    "founded": "Founded",
+    "historyIntro": "Created in 1989, the Centre d'Accueil et de Référence sociale et économique pour Immigrants de Saint-Laurent (CARI St-Laurent) is a non-profit, non-denominational and non-partisan organization.",
+    "approachLabel": "Our Approach",
+    "approach": "An intercultural approach based on respect for difference, openness to others and ethnocultural and religious diversity.",
+    "impactLabel": "Our Impact",
+    "impact": "Over 7,000 people supported each year, from 128 countries and speaking 95 different languages."
+  }
+}

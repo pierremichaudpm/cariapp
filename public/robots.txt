@@ -1,0 +1,42 @@
+# robots.txt for CARI St-Laurent React Application
+# Generated for Netlify deployment
+
+User-agent: *
+Allow: /
+
+# Sitemap location (update with your actual domain)
+Sitemap: https://cari-st-laurent.netlify.app/sitemap.xml
+Sitemap: https://cari-st-laurent.netlify.app/sitemap-index.xml
+
+# Disallow crawling of admin or private paths
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow all other paths for search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Slurp
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Development and staging environments
+User-agent: *
+Disallow: /staging/
+Disallow: /dev/
+Disallow: /test/
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 2
+
+# Note: This is a Single Page Application (SPA)
+# Search engines should be able to crawl JavaScript-rendered content
