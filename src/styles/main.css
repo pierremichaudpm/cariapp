@@ -368,7 +368,7 @@ body {
 
 /* Bouton RDV dans le header */
 .btn-rdv-header {
-    padding: 0.5rem clamp(0.75rem, 1.5vw, 1.25rem);
+    padding: 0.45rem clamp(0.75rem, 1.5vw, 1.25rem);
     background: var(--accent-coral);
     color: white;
     border: none;
@@ -753,7 +753,7 @@ body {
 @media (max-width: 768px) {
     .hero {
         height: calc(
-            100vh - 75px - 70px - var(--status-bar-height, 0px)
+            100dvh - 75px - 70px - var(--status-bar-height, 0px)
         ) !important;
         min-height: auto !important;
         max-height: none !important;
@@ -1383,10 +1383,10 @@ body {
 @media (max-width: 480px) {
     .hero {
         height: calc(
-            100vh - 75px - 70px - var(--status-bar-height, 0px)
+            100dvh - 75px - 70px - var(--status-bar-height, 0px)
         ) !important;
         min-height: calc(
-            100vh - 75px - 70px - var(--status-bar-height, 0px)
+            100dvh - 75px - 70px - var(--status-bar-height, 0px)
         ) !important;
         background: white !important;
         padding: 10px 20px 20px 20px !important;
