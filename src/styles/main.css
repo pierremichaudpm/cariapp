@@ -753,7 +753,7 @@ body {
 @media (max-width: 768px) {
     .hero {
         height: calc(
-            100dvh - 75px - 70px - var(--status-bar-height, 0px)
+            100svh - 75px - 70px - var(--status-bar-height, 0px)
         ) !important;
         min-height: auto !important;
         max-height: none !important;
@@ -914,7 +914,7 @@ body {
         text-align: center !important;
         width: 100% !important;
         max-width: 100% !important;
-        margin: 10px auto 20px !important;
+        margin: 5px auto 5px !important;
         padding: 1.5rem !important;
         background: none !important;
         border-radius: 0 !important;
@@ -1383,10 +1383,10 @@ body {
 @media (max-width: 480px) {
     .hero {
         height: calc(
-            100dvh - 75px - 70px - var(--status-bar-height, 0px)
+            100svh - 75px - 70px - var(--status-bar-height, 0px)
         ) !important;
         min-height: calc(
-            100dvh - 75px - 70px - var(--status-bar-height, 0px)
+            100svh - 75px - 70px - var(--status-bar-height, 0px)
         ) !important;
         background: white !important;
         padding: 10px 20px 20px 20px !important;
@@ -1443,8 +1443,8 @@ body {
     }
 
     .hero-quote {
-        margin: 10px auto 20px !important; /* Reduced spacing - moved up closer to button */
-        padding: 1rem !important;
+        margin: 5px auto 5px !important;
+        padding: 0.75rem !important;
         max-width: 95% !important;
     }
 
