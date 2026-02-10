@@ -20,7 +20,7 @@ import { StatusBar, Style } from "@capacitor/status-bar";
 const Activities = lazy(() => import("./components/Activities"));
 const News = lazy(() => import("./components/News"));
 const Appointment = lazy(() => import("./components/Appointment"));
-const Chat = lazy(() => import("./components/Chat"));
+const CARIChatbot = lazy(() => import("./components/cari-chatbot"));
 
 function App() {
   const {
@@ -359,14 +359,37 @@ function App() {
           </Suspense>
         </main>
 
-        <Suspense fallback={null}>
-          <Chat
-            chatOpen={chatOpen}
-            toggleChat={toggleChat}
-            currentLanguage={currentLanguage}
-            translations={translations}
-          />
-        </Suspense>
+        <div
+          className={`chat-toggle ${chatOpen ? "active" : ""}`}
+          onClick={toggleChat}
+        >
+          <div className="chat-icon">
+            <Icon name="comments" size={24} />
+          </div>
+          <span className="chat-label">
+            {(translations[currentLanguage] || translations.fr).chatbot
+              ?.title || "Assistant CARI"}
+          </span>
+        </div>
+
+        {chatOpen && (
+          <>
+            <div
+              className="chat-backdrop"
+              onClick={toggleChat}
+              style={{
+                position: "fixed",
+                inset: 0,
+                background: "rgba(0,0,0,0.3)",
+                zIndex: 1000,
+                backdropFilter: "blur(2px)",
+              }}
+            />
+            <Suspense fallback={null}>
+              <CARIChatbot onClose={toggleChat} language={currentLanguage} />
+            </Suspense>
+          </>
+        )}
 
         <BottomNav
           scrollToSection={scrollToSection}

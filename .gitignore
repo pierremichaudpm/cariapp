@@ -74,8 +74,8 @@ yarn.lock
 .env.test
 
 # Netlify functions (if used)
-netlify/functions/
-!netlify/functions/.gitkeep
+# netlify/functions/ — keep tracked for chat API
+!netlify/functions/
 
 # Build artifacts
 .cache/
