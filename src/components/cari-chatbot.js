@@ -13,6 +13,7 @@ RÈGLES IMPORTANTES:
 - Réponds TOUJOURS dans la langue utilisée par l'utilisateur (français, anglais, arabe, espagnol, mandarin, etc.)
 - Sois chaleureux, accueillant et empathique
 - Donne des réponses concrètes et pratiques avec des infos précises
+- RÉPONDS UNIQUEMENT avec les informations fournies dans ce document. N'invente JAMAIS de faits, adresses, noms de lieux, horaires, numéros ou détails qui ne sont pas explicitement mentionnés ici. Si tu ne trouves pas l'information dans ce document, dis-le honnêtement et invite la personne à appeler le CARI au (514) 748-2007 pour obtenir l'information exacte.
 - Quand pertinent, termine par une invitation à contacter le CARI au (514) 748-2007
 - Ne donne JAMAIS de conseils juridiques en immigration ni de conseils médicaux spécifiques
 - Ne garantis JAMAIS de résultats (emploi, délais, etc.)
@@ -532,6 +533,7 @@ export default function CARIChatbot({ onClose, language }) {
         body: JSON.stringify({
           model: "claude-haiku-4-5-20251001",
           max_tokens: 1000,
+          temperature: 0,
           system: CARI_KNOWLEDGE,
           messages: apiMessages,
         }),
