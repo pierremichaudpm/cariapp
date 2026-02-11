@@ -136,7 +136,7 @@ Notre équipe vous accompagne gratuitement dans toutes ces démarches et bien pl
         "Arrivée de Syrie en 2019, Fatima dirige aujourd'hui sa pâtisserie à Saint-Laurent. Elle raconte son parcours avec le CARI.",
       image:
         "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&h=600&fit=crop",
-      author: "Pierre Lambert",
+      author: "Équipe CARI",
       date: "2025-01-20",
       videoUrl:
         "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -172,7 +172,7 @@ Sa pâtisserie "Les Délices de Fatima" emploie maintenant deux personnes et fou
         "Inscription ouverte pour notre programme de francisation accélérée. Tous niveaux, horaires flexibles.",
       image:
         "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop",
-      author: "Marie Dubois",
+      author: "Équipe CARI",
       date: "2025-01-27",
       content: `Nous sommes heureux d'annoncer l'ouverture des inscriptions pour notre programme de francisation accélérée qui débutera en mars 2025.
 
@@ -207,7 +207,7 @@ Pour vous inscrire, veuillez nous contacter au 514-747-8229 ou passer directemen
         "Évaluation comparative, ordres professionnels, équivalences... Le parcours étape par étape pour valoriser vos études.",
       image:
         "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=600&fit=crop",
-      author: "Karim Benali",
+      author: "Équipe CARI",
       date: "2025-01-28",
       content: `Vous avez un diplôme obtenu à l'étranger et vous souhaitez le faire valoir au Québec? Le processus peut sembler complexe, mais en comprenant bien les étapes et les organismes impliqués, vous pouvez naviguer le système avec confiance.
 
@@ -252,7 +252,7 @@ Commencez tôt — lancez vos démarches avant même votre arrivée si possible.
         "En 18 mois, Ahmed est passé de zéro mot en français à un emploi dans son domaine. Les clés de sa réussite.",
       image:
         "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&h=600&fit=crop",
-      author: "Sophie Tremblay",
+      author: "Équipe CARI",
       date: "2025-01-10",
       content: `Quand Ahmed est arrivé à Montréal en janvier 2023, il ne parlait pas un mot de français. Ingénieur en informatique au Maroc depuis 8 ans, il avait les compétences techniques mais pas la langue pour les valoriser au Québec.
 
@@ -283,7 +283,7 @@ Son conseil aux nouveaux arrivants: "N'attendez pas. Allez au CARI dès votre pr
         "Plus de 30 employeurs confirmés. Apportez vos CV! Inscription gratuite mais obligatoire.",
       image:
         "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
-      author: "Karim Benali",
+      author: "Équipe CARI",
       date: "2025-01-18",
       content: `Le CARI Saint-Laurent organise son salon annuel de l'emploi dédié aux personnes immigrantes. Plus de 30 employeurs de la région de Montréal seront présents.
 
@@ -324,7 +324,7 @@ Le CARI offre des ateliers de préparation gratuits dans les semaines précédan
         "Vêtements, transport, chauffage, activités: tout ce qu'il faut savoir pour apprécier l'hiver montréalais.",
       image:
         "https://images.unsplash.com/photo-1477601263568-180e2c6d046e?w=800&h=600&fit=crop",
-      author: "Marie Dubois",
+      author: "Équipe CARI",
       date: "2025-01-15",
       content: `L'hiver québécois fait rêver ou fait peur, mais une chose est certaine: avec la bonne préparation, il devient une saison extraordinaire plutôt qu'une épreuve.
 
@@ -373,7 +373,7 @@ Les journées courtes et le froid peuvent affecter votre moral. Sortez chaque jo
         "Maria, Linh et Amina partagent comment elles ont reconstruit leur vie au Québec.",
       image:
         "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
-      author: "Fatima Benali",
+      author: "Équipe CARI",
       date: "2025-01-05",
       audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
       duration: "24:15",
@@ -451,7 +451,7 @@ Prenez rendez-vous avec notre équipe logement au 514-748-2007 ou passez directe
         "RAMQ, médecin de famille, urgences, pharmacies: guide complet du système de santé pour les nouveaux arrivants.",
       image:
         "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop",
-      author: "Sophie Tremblay",
+      author: "Équipe CARI",
       date: "2025-01-10",
       content: `Le système de santé du Québec est public et universel, financé par les impôts. C'est une excellente couverture, mais il fonctionne différemment de ce que vous avez peut-être connu.
 
@@ -502,7 +502,7 @@ Tous les enfants résidant au Québec sont couverts par la RAMQ, quel que soit l
         "Profitez de l'hiver québécois avec vos enfants! Découvrez les meilleures activités familiales.",
       image:
         "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
-      author: "Sophie Martin",
+      author: "Équipe CARI",
       date: "2025-01-18",
       videoUrl:
         "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
@@ -546,7 +546,7 @@ Le CARI organise des sorties familiales mensuelles pour découvrir le Québec en
         "Retrouvez l'enregistrement de notre atelier sur les ressources et programmes d'aide aux femmes entrepreneures.",
       image:
         "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
-      author: "Fatima Benali",
+      author: "Équipe CARI",
       date: "2025-01-12",
       videoUrl:
         "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
@@ -590,7 +590,7 @@ Inscrivez-vous à notre prochain café-rencontre entrepreneurial!`,
         "Complétez vos cours avec ces applications mobiles recommandées par nos professeurs de francisation.",
       image:
         "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop",
-      author: "Jean Tremblay",
+      author: "Équipe CARI",
       date: "2025-01-08",
       content: `Les cours de francisation sont essentiels, mais votre apprentissage ne devrait pas s'arrêter à la fin de la journée.
 
@@ -629,7 +629,7 @@ Mauril ou Duolingo 10 minutes chaque matin. Un podcast pendant les trajets. Un e
         "Bail, droits du locataire, où chercher, arnaques à éviter: tout pour trouver votre chez-vous à Montréal.",
       image:
         "https://plus.unsplash.com/premium_photo-1712171185603-c8cc8f0e9a7a?w=800&h=600&fit=crop",
-      author: "Carlos Rodriguez",
+      author: "Équipe CARI",
       date: "2025-01-22",
       content: `Le marché du logement à Montréal est tendu, surtout pour les nouveaux arrivants sans historique de crédit ni références locales.
 
@@ -673,7 +673,7 @@ Le CARI offre un service de consultation personnalisé pour la recherche de loge
         "CV québécois, entrevue, réseautage, marché caché: les codes du marché du travail d'ici.",
       image:
         "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&h=600&fit=crop",
-      author: "Karim Benali",
+      author: "Équipe CARI",
       date: "2025-02-05",
       content: `Trouver un emploi au Québec ne se résume pas à envoyer des CV. Le marché du travail a ses propres codes culturels.
 
@@ -712,7 +712,7 @@ Semaine de 40h, 2 semaines de vacances après 1 an, protection contre le congéd
         "Taxes, crédit, budget, allocations familiales: les bases pour gérer votre argent intelligemment.",
       image:
         "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
-      author: "Sophie Tremblay",
+      author: "Équipe CARI",
       date: "2025-02-12",
       content: `L'argent fonctionne différemment au Québec — entre les taxes de vente, les deux paliers d'impôt et le système de crédit, il y a beaucoup à apprendre.
 
