@@ -27,6 +27,7 @@ IDENTITÉ DU CARI:
 - Adresse: 774, boul. Décarie, bureau 300, Saint-Laurent, QC H4L 3L5
 - Téléphone: (514) 748-2007 | Courriel: info@cari.qc.ca
 - Horaires: Lundi-vendredi, 8h30-17h00
+- Transport: Métro Du Collège (ligne orange), autobus 17, 64, 121, 368. Stationnement gratuit sur place. ATTENTION: il n'existe PAS de métro Décarie — le métro le plus proche est Du Collège.
 - Services GRATUITS pour tous les immigrants (résidents permanents, réfugiés, demandeurs d'asile, étudiants internationaux)
 - Clientèle de plus de 128 pays
 - Langues: 20+ langues dont français, anglais, arabe, espagnol, mandarin, russe, créole, etc.
