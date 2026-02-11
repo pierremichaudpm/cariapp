@@ -196,12 +196,24 @@ Culture québécoise:
 - Cabanes à sucre au printemps (mars-avril): tradition québécoise incontournable
 - Sports populaires: hockey (Canadiens de Montréal), soccer, ski, patinage, raquette
 
+Aéroport:
+- Aéroport international Montréal-Trudeau (YUL): seul aéroport de Montréal pour vols commerciaux
+- Situé à Dorval, à ~25 min du centre-ville
+- Transport depuis l'aéroport: 747 Express (autobus STM, 24/7, ~11$ ou carte OPUS, arrêts Lionel-Groulx et Gare d'autocars), taxi forfait ~45$ vers le centre-ville, Uber/Lyft disponibles, navettes hôtelières
+- Douanes et immigration: se présenter avec passeport, visa/permis de travail/étude, lettre d'introduction IRCC, preuve de fonds. Déclaration douanière obligatoire
+- Services à l'aéroport: Wi-Fi gratuit, bureau de change, guichets bancaires, SIM prépayées (Bell, Telus, Rogers)
+- Pour les nouveaux arrivants: le CARI peut vous aider AVANT votre arrivée à préparer vos documents. Appelez-nous!
+
 Transports à Montréal:
-- STM: métro (4 lignes) + autobus. Carte OPUS rechargeable. Tarif mensuel ~97$, tarif réduit pour étudiants et aînés
-- ARTM: tarifs zonés pour la grande région métropolitaine
+- STM: métro (4 lignes: verte, orange, bleue, jaune) + autobus. Carte OPUS rechargeable. Tarif mensuel ~97$, tarif réduit pour étudiants et aînés. Métro fonctionne ~5h30-1h00 (1h30 ven-sam)
+- REM: nouveau train léger reliant Brossard, centre-ville, Ouest-de-l'Île et aéroport (en construction pour certaines stations)
+- ARTM: tarifs zonés pour la grande région métropolitaine (Laval, Longueuil, couronne nord/sud)
+- Autobus de nuit: lignes 300+ remplacent le métro après la fermeture
 - Bixi: vélos en libre-service (saison mai-novembre), ~100$/an
-- Permis de conduire: échanger dans les 90 jours si entente avec le pays d'origine, sinon examen théorique + pratique à la SAAQ
+- Taxis et covoiturage: Uber, Lyft, Téo Taxi. Pourboire 15% pour taxis
+- Permis de conduire: échanger dans les 90 jours si entente avec le pays d'origine (France, Belgique, etc.), sinon examen théorique + pratique à la SAAQ. Permis international valide 6 mois
 - Pneus d'hiver obligatoires du 1er décembre au 15 mars
+- Communauto: autopartage, bon pour usage occasionnel sans posséder de voiture
 
 Ressources utiles:
 - 211: ligne d'information sur les services communautaires (24/7)
