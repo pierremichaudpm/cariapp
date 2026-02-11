@@ -719,7 +719,43 @@
       "emailPlaceholder": "your@email.com",
       "messagePlaceholder": "Briefly describe your situation...",
       "selectTime": "Choose a time",
-      "confirmationNote": "You will receive a confirmation by email within 24 hours"
+      "confirmationNote": "You will receive a confirmation by email within 24 hours",
+      "immigrationStatus": "Immigration status",
+      "selectStatus": "Select your status",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Permanent resident"
+        },
+        {
+          "value": "refugie",
+          "label": "Refugee / Protected person"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Asylum seeker"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Temporary worker"
+        },
+        {
+          "value": "etudiant",
+          "label": "International student"
+        },
+        {
+          "value": "parraine",
+          "label": "Sponsored"
+        },
+        {
+          "value": "citoyen",
+          "label": "Canadian citizen"
+        },
+        {
+          "value": "autre",
+          "label": "Other"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "Hours",

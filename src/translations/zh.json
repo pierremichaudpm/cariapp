@@ -597,7 +597,43 @@
       "emailPlaceholder": "您的@邮箱.com",
       "messagePlaceholder": "简要描述您的情况...",
       "selectTime": "选择时间",
-      "confirmationNote": "您将在24小时内收到电子邮件确认"
+      "confirmationNote": "您将在24小时内收到电子邮件确认",
+      "immigrationStatus": "移民身份",
+      "selectStatus": "选择您的身份",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "永久居民"
+        },
+        {
+          "value": "refugie",
+          "label": "难民/受保护人士"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "寻求庇护者"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "临时工人"
+        },
+        {
+          "value": "etudiant",
+          "label": "国际学生"
+        },
+        {
+          "value": "parraine",
+          "label": "被担保人"
+        },
+        {
+          "value": "citoyen",
+          "label": "加拿大公民"
+        },
+        {
+          "value": "autre",
+          "label": "其他"
+        }
+      ]
     },
     "steps": {
       "yourNeed": "您的需求",
@@ -827,7 +863,14 @@
     "visionLabel": "我们的愿景",
     "vision": "通过创新的专业知识和实践服务和团结，共创美好生活。",
     "valuesLabel": "我们的价值观",
-    "values": ["奉献", "信任", "宽容", "利他", "团结", "公平"],
+    "values": [
+      "奉献",
+      "信任",
+      "宽容",
+      "利他",
+      "团结",
+      "公平"
+    ],
     "historyCTA": "我们的故事",
     "historyTitle": "我们的故事",
     "buildingAlt": "CARI St-Laurent大楼",

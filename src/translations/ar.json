@@ -597,7 +597,43 @@
       "emailPlaceholder": "بريدك@الإلكتروني.com",
       "messagePlaceholder": "صِف وضعك باختصار...",
       "selectTime": "اختر وقتًا",
-      "confirmationNote": "ستتلقى تأكيدًا عبر البريد الإلكتروني خلال 24 ساعة"
+      "confirmationNote": "ستتلقى تأكيدًا عبر البريد الإلكتروني خلال 24 ساعة",
+      "immigrationStatus": "وضع الهجرة",
+      "selectStatus": "اختر وضعك",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "مقيم دائم"
+        },
+        {
+          "value": "refugie",
+          "label": "لاجئ / شخص محمي"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "طالب لجوء"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "عامل مؤقت"
+        },
+        {
+          "value": "etudiant",
+          "label": "طالب دولي"
+        },
+        {
+          "value": "parraine",
+          "label": "مكفول"
+        },
+        {
+          "value": "citoyen",
+          "label": "مواطن كندي"
+        },
+        {
+          "value": "autre",
+          "label": "آخر"
+        }
+      ]
     },
     "steps": {
       "yourNeed": "احتياجك",
@@ -827,7 +863,14 @@
     "visionLabel": "رؤيتنا",
     "vision": "الخدمة والتوحيد من خلال الخبرة والممارسات المبتكرة من أجل حياة أفضل معًا.",
     "valuesLabel": "قيمنا",
-    "values": ["التفاني", "الثقة", "التسامح", "الإيثار", "التضامن", "الإنصاف"],
+    "values": [
+      "التفاني",
+      "الثقة",
+      "التسامح",
+      "الإيثار",
+      "التضامن",
+      "الإنصاف"
+    ],
     "historyCTA": "قصتنا",
     "historyTitle": "قصتنا",
     "buildingAlt": "مبنى CARI St-Laurent",

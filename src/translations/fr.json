@@ -712,6 +712,21 @@
       "service": "Service souhaité",
       "date": "Date souhaitée",
       "time": "Horaire préféré",
+      "immigrationStatus": "Statut d'immigration",
+      "selectStatus": "Sélectionnez votre statut",
+      "statusOptions": [
+        { "value": "resident_permanent", "label": "Résident permanent" },
+        { "value": "refugie", "label": "Réfugié / Personne protégée" },
+        { "value": "demandeur_asile", "label": "Demandeur d'asile" },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Travailleur temporaire"
+        },
+        { "value": "etudiant", "label": "Étudiant international" },
+        { "value": "parraine", "label": "Parrainé" },
+        { "value": "citoyen", "label": "Citoyen canadien" },
+        { "value": "autre", "label": "Autre" }
+      ],
       "message": "Message (optionnel)",
       "submit": "Confirmer le rendez-vous",
       "namePlaceholder": "Prénom et nom",

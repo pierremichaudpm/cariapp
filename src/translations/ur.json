@@ -719,7 +719,43 @@
       "emailPlaceholder": "آپکا@ایمیل.com",
       "messagePlaceholder": "اپنی صورتحال مختصراً بیان کریں...",
       "selectTime": "وقت منتخب کریں",
-      "confirmationNote": "آپ کو 24 گھنٹے میں ای میل تصدیق موصول ہوگی"
+      "confirmationNote": "آپ کو 24 گھنٹے میں ای میل تصدیق موصول ہوگی",
+      "immigrationStatus": "امیگریشن کی حیثیت",
+      "selectStatus": "اپنی حیثیت منتخب کریں",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "مستقل رہائشی"
+        },
+        {
+          "value": "refugie",
+          "label": "پناہ گزین / محفوظ شخص"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "پناہ کا درخواست گزار"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "عارضی کارکن"
+        },
+        {
+          "value": "etudiant",
+          "label": "بین الاقوامی طالب علم"
+        },
+        {
+          "value": "parraine",
+          "label": "کفالت یافتہ"
+        },
+        {
+          "value": "citoyen",
+          "label": "کینیڈین شہری"
+        },
+        {
+          "value": "autre",
+          "label": "دیگر"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "اوقات",
@@ -827,7 +863,14 @@
     "visionLabel": "ہماری بصیرت",
     "vision": "بہتر زندگی کے لیے جدید مہارت اور طریقوں کے ذریعے خدمت اور اتحاد۔",
     "valuesLabel": "ہماری اقدار",
-    "values": ["لگن", "اعتماد", "برداشت", "ایثار", "اتحاد", "انصاف"],
+    "values": [
+      "لگن",
+      "اعتماد",
+      "برداشت",
+      "ایثار",
+      "اتحاد",
+      "انصاف"
+    ],
     "historyCTA": "ہماری کہانی",
     "historyTitle": "ہماری کہانی",
     "buildingAlt": "CARI St-Laurent عمارت",

@@ -719,7 +719,43 @@
       "emailPlaceholder": "seu@email.com",
       "messagePlaceholder": "Descreva brevemente sua situação...",
       "selectTime": "Escolher um horário",
-      "confirmationNote": "Você receberá uma confirmação por e-mail em 24h"
+      "confirmationNote": "Você receberá uma confirmação por e-mail em 24h",
+      "immigrationStatus": "Situação imigratória",
+      "selectStatus": "Selecione a sua situação",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Residente permanente"
+        },
+        {
+          "value": "refugie",
+          "label": "Refugiado / Pessoa protegida"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Requerente de asilo"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Trabalhador temporário"
+        },
+        {
+          "value": "etudiant",
+          "label": "Estudante internacional"
+        },
+        {
+          "value": "parraine",
+          "label": "Patrocinado"
+        },
+        {
+          "value": "citoyen",
+          "label": "Cidadão canadense"
+        },
+        {
+          "value": "autre",
+          "label": "Outro"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "Horário",

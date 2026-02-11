@@ -597,7 +597,43 @@
       "emailPlaceholder": "ваш@email.com",
       "messagePlaceholder": "Кратко опишите вашу ситуацию...",
       "selectTime": "Выбрать время",
-      "confirmationNote": "Вы получите подтверждение по электронной почте в течение 24 часов"
+      "confirmationNote": "Вы получите подтверждение по электронной почте в течение 24 часов",
+      "immigrationStatus": "Иммиграционный статус",
+      "selectStatus": "Выберите ваш статус",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Постоянный резидент"
+        },
+        {
+          "value": "refugie",
+          "label": "Беженец / Защищённое лицо"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Соискатель убежища"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Временный работник"
+        },
+        {
+          "value": "etudiant",
+          "label": "Иностранный студент"
+        },
+        {
+          "value": "parraine",
+          "label": "Спонсируемый"
+        },
+        {
+          "value": "citoyen",
+          "label": "Гражданин Канады"
+        },
+        {
+          "value": "autre",
+          "label": "Другое"
+        }
+      ]
     },
     "steps": {
       "yourNeed": "Ваша потребность",

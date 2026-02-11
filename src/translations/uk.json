@@ -719,7 +719,43 @@
       "emailPlaceholder": "ваш@email.com",
       "messagePlaceholder": "Коротко опишіть вашу ситуацію...",
       "selectTime": "Оберіть час",
-      "confirmationNote": "Ви отримаєте підтвердження електронною поштою протягом 24 годин"
+      "confirmationNote": "Ви отримаєте підтвердження електронною поштою протягом 24 годин",
+      "immigrationStatus": "Імміграційний статус",
+      "selectStatus": "Оберіть ваш статус",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Постійний резидент"
+        },
+        {
+          "value": "refugie",
+          "label": "Біженець / Захищена особа"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Шукач притулку"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Тимчасовий працівник"
+        },
+        {
+          "value": "etudiant",
+          "label": "Іноземний студент"
+        },
+        {
+          "value": "parraine",
+          "label": "Спонсорований"
+        },
+        {
+          "value": "citoyen",
+          "label": "Громадянин Канади"
+        },
+        {
+          "value": "autre",
+          "label": "Інше"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "Години роботи",

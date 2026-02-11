@@ -719,7 +719,43 @@
       "emailPlaceholder": "iyong@email.com",
       "messagePlaceholder": "Ilarawan nang maikli ang iyong sitwasyon...",
       "selectTime": "Pumili ng oras",
-      "confirmationNote": "Makakatanggap ka ng kumpirmasyon sa email sa loob ng 24 oras"
+      "confirmationNote": "Makakatanggap ka ng kumpirmasyon sa email sa loob ng 24 oras",
+      "immigrationStatus": "Katayuan ng imigrasyon",
+      "selectStatus": "Piliin ang iyong katayuan",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Permanenteng residente"
+        },
+        {
+          "value": "refugie",
+          "label": "Refugee / Protektadong tao"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Naghahanap ng asylum"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Pansamantalang manggagawa"
+        },
+        {
+          "value": "etudiant",
+          "label": "International na estudyante"
+        },
+        {
+          "value": "parraine",
+          "label": "Na-sponsor"
+        },
+        {
+          "value": "citoyen",
+          "label": "Mamamayang Kanadyense"
+        },
+        {
+          "value": "autre",
+          "label": "Iba pa"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "Oras ng opisina",

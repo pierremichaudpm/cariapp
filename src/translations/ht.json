@@ -719,7 +719,43 @@
       "emailPlaceholder": "ou@imèl.com",
       "messagePlaceholder": "Dekri sitiyasyon ou an bref...",
       "selectTime": "Chwazi yon lè",
-      "confirmationNote": "Ou pral resevwa yon konfimasyon pa imèl nan 24è"
+      "confirmationNote": "Ou pral resevwa yon konfimasyon pa imèl nan 24è",
+      "immigrationStatus": "Estati imigrasyon",
+      "selectStatus": "Chwazi estati ou",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Rezidan pèmanan"
+        },
+        {
+          "value": "refugie",
+          "label": "Refijye / Moun pwoteje"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Demandè azil"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Travayè tanporè"
+        },
+        {
+          "value": "etudiant",
+          "label": "Etidyan entènasyonal"
+        },
+        {
+          "value": "parraine",
+          "label": "Parene"
+        },
+        {
+          "value": "citoyen",
+          "label": "Sitwayen kanadyen"
+        },
+        {
+          "value": "autre",
+          "label": "Lòt"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "Orè",

@@ -719,7 +719,43 @@
       "emailPlaceholder": "email@cuaban.com",
       "messagePlaceholder": "Mô tả ngắn gọn tình huống của bạn...",
       "selectTime": "Chọn giờ",
-      "confirmationNote": "Bạn sẽ nhận xác nhận qua email trong 24 giờ"
+      "confirmationNote": "Bạn sẽ nhận xác nhận qua email trong 24 giờ",
+      "immigrationStatus": "Tình trạng nhập cư",
+      "selectStatus": "Chọn tình trạng của bạn",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Thường trú nhân"
+        },
+        {
+          "value": "refugie",
+          "label": "Người tị nạn / Người được bảo vệ"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Người xin tị nạn"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Lao động tạm thời"
+        },
+        {
+          "value": "etudiant",
+          "label": "Sinh viên quốc tế"
+        },
+        {
+          "value": "parraine",
+          "label": "Được bảo lãnh"
+        },
+        {
+          "value": "citoyen",
+          "label": "Công dân Canada"
+        },
+        {
+          "value": "autre",
+          "label": "Khác"
+        }
+      ]
     },
     "contact": {
       "hoursLabel": "Giờ làm việc",

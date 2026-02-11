@@ -597,7 +597,43 @@
       "emailPlaceholder": "su@correo.com",
       "messagePlaceholder": "Describa brevemente su situación...",
       "selectTime": "Elegir una hora",
-      "confirmationNote": "Recibirá una confirmación por correo electrónico en 24h"
+      "confirmationNote": "Recibirá una confirmación por correo electrónico en 24h",
+      "immigrationStatus": "Estatus migratorio",
+      "selectStatus": "Seleccione su estatus",
+      "statusOptions": [
+        {
+          "value": "resident_permanent",
+          "label": "Residente permanente"
+        },
+        {
+          "value": "refugie",
+          "label": "Refugiado / Persona protegida"
+        },
+        {
+          "value": "demandeur_asile",
+          "label": "Solicitante de asilo"
+        },
+        {
+          "value": "travailleur_temporaire",
+          "label": "Trabajador temporal"
+        },
+        {
+          "value": "etudiant",
+          "label": "Estudiante internacional"
+        },
+        {
+          "value": "parraine",
+          "label": "Patrocinado"
+        },
+        {
+          "value": "citoyen",
+          "label": "Ciudadano canadiense"
+        },
+        {
+          "value": "autre",
+          "label": "Otro"
+        }
+      ]
     },
     "steps": {
       "yourNeed": "Su necesidad",

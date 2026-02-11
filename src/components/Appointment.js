@@ -142,6 +142,26 @@ const Appointment = ({
                 </div>
 
                 <div className="form-group">
+                  <label htmlFor="appointmentStatus">
+                    {t.appointment.form.immigrationStatus} *
+                  </label>
+                  <select
+                    id="appointmentStatus"
+                    name="immigrationStatus"
+                    required
+                  >
+                    <option value="">{t.appointment.form.selectStatus}</option>
+                    {(t.appointment.form.statusOptions || []).map(
+                      (option, index) => (
+                        <option key={index} value={option.value}>
+                          {option.label}
+                        </option>
+                      ),
+                    )}
+                  </select>
+                </div>
+
+                <div className="form-group">
                   <label htmlFor="appointmentDate">
                     {t.appointment.form.date} *
                   </label>
