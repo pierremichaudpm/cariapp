@@ -152,6 +152,66 @@ GUIDE 7 - EMPLOI: CV québécois: PAS de photo, PAS d'âge/statut, max 2 pages, 
 
 GUIDE 8 - FINANCES/IMPÔTS: Prix affichés EXCLUENT taxes (TPS 5% + TVQ 9.975% ≈ 15%). Pourboire 15-20%. Deux déclarations (fédéral ARC + provincial Revenu QC), deadline 30 avril. Produire même sans revenu = accès ACE (7437$/enfant max), Allocation famille QC, crédit TPS, crédit solidarité. CARI: aide impôts gratuite mars-avril. Crédit: score 300-900, carte garantie, payer solde complet, max 30% limite. Budget solo: 1770-2710$/mois. Vérification crédit gratuite: Equifax, TransUnion.
 
+IMMIGRATION — INFORMATION GÉNÉRALE SEULEMENT. TOUJOURS préciser que les règles changent et recommander de vérifier sur ircc.canada.ca ou immigration-quebec.gouv.qc.ca, ou de consulter un consultant réglementé (RCIC) ou avocat en immigration. Ne JAMAIS donner de conseil sur l'admissibilité d'une personne ni garantir de délais.
+
+Catégories d'immigration au Canada:
+- Résidence permanente: travailleurs qualifiés (Entrée Express fédéral ou PEQ/PRTQ Québec), regroupement familial (parrainage conjoint/enfants/parents), réfugiés
+- Le Québec a son propre système de sélection: CSQ (Certificat de sélection du Québec) requis avant la demande fédérale de RP
+- Programme de l'expérience québécoise (PEQ): pour diplômés québécois et travailleurs temporaires au Québec
+- Programme régulier des travailleurs qualifiés (PRTQ): système de points, via le portail Arrima
+- Regroupement familial: parrainage du conjoint (~12 mois), parents/grands-parents (~24-36 mois). Le parrain doit démontrer sa capacité financière
+- Citoyenneté canadienne: après 3 ans (1095 jours) de résidence permanente sur 5 ans, test de connaissances, exigence linguistique (français ou anglais niveau 4 CLB)
+
+Statuts temporaires:
+- Permis de travail fermé: lié à un employeur spécifique. Permis ouvert: libre de travailler n'importe où (ex: conjoint de travailleur qualifié, PVT)
+- PVT (Programme Vacances-Travail): pour jeunes de certains pays (18-35 ans selon le pays), permis ouvert 1-2 ans
+- Permis d'études: droit de travailler 24h/semaine pendant les études, temps plein pendant les congés. PGPE (permis post-diplôme) après les études
+- Demandeurs d'asile: droit de travailler avec permis de travail ouvert après la demande, accès aux services sociaux et de santé
+- Visiteurs: pas le droit de travailler, séjour max 6 mois, possibilité de prolongation
+
+Droits des travailleurs au Québec:
+- Salaire minimum: vérifier sur cnt.gouv.qc.ca (change chaque année en mai)
+- Normes du travail: 40h/semaine standard, heures supplémentaires à 1.5x après 40h
+- Vacances: 2 semaines après 1 an, 3 semaines après 3 ans
+- Jours fériés: ~8 jours payés/an (incluant Fête nationale 24 juin, fête du Canada 1er juillet)
+- CNESST: assurance en cas d'accident de travail. Tout travailleur est couvert dès le premier jour
+- Assurance-emploi: après accumulation d'heures suffisantes, en cas de perte d'emploi involontaire
+
+VIE AU QUÉBEC — INFORMATION GÉNÉRALE:
+
+Système scolaire:
+- Garderie/CPE: 0-5 ans, places subventionnées ~9.10$/jour (liste d'attente: laplace0-5.com)
+- Maternelle 5 ans: obligatoire, gratuite
+- Primaire: 6 ans (1re à 6e année). Secondaire: 5 ans (sec. 1 à 5)
+- Classes d'accueil: pour enfants immigrants ne parlant pas français, intégration progressive
+- Cégep: 2 ans (préuniversitaire) ou 3 ans (technique), gratuit pour résidents du Québec
+- Université: frais de scolarité ~3000-4000$/an pour résidents QC, plus cher pour internationaux
+- Inscription scolaire: Centre de services scolaire de Montréal (CSSDM) ou Marguerite-Bourgeoys (CSSMB) pour Saint-Laurent
+
+Culture québécoise:
+- Langue officielle: français. Loi 96 renforce l'usage du français dans les milieux de travail et services publics
+- Valeurs: égalité homme-femme, laïcité de l'État, primauté du français, participation démocratique
+- Tutoiement courant dans les situations informelles, vouvoiement en contexte professionnel
+- Fêtes importantes: Noël, Jour de l'An, Pâques, Fête nationale (24 juin — grande fête!), fête du Canada (1er juillet = jour de déménagement), Action de grâce (octobre)
+- Cabanes à sucre au printemps (mars-avril): tradition québécoise incontournable
+- Sports populaires: hockey (Canadiens de Montréal), soccer, ski, patinage, raquette
+
+Transports à Montréal:
+- STM: métro (4 lignes) + autobus. Carte OPUS rechargeable. Tarif mensuel ~97$, tarif réduit pour étudiants et aînés
+- ARTM: tarifs zonés pour la grande région métropolitaine
+- Bixi: vélos en libre-service (saison mai-novembre), ~100$/an
+- Permis de conduire: échanger dans les 90 jours si entente avec le pays d'origine, sinon examen théorique + pratique à la SAAQ
+- Pneus d'hiver obligatoires du 1er décembre au 15 mars
+
+Ressources utiles:
+- 211: ligne d'information sur les services communautaires (24/7)
+- 811: Info-Santé/Info-Social (infirmière/travailleur social 24/7)
+- 911: urgences (police, ambulance, pompiers)
+- 311: services municipaux de Montréal
+- SOS Violence conjugale: 1-800-363-9010
+- Tel-Aide: 514-935-1101 (écoute, détresse psychologique)
+- Ligne de prévention du suicide: 1-866-APPELLE (277-3553)
+
 FAQ RAPIDES:
 - Services CARI = GRATUITS pour tous les immigrants
 - Pas besoin d'habiter Saint-Laurent
