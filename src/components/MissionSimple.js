@@ -3,12 +3,11 @@ import Icon from "./Icon";
 
 const MissionSimple = ({ currentLanguage, translations }) => {
   const t = translations[currentLanguage] || translations.fr;
-  const [currentSlide, setCurrentSlide] = useState(0);
   const [selectedPromo, setSelectedPromo] = useState(null);
   const intervalRef = useRef(null);
   const isPausedRef = useRef(false);
   const touchStartXRef = useRef(0);
-  const containerRef = useRef(null);
+  const trackRef = useRef(null);
 
   const promoSlides = t.promotions?.slides || [];
   const slideImages = [
@@ -19,13 +18,74 @@ const MissionSimple = ({ currentLanguage, translations }) => {
 
   const totalSlides = promoSlides.length;
 
+  // Infinite loop: [clone-last, 0, 1, 2, clone-first]
+  // Position index starts at 1 (real slide 0), or 0 if single slide
+  const [pos, setPos] = useState(totalSlides > 1 ? 1 : 0);
+  const [animated, setAnimated] = useState(true);
+  const isJumping = useRef(false);
+
+  // Build extended slides array: [last, ...all, first]
+  const extendedSlides =
+    totalSlides > 1
+      ? [
+          { slide: promoSlides[totalSlides - 1], imgIndex: totalSlides - 1 },
+          ...promoSlides.map((s, i) => ({ slide: s, imgIndex: i })),
+          { slide: promoSlides[0], imgIndex: 0 },
+        ]
+      : promoSlides.map((s, i) => ({ slide: s, imgIndex: i }));
+
+  // Real slide index (0-based) from position
+  const realIndex =
+    totalSlides > 1 ? (pos - 1 + totalSlides) % totalSlides : pos;
+
+  const handleTransitionEnd = useCallback(() => {
+    if (!isJumping.current) return;
+    isJumping.current = false;
+    setAnimated(false);
+    if (pos === 0) {
+      // Jumped past clone-last → go to real last
+      setPos(totalSlides);
+    } else if (pos === totalSlides + 1) {
+      // Jumped past clone-first → go to real first
+      setPos(1);
+    }
+    // Re-enable animation after repositioning
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        setAnimated(true);
+      });
+    });
+  }, [pos, totalSlides]);
+
   const nextSlide = useCallback(() => {
-    setCurrentSlide((prev) => (prev + 1) % totalSlides);
+    if (isJumping.current) return;
+    setAnimated(true);
+    setPos((prev) => {
+      const next = prev + 1;
+      if (next > totalSlides) {
+        isJumping.current = true;
+      }
+      return next;
+    });
   }, [totalSlides]);
 
   const prevSlide = useCallback(() => {
-    setCurrentSlide((prev) => (prev - 1 + totalSlides) % totalSlides);
-  }, [totalSlides]);
+    if (isJumping.current) return;
+    setAnimated(true);
+    setPos((prev) => {
+      const next = prev - 1;
+      if (next < 1) {
+        isJumping.current = true;
+      }
+      return next;
+    });
+  }, []);
+
+  const goToSlide = useCallback((index) => {
+    // index is 0-based real index, pos = index + 1
+    setAnimated(true);
+    setPos(index + 1);
+  }, []);
 
   // Auto-rotation
   useEffect(() => {
@@ -33,14 +93,14 @@ const MissionSimple = ({ currentLanguage, translations }) => {
 
     intervalRef.current = setInterval(() => {
       if (!isPausedRef.current) {
-        setCurrentSlide((prev) => (prev + 1) % totalSlides);
+        nextSlide();
       }
     }, 6000);
 
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
-  }, [totalSlides]);
+  }, [totalSlides, nextSlide]);
 
   // Pause/resume
   const handleMouseEnter = () => {
@@ -75,6 +135,24 @@ const MissionSimple = ({ currentLanguage, translations }) => {
   const currentPromo =
     selectedPromo !== null ? promoSlides[selectedPromo] : null;
 
+  const renderSlide = (slide, imgIndex, key) => (
+    <div className="promo-slide" key={key}>
+      <div className="promo-slide-image">
+        <img src={slideImages[imgIndex] || slideImages[0]} alt={slide.title} />
+        <div className="promo-slide-image-overlay"></div>
+      </div>
+      <div className="promo-slide-content">
+        <span className="promo-slide-badge">{slide.subtitle}</span>
+        <h3 className="promo-slide-title">{slide.title}</h3>
+        <p className="promo-slide-text">{slide.description}</p>
+        <button className="promo-slide-cta" onClick={() => openModal(imgIndex)}>
+          {slide.cta}
+          <Icon name="arrow-right" size={18} />
+        </button>
+      </div>
+    </div>
+  );
+
   return (
     <>
       <section
@@ -84,39 +162,26 @@ const MissionSimple = ({ currentLanguage, translations }) => {
         onMouseLeave={handleMouseLeave}
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
-        ref={containerRef}
       >
         <div className="promo-carousel-wrapper">
           <div
             className="promo-carousel-track"
+            ref={trackRef}
+            onTransitionEnd={handleTransitionEnd}
             style={{
-              transform: `translateX(-${currentSlide * 100}%)`,
-              transition: "transform 0.6s cubic-bezier(0.25, 0.1, 0.25, 1)",
+              transform: `translateX(-${pos * 100}%)`,
+              transition: animated
+                ? "transform 0.6s cubic-bezier(0.25, 0.1, 0.25, 1)"
+                : "none",
             }}
           >
-            {promoSlides.map((slide, index) => (
-              <div className="promo-slide" key={index}>
-                <div className="promo-slide-image">
-                  <img
-                    src={slideImages[index] || slideImages[0]}
-                    alt={slide.title}
-                  />
-                  <div className="promo-slide-image-overlay"></div>
-                </div>
-                <div className="promo-slide-content">
-                  <span className="promo-slide-badge">{slide.subtitle}</span>
-                  <h3 className="promo-slide-title">{slide.title}</h3>
-                  <p className="promo-slide-text">{slide.description}</p>
-                  <button
-                    className="promo-slide-cta"
-                    onClick={() => openModal(index)}
-                  >
-                    {slide.cta}
-                    <Icon name="arrow-right" size={18} />
-                  </button>
-                </div>
-              </div>
-            ))}
+            {totalSlides > 1
+              ? extendedSlides.map((item, i) =>
+                  renderSlide(item.slide, item.imgIndex, `slide-${i}`),
+                )
+              : extendedSlides.map((item, i) =>
+                  renderSlide(item.slide, item.imgIndex, `slide-${i}`),
+                )}
           </div>
 
           {/* Navigation arrows */}
@@ -138,21 +203,21 @@ const MissionSimple = ({ currentLanguage, translations }) => {
               </button>
             </>
           )}
-
-          {/* Dot indicators */}
-          {totalSlides > 1 && (
-            <div className="promo-indicators">
-              {promoSlides.map((_, index) => (
-                <button
-                  key={index}
-                  className={`promo-dot ${index === currentSlide ? "active" : ""}`}
-                  onClick={() => setCurrentSlide(index)}
-                  aria-label={`Aller à la diapositive ${index + 1}`}
-                />
-              ))}
-            </div>
-          )}
         </div>
+
+        {/* Slide indicators */}
+        {totalSlides > 1 && (
+          <div className="promo-indicators">
+            {promoSlides.map((_, index) => (
+              <button
+                key={index}
+                className={`promo-dot ${index === realIndex ? "active" : ""}`}
+                onClick={() => goToSlide(index)}
+                aria-label={`Aller à la diapositive ${index + 1}`}
+              />
+            ))}
+          </div>
+        )}
       </section>
 
       {/* Detail Modal */}

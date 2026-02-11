@@ -325,13 +325,13 @@ function App() {
             scrollToSection={scrollToSection}
           />
 
+          <MissionSimple
+            currentLanguage={currentLanguage}
+            translations={translations}
+          />
+
           <Suspense fallback={<div style={{ minHeight: "400px" }}></div>}>
             <Activities
-              currentLanguage={currentLanguage}
-              translations={translations}
-            />
-
-            <MissionSimple
               currentLanguage={currentLanguage}
               translations={translations}
             />
