@@ -974,7 +974,7 @@ body {
 
     .chat-bubble-hint {
         position: fixed;
-        bottom: 40px;
+        bottom: 105px;
         right: 98px;
         background: var(--dark-blue);
         color: white;
