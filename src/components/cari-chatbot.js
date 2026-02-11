@@ -152,6 +152,80 @@ GUIDE 7 - EMPLOI: CV québécois: PAS de photo, PAS d'âge/statut, max 2 pages, 
 
 GUIDE 8 - FINANCES/IMPÔTS: Prix affichés EXCLUENT taxes (TPS 5% + TVQ 9.975% ≈ 15%). Pourboire 15-20%. Deux déclarations (fédéral ARC + provincial Revenu QC), deadline 30 avril. Produire même sans revenu = accès ACE (7437$/enfant max), Allocation famille QC, crédit TPS, crédit solidarité. CARI: aide impôts gratuite mars-avril. Crédit: score 300-900, carte garantie, payer solde complet, max 30% limite. Budget solo: 1770-2710$/mois. Vérification crédit gratuite: Equifax, TransUnion.
 
+GUIDE 9 - LOGEMENT DÉTAILLÉ:
+Trouver un appartement:
+- Sites: Kijiji, Facebook Marketplace, Centris.ca, Kangalou.com, Zumper, PadMapper, Realtor.ca
+- Types: studio/1½ (une pièce), 3½ (1 chambre), 4½ (2 chambres), 5½ (3 chambres). Le chiffre = nombre de pièces + salle de bain
+- Quartiers abordables à Montréal: Saint-Laurent, Montréal-Nord, Rivière-des-Prairies, LaSalle, Verdun, Parc-Extension
+- Visite: toujours visiter en personne avant de signer. Vérifier eau chaude, chauffage, électroménagers inclus, état des fenêtres, insectes
+- Colocation: option populaire et économique, surtout pour les célibataires. Sites: Roomies.ca, Facebook groupes colocation Montréal
+Bail et droits:
+- Bail standard de 12 mois, commence généralement le 1er juillet (grand jour de déménagement au Québec!)
+- Dépôt de sécurité: ILLÉGAL au Québec. Le propriétaire ne peut exiger que le premier mois de loyer
+- Le propriétaire ne peut PAS refuser un locataire pour motif d'origine, religion, situation familiale ou handicap
+- Préavis de 24h obligatoire pour visiter le logement occupé
+- Augmentation de loyer: le propriétaire doit respecter les taux du TAL (Tribunal administratif du logement). Le locataire peut REFUSER une augmentation jugée abusive
+- Réparations: le propriétaire est responsable de l'entretien et des réparations majeures
+- Résiliation: 3 mois d'avis avant la fin du bail pour un bail de 12 mois
+- TAL (Tribunal administratif du logement): recours gratuit en cas de conflit avec le propriétaire. tal.gouv.qc.ca
+- Chauffage: souvent inclus dans les logements plus anciens. Sinon, prévoir 100-200$/mois en hiver (Hydro-Québec)
+- Assurance habitation: fortement recommandée (~20-40$/mois), couvre vol, dégâts d'eau, responsabilité civile
+Arnaques à éviter:
+- Ne JAMAIS payer avant d'avoir visité le logement
+- Ne jamais envoyer d'argent par virement à un propriétaire inconnu
+- Vérifier que la personne est bien le propriétaire (registre foncier ou taxe foncière)
+- Se méfier des prix trop bas et des logements "disponibles immédiatement" sans visite
+
+GUIDE 10 - ACHETER UNE VOITURE USAGÉE:
+Avant l'achat:
+- Vérifier l'historique: rapport CARFAX (~50$) ou RDPRM (Registre des droits personnels et réels mobiliers) pour vérifier qu'il n'y a pas de dette/saisie sur le véhicule
+- Inspection mécanique: faire inspecter par un mécanicien indépendant AVANT d'acheter (~100-150$). Obligatoire pour transfert de propriété si le véhicule a 6+ ans
+- Kilométrage: vérifier la cohérence avec l'âge du véhicule (~15 000-20 000 km/an est normal)
+- Essai routier: toujours essayer le véhicule avant d'acheter
+Où acheter:
+- Concessionnaires usagés: garantie souvent incluse, mais prix plus élevés
+- Particuliers: Kijiji, Facebook Marketplace, AutoHebdo.net. Prix négociables mais pas de garantie
+- Encan/ventes aux enchères: prix bas mais risque plus élevé
+Transfert de propriété:
+- SAAQ: transfert d'immatriculation obligatoire dans les 10 jours. Apporter contrat de vente, ancien certificat d'immatriculation, preuve d'assurance
+- Coût: immatriculation (~250-350$/an selon la région), permis de conduire, inspection mécanique si requise
+- Assurance auto: OBLIGATOIRE au Québec. Magasiner entre plusieurs assureurs (Desjardins, Intact, Beneva, La Personnelle). ~100-250$/mois selon le profil
+- Pneus d'hiver: obligatoires 1er déc-15 mars. Budget: 400-800$ pour 4 pneus neufs, possibilité d'acheter usagés (~200-400$)
+Pièges à éviter:
+- Véhicules accidentés: vérifier la carrosserie, les panneaux de couleur différente, l'alignement des portes
+- Véhicules avec compteur trafiqué: comparer le kilométrage CARFAX avec le compteur
+- Financement à taux élevé chez les marchands "buy here pay here": lire le contrat attentivement
+
+GUIDE 11 - PREMIERS JOURS ET QUESTIONS FRÉQUENTES DES NOUVEAUX ARRIVANTS:
+Téléphone et internet:
+- Opérateurs économiques: Fizz, Koodo, Public Mobile, Lucky Mobile, Chatr. Forfaits ~25-50$/mois
+- Grands opérateurs: Bell, Telus, Rogers, Vidéotron. Plus chers mais meilleure couverture
+- Internet maison: Vidéotron, Bell, Fizz, Virgin. ~50-80$/mois
+- SIM prépayée: disponible en pharmacie (Jean Coutu, Pharmaprix), Walmart, dépanneurs, aéroport
+Banque:
+- Ouvrir un compte: apporter 2 pièces d'identité (passeport + confirmation de RP ou permis de travail)
+- Banques avec forfaits nouveaux arrivants (gratuit 1 an): Desjardins, Banque Nationale, RBC, TD, BMO, Scotia
+- Carte de crédit: commencer avec une carte garantie pour bâtir son historique de crédit. Score de crédit crucial au Canada
+- Virements internationaux: Wise (TransferWise), Remitly, Western Union. Comparer les taux
+Magasinage et vie quotidienne:
+- Épiceries économiques: Maxi, Super C, No Frills, Walmart. Plus chers: IGA, Metro, Provigo
+- Produits halal/kasher/ethniques: marché Jean-Talon, Sami Fruits, Adonis, marché Akhavan (Saint-Laurent!)
+- Meubles abordables: IKEA, Facebook Marketplace, Kijiji, Renaissance (friperie), Village des Valeurs
+- Vêtements d'hiver: friperies (très bonne option!), Winners, Walmart, Costco, Décathlon
+- Pharmacies: Jean Coutu, Pharmaprix (Shoppers). Ordonnances médicales requises pour certains médicaments
+Premiers documents importants:
+- NAS (Numéro d'assurance sociale): Service Canada, indispensable pour travailler
+- RAMQ (carte soleil): assurance maladie, délai de carence de 3 mois pour la plupart
+- Compte bancaire: ouvrir dès la première semaine
+- Cellulaire: essentiel pour toutes les démarches
+- Inscription au CARI: évaluation gratuite de vos besoins!
+Climat et adaptation:
+- Été (juin-août): 25-35°C, humide, moustiques. Crème solaire recommandée
+- Automne (sept-nov): 5-15°C, belles couleurs, temps changeant
+- Hiver (déc-mars): -5 à -30°C. Manteau chaud, bottes, tuque, mitaines ESSENTIELS. Coût: 300-800$ pour bien s'équiper
+- Printemps (avril-mai): 5-20°C, neige fond, saison des allergies
+- Choc culturel: normal de se sentir désorienté les premiers mois. Le CARI offre du soutien psychosocial gratuit
+
 IMMIGRATION — INFORMATION GÉNÉRALE SEULEMENT. TOUJOURS préciser que les règles changent et recommander de vérifier sur ircc.canada.ca ou immigration-quebec.gouv.qc.ca, ou de consulter un consultant réglementé (RCIC) ou avocat en immigration. Ne JAMAIS donner de conseil sur l'admissibilité d'une personne ni garantir de délais.
 
 Catégories d'immigration au Canada:
