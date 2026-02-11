@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import { Capacitor } from "@capacitor/core";
+import Icon from "./Icon";
 
 // On Netlify web, use relative path. In Capacitor app, use full Netlify URL.
 const CHAT_API_URL = Capacitor.isNativePlatform()
@@ -552,6 +553,16 @@ const QUICK_ACTIONS = {
   ],
 };
 
+// Lucide icon names for each quick action slot (same order across all languages)
+const QUICK_ACTION_ICONS = [
+  "home",
+  "clipboard-list",
+  "languages",
+  "briefcase",
+  "stethoscope",
+  "map-marker-alt",
+];
+
 function TypingIndicator() {
   return (
     <div
@@ -836,13 +847,12 @@ export default function CARIChatbot({ onClose, language }) {
             padding: "6px 8px",
             cursor: "pointer",
             color: "#fff",
-            fontSize: 18,
             lineHeight: 1,
             display: "flex",
             alignItems: "center",
           }}
         >
-          ✕
+          <Icon name="x" size={18} />
         </button>
       </div>
 
@@ -1060,7 +1070,19 @@ export default function CARIChatbot({ onClose, language }) {
                   e.currentTarget.style.transform = "translateX(0)";
                 }}
               >
-                {action.label}
+                <span
+                  style={{ display: "flex", alignItems: "center", gap: 10 }}
+                >
+                  <Icon
+                    name={QUICK_ACTION_ICONS[i] || "info-circle"}
+                    size={16}
+                    style={{ color: "#6CBAC7", flexShrink: 0 }}
+                  />
+                  {action.label.replace(
+                    /^[\p{Emoji}\p{Emoji_Presentation}\u200d\ufe0f]+\s*/u,
+                    "",
+                  )}
+                </span>
                 <span style={{ color: "#6CBAC7", fontSize: 16 }}>›</span>
               </button>
             ))}
@@ -1135,19 +1157,7 @@ export default function CARIChatbot({ onClose, language }) {
               transition: "all 0.2s",
             }}
           >
-            <svg
-              width="18"
-              height="18"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="#fff"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-              <line x1="22" y1="2" x2="11" y2="13" />
-              <polygon points="22 2 15 22 11 13 2 9 22 2" />
-            </svg>
+            <Icon name="send" size={18} strokeWidth={2.5} />
           </button>
         </div>
         <div

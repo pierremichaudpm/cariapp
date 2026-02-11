@@ -36,6 +36,10 @@ import {
   Facebook,
   Twitter,
   Linkedin,
+  Send,
+  ClipboardList,
+  Languages,
+  Stethoscope,
 } from "lucide-react";
 
 // Mapping Font Awesome icon names to Lucide components
@@ -78,6 +82,10 @@ const iconMap = {
   twitter: Twitter,
   linkedin: Linkedin,
   "message-circle": MessageCircle,
+  send: Send,
+  "clipboard-list": ClipboardList,
+  languages: Languages,
+  stethoscope: Stethoscope,
   x: X,
 };
 

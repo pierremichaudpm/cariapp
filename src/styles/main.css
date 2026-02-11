@@ -16,6 +16,7 @@ body {
         sans-serif;
     line-height: 1.6;
     color: #263164;
+    background: #263164;
     overflow-x: hidden;
     width: 100% !important;
     max-width: 100% !important;
@@ -960,8 +961,8 @@ body {
         padding: 0 !important;
         justify-content: center !important;
         align-items: center !important;
-        background: var(--primary-blue) !important;
-        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4) !important;
+        background: var(--accent-coral) !important;
+        box-shadow: 0 6px 20px rgba(255, 92, 57, 0.4) !important;
         pointer-events: auto !important;
         border: 2px solid white !important;
     }
@@ -3405,7 +3406,7 @@ body {
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background: var(--primary-blue);
+    background: var(--accent-coral);
     color: white;
     padding: 15px 25px;
     border-radius: 30px;
@@ -3413,14 +3414,14 @@ body {
     align-items: center;
     gap: 15px;
     cursor: pointer;
-    box-shadow: 0 10px 30px rgba(108, 186, 199, 0.3);
+    box-shadow: 0 10px 30px rgba(255, 92, 57, 0.3);
     z-index: 1002; /* Increased to ensure visibility above header */
     transition: all 0.3s ease;
 }
 
 .chat-toggle:hover {
     transform: translateY(-5px);
-    box-shadow: 0 15px 40px rgba(108, 186, 199, 0.4);
+    box-shadow: 0 15px 40px rgba(255, 92, 57, 0.4);
 }
 
 .chat-toggle.active {
@@ -3571,13 +3572,16 @@ body {
 }
 
 .chat-send-btn {
-    background: var(--primary-blue);
+    background: var(--accent-coral);
     color: white;
     border: none;
     width: 50px;
     border-radius: 10px;
     cursor: pointer;
     font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     transition: all 0.3s ease;
 }
 
@@ -3623,7 +3627,9 @@ body {
     background: var(--dark-blue);
     color: white;
     padding: 30px 20px;
-    margin-top: -1px;
+    margin-top: -2px;
+    position: relative;
+    z-index: 1;
 }
 
 .footer-layout {

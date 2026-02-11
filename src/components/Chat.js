@@ -222,7 +222,7 @@ const Chat = ({ chatOpen, toggleChat, currentLanguage, translations }) => {
         onClick={toggleChat}
       >
         <div className="chat-icon">
-          <Icon name="comments" size={24} />
+          <Icon name="message-circle" size={24} />
         </div>
         <div className="chat-text" id="chatbotText">
           {t.chatbot.title}
@@ -247,7 +247,7 @@ const Chat = ({ chatOpen, toggleChat, currentLanguage, translations }) => {
             </div>
           </div>
           <button className="chat-close" onClick={toggleChat}>
-            ×
+            <Icon name="x" size={20} />
           </button>
         </div>
 
@@ -276,7 +276,7 @@ const Chat = ({ chatOpen, toggleChat, currentLanguage, translations }) => {
             disabled={isTyping || !inputValue.trim()}
             className="chat-send-btn"
           >
-            {isTyping ? "..." : "➤"}
+            {isTyping ? "..." : <Icon name="send" size={18} />}
           </button>
         </div>
 
