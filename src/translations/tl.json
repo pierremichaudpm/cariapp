@@ -2,6 +2,7 @@
   "nav": {
     "home": "Tahanan",
     "needs": "Mga Pangangailangan Mo",
+    "services": "Mga Serbisyo",
     "activities": "Mga Aktibidad",
     "news": "Mga Mapagkukunan",
     "talk": "Appointment",
@@ -13,7 +14,7 @@
     "subtitle": "Trabaho, Pranses, pabahay, proseso: libreng tulong mula A hanggang Z",
     "discoverServices": "Tuklasin ang aming mga serbisyo",
     "letsTalk": "Makipag-usap sa tagapayo",
-    "testFrench": "Subukan ang aking Pranses",
+    "testFrench": "Test ng Pranses",
     "stats": {
       "peopleHelped": "Taong natulungan/taon",
       "satisfaction": "Kasiyahan",
@@ -21,29 +22,29 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Salamat sa CARI, nakita ko ang dream job ko sa loob ng 6 na buwan! »",
-        "author": "Asma B.",
-        "role": "Morocco • Dumating 2020"
+        "quote": "« Bawat taong dumadaan sa aming pintuan ay nararapat sa mainit na pagtanggap »",
+        "author": "Nadia R.",
+        "role": "Pagtanggap at Integrasyon"
       },
       "slide2": {
-        "quote": "« Mula refugee hanggang negosyante, sinamahan ako ng CARI »",
-        "author": "Jean-Pierre H.",
-        "role": "Haiti • Dumating 2020"
+        "quote": "« Ang makita ang mga estudyante kong nagsasalita ng Pranses nang may kumpiyansa ay pinakadakilang pagmamalaki ko »",
+        "author": "Sylvie D.",
+        "role": "Pag-aaral ng Pranses"
       },
       "slide3": {
-        "quote": "« Parang imposible ang Pranses, ngayon fluent na ako! »",
-        "author": "Jasmine M.",
-        "role": "Haiti • Dumating 2021"
+        "quote": "« Hindi lang trabaho ang hinahanap namin, nagtatayo kami ng kinabukasan dito »",
+        "author": "Marco T.",
+        "role": "Tulong sa Trabaho"
       },
       "slide4": {
-        "quote": "« Masaya ang mga anak ko, nahanap namin ang lugar namin dito »",
-        "author": "Karla A.",
-        "role": "DRC • Dumating 2019"
+        "quote": "« Ang suportahan ang mga pamilya ay pamumuhunan sa buong komunidad »",
+        "author": "Fatima H.",
+        "role": "Mga Magulang at Kabataan"
       },
       "slide5": {
-        "quote": "« Ang tulong sa pag-unawa ng sistema ng Quebec ay nagbago ng lahat »",
-        "author": "Wei L.",
-        "role": "China • Dumating 2022"
+        "quote": "« Dito, bawat babae ay natutuklasan ang kanyang lakas at potensyal »",
+        "author": "Lucia M.",
+        "role": "Kababaihan ng Mundo"
       }
     }
   },
@@ -161,19 +162,19 @@
     ],
     "parallaxItems": [
       {
-        "quote": "Salamat sa CARI, nakita ko ang dream job ko sa loob ng 6 na buwan! Sinamahan ako ng team sa bawat hakbang.",
-        "name": "Asma B.",
-        "origin": "Morocco • Dumating 2020"
+        "quote": "Tanggapin, pakinggan, gabayan — iyan ang misyon namin araw-araw.",
+        "name": "Nadia R.",
+        "origin": "Pagtanggap at Integrasyon"
       },
       {
-        "quote": "Ang mga kurso sa Pranses ay nagpahintulot sa akin na maging independent agad. Inirerekomenda ko sa lahat ng bagong dating!",
-        "name": "Ahmed K.",
-        "origin": "Syria • Dumating 2021"
+        "quote": "Bawat resume na pinapabuti namin nang magkasama ay isang pintuan na bumubukas.",
+        "name": "Marco T.",
+        "origin": "Tulong sa Trabaho"
       },
       {
-        "quote": "Ang programa ng Kababaihan ng Mundo ay nagbigay sa akin ng kumpiyansa at kahanga-hangang network ng mga kaibigan.",
-        "name": "Maria L.",
-        "origin": "Colombia • Dumating 2019"
+        "quote": "Ang pagtuturo ng Pranses ay pagbibigay ng susi sa bagong buhay.",
+        "name": "Sylvie D.",
+        "origin": "Pag-aaral ng Pranses"
       }
     ]
   },

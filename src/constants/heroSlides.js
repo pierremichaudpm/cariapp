@@ -69,7 +69,7 @@ export const heroSlides = getHeroSlides({
       slide3: {
         quote:
           "« Le français semblait impossible, maintenant je le parle couramment! »",
-        author: "Jasmine M.",
+        author: "Marie-Claire T.",
         role: "Haïti • Arrivée 2021",
       },
       slide4: {
@@ -80,7 +80,7 @@ export const heroSlides = getHeroSlides({
       },
       slide5: {
         quote: "« L'aide pour comprendre le système québécois a tout changé »",
-        author: "Wei L.",
+        author: "David C.",
         role: "Chine • Arrivée 2022",
       },
     },

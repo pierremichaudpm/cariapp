@@ -2,6 +2,7 @@
   "nav": {
     "home": "主页",
     "needs": "您的需求？",
+    "services": "服务",
     "activities": "活动",
     "news": "资源",
     "talk": "预约咨询",
@@ -18,32 +19,32 @@
       "satisfaction": "满意度",
       "findEmployment": "成功就业"
     },
-    "testFrench": "测试我的法语",
+    "testFrench": "法语测试",
     "slides": {
       "slide1": {
-        "quote": "「感谢CARI，我在6个月内找到了理想的工作！」",
-        "author": "Asma B.",
-        "role": "摩洛哥 • 2020年抵达"
+        "quote": "「每一位走进我们大门的人都值得温暖的欢迎」",
+        "author": "Nadia R.",
+        "role": "接待与融入"
       },
       "slide2": {
-        "quote": "「从难民到企业家，CARI一直陪伴着我」",
-        "author": "Jean-Pierre H.",
-        "role": "海地 • 2020年抵达"
+        "quote": "「看到学生们自信地说法语，是我最大的骄傲」",
+        "author": "Sylvie D.",
+        "role": "法语课程"
       },
       "slide3": {
-        "quote": "「法语似乎不可能学会，现在我说得很流利！」",
-        "author": "Jasmine M.",
-        "role": "海地 • 2021年抵达"
+        "quote": "「我们不只是找工作，而是在这里建设未来」",
+        "author": "Marco T.",
+        "role": "就业服务"
       },
       "slide4": {
-        "quote": "「我的孩子们很快乐，我们在这里找到了自己的位置」",
-        "author": "Karla A.",
-        "role": "刚果民主共和国 • 2019年抵达"
+        "quote": "「陪伴家庭就是投资整个社区」",
+        "author": "Fatima H.",
+        "role": "家长与青年"
       },
       "slide5": {
-        "quote": "「帮助理解魁北克体系改变了一切」",
-        "author": "Wei L.",
-        "role": "中国 • 2022年抵达"
+        "quote": "「在这里，每位女性都能发现自己的力量和潜力」",
+        "author": "Lucia M.",
+        "role": "世界妇女"
       }
     }
   },
@@ -803,19 +804,19 @@
     ],
     "parallaxItems": [
       {
-        "quote": "感谢CARI，我在6个月内找到了理想的工作！团队在每一步都陪伴着我。",
-        "name": "Asma B.",
-        "origin": "摩洛哥 • 2020年抵达"
+        "quote": "迎接、倾听、引导——这是我们每天的使命。",
+        "name": "Nadia R.",
+        "origin": "接待与融入"
       },
       {
-        "quote": "法语课程让我能够迅速独立。我推荐给所有新移民！",
-        "name": "Ahmed K.",
-        "origin": "叙利亚 • 2021年抵达"
+        "quote": "我们一起改进的每份简历，都是一扇新开的门。",
+        "name": "Marco T.",
+        "origin": "就业服务"
       },
       {
-        "quote": "世界女性项目给了我信心和一个很棒的朋友圈。",
-        "name": "Maria L.",
-        "origin": "哥伦比亚 • 2019年抵达"
+        "quote": "教授法语，就是给予新生活的钥匙。",
+        "name": "Sylvie D.",
+        "origin": "法语课程"
       }
     ]
   },
@@ -826,14 +827,7 @@
     "visionLabel": "我们的愿景",
     "vision": "通过创新的专业知识和实践服务和团结，共创美好生活。",
     "valuesLabel": "我们的价值观",
-    "values": [
-      "奉献",
-      "信任",
-      "宽容",
-      "利他",
-      "团结",
-      "公平"
-    ],
+    "values": ["奉献", "信任", "宽容", "利他", "团结", "公平"],
     "historyCTA": "我们的故事",
     "historyTitle": "我们的故事",
     "buildingAlt": "CARI St-Laurent大楼",

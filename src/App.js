@@ -14,6 +14,7 @@ import BottomNav from "./components/BottomNav";
 import Hero from "./components/Hero";
 import Needs from "./components/Needs";
 import Icon from "./components/Icon";
+import FrenchLevelTest from "./components/cari/FrenchLevelTest";
 import { Capacitor } from "@capacitor/core";
 import { StatusBar, Style } from "@capacitor/status-bar";
 // Lazy load below-the-fold components
@@ -32,6 +33,7 @@ function App() {
   const [chatOpen, setChatOpen] = useState(false);
   const [currentHero, setCurrentHero] = useState(0);
   const [selectedService, setSelectedService] = useState("welcome");
+  const [showFrenchTest, setShowFrenchTest] = useState(false);
   const heroIntervalRef = useRef(null);
   const isPausedRef = useRef(false);
   const touchStartXRef = useRef(0);
@@ -263,6 +265,7 @@ function App() {
           switchLanguage={switchLanguage}
           scrollToSection={scrollToSection}
           translations={translations}
+          onOpenFrenchTest={() => setShowFrenchTest(true)}
         />
 
         <main>
@@ -278,6 +281,9 @@ function App() {
             handleTouchEnd={handleTouchEnd}
             currentLanguage={currentLanguage}
             translations={translations}
+            scrollToSection={scrollToSection}
+            showFrenchTest={showFrenchTest}
+            setShowFrenchTest={setShowFrenchTest}
           />
 
           <ParallaxStatsSection
@@ -488,6 +494,16 @@ function App() {
             </div>
           </div>
         </footer>
+
+        {showFrenchTest && (
+          <FrenchLevelTest
+            onClose={() => setShowFrenchTest(false)}
+            onBookAppointment={() => {
+              setShowFrenchTest(false);
+              scrollToSection("rdv");
+            }}
+          />
+        )}
       </div>
     </LanguageSelectorWrapper>
   );

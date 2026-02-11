@@ -1,5 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
-import FrenchLevelTest from "./cari/FrenchLevelTest";
+import React, { useEffect, useRef } from "react";
 
 const Hero = ({
   heroSlides,
@@ -13,11 +12,13 @@ const Hero = ({
   handleTouchEnd,
   currentLanguage,
   translations,
+  scrollToSection,
+  showFrenchTest,
+  setShowFrenchTest,
 }) => {
   const heroRangeRef = useRef(null);
   const heroCarouselRef = useRef(null);
   const slideRefs = useRef([]);
-  const [showFrenchTest, setShowFrenchTest] = useState(false);
 
   const t = translations[currentLanguage] || translations.fr;
 
@@ -86,35 +87,39 @@ const Hero = ({
                   }}
                 />
                 <p className="hero-subtitle translatable">{t.hero.subtitle}</p>
-                <div className="hero-cta">
-                  <a
-                    href="#besoins"
-                    className="btn btn-primary translatable"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      const element = document.getElementById("besoins");
-                      if (element) {
-                        element.scrollIntoView({
-                          behavior: "smooth",
-                          block: "start",
-                        });
-                      }
-                    }}
-                  >
-                    {t.hero.discoverServices}
-                  </a>
-                  <button
-                    className="btn btn-secondary translatable"
-                    onClick={() => setShowFrenchTest(true)}
-                  >
-                    {t.hero.testFrench}
-                  </button>
-                </div>
               </div>
               <div className="hero-quote">
                 <p>{slide.quote.text}</p>
                 <div className="author">{slide.quote.author}</div>
                 <div className="role">{slide.quote.role}</div>
+              </div>
+              <div className="hero-cta">
+                <a
+                  href="#besoins"
+                  className="btn btn-primary translatable"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    const element = document.getElementById("besoins");
+                    if (element) {
+                      element.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start",
+                      });
+                    }
+                  }}
+                >
+                  {t.hero.discoverServices}
+                </a>
+                <a
+                  href="#rdv"
+                  className="btn btn-secondary translatable"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    scrollToSection("rdv");
+                  }}
+                >
+                  {t.hero.letsTalk}
+                </a>
               </div>
             </div>
           </div>
@@ -176,22 +181,6 @@ const Hero = ({
           />
         </div>
       </div>
-
-      {showFrenchTest && (
-        <FrenchLevelTest
-          onClose={() => setShowFrenchTest(false)}
-          onBookAppointment={() => {
-            setShowFrenchTest(false);
-            const element = document.getElementById("rdv");
-            if (element) {
-              element.scrollIntoView({
-                behavior: "smooth",
-                block: "start",
-              });
-            }
-          }}
-        />
-      )}
     </section>
   );
 };

@@ -6,6 +6,7 @@ const Header = ({
   switchLanguage,
   scrollToSection,
   translations,
+  onOpenFrenchTest,
 }) => {
   const [langDropdownOpen, setLangDropdownOpen] = useState(false);
   const [mobileLangDropdownOpen, setMobileLangDropdownOpen] = useState(false);
@@ -140,16 +141,9 @@ const Header = ({
             </ul>
           </nav>
 
-          <a
-            href="#rdv"
-            className="btn-rdv-header"
-            onClick={(e) => {
-              e.preventDefault();
-              scrollToSection("rdv");
-            }}
-          >
-            {t.nav.talkToAdvisor}
-          </a>
+          <button className="btn-rdv-header" onClick={onOpenFrenchTest}>
+            {t.hero.testFrench}
+          </button>
 
           <div className="language-switcher" ref={langDropdownRef}>
             <div className="language-dropdown">
@@ -189,16 +183,12 @@ const Header = ({
         </div>
 
         <div className="mobile-controls">
-          <a
-            href="#rdv"
-            className={`btn-rdv-mobile${t.nav.talkToAdvisor.length > 23 ? " btn-rdv-mobile-sm" : ""}`}
-            onClick={(e) => {
-              e.preventDefault();
-              scrollToSection("rdv");
-            }}
+          <button
+            className={`btn-rdv-mobile${t.hero.testFrench.length > 23 ? " btn-rdv-mobile-sm" : ""}`}
+            onClick={onOpenFrenchTest}
           >
-            {t.nav.talkToAdvisor}
-          </a>
+            {t.hero.testFrench}
+          </button>
           <div className="mobile-lang-switcher" ref={mobileLangDropdownRef}>
             <button
               className="lang-btn"

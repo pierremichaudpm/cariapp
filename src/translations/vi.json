@@ -2,6 +2,7 @@
   "nav": {
     "home": "Trang chủ",
     "needs": "Nhu cầu của bạn",
+    "services": "Dịch vụ",
     "activities": "Hoạt động",
     "news": "Tài nguyên",
     "talk": "Đặt hẹn",
@@ -13,7 +14,7 @@
     "subtitle": "Việc làm, tiếng Pháp, nhà ở, thủ tục: hỗ trợ miễn phí từ A đến Z",
     "discoverServices": "Khám phá dịch vụ của chúng tôi",
     "letsTalk": "Nói chuyện với tư vấn viên",
-    "testFrench": "Kiểm tra tiếng Pháp của tôi",
+    "testFrench": "Kiểm tra tiếng Pháp",
     "stats": {
       "peopleHelped": "Người được giúp/năm",
       "satisfaction": "Hài lòng",
@@ -21,29 +22,29 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Nhờ CARI, tôi tìm được công việc mơ ước trong 6 tháng! »",
-        "author": "Asma B.",
-        "role": "Ma Rốc • Đến 2020"
+        "quote": "« Mỗi người bước qua cửa chúng tôi đều xứng đáng được chào đón nồng nhiệt »",
+        "author": "Nadia R.",
+        "role": "Tiếp đón & Hội nhập"
       },
       "slide2": {
-        "quote": "« Từ người tị nạn đến doanh nhân, CARI đã đồng hành cùng tôi »",
-        "author": "Jean-Pierre H.",
-        "role": "Haiti • Đến 2020"
+        "quote": "« Thấy học viên tự tin nói tiếng Pháp là niềm tự hào lớn nhất của tôi »",
+        "author": "Sylvie D.",
+        "role": "Dạy tiếng Pháp"
       },
       "slide3": {
-        "quote": "« Tiếng Pháp tưởng chừng bất khả thi, giờ tôi nói lưu loát! »",
-        "author": "Jasmine M.",
-        "role": "Haiti • Đến 2021"
+        "quote": "« Chúng tôi không chỉ tìm việc, mà xây dựng tương lai tại đây »",
+        "author": "Marco T.",
+        "role": "Hỗ trợ việc làm"
       },
       "slide4": {
-        "quote": "« Con cái tôi hạnh phúc, chúng tôi đã tìm được chỗ đứng »",
-        "author": "Karla A.",
-        "role": "CHDC Congo • Đến 2019"
+        "quote": "« Đồng hành cùng gia đình là đầu tư cho cả cộng đồng »",
+        "author": "Fatima H.",
+        "role": "Phụ huynh & Thanh thiếu niên"
       },
       "slide5": {
-        "quote": "« Sự giúp đỡ để hiểu hệ thống Quebec đã thay đổi tất cả »",
-        "author": "Wei L.",
-        "role": "Trung Quốc • Đến 2022"
+        "quote": "« Tại đây, mỗi phụ nữ khám phá sức mạnh và tiềm năng của mình »",
+        "author": "Lucia M.",
+        "role": "Phụ nữ thế giới"
       }
     }
   },
@@ -161,19 +162,19 @@
     ],
     "parallaxItems": [
       {
-        "quote": "Nhờ CARI, tôi tìm được công việc mơ ước trong 6 tháng! Đội ngũ đã đồng hành cùng tôi ở mọi bước.",
-        "name": "Asma B.",
-        "origin": "Ma Rốc • Đến 2020"
+        "quote": "Đón tiếp, lắng nghe, hướng dẫn — đó là sứ mệnh hàng ngày của chúng tôi.",
+        "name": "Nadia R.",
+        "origin": "Tiếp đón & Hội nhập"
       },
       {
-        "quote": "Các khóa tiếng Pháp giúp tôi nhanh chóng tự lập. Tôi khuyến nghị cho tất cả người mới đến!",
-        "name": "Ahmed K.",
-        "origin": "Syria • Đến 2021"
+        "quote": "Mỗi bản CV chúng tôi cải thiện cùng nhau là một cánh cửa mở ra.",
+        "name": "Marco T.",
+        "origin": "Hỗ trợ việc làm"
       },
       {
-        "quote": "Chương trình Phụ nữ thế giới cho tôi sự tự tin và mạng lưới bạn bè tuyệt vời.",
-        "name": "Maria L.",
-        "origin": "Colombia • Đến 2019"
+        "quote": "Dạy tiếng Pháp là trao chìa khóa cho cuộc sống mới.",
+        "name": "Sylvie D.",
+        "origin": "Dạy tiếng Pháp"
       }
     ]
   },

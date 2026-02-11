@@ -2,6 +2,7 @@
   "nav": {
     "home": "Akèy",
     "needs": "Bezwen ou",
+    "services": "Sèvis",
     "activities": "Aktivite",
     "news": "Resous",
     "talk": "Randevou",
@@ -13,7 +14,7 @@
     "subtitle": "Travay, fransè, lojman, demach: akonpayman gratis de A a Z",
     "discoverServices": "Dekouvri sèvis nou yo",
     "letsTalk": "Pale ak yon konseye",
-    "testFrench": "Teste fransè mwen",
+    "testFrench": "Tès fransè",
     "stats": {
       "peopleHelped": "Moun ede/ane",
       "satisfaction": "Satisfaksyon",
@@ -21,29 +22,29 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Gras a CARI, mwen jwenn travay rèv mwen an 6 mwa! »",
-        "author": "Asma B.",
-        "role": "Mawòk • Rive 2020"
+        "quote": "« Chak moun ki pase nan pòt nou merite yon bon akèy »",
+        "author": "Nadia R.",
+        "role": "Akèy ak Entegrasyon"
       },
       "slide2": {
-        "quote": "« De refijye a antreprenè, CARI akonpanye mwen »",
-        "author": "Jean-Pierre H.",
-        "role": "Ayiti • Rive 2020"
+        "quote": "« Wè elèv mwen yo pale fransè ak konfyans, se pi gwo fyète mwen »",
+        "author": "Sylvie D.",
+        "role": "Fransizasyon"
       },
       "slide3": {
-        "quote": "« Fransè te sanble enposib, kounye a mwen pale l byen! »",
-        "author": "Jasmine M.",
-        "role": "Ayiti • Rive 2021"
+        "quote": "« Nou pa jis jwenn yon travay, nou bati yon avni isit »",
+        "author": "Marco T.",
+        "role": "Èd pou travay"
       },
       "slide4": {
-        "quote": "« Pitit mwen yo kontan, nou jwenn plas nou isit la »",
-        "author": "Karla A.",
-        "role": "RDK • Rive 2019"
+        "quote": "« Akonpaye fanmi yo, se envesti nan tout yon kominote »",
+        "author": "Fatima H.",
+        "role": "Paran ak Jèn"
       },
       "slide5": {
-        "quote": "« Èd pou konprann sistèm kebèkwa a chanje tout bagay »",
-        "author": "Wei L.",
-        "role": "Lachin • Rive 2022"
+        "quote": "« Isit, chak fanm dekouvri fòs li ak potansyèl li »",
+        "author": "Lucia M.",
+        "role": "Fanm nan mond"
       }
     }
   },
@@ -161,19 +162,19 @@
     ],
     "parallaxItems": [
       {
-        "quote": "Gras a CARI, mwen jwenn travay rèv mwen an 6 mwa! Ekip la akonpanye m nan chak etap.",
-        "name": "Asma B.",
-        "origin": "Mawòk • Rive 2020"
+        "quote": "Akèyi, koute, orante — se misyon nou chak jou.",
+        "name": "Nadia R.",
+        "origin": "Akèy ak Entegrasyon"
       },
       {
-        "quote": "Kou fransè yo pèmèt mwen vin otonòm rapidman. Mwen rekòmande yo bay tout nouvo rive yo!",
-        "name": "Ahmed K.",
-        "origin": "Siri • Rive 2021"
+        "quote": "Chak CV nou amelyore ansanm, se yon pòt ki louvri.",
+        "name": "Marco T.",
+        "origin": "Èd pou travay"
       },
       {
-        "quote": "Pwogram Fanm nan mond lan ban m konfyans ak yon rezo zanmi ekstraòdinè.",
-        "name": "Maria L.",
-        "origin": "Kolonbi • Rive 2019"
+        "quote": "Anseye fransè, se bay kle pou yon nouvo lavi.",
+        "name": "Sylvie D.",
+        "origin": "Fransizasyon"
       }
     ]
   },

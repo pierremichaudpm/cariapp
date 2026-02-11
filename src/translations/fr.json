@@ -2,6 +2,7 @@
   "nav": {
     "home": "Accueil",
     "needs": "Vos besoins ?",
+    "services": "Services",
     "activities": "Activités",
     "news": "Ressources",
     "talk": "Rendez-vous",
@@ -13,7 +14,7 @@
     "subtitle": "Emploi, français, logement, démarches : accompagnement gratuit de A à Z",
     "discoverServices": "Découvrez nos services",
     "letsTalk": "Parlez à un conseiller",
-    "testFrench": "Je teste mon français",
+    "testFrench": "Test de français",
     "stats": {
       "peopleHelped": "Personnes aidées/an",
       "satisfaction": "Satisfaction",
@@ -21,29 +22,29 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Grâce au CARI, j'ai trouvé mon emploi de rêve en 6 mois! »",
-        "author": "Asma B.",
-        "role": "Maroc • Arrivée 2020"
+        "quote": "« Chaque personne qui franchit notre porte mérite un accueil chaleureux »",
+        "author": "Nadia R.",
+        "role": "Accueil & Intégration"
       },
       "slide2": {
-        "quote": "« De réfugié à entrepreneur, le CARI m'a accompagné »",
-        "author": "Jean-Pierre H.",
-        "role": "Haïti • Arrivée 2020"
+        "quote": "« Voir mes étudiants parler français avec confiance, c'est ma plus grande fierté »",
+        "author": "Marco T.",
+        "role": "Francisation"
       },
       "slide3": {
-        "quote": "« Le français semblait impossible, maintenant je le parle couramment! »",
-        "author": "Jasmine M.",
-        "role": "Haïti • Arrivée 2021"
+        "quote": "« On ne trouve pas juste un emploi, on bâtit un avenir ici »",
+        "author": "Sylvie D.",
+        "role": "Aide à l'emploi"
       },
       "slide4": {
-        "quote": "« Mes enfants sont épanouis, nous avons trouvé notre place ici »",
-        "author": "Karla A.",
-        "role": "RDC • Arrivée 2019"
+        "quote": "« Accompagner les familles, c'est investir dans toute une communauté »",
+        "author": "Fatima H.",
+        "role": "Parents-Jeunesse"
       },
       "slide5": {
-        "quote": "« L'aide pour comprendre le système québécois a tout changé »",
-        "author": "Wei L.",
-        "role": "Chine • Arrivée 2022"
+        "quote": "« Ici, chaque femme découvre sa force et son potentiel »",
+        "author": "David C.",
+        "role": "Femmes du monde"
       }
     }
   },
@@ -161,19 +162,19 @@
     ],
     "parallaxItems": [
       {
-        "quote": "Grâce au CARI, j'ai trouvé mon emploi de rêve en 6 mois! L'équipe m'a accompagné à chaque étape.",
-        "name": "Asma B.",
-        "origin": "Maroc • Arrivée 2020"
+        "quote": "Accueillir, écouter, orienter — c'est notre mission au quotidien.",
+        "name": "Nadia R.",
+        "origin": "Accueil & Intégration"
       },
       {
-        "quote": "Les cours de français m'ont permis d'être autonome rapidement. Je recommande à tous les nouveaux arrivants!",
-        "name": "Ahmed K.",
-        "origin": "Syrie • Arrivé 2021"
+        "quote": "Chaque CV qu'on améliore ensemble, c'est une porte qui s'ouvre.",
+        "name": "Marco T.",
+        "origin": "Aide à l'emploi"
       },
       {
-        "quote": "Le programme Femmes du monde m'a donné confiance et un réseau d'amies formidable.",
-        "name": "Maria L.",
-        "origin": "Colombie • Arrivée 2019"
+        "quote": "Enseigner le français, c'est donner les clés d'une nouvelle vie.",
+        "name": "Sylvie D.",
+        "origin": "Francisation"
       }
     ]
   },

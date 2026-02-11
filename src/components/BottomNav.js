@@ -3,7 +3,12 @@ import Icon from "./Icon";
 
 const TABS = [
   { id: "accueil", icon: "home", labelKey: "home" },
-  { id: "besoins", icon: "hands-helping", labelKey: "needs" },
+  {
+    id: "besoins",
+    icon: "hands-helping",
+    labelKey: "needs",
+    bottomLabel: "services",
+  },
   { id: "activites", icon: "calendar", labelKey: "activities" },
   { id: "ressources", icon: "book-open", labelKey: "news" },
 ];
@@ -49,7 +54,11 @@ const BottomNav = ({ scrollToSection, currentLanguage, translations }) => {
           }}
         >
           <Icon name={tab.icon} size={24} />
-          <span>{t.nav[tab.labelKey]}</span>
+          <span>
+            {tab.bottomLabel
+              ? t.nav[tab.bottomLabel] || t.nav[tab.labelKey]
+              : t.nav[tab.labelKey]}
+          </span>
         </button>
       ))}
     </nav>

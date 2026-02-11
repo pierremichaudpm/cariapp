@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "needs": "Your needs",
+    "services": "Services",
     "activities": "Activities",
     "news": "Resources",
     "talk": "Appointment",
@@ -13,7 +14,7 @@
     "subtitle": "Employment, French, housing, procedures: free support from A to Z",
     "discoverServices": "Discover our services",
     "letsTalk": "Talk to an advisor",
-    "testFrench": "Test my French",
+    "testFrench": "French test",
     "stats": {
       "peopleHelped": "People helped/year",
       "satisfaction": "Satisfaction",
@@ -21,29 +22,29 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Thanks to CARI, I found my dream job in 6 months! »",
-        "author": "Asma B.",
-        "role": "Morocco • Arrived 2020"
+        "quote": "« Every person who walks through our door deserves a warm welcome »",
+        "author": "Nadia R.",
+        "role": "Welcome & Integration"
       },
       "slide2": {
-        "quote": "« From refugee to entrepreneur, CARI supported me »",
-        "author": "Jean-Pierre H.",
-        "role": "Haiti • Arrived 2020"
+        "quote": "« Seeing my students speak French with confidence is my greatest pride »",
+        "author": "Sylvie D.",
+        "role": "French Courses"
       },
       "slide3": {
-        "quote": "« French seemed impossible, now I speak it fluently! »",
-        "author": "Jasmine M.",
-        "role": "Haiti • Arrived 2021"
+        "quote": "« We don't just find a job, we build a future here »",
+        "author": "Marco T.",
+        "role": "Employment Services"
       },
       "slide4": {
-        "quote": "« My children are thriving, we found our place here »",
-        "author": "Karla A.",
-        "role": "DRC • Arrived 2019"
+        "quote": "« Supporting families means investing in an entire community »",
+        "author": "Fatima H.",
+        "role": "Parents & Youth"
       },
       "slide5": {
-        "quote": "« The help understanding the Quebec system changed everything »",
-        "author": "Wei L.",
-        "role": "China • Arrived 2022"
+        "quote": "« Here, every woman discovers her strength and potential »",
+        "author": "Lucia M.",
+        "role": "Women of the World"
       }
     }
   },
@@ -161,19 +162,19 @@
     ],
     "parallaxItems": [
       {
-        "quote": "Thanks to CARI, I found my dream job in 6 months! The team supported me at every step.",
-        "name": "Asma B.",
-        "origin": "Morocco • Arrived 2020"
+        "quote": "Welcoming, listening, guiding — that's our daily mission.",
+        "name": "Nadia R.",
+        "origin": "Welcome & Integration"
       },
       {
-        "quote": "The French courses allowed me to become independent quickly. I recommend them to all newcomers!",
-        "name": "Ahmed K.",
-        "origin": "Syria • Arrived 2021"
+        "quote": "Every resume we improve together opens a new door.",
+        "name": "Marco T.",
+        "origin": "Employment Services"
       },
       {
-        "quote": "The Women of the World program gave me confidence and an amazing network of friends.",
-        "name": "Maria L.",
-        "origin": "Colombia • Arrived 2019"
+        "quote": "Teaching French means giving the keys to a new life.",
+        "name": "Sylvie D.",
+        "origin": "French Courses"
       }
     ]
   },

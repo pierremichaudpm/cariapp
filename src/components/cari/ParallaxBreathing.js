@@ -570,7 +570,7 @@ export const ParallaxCTASection = ({
   const styles = {
     section: {
       position: "relative",
-      padding: isMobile ? "5rem 1rem" : "8rem 2rem",
+      padding: isMobile ? "3.4rem 1rem" : "8rem 2rem",
       overflow: "hidden",
       backgroundColor: imageUrl ? "transparent" : COLORS.bleuFonce,
       fontFamily: '"DM Sans", sans-serif',
