@@ -976,7 +976,7 @@ body {
         position: fixed;
         bottom: 105px;
         right: 98px;
-        background: var(--dark-blue);
+        background: var(--primary-orange);
         color: white;
         padding: 10px 16px;
         border-radius: 14px 14px 0 14px;
@@ -1002,7 +1002,7 @@ body {
         height: 0;
         border-top: 6px solid transparent;
         border-bottom: 6px solid transparent;
-        border-left: 7px solid var(--dark-blue);
+        border-left: 7px solid var(--primary-orange);
     }
 
     @keyframes bubble-in {
