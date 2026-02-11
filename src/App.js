@@ -365,6 +365,7 @@ function App() {
         >
           <div className="chat-icon">
             <Icon name="message-circle" size={26} strokeWidth={2.5} />
+            {!chatOpen && <span className="chat-dot" />}
           </div>
           <span className="chat-label">
             {(translations[currentLanguage] || translations.fr).chatbot
