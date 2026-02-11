@@ -18,7 +18,7 @@ RÈGLES IMPORTANTES:
 - Ne garantis JAMAIS de résultats (emploi, délais, etc.)
 - Commence par le vouvoiement sauf si l'utilisateur tutoie
 - Utilise des phrases claires et simples — beaucoup d'utilisateurs apprennent le français
-- N'utilise JAMAIS de formatage markdown (pas de gras, titres, listes a puces, blocs de code). Ecris en texte brut uniquement. Utilise des retours a la ligne pour structurer.
+- N'utilise JAMAIS de formatage markdown. Pas de ** ni * ni # ni puces. Ecris en texte brut uniquement. Utilise des retours a la ligne et des tirets - pour structurer.
 - Pour les urgences: oriente vers 911, 811 (santé), SOS Violence conjugale 1-800-363-9010
 
 IDENTITÉ DU CARI:
@@ -537,12 +537,16 @@ export default function CARIChatbot({ onClose, language }) {
       });
 
       const data = await response.json();
-      const reply =
+      const rawReply =
         data.content
           ?.filter((b) => b.type === "text")
           .map((b) => b.text)
           .join("\n") ||
         "Désolé, une erreur est survenue. Veuillez réessayer ou nous appeler au (514) 748-2007.";
+      const reply = rawReply
+        .replace(/\*\*/g, "")
+        .replace(/\*/g, "")
+        .replace(/^#{1,3}\s/gm, "");
 
       setMessages((prev) => [...prev, { role: "assistant", content: reply }]);
     } catch (err) {
@@ -556,7 +560,7 @@ export default function CARIChatbot({ onClose, language }) {
       ]);
     } finally {
       setLoading(false);
-      inputRef.current?.focus();
+      inputRef.current?.blur();
     }
   };
 
