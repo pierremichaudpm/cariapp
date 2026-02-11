@@ -49,7 +49,7 @@ body {
     top: 0;
     width: 100%;
     max-width: 100%;
-    background: rgba(255, 255, 255, 0.98);
+    background: white;
     z-index: 1000;
     transition: all 0.4s ease;
     overflow: visible;
@@ -63,7 +63,12 @@ body {
     left: 0;
     right: 0;
     height: 20px;
-    background: linear-gradient(to bottom, transparent, white);
+    background: linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0),
+        rgba(255, 255, 255, 0.9) 50%,
+        white
+    );
     pointer-events: none;
     z-index: 999;
 }
@@ -5780,85 +5785,311 @@ section,
 }
 
 /* ===================================
-   MISSION SIMPLE SECTION
+   PROMOTIONAL CAROUSEL SECTION
    =================================== */
 
-.mission-simple-section {
+.promo-carousel-section {
     position: relative;
-    min-height: 50vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-size: cover;
-    background-position: center;
+    background: var(--dark-blue, #263164);
     padding: 4rem 2rem;
 }
 
-.mission-simple-overlay {
+.promo-carousel-wrapper {
+    position: relative;
+    max-width: 1100px;
+    margin: 0 auto;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+}
+
+.promo-carousel-track {
+    display: flex;
+    will-change: transform;
+}
+
+.promo-slide {
+    min-width: 100%;
+    display: flex;
+    flex-direction: row;
+    background: white;
+}
+
+.promo-slide-image {
+    position: relative;
+    width: 50%;
+    min-height: 400px;
+    overflow: hidden;
+}
+
+.promo-slide-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.promo-slide-image-overlay {
     position: absolute;
     inset: 0;
-    background: rgba(38, 49, 100, 0.65);
+    background: linear-gradient(
+        135deg,
+        rgba(38, 49, 100, 0.15) 0%,
+        rgba(0, 0, 0, 0.05) 100%
+    );
 }
 
-.mission-simple-content {
-    position: relative;
-    z-index: 10;
-    max-width: 900px;
-    text-align: center;
+.promo-slide-content {
+    width: 50%;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
-.mission-simple-tagline {
+.promo-slide-badge {
+    display: inline-block;
+    background: rgba(108, 186, 199, 0.15);
+    color: var(--primary-blue, #6cbac7);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    padding: 6px 14px;
+    border-radius: 50px;
+    margin-bottom: 1.25rem;
+    width: fit-content;
+}
+
+.promo-slide-title {
     font-family: "DM Serif Text", serif;
-    font-size: clamp(2rem, 4vw, 2.8rem);
-    color: white;
-    margin-bottom: 2rem;
+    font-size: clamp(1.5rem, 2.5vw, 2rem);
+    color: var(--dark-blue, #263164);
+    margin-bottom: 1rem;
     line-height: 1.2;
-    font-weight: 600;
-    padding-bottom: 1.5rem;
-    position: relative;
-    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);
 }
 
-.mission-simple-tagline::after {
-    content: "";
+.promo-slide-text {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #495057;
+    margin-bottom: 1.5rem;
+}
+
+.promo-slide-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 12px 28px;
+    background: var(--accent-coral, #ff5c39);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: fit-content;
+    box-shadow: 0 4px 12px rgba(255, 92, 57, 0.3);
+}
+
+.promo-slide-cta:hover {
+    background: #e54d2a;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(255, 92, 57, 0.4);
+}
+
+/* Navigation arrows */
+.promo-nav-btn {
     position: absolute;
-    bottom: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--dark-blue, #263164);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.promo-nav-btn:hover {
+    background: white;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.promo-nav-prev {
+    left: 16px;
+}
+
+.promo-nav-next {
+    right: 16px;
+}
+
+/* Dot indicators */
+.promo-indicators {
+    position: absolute;
+    bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
-    width: 60px;
-    height: 3px;
-    background: #ffbf3f;
-    border-radius: 2px;
-}
-
-.mission-simple-statement {
-    font-size: clamp(1rem, 1.8vw, 1.15rem);
-    line-height: 1.6;
-    color: white;
-    margin-bottom: 2.5rem;
-}
-
-.mission-simple-values {
     display: flex;
-    flex-wrap: nowrap;
-    gap: 8px 28px;
-    justify-content: center;
+    gap: 8px;
+    z-index: 10;
+}
+
+.promo-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid rgba(38, 49, 100, 0.3);
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0;
+}
+
+.promo-dot.active {
+    background: var(--accent-coral, #ff5c39);
+    border-color: var(--accent-coral, #ff5c39);
+    transform: scale(1.2);
+}
+
+/* Promo Modal */
+.promo-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(38, 49, 100, 0.85);
+    backdrop-filter: blur(8px);
+    z-index: 10000;
+    display: flex;
     align-items: center;
-    margin-bottom: 2.5rem;
+    justify-content: center;
+    padding: 2rem;
+    animation: fadeIn 0.3s ease;
 }
 
-.mission-simple-value {
-    color: #ffbf3f;
-    font-size: 1.15rem;
+.promo-modal-content {
+    background: white;
+    border-radius: 24px;
+    max-width: 750px;
+    width: 100%;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    animation: slideUp 0.4s ease;
+}
+
+.promo-modal-close {
+    position: sticky;
+    top: 12px;
+    float: right;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: -52px;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--dark-blue, #263164);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.promo-modal-close:hover {
+    background: white;
+    transform: rotate(90deg);
+}
+
+.promo-modal-image {
+    width: 100%;
+    height: 280px;
+    overflow: hidden;
+    border-radius: 24px 24px 0 0;
+}
+
+.promo-modal-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.promo-modal-body {
+    padding: 2.5rem;
+}
+
+.promo-modal-badge {
+    display: inline-block;
+    background: rgba(108, 186, 199, 0.15);
+    color: var(--primary-blue, #6cbac7);
+    font-size: 0.8rem;
     font-weight: 700;
-    letter-spacing: 2px;
     text-transform: uppercase;
-    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);
+    letter-spacing: 1.5px;
+    padding: 6px 14px;
+    border-radius: 50px;
+    margin-bottom: 1rem;
 }
 
-.mission-simple-cta {
+.promo-modal-title {
+    font-family: "DM Serif Text", serif;
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    color: var(--dark-blue, #263164);
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+}
+
+.promo-modal-text {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #495057;
+    margin-bottom: 1.5rem;
+}
+
+.promo-modal-text p {
+    margin-bottom: 1rem;
+}
+
+.promo-modal-detail {
+    background: #f8f9fa;
+    padding: 1rem 1.25rem;
+    border-radius: 12px;
+    margin-bottom: 0.75rem;
+}
+
+.promo-modal-detail h4 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--dark-blue, #263164);
+    margin-bottom: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.promo-modal-detail p {
+    font-size: 0.95rem;
+    color: #495057;
+    margin: 0;
+}
+
+.promo-modal-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
     padding: 13px 32px;
-    background: var(--accent-coral);
+    background: var(--accent-coral, #ff5c39);
     color: white;
     border: none;
     border-radius: 50px;
@@ -5866,51 +6097,72 @@ section,
     font-weight: 700;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow:
-        0 4px 12px rgba(0, 0, 0, 0.2),
-        0 12px 32px rgba(0, 0, 0, 0.15);
+    margin-top: 1rem;
+    box-shadow: 0 4px 12px rgba(255, 92, 57, 0.3);
 }
 
-.mission-simple-cta:hover {
+.promo-modal-cta:hover {
     background: #e54d2a;
     transform: translateY(-2px);
-    box-shadow:
-        0 8px 20px rgba(0, 0, 0, 0.25),
-        0 16px 40px rgba(0, 0, 0, 0.18);
+    box-shadow: 0 8px 20px rgba(255, 92, 57, 0.4);
 }
 
+/* Mobile */
 @media (max-width: 768px) {
-    .mission-simple-section {
+    .promo-carousel-section {
         padding: 2rem 1rem;
-        overflow: hidden;
     }
 
-    .mission-simple-content {
-        max-width: 100%;
-        padding: 0 0.5rem;
+    .promo-slide {
+        flex-direction: column;
     }
 
-    .mission-simple-tagline {
-        font-size: clamp(1.3rem, 5vw, 2rem);
+    .promo-slide-image {
+        width: 100%;
+        min-height: 220px;
+        max-height: 250px;
     }
 
-    .mission-simple-statement {
-        font-size: clamp(0.85rem, 3vw, 1rem);
+    .promo-slide-content {
+        width: 100%;
+        padding: 1.5rem;
     }
 
-    .mission-simple-values {
-        flex-wrap: wrap;
-        gap: 6px 12px;
+    .promo-slide-title {
+        font-size: 1.4rem;
     }
 
-    .mission-simple-value {
-        font-size: clamp(0.75rem, 3vw, 1rem);
-        letter-spacing: 1px;
-    }
-
-    .mission-simple-cta {
-        padding: 10px 24px;
+    .promo-slide-text {
         font-size: 0.9rem;
+    }
+
+    .promo-nav-btn {
+        width: 36px;
+        height: 36px;
+    }
+
+    .promo-nav-prev {
+        left: 8px;
+    }
+
+    .promo-nav-next {
+        right: 8px;
+    }
+
+    .promo-indicators {
+        bottom: 12px;
+    }
+
+    .promo-modal-overlay {
+        padding: 1rem;
+    }
+
+    .promo-modal-image {
+        height: 200px;
+    }
+
+    .promo-modal-body {
+        padding: 1.5rem;
     }
 }
 

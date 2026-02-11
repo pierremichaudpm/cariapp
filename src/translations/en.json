@@ -880,5 +880,76 @@
     "approach": "An intercultural approach based on respect for difference, openness to others and ethnocultural and religious diversity.",
     "impactLabel": "Our Impact",
     "impact": "Over 7,000 people supported each year, from 128 countries and speaking 95 different languages."
+  },
+  "promotions": {
+    "slides": [
+      {
+        "title": "Diversity Brings Us Together",
+        "subtitle": "Our Mission",
+        "description": "For over 30 years, CARI has been supporting immigrants in their personal, social and professional integration in Quebec.",
+        "fullContent": "CARI St-Laurent is a non-profit community organization whose mission is to welcome immigrants, help them settle, adapt and integrate into Quebec society.\n\nEvery year, our teams support thousands of people from over 128 countries in their first steps, French language learning, job search and integration into Montreal life.\n\nOur approach is unique: we consider each person as a whole.",
+        "cta": "Our Story",
+        "details": [
+          {
+            "label": "People helped per year",
+            "value": "Over 7,000"
+          },
+          {
+            "label": "Languages spoken",
+            "value": "Over 95"
+          },
+          {
+            "label": "Countries represented",
+            "value": "128"
+          }
+        ]
+      },
+      {
+        "title": "Intercultural Matching",
+        "subtitle": "Matching Program",
+        "description": "Build authentic connections with Quebecers! Our intercultural matching program fosters exchanges and integration through enriching encounters.",
+        "fullContent": "CARI intercultural matching program creates a social and linguistic bridge between newcomers and Quebecers.\n\nEach match is a unique opportunity to discover Quebec culture, practice French and build lasting friendships.\n\nMeetings are flexible: cultural outings, shared meals, sports activities, neighbourhood discovery and more.",
+        "cta": "More Information",
+        "details": [
+          {
+            "label": "Program Duration",
+            "value": "6 months minimum"
+          },
+          {
+            "label": "Meeting Frequency",
+            "value": "2 to 4 times per month"
+          },
+          {
+            "label": "Cost",
+            "value": "Free"
+          }
+        ]
+      },
+      {
+        "title": "Free Tax Clinic",
+        "subtitle": "Seasonal Service",
+        "description": "Need help with your tax return? Our free tax clinic is open to immigrants and low-income individuals.",
+        "fullContent": "Every year, CARI offers a free tax preparation service for immigrants and low-income families.\n\nOur trained volunteers help you prepare your federal and provincial tax returns. This service ensures you receive the credits and benefits you are entitled to.\n\nBring all your tax documents (T4, slips, receipts) and identification.",
+        "cta": "More Information",
+        "details": [
+          {
+            "label": "Period",
+            "value": "March to April 2026"
+          },
+          {
+            "label": "Hours",
+            "value": "Monday to Friday, 9am to 4pm"
+          },
+          {
+            "label": "Cost",
+            "value": "Free"
+          },
+          {
+            "label": "Required Documents",
+            "value": "T4, slips, receipts, ID"
+          }
+        ]
+      }
+    ]
   }
 }

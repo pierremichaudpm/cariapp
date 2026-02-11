@@ -880,5 +880,76 @@
     "approach": "Un enfoque intercultural basado en el respeto a la diferencia, la apertura a los demás y la diversidad etnocultural y religiosa.",
     "impactLabel": "Nuestro impacto",
     "impact": "Más de 7.000 personas apoyadas cada año, procedentes de 128 países y hablando 95 idiomas diferentes."
+  },
+  "promotions": {
+    "slides": [
+      {
+        "title": "La diversidad nos acerca",
+        "subtitle": "Nuestra mision",
+        "description": "Desde hace mas de 30 anos, el CARI acompana a las personas inmigrantes en su integracion personal, social y profesional en Quebec.",
+        "fullContent": "El CARI St-Laurent es un organismo comunitario sin fines de lucro cuya mision es acoger a las personas inmigrantes.\n\nCada ano, nuestros equipos acompanan a miles de personas de mas de 128 paises.\n\nNuestro enfoque es unico: consideramos a cada persona en su globalidad.",
+        "cta": "Nuestra historia",
+        "details": [
+          {
+            "label": "Personas ayudadas por ano",
+            "value": "Mas de 7 000"
+          },
+          {
+            "label": "Idiomas hablados",
+            "value": "Mas de 95"
+          },
+          {
+            "label": "Paises representados",
+            "value": "128"
+          }
+        ]
+      },
+      {
+        "title": "Emparejamiento intercultural",
+        "subtitle": "Programa de emparejamiento",
+        "description": "Cree lazos autenticos con quebequenses! Nuestro programa de emparejamiento intercultural fomenta los intercambios y la integracion.",
+        "fullContent": "El programa de emparejamiento intercultural del CARI crea un puente social y linguistico entre los recien llegados y los quebequenses.\n\nCada emparejamiento es una oportunidad unica para descubrir la cultura quebequense.\n\nLos encuentros son flexibles y adaptados a la disponibilidad de cada uno.",
+        "cta": "Mas informacion",
+        "details": [
+          {
+            "label": "Duracion del programa",
+            "value": "6 meses minimo"
+          },
+          {
+            "label": "Frecuencia de encuentros",
+            "value": "2 a 4 veces por mes"
+          },
+          {
+            "label": "Costo",
+            "value": "Gratuito"
+          }
+        ]
+      },
+      {
+        "title": "Clinica de impuestos gratuita",
+        "subtitle": "Servicio estacional",
+        "description": "Necesita ayuda con su declaracion de impuestos? Nuestra clinica gratuita esta abierta a personas inmigrantes.",
+        "fullContent": "Cada ano, el CARI ofrece un servicio gratuito de preparacion de declaraciones de impuestos.\n\nNuestros voluntarios capacitados lo acompanan en la preparacion de su declaracion federal y provincial.\n\nTraiga todos sus documentos fiscales y una identificacion.",
+        "cta": "Mas informacion",
+        "details": [
+          {
+            "label": "Periodo",
+            "value": "Marzo a abril 2026"
+          },
+          {
+            "label": "Horario",
+            "value": "Lunes a viernes, 9h a 16h"
+          },
+          {
+            "label": "Costo",
+            "value": "Gratuito"
+          },
+          {
+            "label": "Documentos requeridos",
+            "value": "T4, comprobantes, recibos, identificacion"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -880,5 +880,76 @@
     "approach": "ایک بین ثقافتی نقطہ نظر جو فرق کے احترام، دوسروں کے لیے کھلے پن اور نسلی ثقافتی اور مذہبی تنوع پر مبنی ہے۔",
     "impactLabel": "ہمارا اثر",
     "impact": "ہر سال 7,000 سے زائد افراد کی مدد کی جاتی ہے، 128 ممالک سے اور 95 مختلف زبانیں بولتے ہیں۔"
+  },
+  "promotions": {
+    "slides": [
+      {
+        "title": "La diversité nous rapproche",
+        "subtitle": "Notre mission",
+        "description": "Depuis plus de 30 ans, le CARI accompagne les personnes immigrantes dans leur intégration personnelle, sociale et professionnelle au Québec.",
+        "fullContent": "Le CARI St-Laurent est un organisme communautaire à but non lucratif qui a pour mission d'accueillir les personnes immigrantes, de les aider à s'établir, à s'adapter et à s'intégrer à la société québécoise.\n\nChaque année, nos équipes accompagnent des milliers de personnes issues de plus de 128 pays dans leurs premières démarches, leur apprentissage du français, leur recherche d'emploi et leur intégration à la vie montréalaise.\n\nNotre approche est unique : nous considérons chaque personne dans sa globalité — son parcours, son potentiel, sa famille, ses aspirations.",
+        "cta": "Notre histoire",
+        "details": [
+          {
+            "label": "Personnes aidées par année",
+            "value": "Plus de 7 000"
+          },
+          {
+            "label": "Langues parlées",
+            "value": "Plus de 95"
+          },
+          {
+            "label": "Pays représentés",
+            "value": "128"
+          }
+        ]
+      },
+      {
+        "title": "Jumelage interculturel",
+        "subtitle": "Programme de jumelage",
+        "description": "Créez des liens authentiques avec des Québécois! Notre programme de jumelage interculturel favorise les échanges et l'intégration à travers des rencontres enrichissantes.",
+        "fullContent": "Le programme de jumelage interculturel du CARI crée un pont social et linguistique entre les nouveaux arrivants et les Québécois.\n\nChaque jumelage est une occasion unique de découvrir la culture québécoise, de pratiquer le français et de tisser des liens d'amitié durables. Les bénévoles québécois partagent leur connaissance du milieu, leurs traditions et leur quotidien.\n\nLes rencontres sont flexibles et adaptées aux disponibilités de chacun : sorties culturelles, repas partagés, activités sportives, découverte du quartier et plus encore.",
+        "cta": "Plus d'information",
+        "details": [
+          {
+            "label": "Durée du programme",
+            "value": "6 mois minimum"
+          },
+          {
+            "label": "Fréquence des rencontres",
+            "value": "2 à 4 fois par mois"
+          },
+          {
+            "label": "Coût",
+            "value": "Gratuit"
+          }
+        ]
+      },
+      {
+        "title": "Clinique d'impôts gratuite",
+        "subtitle": "Service saisonnier",
+        "description": "Besoin d'aide pour votre déclaration de revenus? Notre clinique d'impôts gratuite est ouverte aux personnes immigrantes à revenus modestes.",
+        "fullContent": "Chaque année, le CARI offre un service gratuit de préparation de déclarations de revenus pour les personnes immigrantes et les familles à revenus modestes.\n\nNos bénévoles formés vous accompagnent dans la préparation de votre déclaration fédérale et provinciale. Ce service vous permet de recevoir les crédits et prestations auxquels vous avez droit, comme l'Allocation canadienne pour enfants, le crédit TPS/TVH et le crédit Solidarité.\n\nApportez tous vos documents fiscaux (T4, relevés, reçus) et une pièce d'identité. Aucun rendez-vous nécessaire pendant les heures d'ouverture de la clinique.",
+        "cta": "Plus d'information",
+        "details": [
+          {
+            "label": "Période",
+            "value": "Mars à avril 2026"
+          },
+          {
+            "label": "Horaire",
+            "value": "Lundi au vendredi, 9h à 16h"
+          },
+          {
+            "label": "Coût",
+            "value": "Gratuit"
+          },
+          {
+            "label": "Documents requis",
+            "value": "T4, relevés, reçus, pièce d'identité"
+          }
+        ]
+      }
+    ]
   }
 }
