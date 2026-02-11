@@ -532,7 +532,7 @@ export default function CARIChatbot({ onClose, language }) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          model: "claude-haiku-4-5-20251001",
+          model: "claude-sonnet-4-5-20250929",
           max_tokens: 1000,
           temperature: 0,
           system: CARI_KNOWLEDGE,
