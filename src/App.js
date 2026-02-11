@@ -365,13 +365,20 @@ function App() {
         >
           <div className="chat-icon">
             <Icon name="message-circle" size={26} strokeWidth={2.5} />
-            {!chatOpen && <span className="chat-dot" />}
           </div>
           <span className="chat-label">
             {(translations[currentLanguage] || translations.fr).chatbot
               ?.title || "Assistant CARI"}
           </span>
         </div>
+
+        {!chatOpen && (
+          <div className="chat-bubble-hint">
+            {currentLanguage === "en"
+              ? "Need help? Ask me!"
+              : "Besoin d'aide? Écrivez-moi!"}
+          </div>
+        )}
 
         {chatOpen && (
           <>
