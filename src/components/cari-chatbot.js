@@ -209,7 +209,22 @@ Banque:
 - Virements internationaux: Wise (TransferWise), Remitly, Western Union. Comparer les taux
 Magasinage et vie quotidienne:
 - Épiceries économiques: Maxi, Super C, No Frills, Walmart. Plus chers: IGA, Metro, Provigo
-- Produits halal/kasher/ethniques: marché Jean-Talon, Sami Fruits, Adonis, marché Akhavan (Saint-Laurent!)
+- Produits halal/kasher/ethniques et épiceries spécialisées:
+  Moyen-Orient/Maghreb: Adonis (plusieurs succursales dont Saint-Laurent), marché Akhavan (Saint-Laurent, 6170 Sherbrooke O.), Sami Fruits, Byblos, marché Al-Baraka
+  Asie: marché Kim Phat (plusieurs succursales), marché G&D (Chinatown), Épicerie coréenne PAT, marché Miyamoto (japonais), épiceries indiennes sur Parc/Jean-Talon
+  Amérique latine: Supermarché PA, marché Sabor Latino, Épicerie Latino (Jean-Talon), marché Andes Gloria
+  Afrique/Caraïbes: Marché Afrique (Parc-Extension), épiceries haïtiennes sur Jarry/Saint-Michel, marché Africain Bamako
+  Général/multiculturel: marché Jean-Talon (le plus grand marché public, fruits/légumes frais, produits du monde entier), marché Atwater, Segal's (Boul. Saint-Laurent)
+  Halal: plusieurs boucheries halal à Saint-Laurent (boul. Décarie, boul. de la Côte-Vertu), Adonis, Akhavan
+  Kasher: Cheskie's, Boucherie Glatt, quartier Côte-des-Neiges/Outremont
+- Restaurants et cuisine du monde à Montréal:
+  Moyen-Orient/Maghreb: Damas (syrien haut de gamme), Boustan (libanais abordable), Rumi (afghan), Au Tarot (marocain), Khyber Pass (afghan)
+  Asie: Chinatown (rue de la Gauchetière), Restaurant Pho Bang New York (vietnamien), Kazu (japonais), Seoul Chako (coréen BBQ), Pushap (indien végétarien, Saint-Laurent!)
+  Amérique latine: Agrikol (haïtien), La Hacienda (mexicain), Madre (oaxaquien), Churros Felipe, empanadas sur Jean-Talon
+  Afrique: Le Nil Bleu (éthiopien), Restaurant Keur Fatou (sénégalais), Maamé (ouest-africain)
+  Québécois traditionnel: La Banquise (poutine 24/7), Schwartz's (smoked meat), L'Express (bistro), cabanes à sucre au printemps
+  Économique: restos à 15$ et moins sur Sainte-Catherine, Jean-Talon, Saint-Laurent. Food courts des centres commerciaux. Tim Hortons, Valentine, Cantine du marché
+  Pourboire: 15-20% au restaurant (avant taxes). Service non inclus au Québec
 - Meubles abordables: IKEA, Facebook Marketplace, Kijiji, Renaissance (friperie), Village des Valeurs
 - Vêtements d'hiver: friperies (très bonne option!), Winners, Walmart, Costco, Décathlon
 - Pharmacies: Jean Coutu, Pharmaprix (Shoppers). Ordonnances médicales requises pour certains médicaments
