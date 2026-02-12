@@ -57,11 +57,11 @@
     "instruction": "Tànnal njoxe benn ngir xam lu ci gën a yàgg",
     "cards": {
       "welcome": "Neeweeku ma fii",
-      "french": "Bëgg naa jàng faransee",
+      "oath": "Dama bëgg seerment",
       "employment": "Dama di wut liggéey",
+      "french": "Bëgg naa jàng faransee",
       "family": "Waajur laa",
       "women": "Jigéen laa",
-      "men": "Góor laa",
       "taxes": "Bëgg naa def sumu alkaati",
       "volunteering": "Bëgg naa bokk ci liggéeyu mbooleem"
     }
@@ -247,6 +247,36 @@
         "details": "Njoxe bu dul fey bu ñu wax ci faransee, anglais, español, araab ak yeneen làkk. Jottali ci bureau walla ci telefon.",
         "sections": [
           {
+            "title": "Ñi ñëw di laaj ndékki",
+            "description": "CARI dina dimbali ñi ñëw di laaj ndékki ci seen njëkk demars yi ci Kebek. Sunu konseyee yi xam nañu réalite yu mujj ci seen sitiyaasyon.",
+            "items": [
+              {
+                "name": "Pérmi liggéey bu ubbi",
+                "description": "Xibaar ci pérmi liggéey bu ubbi ngir ñiy laaj ndékki ak ndimbal ci jëf yi."
+              },
+              {
+                "name": "Ndimbal ci formiler imigrasion",
+                "description": "Ndimbal ngir féexal formiler yi jëm ci sa laaju aar."
+              },
+              {
+                "name": "Yónni ci ressource yi",
+                "description": "Néeg bu jamono, ndimbal juridik, ndimbal lekk ak yeneen ressource yu am solo."
+              },
+              {
+                "name": "Ànd bu personal",
+                "description": "Topp bu kenn-kenn bu mu sellal sa sitiyaasyon ak ab konseyee ci dugg."
+              },
+              {
+                "name": "Binda doom yi ci ekol",
+                "description": "Ndimbal ngir binda say doom ci ekol yi ak klaas njàkkaari yi."
+              },
+              {
+                "name": "Dugg ci njoxe wér gi",
+                "description": "Xibaar ci PFSI (Programa federaal wér bu jamono) ak binda ci RAMQ."
+              }
+            ]
+          },
+          {
             "title": "Njoxe yu kenn-kenn",
             "items": [
               {
@@ -295,16 +325,34 @@
                 "description": "Ateliye ci sañ-sañu ñiy fey néeg, saytu xaalis, sistèm ekoler ci Québec, alkaati ak dëgëral nëgu tuuti."
               },
               {
-                "name": "Komite Barab Góor",
-                "description": "Ndimbal psikososjal bu specialise, ànd bu personal ak yónni ci ressource ngir góor yi ñiy dikk."
-              },
-              {
                 "name": "Kàmp bakkan yu mbokk",
                 "description": "Toog ci salet ci biir gëj ci wettu Montréal ngir mbokk yi, ci kadrë interculturel."
               },
               {
                 "name": "Gejj yu mbokk",
                 "description": "Liggéeyu kiltir ak seetlu: Québec, chutu Montmorency, Zoo de Granby, Jardin botanique, Biodôme, raxas poom, kër sirop."
+              }
+            ]
+          },
+          {
+            "title": "Palaas Góor yi",
+            "description": "Komite Palaas Góor yi mooy benn ci programa yi ne amul ci Québec yu jox njoxe yu baaxal góor yi ñiy dikk.",
+            "items": [
+              {
+                "name": "Ateliye wax",
+                "description": "Barab yéene ak séddale ngir wax ci jafe-jafe dugg, nit-ku-góor, waajur ak xarit interculturel."
+              },
+              {
+                "name": "Waxtan yu tema",
+                "description": "Waxtan ci marché liggéey, sañ-sañ ak wàllu, wéru xel ak dëgg imigrasion ci Québec."
+              },
+              {
+                "name": "Liggéeyu sport ak sosjal",
+                "description": "Ndajte yu suuf ak liggéeyu yaram ngir xam-xam nit ak neex."
+              },
+              {
+                "name": "Ndimbal psikososjal",
+                "description": "Ànd bu kenn-kenn te suturlu ngir tontu soxla yu baaxal góor yi ñiy dikk: kenn-kenn, wahm, dund."
               }
             ]
           }
@@ -384,7 +432,7 @@
       "employment": {
         "title": "Ndimbal ci Liggéey",
         "description": "Ateliye CV, simile entërviu, coaching profesijonel ak ndajte ak buur liggéey yi.",
-        "fullDescription": "Am liggéey moo di kondision bu wara am ngir dugg bu baax! Sunu départëmaan moo di ànd ak dugg immigrant yi ci marché liggéey ci kàttanu ndimbal bu personal ak liggéeyu mbooleem.",
+        "fullDescription": "Am liggéey bu tollook say mën-mën moo di kondision bu wara am ngir dugg bu baax! Su la résident permanent yu bëgg feesal seen dipoloom, su la situwayeen bu bees yu bëgg soppi seen yoonu liggéey, walla su la ñi neeweeku yu di def seen etaap yu njëkk ci marché liggéey ci Québec, sunu ndaje dinañu la ànd ak njoxe yu mu sellal sa yoon.",
         "benefits": [
           "Ateliye binda CV ak bataaxe motivasion",
           "Simile entërviu yu personal",
@@ -398,6 +446,10 @@
           {
             "title": "Barabu wutukat yi",
             "items": [
+              {
+                "name": "Feesal dipoloom ak mën-mën",
+                "description": "Oriante ci jàmm yu liggéey, ndimbal ci evaluasion komparativ MIFI ak feesal xam-xam ak mën-mën (RAC)."
+              },
               {
                 "name": "Tàbbi ci liggéey",
                 "description": "Bokkaale ak entreprise yu Québec ngir tàbbi ci liggéey ak stage."
@@ -624,55 +676,54 @@
           "note": "Alt-Àjj 8h30-17h00 · Bu dul fey te suturlu"
         }
       },
-      "men": {
-        "title": "Barab Góor",
-        "description": "Ndimbal psikososjal bu specialise, ànd bu personal ak yónni ci ressource ngir góor yi ñiy dikk.",
-        "fullDescription": "Komite Barab Góor bu CARI St-Laurent mooy benn ci programa yi ne amul ci Québec yu jox njoxe yu baaxal góor yi ñiy dikk. Ci kàttanu ateliye wax, ndimbal psikososjal ak ànd bu personal, dañuy ndimbal góor yi ngir mën jafe-jafe yu dugg.",
-        "benefits": [
-          "Ateliye wax ak yéene",
-          "Ndimbal psikososjal bu kenn-kenn te suturlu",
-          "Ànd bu personal ci jëf yi",
-          "Yónni ci ressource yu specialise",
-          "Rezo ndimbal diggante góor yi ñiy dikk",
-          "Liggéeyu mbooleem ak waxtan yu tema"
-        ],
-        "details": "Bu dul fey te suturlu. Barab bu dëgër te wërsëg bu ñu def ngir góor yi ñiy dikk.",
+      "oath": {
+        "title": "Seerment",
+        "description": "Kopi sertifiye, deklarasyon seerment. Bul randevou, ñëw sa bopp.",
+        "fullDescription": "Komiseer seerment yi di sertifiye deklarasyon seerment yaw yi (bataaxal ngir beykat, autorisasyon woyof, deklarasyon bu dëkku, prokimasyon) ak kopi sertifiye yi ci sa pabiye yi. Sèrwis bu yem, bul randevou, altine ba àjjuma 8:30 ba 16:45.",
         "sections": [
           {
-            "title": "Liggéeyu mbooleem",
+            "title": "Sèrwis yi ñu di jox",
             "items": [
               {
-                "name": "Ateliye wax",
-                "description": "Barab yéene ak séddale ngir wax ci jafe-jafe dugg, nit-ku-góor, waajur ak xarit interculturel."
+                "name": "Kopi sertifiye yu pabiye",
+                "description": "Sertifikasion kopi yu sa pabiye ofisiyel yi."
               },
               {
-                "name": "Waxtan yu tema",
-                "description": "Waxtan ci marché liggéey, sañ-sañ ak wàllu, wéru xel ak dëgg imigrasion ci Québec."
+                "name": "Deklarasyon seerment",
+                "description": "Bataaxal ngir beykat, autorisasyon woyof, deklarasyon bu dëkku, prokimasyon."
               },
               {
-                "name": "Liggéeyu sport ak sosjal",
-                "description": "Ndajte yu suuf ak liggéeyu yaram ngir xam-xam nit ak neex."
+                "name": "15 kopi yu dul fey",
+                "description": "Ngir nit yi dikk ci Canada ci lu wàññi ci 5 at."
               }
             ]
           },
           {
-            "title": "Njoxe yu kenn-kenn",
+            "title": "Lu la wara yóbbé",
             "items": [
               {
-                "name": "Ndimbal psikososjal",
-                "description": "Ànd bu kenn-kenn te suturlu ngir tontu soxla yu baaxal góor yi ñiy dikk: kenn-kenn, wahm, dund."
+                "name": "Ñaari kaart idantite",
+                "description": "Kaart idantite yu baax yu am nataal."
               },
               {
-                "name": "Yónni ak oriante",
-                "description": "Oriante ci ressource yu askan ak yu guwernëmaan yu mu sellal soxla yi."
+                "name": "Pabiye orijinal yi",
+                "description": "Pabiye yi ngay soxla kopi sertifiye."
               }
             ]
           }
         ],
+        "benefits": [
+          "Bul randevou — ñëw sa bopp",
+          "Altine ba àjjuma, 8:30 ba 16:45",
+          "15 kopi yu njëkk yi dul fey (immigrant ci Canada ci lu wàññi ci 5 at)",
+          "Komiseer seerment yu profesijonel",
+          "Sèrwis bu gaaw, lu bés ci bés bi",
+          "774 boul. Décarie, biro 300, Saint-Laurent"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Alt-Àjj 8h30-17h00 · Bu dul fey te suturlu"
+          "note": "Alt-Àjj 8:30-16:45 · Bul randevou · Sèrwis bu dul fey (15 kopi yu njëkk)"
         }
       },
       "taxes": {
@@ -843,11 +894,11 @@
     },
     "consultationTypes": {
       "welcome": "Konsiltasion Njàkkaari ak Dugg",
-      "french": "Konsiltasion Jàng Faransee",
+      "oath": "Seerment (bul randevou)",
       "employment": "Konsiltasion Liggéey",
+      "french": "Konsiltasion Jàng Faransee",
       "family": "Konsiltasion Njoxe yu mbokk",
       "women": "Konsiltasion Jigéen yu àdduna",
-      "men": "Konsiltasion Barab Góor",
       "taxes": "Konsiltasion Klinik dimpóo",
       "volunteering": "Konsiltasion Benevolaa"
     },
@@ -881,7 +932,11 @@
     "contact": {
       "hoursLabel": "Waxtu",
       "schedule": "Alt-Àjj: 9h - 17h"
-    }
+    },
+    "walkInNotice": "Bul soxla randevou ngir akëy ak seerment",
+    "walkInHours": "Ñëw altine ba àjjuma, 8:30 ba 17:00 — 774 boul. Décarie, biro 300",
+    "walkInServiceMessage": "Seerment mooy ab sèrwis bu amul randevou. Ñëw sa bopp ci CARI St-Laurent ak sa pabiye orijinal yi ak ñaari kaart idantite.",
+    "walkInCTA": "Ñëw sa bopp"
   },
   "contact": {
     "title": "Jokkool nu",

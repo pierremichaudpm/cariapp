@@ -174,7 +174,23 @@ const ServiceModal = ({
         </div>
 
         <div className="modal-footer">
-          {service.id === "french" ? (
+          {service.id === "oath" ? (
+            <button
+              className="btn btn-primary modal-cta-button"
+              onClick={() => {
+                onClose();
+                const element = document.getElementById("contact");
+                if (element) {
+                  element.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                  });
+                }
+              }}
+            >
+              {t.appointment?.walkInCTA || "Présentez-vous directement"}
+            </button>
+          ) : service.id === "french" ? (
             <>
               <button
                 className="btn btn-secondary modal-cta-button"

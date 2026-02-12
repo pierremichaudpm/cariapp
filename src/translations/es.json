@@ -56,11 +56,11 @@
     "subtitle": "Le acompañamos en cada paso de su integración en Quebec",
     "cards": {
       "welcome": "Acabo de llegar",
-      "french": "Quiero aprender francés",
+      "oath": "Necesito una declaración jurada",
       "employment": "Busco trabajo",
+      "french": "Quiero aprender francés",
       "family": "Soy padre/madre",
       "women": "Soy mujer",
-      "men": "Soy un hombre",
       "taxes": "Quiero hacer mis impuestos",
       "volunteering": "Quiero involucrarme"
     },
@@ -83,6 +83,36 @@
         ],
         "details": "Servicio gratuito en francés, inglés, español, árabe y otros idiomas. Citas presenciales o telefónicas.",
         "sections": [
+          {
+            "title": "Solicitantes de asilo",
+            "description": "El CARI acompaña a los solicitantes de asilo en sus primeros trámites en Quebec. Nuestros consejeros conocen las realidades específicas de su situación.",
+            "items": [
+              {
+                "name": "Permiso de trabajo abierto",
+                "description": "Información sobre el permiso de trabajo abierto para solicitantes de asilo y ayuda con los trámites."
+              },
+              {
+                "name": "Asistencia con formularios de inmigración",
+                "description": "Apoyo para completar los formularios relacionados con su solicitud de protección."
+              },
+              {
+                "name": "Orientación hacia recursos",
+                "description": "Alojamiento temporal, asistencia jurídica, asistencia alimentaria y otros recursos esenciales."
+              },
+              {
+                "name": "Acompañamiento personalizado",
+                "description": "Seguimiento individual adaptado a su situación con un consejero de integración."
+              },
+              {
+                "name": "Inscripción escolar de los niños",
+                "description": "Ayuda para inscribir a sus hijos en las escuelas y clases de acogida."
+              },
+              {
+                "name": "Acceso a servicios de salud",
+                "description": "Información sobre el PFSI (Programa federal de salud interino) e inscripción en la RAMQ."
+              }
+            ]
+          },
           {
             "title": "Servicios individuales",
             "items": [
@@ -132,16 +162,34 @@
                 "description": "Talleres sobre derechos de inquilinos, gestión del presupuesto, sistema escolar quebequense, impuestos y preparación para el invierno."
               },
               {
-                "name": "Comité Espacio Hombres",
-                "description": "Apoyo psicosocial especializado, orientación personalizada y referencia a recursos para hombres inmigrantes."
-              },
-              {
                 "name": "Campamento vacacional familiar",
                 "description": "Estadías en cabañas junto a un lago cerca de Montreal para familias, en un entorno intercultural."
               },
               {
                 "name": "Salidas familiares",
                 "description": "Actividades culturales y de descubrimiento: ciudad de Quebec, cataratas Montmorency, zoológico de Granby, Jardín Botánico, Biodomo, recolección de manzanas, cabañas de azúcar."
+              }
+            ]
+          },
+          {
+            "title": "Espacio Hombres",
+            "description": "El Comité Espacio Hombres es uno de los pocos programas en Quebec que ofrecen servicios específicos para hombres inmigrantes.",
+            "items": [
+              {
+                "name": "Talleres de oratoria",
+                "description": "Espacios de expresión y intercambio para abordar los desafíos de la integración, la masculinidad, la paternidad y las relaciones interculturales."
+              },
+              {
+                "name": "Discusiones temáticas",
+                "description": "Intercambios sobre el mercado laboral, derechos y responsabilidades, salud mental y las realidades de la inmigración en Quebec."
+              },
+              {
+                "name": "Actividades deportivas y sociales",
+                "description": "Encuentros informales y actividades físicas que fomentan el networking y el bienestar."
+              },
+              {
+                "name": "Apoyo psicosocial",
+                "description": "Acompañamiento individual y confidencial para responder a las necesidades específicas de los hombres inmigrantes: aislamiento, estrés, adaptación."
               }
             ]
           }
@@ -221,7 +269,7 @@
       "employment": {
         "title": "Ayuda al Empleo",
         "description": "Talleres de CV, simulaciones de entrevistas, coaching profesional y encuentros con empleadores.",
-        "fullDescription": "¡Encontrar un empleo es esencial para una integración exitosa! Nuestro departamento apoya la integración de los inmigrantes al mercado laboral a través de orientación personalizada y actividades grupales.",
+        "fullDescription": "¡Encontrar un empleo a la altura de sus competencias es una condición esencial para una integración exitosa! Ya sea que usted sea residente permanente que busca el reconocimiento de sus calificaciones, nuevo ciudadano en reorientación profesional, o recién llegado dando sus primeros pasos en el mercado laboral quebequense, nuestro equipo le acompaña con servicios adaptados a su trayectoria.",
         "benefits": [
           "Talleres de redacción de CV y cartas de presentación",
           "Simulaciones de entrevistas personalizadas",
@@ -235,6 +283,10 @@
           {
             "title": "Para candidatos",
             "items": [
+              {
+                "name": "Reconocimiento de diplomas y competencias",
+                "description": "Orientación hacia los colegios profesionales, ayuda para la evaluación comparativa del MIFI y el reconocimiento de conocimientos y competencias adquiridos (RAC)."
+              },
               {
                 "name": "Colocación laboral",
                 "description": "Alianzas con empresas quebequenses para colocaciones laborales y pasantías."
@@ -461,55 +513,54 @@
           "note": "Lun-Vie 8:30-17:00 · Gratuito y confidencial"
         }
       },
-      "men": {
-        "title": "Espace Hommes",
-        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
-        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
-        "benefits": [
-          "Ateliers de prise de parole et d'expression",
-          "Soutien psychosocial individuel et confidentiel",
-          "Accompagnement personnalisé dans les démarches",
-          "Références vers les ressources spécialisées",
-          "Réseau d'entraide entre hommes immigrants",
-          "Activités de groupe et discussions thématiques"
-        ],
-        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+      "oath": {
+        "title": "Declaraciones juradas",
+        "description": "Copias certificadas, declaraciones juradas. Sin cita, preséntese directamente.",
+        "fullDescription": "Nuestros comisarios de juramentos certifican sus declaraciones juradas (cartas de invitación, autorizaciones de viaje, declaraciones de soltería, poderes) y sus copias certificadas de documentos. Servicio continuo, sin cita, de lunes a viernes de 8:30 a 16:45.",
         "sections": [
           {
-            "title": "Activités collectives",
+            "title": "Servicios ofrecidos",
             "items": [
               {
-                "name": "Ateliers de prise de parole",
-                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+                "name": "Copias certificadas de documentos",
+                "description": "Certificación de copias de sus documentos oficiales."
               },
               {
-                "name": "Discussions thématiques",
-                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+                "name": "Declaraciones juradas",
+                "description": "Cartas de invitación, autorizaciones de viaje, declaraciones de soltería, poderes."
               },
               {
-                "name": "Activités sportives et sociales",
-                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+                "name": "15 copias gratuitas",
+                "description": "Para personas inmigrantes en Canadá desde hace menos de 5 años."
               }
             ]
           },
           {
-            "title": "Services individuels",
+            "title": "Qué traer",
             "items": [
               {
-                "name": "Soutien psychosocial",
-                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+                "name": "Dos piezas de identificación",
+                "description": "Identificaciones válidas con foto."
               },
               {
-                "name": "Références et orientation",
-                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+                "name": "Documentos originales",
+                "description": "Los documentos de los cuales necesita copias certificadas."
               }
             ]
           }
         ],
+        "benefits": [
+          "Sin cita — preséntese directamente",
+          "De lunes a viernes, 8:30 a 16:45",
+          "15 primeras copias gratuitas (inmigrantes < 5 años en Canadá)",
+          "Comisarios de juramentos profesionales",
+          "Servicio rápido, generalmente el mismo día",
+          "774 boul. Décarie, oficina 300, Saint-Laurent"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+          "note": "Lun-Vie 8:30-16:45 · Sin cita · Servicio gratuito (15 primeras copias)"
         }
       },
       "taxes": {
@@ -684,11 +735,11 @@
     "subtitle": "Elija el servicio que le interesa",
     "consultationTypes": {
       "welcome": "Consulta de Acogida e Integración",
-      "french": "Consulta de Francización",
+      "oath": "Declaraciones juradas (sin cita)",
       "employment": "Consulta de Empleo",
+      "french": "Consulta de Francización",
       "family": "Consulta de Servicios Familiares",
       "women": "Consulta de Mujeres del Mundo",
-      "men": "Consultation Espace Hommes",
       "taxes": "Consultation Clinique d'impôts",
       "volunteering": "Consulta de Voluntariado"
     },
@@ -749,7 +800,11 @@
     "contact": {
       "hoursLabel": "Horario",
       "schedule": "Lun-Vie: 9h - 17h"
-    }
+    },
+    "walkInNotice": "No se necesita cita para la recepción y las declaraciones juradas",
+    "walkInHours": "Preséntese de lunes a viernes, 8:30 a 17:00 — 774 boul. Décarie, oficina 300",
+    "walkInServiceMessage": "Las declaraciones juradas son un servicio sin cita. Preséntese directamente en el CARI St-Laurent con sus documentos originales y dos piezas de identificación.",
+    "walkInCTA": "Preséntese directamente"
   },
   "contact": {
     "title": "Contáctenos",

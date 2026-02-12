@@ -57,11 +57,11 @@
     "instruction": "مزید جاننے کے لیے ایک سروس منتخب کریں",
     "cards": {
       "welcome": "میں ابھی آیا ہوں",
-      "french": "میں فرانسیسی سیکھنا چاہتا ہوں",
+      "oath": "مجھے حلف نامے کی ضرورت ہے",
       "employment": "میں نوکری ڈھونڈ رہا ہوں",
+      "french": "میں فرانسیسی سیکھنا چاہتا ہوں",
       "family": "میں والدین ہوں",
       "women": "میں عورت ہوں",
-      "men": "میں مرد ہوں",
       "taxes": "میں ٹیکس جمع کرانا چاہتا ہوں",
       "volunteering": "میں حصہ لینا چاہتا ہوں"
     }
@@ -247,6 +247,36 @@
         "details": "مفت سروس فرانسیسی، انگریزی، ہسپانوی، عربی اور دیگر زبانوں میں۔ دفتر میں یا فون پر ملاقات۔",
         "sections": [
           {
+            "title": "پناہ کے متلاشی",
+            "description": "CARI پناہ کے متلاشیوں کی کیوبیک میں ان کے پہلے اقدامات میں مدد کرتا ہے۔ ہمارے مشیر آپ کی صورتحال کی مخصوص حقیقتوں کو جانتے ہیں۔",
+            "items": [
+              {
+                "name": "کھلا ورک پرمٹ",
+                "description": "پناہ کے متلاشیوں کے لیے کھلے ورک پرمٹ کے بارے میں معلومات اور کارروائی میں مدد۔"
+              },
+              {
+                "name": "امیگریشن فارمز میں مدد",
+                "description": "آپ کی تحفظ کی درخواست سے متعلق فارمز بھرنے میں مدد۔"
+              },
+              {
+                "name": "وسائل کی طرف رہنمائی",
+                "description": "عارضی رہائش، قانونی مدد، غذائی مدد اور دیگر ضروری وسائل۔"
+              },
+              {
+                "name": "ذاتی مدد",
+                "description": "انضمام مشیر کے ساتھ آپ کی صورتحال کے مطابق انفرادی فالو اپ۔"
+              },
+              {
+                "name": "بچوں کے اسکول میں داخلہ",
+                "description": "آپ کے بچوں کو اسکولوں اور استقبالیہ کلاسوں میں داخل کرانے میں مدد۔"
+              },
+              {
+                "name": "صحت کی خدمات تک رسائی",
+                "description": "PFSI (وفاقی عبوری صحت پروگرام) اور RAMQ رجسٹریشن کے بارے میں معلومات۔"
+              }
+            ]
+          },
+          {
             "title": "انفرادی خدمات",
             "items": [
               {
@@ -295,16 +325,34 @@
                 "description": "کرایہ دار کے حقوق، بجٹ مینجمنٹ، کیوبیک اسکول سسٹم، ٹیکس اور سردیوں کی تیاری پر ورکشاپس۔"
               },
               {
-                "name": "مردوں کی جگہ کمیٹی",
-                "description": "تارکین وطن مردوں کے لیے خصوصی نفسیاتی سماجی مدد، ذاتی رہنمائی اور وسائل کی طرف رہنمائی۔"
-              },
-              {
                 "name": "خاندانی چھٹیوں کا کیمپ",
                 "description": "خاندانوں کے لیے مانٹریال کے قریب جھیل کے کنارے کاٹیج قیام، بین الثقافتی ماحول میں۔"
               },
               {
                 "name": "خاندانی سیر",
                 "description": "ثقافتی اور دریافت سرگرمیاں: کیوبیک سٹی، مونٹمورینسی آبشار، گرینبی چڑیا گھر، نباتاتی باغ، بائیوڈوم، سیب چننا، شکر خانے۔"
+              }
+            ]
+          },
+          {
+            "title": "مردوں کی جگہ",
+            "description": "مردوں کی جگہ کمیٹی کیوبیک میں ان چند پروگراموں میں سے ایک ہے جو تارکین وطن مردوں کے لیے خصوصی خدمات فراہم کرتے ہیں۔",
+            "items": [
+              {
+                "name": "تقریر کی ورکشاپس",
+                "description": "انضمام کے چیلنجز، مردانگی، والدیت اور بین الثقافتی تعلقات پر بات چیت کے لیے اظہار اور اشتراک کی جگہیں۔"
+              },
+              {
+                "name": "موضوعاتی مباحث",
+                "description": "ملازمت کی مارکیٹ، حقوق اور ذمہ داریاں، ذہنی صحت اور کیوبیک میں امیگریشن کی حقیقتوں پر تبادلہ خیال۔"
+              },
+              {
+                "name": "کھیل اور سماجی سرگرمیاں",
+                "description": "نیٹ ورکنگ اور بہبود کو فروغ دینے والی غیر رسمی ملاقاتیں اور جسمانی سرگرمیاں۔"
+              },
+              {
+                "name": "نفسیاتی سماجی مدد",
+                "description": "تارکین وطن مردوں کی مخصوص ضروریات کو حل کرنے کے لیے انفرادی اور خفیہ رہنمائی: تنہائی، تناؤ، موافقت۔"
               }
             ]
           }
@@ -384,7 +432,7 @@
       "employment": {
         "title": "ملازمت میں مدد",
         "description": "سی وی ورکشاپس، انٹرویو سمولیشن، پیشہ ورانہ کوچنگ اور آجروں سے ملاقاتیں۔",
-        "fullDescription": "نوکری تلاش کرنا کامیاب انضمام کے لیے ضروری ہے! ہمارا شعبہ ذاتی رہنمائی اور گروپ سرگرمیوں کے ذریعے تارکین وطن کے ملازمت کی مارکیٹ میں انضمام کی مدد کرتا ہے۔",
+        "fullDescription": "اپنی صلاحیتوں کے مطابق ملازمت حاصل کرنا کامیاب انضمام کی لازمی شرط ہے! چاہے آپ مستقل رہائشی ہوں جو اپنی اسناد کی تصدیق چاہتے ہیں، نئے شہری ہوں جو کیریئر کا رخ بدل رہے ہیں، یا نئے آنے والے ہوں جو کیوبیک کی ملازمت کی مارکیٹ میں پہلے قدم اٹھا رہے ہیں، ہماری ٹیم آپ کے سفر کے مطابق خدمات فراہم کرتی ہے۔",
         "benefits": [
           "سی وی اور کور لیٹر لکھنے کی ورکشاپس",
           "ذاتی انٹرویو سمولیشن",
@@ -398,6 +446,10 @@
           {
             "title": "امیدواروں کے لیے",
             "items": [
+              {
+                "name": "ڈگریوں اور مہارتوں کی تصدیق",
+                "description": "پیشہ ورانہ اداروں کی طرف رہنمائی، MIFI کی تقابلی تشخیص اور حاصل شدہ علم و مہارت کی تصدیق (RAC) میں مدد۔"
+              },
               {
                 "name": "ملازمت کی جگہ بندی",
                 "description": "نوکری اور انٹرنشپ کی جگہ بندی کے لیے کیوبیک کمپنیوں کے ساتھ شراکت داری۔"
@@ -624,55 +676,54 @@
           "note": "پیر-جمعہ 8:30-17:00 · مفت اور خفیہ"
         }
       },
-      "men": {
-        "title": "Espace Hommes",
-        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
-        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
-        "benefits": [
-          "Ateliers de prise de parole et d'expression",
-          "Soutien psychosocial individuel et confidentiel",
-          "Accompagnement personnalisé dans les démarches",
-          "Références vers les ressources spécialisées",
-          "Réseau d'entraide entre hommes immigrants",
-          "Activités de groupe et discussions thématiques"
-        ],
-        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+      "oath": {
+        "title": "حلف نامہ",
+        "description": "تصدیق شدہ کاپیاں، حلفیہ بیانات۔ بغیر اپائنٹمنٹ، براہ راست آئیں۔",
+        "fullDescription": "ہمارے حلف کمشنر آپ کے حلفیہ بیانات (دعوت نامے، سفری اجازت نامے، تجرد کے اعلان، وکالت نامے) اور دستاویزات کی تصدیق شدہ کاپیاں تصدیق کرتے ہیں۔ مسلسل خدمت، بغیر اپائنٹمنٹ، پیر سے جمعہ 8:30 سے 16:45 تک۔",
         "sections": [
           {
-            "title": "Activités collectives",
+            "title": "پیش کردہ خدمات",
             "items": [
               {
-                "name": "Ateliers de prise de parole",
-                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+                "name": "دستاویزات کی تصدیق شدہ کاپیاں",
+                "description": "آپ کے سرکاری دستاویزات کی کاپیوں کی تصدیق۔"
               },
               {
-                "name": "Discussions thématiques",
-                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+                "name": "حلفیہ بیانات",
+                "description": "دعوت نامے، سفری اجازت نامے، تجرد کے اعلان، وکالت نامے۔"
               },
               {
-                "name": "Activités sportives et sociales",
-                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+                "name": "15 مفت کاپیاں",
+                "description": "کینیڈا میں 5 سال سے کم عرصے سے رہنے والے تارکین وطن کے لیے۔"
               }
             ]
           },
           {
-            "title": "Services individuels",
+            "title": "کیا لانا ہے",
             "items": [
               {
-                "name": "Soutien psychosocial",
-                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+                "name": "دو شناختی دستاویزات",
+                "description": "تصویر کے ساتھ درست شناختی دستاویزات۔"
               },
               {
-                "name": "Références et orientation",
-                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+                "name": "اصل دستاویزات",
+                "description": "وہ دستاویزات جن کی آپ کو تصدیق شدہ کاپیاں درکار ہیں۔"
               }
             ]
           }
         ],
+        "benefits": [
+          "بغیر اپائنٹمنٹ — براہ راست آئیں",
+          "پیر سے جمعہ، 8:30 سے 16:45",
+          "پہلی 15 کاپیاں مفت (5 سال سے کم کینیڈا میں تارکین وطن)",
+          "پیشہ ور حلف کمشنر",
+          "فوری خدمت، عام طور پر اسی دن",
+          "774 بلوارڈ ڈیکیری، دفتر 300، سینٹ لوران"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+          "note": "پیر-جمعہ 8:30-16:45 · بغیر اپائنٹمنٹ · مفت خدمت (پہلی 15 کاپیاں)"
         }
       },
       "taxes": {
@@ -843,11 +894,11 @@
     },
     "consultationTypes": {
       "welcome": "استقبال اور انضمام مشاورت",
-      "french": "فرانسیسی مشاورت",
+      "oath": "حلف نامہ (بغیر اپائنٹمنٹ)",
       "employment": "ملازمت مشاورت",
+      "french": "فرانسیسی مشاورت",
       "family": "خاندانی خدمات مشاورت",
       "women": "خواتین مشاورت",
-      "men": "Consultation Espace Hommes",
       "taxes": "Consultation Clinique d'impôts",
       "volunteering": "رضاکارانہ مشاورت"
     },
@@ -903,7 +954,11 @@
     "contact": {
       "hoursLabel": "اوقات",
       "schedule": "پیر-جمعہ: 9:00 - 17:00"
-    }
+    },
+    "walkInNotice": "استقبال اور حلف نامے کے لیے اپائنٹمنٹ کی ضرورت نہیں",
+    "walkInHours": "پیر سے جمعہ 8:30 سے 17:00 تک آئیں — 774 بلوارڈ ڈیکیری، دفتر 300",
+    "walkInServiceMessage": "حلف نامہ بغیر اپائنٹمنٹ کی خدمت ہے۔ براہ راست CARI سینٹ لوران آئیں اپنے اصل دستاویزات اور دو شناختی دستاویزات کے ساتھ۔",
+    "walkInCTA": "براہ راست آئیں"
   },
   "contact": {
     "title": "ہم سے رابطہ کریں",

@@ -57,11 +57,11 @@
     "instruction": "Select a service to learn more",
     "cards": {
       "welcome": "I just arrived",
-      "french": "I want to learn French",
+      "oath": "I need a sworn declaration",
       "employment": "I'm looking for a job",
+      "french": "I want to learn French",
       "family": "I am a parent",
       "women": "I am a woman",
-      "men": "I am a man",
       "taxes": "I want to file my taxes",
       "volunteering": "I want to get involved"
     }
@@ -247,6 +247,36 @@
         "details": "Free service offered in French, English, Spanish, Arabic and other languages. In-person or phone appointments.",
         "sections": [
           {
+            "title": "Asylum Seekers",
+            "description": "CARI supports asylum seekers in their first steps in Quebec. Our counselors understand the specific realities of your situation.",
+            "items": [
+              {
+                "name": "Open work permit",
+                "description": "Information on open work permits for asylum seekers and assistance with procedures."
+              },
+              {
+                "name": "Immigration forms assistance",
+                "description": "Support for filling out forms related to your protection claim."
+              },
+              {
+                "name": "Resource referrals",
+                "description": "Temporary housing, legal aid, food assistance and other essential resources."
+              },
+              {
+                "name": "Personalized support",
+                "description": "Individual follow-up adapted to your situation with an integration counselor."
+              },
+              {
+                "name": "Children's school enrollment",
+                "description": "Help enrolling your children in schools and welcome classes."
+              },
+              {
+                "name": "Access to health services",
+                "description": "Information on IFHP (Interim Federal Health Program) and RAMQ registration."
+              }
+            ]
+          },
+          {
             "title": "Individual Services",
             "items": [
               {
@@ -295,16 +325,34 @@
                 "description": "Workshops on tenant rights, budget management, Quebec school system, taxes and winter preparation."
               },
               {
-                "name": "Men's Space Committee",
-                "description": "Specialized psychosocial support, personalized guidance and referrals to resources for immigrant men."
-              },
-              {
                 "name": "Family vacation camp",
                 "description": "Cottage stays by a lake near Montreal for families, in an intercultural setting."
               },
               {
                 "name": "Family outings",
                 "description": "Cultural and discovery activities: Quebec City, Montmorency Falls, Granby Zoo, Botanical Garden, Biodome, apple picking, sugar shacks."
+              }
+            ]
+          },
+          {
+            "title": "Men's Space",
+            "description": "The Men's Space Committee is one of the few programs in Quebec offering specific services for immigrant men.",
+            "items": [
+              {
+                "name": "Public speaking workshops",
+                "description": "Expression and sharing spaces to address integration challenges, masculinity, parenting and intercultural relationships."
+              },
+              {
+                "name": "Thematic discussions",
+                "description": "Exchanges on the job market, rights and responsibilities, mental health and the realities of immigration in Quebec."
+              },
+              {
+                "name": "Sports and social activities",
+                "description": "Informal gatherings and physical activities promoting networking and well-being."
+              },
+              {
+                "name": "Psychosocial support",
+                "description": "Individual and confidential guidance to address the specific needs of immigrant men: isolation, stress, adaptation."
               }
             ]
           }
@@ -384,7 +432,7 @@
       "employment": {
         "title": "Employment Assistance",
         "description": "Resume workshops, interview simulations, professional coaching and meetings with employers.",
-        "fullDescription": "Finding a job is essential to successful integration! Our department supports immigrants' integration into the job market through personalized guidance and group activities.",
+        "fullDescription": "Finding a job that matches your skills is essential to successful integration! Whether you are a permanent resident seeking credential recognition, a new citizen in career reorientation, or a newcomer taking your first steps in the Quebec job market, our team supports you with services tailored to your journey.",
         "benefits": [
           "Resume and cover letter writing workshops",
           "Personalized interview simulations",
@@ -398,6 +446,10 @@
           {
             "title": "For Candidates",
             "items": [
+              {
+                "name": "Diploma and credential recognition",
+                "description": "Guidance toward professional orders, assistance with the MIFI comparative assessment and recognition of acquired competencies (RAC)."
+              },
               {
                 "name": "Job placement",
                 "description": "Partnerships with Quebec companies for job and internship placements."
@@ -624,55 +676,54 @@
           "note": "Mon-Fri 8:30 AM-5:00 PM · Free and confidential"
         }
       },
-      "men": {
-        "title": "Men's Space",
-        "description": "Specialized psychosocial support, personalized guidance and referrals to resources for immigrant men.",
-        "fullDescription": "The CARI St-Laurent Men's Space Committee is one of the few programs in Quebec offering specific services to immigrant men. Through public speaking workshops, psychosocial support and personalized guidance, we help men overcome challenges related to integration.",
-        "benefits": [
-          "Public speaking and expression workshops",
-          "Individual and confidential psychosocial support",
-          "Personalized guidance with administrative procedures",
-          "Referrals to specialized resources",
-          "Support network among immigrant men",
-          "Group activities and thematic discussions"
-        ],
-        "details": "Free and confidential. Safe and supportive space dedicated to immigrant men.",
+      "oath": {
+        "title": "Sworn Declarations",
+        "description": "Certified copies, sworn declarations. Walk-in service, come directly.",
+        "fullDescription": "Our commissioners for oaths certify your sworn declarations (invitation letters, travel authorizations, declarations of celibacy, powers of attorney) and your certified copies of documents. Continuous service, no appointment needed, Monday to Friday from 8:30 AM to 4:45 PM.",
         "sections": [
           {
-            "title": "Group Activities",
+            "title": "Services Offered",
             "items": [
               {
-                "name": "Public speaking workshops",
-                "description": "Expression and sharing spaces to address integration challenges, masculinity, parenting and intercultural relationships."
+                "name": "Certified copies of documents",
+                "description": "Certification of copies of your official documents."
               },
               {
-                "name": "Thematic discussions",
-                "description": "Exchanges on the job market, rights and responsibilities, mental health and the realities of immigration in Quebec."
+                "name": "Sworn declarations",
+                "description": "Invitation letters, travel authorizations, declarations of celibacy, powers of attorney."
               },
               {
-                "name": "Sports and social activities",
-                "description": "Informal gatherings and physical activities promoting networking and well-being."
+                "name": "15 free copies",
+                "description": "For immigrants in Canada for less than 5 years."
               }
             ]
           },
           {
-            "title": "Individual Services",
+            "title": "What to Bring",
             "items": [
               {
-                "name": "Psychosocial support",
-                "description": "Individual and confidential guidance to address the specific needs of immigrant men: isolation, stress, adaptation."
+                "name": "Two pieces of ID",
+                "description": "Valid identification with photo."
               },
               {
-                "name": "Referrals and orientation",
-                "description": "Referral to community and institutional resources adapted to identified needs."
+                "name": "Original documents",
+                "description": "The documents you need certified copies of."
               }
             ]
           }
         ],
+        "benefits": [
+          "Walk-in service — come directly",
+          "Monday to Friday, 8:30 AM to 4:45 PM",
+          "First 15 copies free (immigrants < 5 years in Canada)",
+          "Professional commissioners for oaths",
+          "Fast service, usually same day",
+          "774 Décarie Blvd., Suite 300, Saint-Laurent"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Mon-Fri 8:30 AM-5:00 PM · Free and confidential"
+          "note": "Mon-Fri 8:30AM-4:45PM · Walk-in · Free service (first 15 copies)"
         }
       },
       "taxes": {
@@ -843,11 +894,11 @@
     },
     "consultationTypes": {
       "welcome": "Welcome & Integration Consultation",
-      "french": "French Learning Consultation",
+      "oath": "Sworn Declarations (walk-in)",
       "employment": "Employment Consultation",
+      "french": "French Learning Consultation",
       "family": "Family Services Consultation",
       "women": "Women of the World Consultation",
-      "men": "Men's Space Consultation",
       "taxes": "Tax Clinic Consultation",
       "volunteering": "Volunteering Consultation"
     },
@@ -903,7 +954,11 @@
     "contact": {
       "hoursLabel": "Hours",
       "schedule": "Mon-Fri: 9 AM - 5 PM"
-    }
+    },
+    "walkInNotice": "No appointment needed for reception and sworn declarations",
+    "walkInHours": "Come Monday to Friday, 8:30 AM to 5:00 PM — 774 Décarie Blvd., Suite 300",
+    "walkInServiceMessage": "Sworn declarations are a walk-in service. Come directly to CARI St-Laurent with your original documents and two pieces of ID.",
+    "walkInCTA": "Come directly"
   },
   "contact": {
     "title": "Contact Us",

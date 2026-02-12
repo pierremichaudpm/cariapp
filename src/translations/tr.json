@@ -57,11 +57,11 @@
     "instruction": "Daha fazla bilgi için bir hizmet seçin",
     "cards": {
       "welcome": "Yeni geldim",
-      "french": "Fransızca öğrenmek istiyorum",
+      "oath": "Yeminli beyanname vermek istiyorum",
       "employment": "İş arıyorum",
+      "french": "Fransızca öğrenmek istiyorum",
       "family": "Ebeveyn olarak destek istiyorum",
       "women": "Kadın olarak destek istiyorum",
-      "men": "Erkek olarak destek istiyorum",
       "taxes": "Vergi beyannamesi yapmak istiyorum",
       "volunteering": "Gönüllü olmak istiyorum"
     }
@@ -247,6 +247,36 @@
         "details": "Fransızca, İngilizce, İspanyolca, Arapça ve diğer dillerde sunulan ücretsiz hizmet. Yerinde veya telefonla randevu.",
         "sections": [
           {
+            "title": "Sığınma Talep Edenler",
+            "description": "CARI, sığınma talep edenlere Quebec'teki ilk adımlarında eşlik eder. Danışmanlarımız durumunuzun özel gerçeklerini bilir.",
+            "items": [
+              {
+                "name": "Açık çalışma izni",
+                "description": "Sığınma talep edenler için açık çalışma izni hakkında bilgi ve işlem desteği."
+              },
+              {
+                "name": "Göç formları yardımı",
+                "description": "Koruma başvurunuzla ilgili formları doldurmada destek."
+              },
+              {
+                "name": "Kaynaklara yönlendirme",
+                "description": "Geçici barınma, hukuki yardım, gıda yardımı ve diğer temel kaynaklar."
+              },
+              {
+                "name": "Kişiselleştirilmiş rehberlik",
+                "description": "Durumunuza uygun bir entegrasyon danışmanıyla bireysel takip."
+              },
+              {
+                "name": "Çocukların okul kaydı",
+                "description": "Çocuklarınızı okullara ve karşılama sınıflarına kaydetme desteği."
+              },
+              {
+                "name": "Sağlık hizmetlerine erişim",
+                "description": "PFSI (Federal Geçici Sağlık Programı) ve RAMQ kaydı hakkında bilgi."
+              }
+            ]
+          },
+          {
             "title": "Bireysel hizmetler",
             "items": [
               {
@@ -295,16 +325,34 @@
                 "description": "Kiracı hakları, bütçe yönetimi, Quebec eğitim sistemi, vergiler ve kışa hazırlık konularında atölyeler."
               },
               {
-                "name": "Erkekler Alanı Komitesi",
-                "description": "Göçmen erkekler için özel psikososyal destek, kişiselleştirilmiş rehberlik ve kaynaklara yönlendirme."
-              },
-              {
                 "name": "Aile tatil kampı",
                 "description": "Montreal yakınlarında göl kenarında şalelerde aileler için kültürlerarası ortamda konaklama."
               },
               {
                 "name": "Aile gezileri",
                 "description": "Kültürel keşif etkinlikleri: Quebec, Montmorency Şelaleleri, Granby Hayvanat Bahçesi, Botanik Bahçe, Biodôme, elma toplama, akçaağaç şurubu evleri."
+              }
+            ]
+          },
+          {
+            "title": "Erkekler Alanı",
+            "description": "Erkekler Alanı Komitesi, Quebec'te göçmen erkeklere özel hizmetler sunan nadir programlardan biridir.",
+            "items": [
+              {
+                "name": "Konuşma atölyeleri",
+                "description": "Entegrasyon zorlukları, erkeklik, ebeveynlik ve kültürlerarası ilişkileri ele almak için ifade ve paylaşım alanları."
+              },
+              {
+                "name": "Tematik tartışmalar",
+                "description": "İş piyasası, haklar ve sorumluluklar, ruh sağlığı ve Quebec'te göç gerçekleri üzerine görüşmeler."
+              },
+              {
+                "name": "Sportif ve sosyal etkinlikler",
+                "description": "Networking ve refahı destekleyen gayri resmi buluşmalar ve fiziksel etkinlikler."
+              },
+              {
+                "name": "Psikososyal destek",
+                "description": "Göçmen erkeklerin özel ihtiyaçlarına yanıt vermek için bireysel ve gizli rehberlik: yalnızlık, stres, uyum."
               }
             ]
           }
@@ -381,7 +429,7 @@
       "employment": {
         "title": "İstihdam Desteği",
         "description": "CV atölyeleri, mülakat simülasyonları, profesyonel koçluk ve işverenlerle buluşmalar.",
-        "fullDescription": "İş bulmak başarılı bir entegrasyonun temel koşuludur! Departmanımız, kişiselleştirilmiş destek ve grup etkinlikleri aracılığıyla göçmenlerin iş piyasasına entegrasyonuna eşlik eder.",
+        "fullDescription": "Yetkinliklerinize uygun bir iş bulmak, başarılı bir entegrasyonun temel koşuludur! İster niteliklerinizin tanınmasını isteyen daimi oturum izinli olun, ister kariyer değişikliği yapan yeni vatandaş olun, ister Quebec iş piyasasında ilk adımlarınızı atan yeni gelen olun, ekibimiz yolculuğunuza uyarlanmış hizmetlerle size eşlik eder.",
         "benefits": [
           "CV ve niyet mektubu yazma atölyeleri",
           "Kişiselleştirilmiş mülakat simülasyonları",
@@ -395,6 +443,10 @@
           {
             "title": "Aday alanı",
             "items": [
+              {
+                "name": "Diploma ve yetkinlik tanınması",
+                "description": "Meslek odalarına yönlendirme, MIFI karşılaştırmalı değerlendirmesi ve kazanılmış bilgi ve yetkinliklerin tanınması (RAC) için destek."
+              },
               {
                 "name": "İşe yerleştirme",
                 "description": "Quebec şirketleriyle iş ve staj yerleştirme ortaklıkları."
@@ -621,55 +673,54 @@
           "note": "Pzt-Cum 8:30-17:00 · Ücretsiz ve gizli"
         }
       },
-      "men": {
-        "title": "Erkekler Alanı",
-        "description": "Özel psikososyal destek, kişiselleştirilmiş rehberlik ve göçmen erkekler için kaynaklara yönlendirme.",
-        "fullDescription": "CARI St-Laurent Erkekler Alanı Komitesi, Quebec'te göçmen erkeklere özel hizmetler sunan nadir programlardan biridir. Konuşma atölyeleri, psikososyal destek ve kişiselleştirilmiş rehberlik yoluyla erkeklerin entegrasyonla ilgili zorlukları aşmalarına yardımcı oluyoruz.",
-        "benefits": [
-          "Konuşma ve ifade atölyeleri",
-          "Bireysel ve gizli psikososyal destek",
-          "İşlemlerde kişiselleştirilmiş rehberlik",
-          "Uzman kaynaklara yönlendirme",
-          "Göçmen erkekler arası dayanışma ağı",
-          "Grup etkinlikleri ve tematik tartışmalar"
-        ],
-        "details": "Ücretsiz ve gizli. Göçmen erkeklere adanmış güvenli ve destekleyici alan.",
+      "oath": {
+        "title": "Yeminli Beyanname",
+        "description": "Onaylı kopyalar, yeminli beyannameler. Randevusuz, doğrudan gelin.",
+        "fullDescription": "Yemin komiserlerimiz yeminli beyannamelerinizi (davet mektupları, seyahat izinleri, bekarlık beyannameleri, vekaletnameler) ve belge onaylı kopyalarınızı tasdik eder. Sürekli hizmet, randevusuz, pazartesiden cumaya 8:30-16:45.",
         "sections": [
           {
-            "title": "Grup etkinlikleri",
+            "title": "Sunulan Hizmetler",
             "items": [
               {
-                "name": "Konuşma atölyeleri",
-                "description": "Entegrasyon zorlukları, erkeklik, ebeveynlik ve kültürlerarası ilişkileri ele almak için ifade ve paylaşım alanları."
+                "name": "Belge onaylı kopyaları",
+                "description": "Resmi belgelerinizin kopyalarının onaylanması."
               },
               {
-                "name": "Tematik tartışmalar",
-                "description": "İş piyasası, haklar ve sorumluluklar, ruh sağlığı ve Quebec'te göç gerçekleri üzerine görüşmeler."
+                "name": "Yeminli beyannameler",
+                "description": "Davet mektupları, seyahat izinleri, bekarlık beyannameleri, vekaletnameler."
               },
               {
-                "name": "Sportif ve sosyal etkinlikler",
-                "description": "Networking ve refahı destekleyen gayri resmi buluşmalar ve fiziksel etkinlikler."
+                "name": "15 ücretsiz kopya",
+                "description": "Kanada'ya 5 yıldan az süredir göç edenler için."
               }
             ]
           },
           {
-            "title": "Bireysel hizmetler",
+            "title": "Getirilmesi Gerekenler",
             "items": [
               {
-                "name": "Psikososyal destek",
-                "description": "Göçmen erkeklerin özel ihtiyaçlarına yanıt vermek için bireysel ve gizli rehberlik: yalnızlık, stres, uyum."
+                "name": "İki kimlik belgesi",
+                "description": "Fotoğraflı geçerli kimlik belgeleri."
               },
               {
-                "name": "Yönlendirme ve oryantasyon",
-                "description": "Tespit edilen ihtiyaçlara uygun toplum ve kurumsal kaynaklara yönlendirme."
+                "name": "Orijinal belgeler",
+                "description": "Onaylı kopyalarına ihtiyaç duyduğunuz belgeler."
               }
             ]
           }
         ],
+        "benefits": [
+          "Randevusuz — doğrudan gelin",
+          "Pazartesiden cumaya, 8:30-16:45",
+          "İlk 15 kopya ücretsiz (Kanada'da 5 yıldan az göçmenler)",
+          "Profesyonel yemin komiserleri",
+          "Hızlı hizmet, genellikle aynı gün",
+          "774 boul. Décarie, ofis 300, Saint-Laurent"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Pzt-Cum 8:30-17:00 · Ücretsiz ve gizli"
+          "note": "Pzt-Cum 8:30-16:45 · Randevusuz · Ücretsiz hizmet (ilk 15 kopya)"
         }
       },
       "taxes": {
@@ -840,11 +891,11 @@
     },
     "consultationTypes": {
       "welcome": "Karşılama ve Entegrasyon Danışmanlığı",
-      "french": "Fransızca Eğitimi Danışmanlığı",
+      "oath": "Yeminli Beyanname (randevusuz)",
       "employment": "İstihdam Danışmanlığı",
+      "french": "Fransızca Eğitimi Danışmanlığı",
       "family": "Aile Hizmetleri Danışmanlığı",
       "women": "Dünya Kadınları Danışmanlığı",
-      "men": "Erkekler Alanı Danışmanlığı",
       "taxes": "Vergi Kliniği Danışmanlığı",
       "volunteering": "Gönüllülük Danışmanlığı"
     },
@@ -878,7 +929,11 @@
     "contact": {
       "hoursLabel": "Çalışma saatleri",
       "schedule": "Pzt-Cum: 9:00 - 17:00"
-    }
+    },
+    "walkInNotice": "Kabul ve yeminli beyanname için randevuya gerek yok",
+    "walkInHours": "Pazartesi-Cuma 8:30-17:00 arası gelin — 774 boul. Décarie, ofis 300",
+    "walkInServiceMessage": "Yeminli beyanname randevusuz bir hizmettir. Orijinal belgeleriniz ve iki kimlik belgesiyle doğrudan CARI St-Laurent'a gelin.",
+    "walkInCTA": "Doğrudan gelin"
   },
   "contact": {
     "title": "Bize ulaşın",

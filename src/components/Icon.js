@@ -45,6 +45,7 @@ import {
   Stethoscope,
   Heart,
   Star,
+  Scale,
 } from "lucide-react";
 
 // Mapping Font Awesome icon names to Lucide components
@@ -97,6 +98,7 @@ const iconMap = {
   heart: Heart,
   star: Star,
   x: X,
+  scale: Scale,
 };
 
 const Icon = ({ name, size = 24, className = "", ...props }) => {

@@ -19,14 +19,19 @@ const Needs = ({ currentLanguage, translations, scrollToSection }) => {
       text: t.needs.cards.welcome,
     },
     {
-      id: "french",
-      icon: "fa-book-open",
-      text: t.needs.cards.french,
+      id: "oath",
+      icon: "fa-scale",
+      text: t.needs.cards.oath,
     },
     {
       id: "employment",
       icon: "fa-briefcase",
       text: t.needs.cards.employment,
+    },
+    {
+      id: "french",
+      icon: "fa-book-open",
+      text: t.needs.cards.french,
     },
     {
       id: "family",
@@ -37,11 +42,6 @@ const Needs = ({ currentLanguage, translations, scrollToSection }) => {
       id: "women",
       icon: "fa-female",
       text: t.needs.cards.women,
-    },
-    {
-      id: "men",
-      icon: "fa-male",
-      text: t.needs.cards.men,
     },
     {
       id: "taxes",

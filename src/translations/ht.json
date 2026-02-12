@@ -57,11 +57,11 @@
     "instruction": "Chwazi yon sèvis pou aprann plis",
     "cards": {
       "welcome": "Mwen fèk rive",
-      "french": "Mwen vle aprann fransè",
+      "oath": "Mwen bezwen sèmante",
       "employment": "Mwen ap chèche travay",
+      "french": "Mwen vle aprann fransè",
       "family": "Mwen se paran",
       "women": "Mwen se yon fanm",
-      "men": "Mwen se yon gason",
       "taxes": "Mwen vle fè taks mwen",
       "volunteering": "Mwen vle angaje m"
     }
@@ -247,6 +247,36 @@
         "details": "Sèvis gratis ofri an fransè, anglè, panyòl, arab ak lòt lang. Randevou sou plas oswa pa telefòn.",
         "sections": [
           {
+            "title": "Moun k ap mande azil",
+            "description": "CARI akonpanye moun k ap mande azil nan premye demach yo nan Kebèk. Konseye nou yo konnen reyalite espesifik sitiyasyon ou.",
+            "items": [
+              {
+                "name": "Pèmi travay ouvè",
+                "description": "Enfòmasyon sou pèmi travay ouvè pou moun k ap mande azil ak èd nan demach yo."
+              },
+              {
+                "name": "Èd ak fòmilè imigrasyon",
+                "description": "Sipò pou ranpli fòmilè ki gen rapò ak demann pwoteksyon ou."
+              },
+              {
+                "name": "Oryantasyon vè resous",
+                "description": "Lojman tanporè, èd jiridik, èd alimantè ak lòt resous esansyèl."
+              },
+              {
+                "name": "Akonpayman pèsonalize",
+                "description": "Suivi endividyèl adapte ak sitiyasyon ou ak yon konseye entegrasyon."
+              },
+              {
+                "name": "Enskripsyon lekòl timoun yo",
+                "description": "Èd pou enskri timoun ou yo nan lekòl ak klas akèy."
+              },
+              {
+                "name": "Aksè nan sèvis sante",
+                "description": "Enfòmasyon sou PFSI (Pwogram federal sante tanporè) ak enskripsyon RAMQ."
+              }
+            ]
+          },
+          {
             "title": "Sèvis endividyèl",
             "items": [
               {
@@ -295,16 +325,34 @@
                 "description": "Atelye sou dwa lokatè, jesyon bidjè, sistèm lekòl kebèkwa, enpô ak preparasyon pou livè."
               },
               {
-                "name": "Komite Espas Gason",
-                "description": "Sipò psikososyal espesyalize, gidans pèsonalize ak referans vè resous pou gason imigran."
-              },
-              {
                 "name": "Kan vakans familyal",
                 "description": "Sejou nan chale bò lak toupre Monreyal pou fanmi, nan yon kad entèkiltirèl."
               },
               {
                 "name": "Soti familyal",
                 "description": "Aktivite kiltirèl ak dekouvèt: Vil Kebèk, Chit Montmorency, Zoo Granby, Jaden Botanik, Biyodòm, kèy pòm, kabàn a sik."
+              }
+            ]
+          },
+          {
+            "title": "Espas Gason",
+            "description": "Komite Espas Gason an se youn nan ra pwogram nan Kebèk ki ofri sèvis espesifik pou gason imigran.",
+            "items": [
+              {
+                "name": "Atelye priz de pawòl",
+                "description": "Espas pou ekspresyon ak pataj pou adrese defi entegrasyon, maskilinite, parennaj ak relasyon entèkiltirèl."
+              },
+              {
+                "name": "Diskisyon tematik",
+                "description": "Echanj sou mache travay la, dwa ak responsabilite, sante mantal ak reyalite imigrasyon nan Kebèk."
+              },
+              {
+                "name": "Aktivite espòtif ak sosyal",
+                "description": "Rankont enfòmèl ak aktivite fizik ki ankouraje rezo ak byennèt."
+              },
+              {
+                "name": "Sipò psikososyal",
+                "description": "Akonpayman endividyèl ak konfidansyèl pou reponn ak bezwen espesifik gason imigran: izolman, strès, adaptasyon."
               }
             ]
           }
@@ -384,7 +432,7 @@
       "employment": {
         "title": "Èd pou travay",
         "description": "Atelye CV, similasyon entèvyou, coaching pwofesyonèl ak rankont ak anplwayè.",
-        "fullDescription": "Jwenn travay esansyèl pou entegrasyon reyisi! Depatman nou an sipòte entegrasyon imigran yo nan mache travay la atravè gidans pèsonalize ak aktivite gwoup.",
+        "fullDescription": "Jwenn yon travay ki nan nivo konpetans ou se yon kondisyon esansyèl pou yon entegrasyon reyisi! Kit ou se rezidan pèmanan k ap chèche fè rekonèt kalifikasyon ou, nouvo sitwayen nan reoryantasyon karyè, oswa nouvo rive k ap fè premye pa ou nan mache travay kebèkwa a, ekip nou an akonpanye ou ak sèvis adapte ak pakou ou.",
         "benefits": [
           "Atelye redaksyon CV ak lèt motivasyon",
           "Similasyon entèvyou pèsonalize",
@@ -398,6 +446,10 @@
           {
             "title": "Pou kandida yo",
             "items": [
+              {
+                "name": "Rekonesans diplòm ak konpetans",
+                "description": "Oryantasyon vè òd pwofesyonèl yo, èd pou evalyasyon konparatif MIFI a ak rekonesans konpetans ak eksperyans (RAC)."
+              },
               {
                 "name": "Plasman travay",
                 "description": "Patenarya ak konpayi kebèkwa pou plasman travay ak estaj."
@@ -624,55 +676,54 @@
           "note": "Lendi-Vandredi 8è30-17è · Gratis ak konfidansyèl"
         }
       },
-      "men": {
-        "title": "Espace Hommes",
-        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
-        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
-        "benefits": [
-          "Ateliers de prise de parole et d'expression",
-          "Soutien psychosocial individuel et confidentiel",
-          "Accompagnement personnalisé dans les démarches",
-          "Références vers les ressources spécialisées",
-          "Réseau d'entraide entre hommes immigrants",
-          "Activités de groupe et discussions thématiques"
-        ],
-        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+      "oath": {
+        "title": "Sèmantasyon",
+        "description": "Kopi sètifye, deklarasyon sou sèman. San randevou, prezante w dirèkteman.",
+        "fullDescription": "Komisè sèman nou yo sètifye deklarasyon sou sèman ou (lèt envitasyon, otorizasyon vwayaj, deklarasyon selibatè, pwokimasyon) ak kopi sètifye dokiman ou yo. Sèvis kontini, san randevou, lendi a vandredi 8:30 a 16:45.",
         "sections": [
           {
-            "title": "Activités collectives",
+            "title": "Sèvis ofri",
             "items": [
               {
-                "name": "Ateliers de prise de parole",
-                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+                "name": "Kopi sètifye dokiman",
+                "description": "Sètifikasyon kopi dokiman ofisyèl ou yo."
               },
               {
-                "name": "Discussions thématiques",
-                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+                "name": "Deklarasyon sou sèman",
+                "description": "Lèt envitasyon, otorizasyon vwayaj, deklarasyon selibatè, pwokimasyon."
               },
               {
-                "name": "Activités sportives et sociales",
-                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+                "name": "15 kopi gratis",
+                "description": "Pou moun imigran nan Kanada depi mwens ke 5 an."
               }
             ]
           },
           {
-            "title": "Services individuels",
+            "title": "Sa pou pote",
             "items": [
               {
-                "name": "Soutien psychosocial",
-                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+                "name": "De pyès idantite",
+                "description": "Pyès idantite valab ak foto."
               },
               {
-                "name": "Références et orientation",
-                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+                "name": "Dokiman orijinal",
+                "description": "Dokiman ou bezwen kopi sètifye yo."
               }
             ]
           }
         ],
+        "benefits": [
+          "San randevou — prezante w dirèkteman",
+          "Lendi a vandredi, 8:30 a 16:45",
+          "Premye 15 kopi gratis (imigran < 5 an nan Kanada)",
+          "Komisè sèman pwofesyonèl",
+          "Sèvis rapid, anjeneral menm jou a",
+          "774 boul. Décarie, biwo 300, Saint-Laurent"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+          "note": "Lendi-Vandredi 8è30-16è45 · San randevou · Sèvis gratis (premye 15 kopi)"
         }
       },
       "taxes": {
@@ -843,11 +894,11 @@
     },
     "consultationTypes": {
       "welcome": "Konsiltasyon Akèy ak Entegrasyon",
-      "french": "Konsiltasyon Fransè",
+      "oath": "Sèmantasyon (san randevou)",
       "employment": "Konsiltasyon Travay",
+      "french": "Konsiltasyon Fransè",
       "family": "Konsiltasyon Sèvis familyal",
       "women": "Konsiltasyon Fanm nan mond lan",
-      "men": "Consultation Espace Hommes",
       "taxes": "Consultation Clinique d'impôts",
       "volunteering": "Konsiltasyon Volontarya"
     },
@@ -903,7 +954,11 @@
     "contact": {
       "hoursLabel": "Orè",
       "schedule": "Lendi-Vandredi: 9è - 17è"
-    }
+    },
+    "walkInNotice": "Pa bezwen randevou pou akèy ak sèmantasyon",
+    "walkInHours": "Prezante w lendi a vandredi, 8:30 a 17:00 — 774 boul. Décarie, biwo 300",
+    "walkInServiceMessage": "Sèmantasyon se yon sèvis san randevou. Prezante w dirèkteman nan CARI St-Laurent ak dokiman orijinal ou yo ak de pyès idantite.",
+    "walkInCTA": "Prezante w dirèkteman"
   },
   "contact": {
     "title": "Kontakte nou",

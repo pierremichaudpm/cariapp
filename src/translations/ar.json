@@ -56,11 +56,11 @@
     "subtitle": "نرافقك في كل خطوة من خطوات اندماجك في كيبيك",
     "cards": {
       "welcome": "لقد وصلت للتو",
-      "french": "أريد تعلم الفرنسية",
+      "oath": "أريد التصديق على مستنداتي",
       "employment": "أبحث عن عمل",
+      "french": "أريد تعلم الفرنسية",
       "family": "أنا والد/والدة",
       "women": "أنا امرأة",
-      "men": "أنا رجل",
       "taxes": "أريد تقديم إقراري الضريبي",
       "volunteering": "أريد المشاركة"
     },
@@ -83,6 +83,36 @@
         ],
         "details": "خدمة مجانية بالفرنسية والإنجليزية والإسبانية والعربية ولغات أخرى. مواعيد شخصية أو هاتفية.",
         "sections": [
+          {
+            "title": "طالبو اللجوء",
+            "description": "يرافق CARI طالبي اللجوء في خطواتهم الأولى في كيبيك. مستشارونا يعرفون الواقع الخاص بوضعكم.",
+            "items": [
+              {
+                "name": "تصريح عمل مفتوح",
+                "description": "معلومات عن تصريح العمل المفتوح لطالبي اللجوء والمساعدة في الإجراءات."
+              },
+              {
+                "name": "المساعدة في استمارات الهجرة",
+                "description": "دعم لملء الاستمارات المتعلقة بطلب الحماية الخاص بكم."
+              },
+              {
+                "name": "التوجيه نحو الموارد",
+                "description": "سكن مؤقت، مساعدة قانونية، مساعدة غذائية وموارد أساسية أخرى."
+              },
+              {
+                "name": "مرافقة شخصية",
+                "description": "متابعة فردية مكيّفة مع وضعكم مع مستشار في الاندماج."
+              },
+              {
+                "name": "تسجيل الأطفال في المدارس",
+                "description": "مساعدة لتسجيل أطفالكم في المدارس وصفوف الاستقبال."
+              },
+              {
+                "name": "الوصول إلى الخدمات الصحية",
+                "description": "معلومات عن PFSI (البرنامج الفيدرالي للصحة المؤقتة) والتسجيل في RAMQ."
+              }
+            ]
+          },
           {
             "title": "الخدمات الفردية",
             "items": [
@@ -132,16 +162,34 @@
                 "description": "ورش عمل حول حقوق المستأجر، إدارة الميزانية، النظام المدرسي الكيبيكي، الضرائب والاستعداد لفصل الشتاء."
               },
               {
-                "name": "لجنة فضاء الرجال",
-                "description": "دعم نفسي اجتماعي متخصص، توجيه شخصي وإحالة إلى الموارد للرجال المهاجرين."
-              },
-              {
                 "name": "مخيم العطلات العائلية",
                 "description": "إقامات في كوخ على ضفاف بحيرة بالقرب من مونتريال للعائلات، في إطار بين الثقافات."
               },
               {
                 "name": "النزهات العائلية",
                 "description": "أنشطة ثقافية واستكشافية: مدينة كيبيك، شلالات مونمورنسي، حديقة حيوان غرانبي، الحديقة النباتية، البيودوم، قطف التفاح، أكواخ السكر."
+              }
+            ]
+          },
+          {
+            "title": "فضاء الرجال",
+            "description": "لجنة فضاء الرجال هي أحد البرامج القليلة في كيبيك التي تقدم خدمات خاصة للرجال المهاجرين.",
+            "items": [
+              {
+                "name": "ورش الخطابة",
+                "description": "فضاءات للتعبير والتبادل لمعالجة تحديات الاندماج والذكورة والأبوة والعلاقات بين الثقافات."
+              },
+              {
+                "name": "نقاشات مواضيعية",
+                "description": "تبادلات حول سوق العمل والحقوق والمسؤوليات والصحة النفسية وواقع الهجرة في كيبيك."
+              },
+              {
+                "name": "أنشطة رياضية واجتماعية",
+                "description": "لقاءات غير رسمية وأنشطة بدنية تعزز التشبيك والرفاهية."
+              },
+              {
+                "name": "الدعم النفسي الاجتماعي",
+                "description": "مرافقة فردية وسرية لتلبية الاحتياجات الخاصة للرجال المهاجرين: العزلة، التوتر، التكيّف."
               }
             ]
           }
@@ -221,7 +269,7 @@
       "employment": {
         "title": "المساعدة في التوظيف",
         "description": "ورش السيرة الذاتية، محاكاة المقابلات، تدريب مهني ولقاءات مع أصحاب العمل.",
-        "fullDescription": "العثور على عمل أمر أساسي للاندماج الناجح! يدعم قسمنا اندماج المهاجرين في سوق العمل من خلال التوجيه الشخصي والأنشطة الجماعية.",
+        "fullDescription": "إيجاد عمل يتناسب مع مهاراتكم شرط أساسي لاندماج ناجح! سواء كنتم مقيمين دائمين تسعون للاعتراف بمؤهلاتكم، أو مواطنين جدد في مرحلة إعادة توجيه مهني، أو وافدين جدد تخطون خطواتكم الأولى في سوق العمل الكيبيكي، فإن فريقنا يرافقكم بخدمات مكيّفة مع مساركم.",
         "benefits": [
           "ورش كتابة السيرة الذاتية ورسائل التغطية",
           "محاكاة مقابلات شخصية",
@@ -235,6 +283,10 @@
           {
             "title": "للمرشحين",
             "items": [
+              {
+                "name": "الاعتراف بالشهادات والمؤهلات",
+                "description": "التوجيه نحو النقابات المهنية، المساعدة في التقييم المقارن لوزارة الهجرة (MIFI) والاعتراف بالمكتسبات والكفاءات (RAC)."
+              },
               {
                 "name": "التوظيف المباشر",
                 "description": "شراكات مع شركات كيبيكية لتوفير فرص عمل وتدريب."
@@ -461,55 +513,54 @@
           "note": "الإثنين-الجمعة 8:30 صباحاً-5:00 مساءً · مجاني وسري"
         }
       },
-      "men": {
-        "title": "Espace Hommes",
-        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
-        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
-        "benefits": [
-          "Ateliers de prise de parole et d'expression",
-          "Soutien psychosocial individuel et confidentiel",
-          "Accompagnement personnalisé dans les démarches",
-          "Références vers les ressources spécialisées",
-          "Réseau d'entraide entre hommes immigrants",
-          "Activités de groupe et discussions thématiques"
-        ],
-        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+      "oath": {
+        "title": "التصديق والتوثيق",
+        "description": "نسخ مطابقة، إفادات خطية. بدون موعد، تفضلوا مباشرة.",
+        "fullDescription": "يقوم مفوضو القسم لدينا بتوثيق إفاداتكم الخطية (رسائل دعوة، تصاريح سفر، إفادات عدم زواج، توكيلات) ونسخكم المطابقة للأصل. خدمة مستمرة بدون موعد، من الاثنين إلى الجمعة من 8:30 إلى 16:45.",
         "sections": [
           {
-            "title": "Activités collectives",
+            "title": "الخدمات المقدمة",
             "items": [
               {
-                "name": "Ateliers de prise de parole",
-                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+                "name": "نسخ مطابقة للأصل",
+                "description": "تصديق نسخ من مستنداتكم الرسمية."
               },
               {
-                "name": "Discussions thématiques",
-                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+                "name": "إفادات خطية",
+                "description": "رسائل دعوة، تصاريح سفر، إفادات عدم زواج، توكيلات."
               },
               {
-                "name": "Activités sportives et sociales",
-                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+                "name": "15 نسخة مجانية",
+                "description": "للمهاجرين في كندا منذ أقل من 5 سنوات."
               }
             ]
           },
           {
-            "title": "Services individuels",
+            "title": "ما يجب إحضاره",
             "items": [
               {
-                "name": "Soutien psychosocial",
-                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+                "name": "بطاقتا هوية",
+                "description": "بطاقات هوية صالحة مع صورة."
               },
               {
-                "name": "Références et orientation",
-                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+                "name": "المستندات الأصلية",
+                "description": "المستندات التي تحتاجون نسخاً مطابقة منها."
               }
             ]
           }
         ],
+        "benefits": [
+          "بدون موعد — تفضلوا مباشرة",
+          "من الاثنين إلى الجمعة، 8:30 إلى 16:45",
+          "أول 15 نسخة مجانية (مهاجرون < 5 سنوات في كندا)",
+          "مفوضو قسم محترفون",
+          "خدمة سريعة، عادة في نفس اليوم",
+          "774 شارع ديكاري، مكتب 300، سان لوران"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+          "note": "الإثنين-الجمعة 8:30-16:45 · بدون موعد · خدمة مجانية (أول 15 نسخة)"
         }
       },
       "taxes": {
@@ -684,11 +735,11 @@
     "subtitle": "اختر الخدمة التي تهمك",
     "consultationTypes": {
       "welcome": "استشارة الترحيب والاندماج",
-      "french": "استشارة تعلم الفرنسية",
+      "oath": "التصديق (بدون موعد)",
       "employment": "استشارة التوظيف",
+      "french": "استشارة تعلم الفرنسية",
       "family": "استشارة خدمات الأسرة",
       "women": "استشارة نساء العالم",
-      "men": "Consultation Espace Hommes",
       "taxes": "Consultation Clinique d'impôts",
       "volunteering": "استشارة التطوع"
     },
@@ -749,7 +800,11 @@
     "contact": {
       "hoursLabel": "ساعات العمل",
       "schedule": "الإثنين-الجمعة: 9:00 - 17:00"
-    }
+    },
+    "walkInNotice": "لا حاجة لموعد للاستقبال والتصديق",
+    "walkInHours": "تفضلوا من الاثنين إلى الجمعة، 8:30 - 17:00 — 774 شارع ديكاري، مكتب 300",
+    "walkInServiceMessage": "التصديق خدمة بدون موعد. تفضلوا مباشرة إلى CARI سان لوران مع مستنداتكم الأصلية وبطاقتي هوية.",
+    "walkInCTA": "تفضلوا مباشرة"
   },
   "contact": {
     "title": "اتصل بنا",

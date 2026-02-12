@@ -56,11 +56,11 @@
     "subtitle": "我们陪伴您融入魁北克的每一步",
     "cards": {
       "welcome": "我刚到这里",
-      "french": "我想学法语",
+      "oath": "我需要宣誓公证",
       "employment": "我在找工作",
+      "french": "我想学法语",
       "family": "我是家长",
       "women": "我是女性",
-      "men": "我是男性",
       "taxes": "我要报税",
       "volunteering": "我想做志愿者"
     },
@@ -93,6 +93,36 @@
         "details": "免费服务，提供法语、英语、西班牙语、阿拉伯语和其他语言。现场或电话预约。",
         "sections": [
           {
+            "title": "寻求庇护者",
+            "description": "CARI陪伴寻求庇护者在魁北克迈出第一步。我们的顾问了解您处境的具体现实。",
+            "items": [
+              {
+                "name": "开放式工作许可",
+                "description": "关于寻求庇护者开放式工作许可的信息及申请协助。"
+              },
+              {
+                "name": "移民表格协助",
+                "description": "帮助填写与您的保护申请相关的表格。"
+              },
+              {
+                "name": "资源转介",
+                "description": "临时住所、法律援助、食品援助及其他必要资源。"
+              },
+              {
+                "name": "个性化陪伴",
+                "description": "由融入顾问提供的适合您情况的个人跟进。"
+              },
+              {
+                "name": "子女入学登记",
+                "description": "帮助您的孩子注册学校和欢迎班。"
+              },
+              {
+                "name": "获取医疗服务",
+                "description": "关于PFSI（联邦临时健康计划）和RAMQ注册的信息。"
+              }
+            ]
+          },
+          {
             "title": "个人服务",
             "items": [
               {
@@ -108,7 +138,7 @@
                 "description": "帮助寻找住房并了解租户/房东权利。"
               },
               {
-                "name": "宣誓声明",
+                "name": "宣誓公证",
                 "description": "庄严声明、邀请函、旅行授权、委托书和认证副本。在加拿大不满5年的移民前15份免费。"
               },
               {
@@ -141,16 +171,34 @@
                 "description": "关于租户权利、预算管理、魁北克学校系统、税务和冬季准备的工作坊。"
               },
               {
-                "name": "男性空间委员会",
-                "description": "为移民男性提供专业心理社会支持、个性化指导和资源转介。"
-              },
-              {
                 "name": "家庭度假营",
                 "description": "蒙特利尔附近湖畔度假屋住宿，为家庭提供跨文化环境。"
               },
               {
                 "name": "家庭出游",
                 "description": "文化和探索活动：魁北克城、蒙特摩伦瀑布、格兰比动物园、植物园、生物圈、摘苹果、枫糖小屋。"
+              }
+            ]
+          },
+          {
+            "title": "男士空间",
+            "description": "«男士空间»委员会是魁北克少数为移民男性提供专门服务的项目之一。",
+            "items": [
+              {
+                "name": "公共演讲工作坊",
+                "description": "表达和分享的空间：探讨融入挑战、男性气质、育儿和跨文化关系。"
+              },
+              {
+                "name": "主题讨论",
+                "description": "关于劳动力市场、权利与责任、心理健康和魁北克移民现实的交流。"
+              },
+              {
+                "name": "体育和社交活动",
+                "description": "非正式聚会和体育活动，促进社交网络和身心健康。"
+              },
+              {
+                "name": "心理社会支持",
+                "description": "为移民男性的特定需求提供个人和保密的陪伴：孤立、压力、适应。"
               }
             ]
           }
@@ -230,7 +278,7 @@
       "employment": {
         "title": "就业帮助",
         "description": "简历工作坊、面试模拟、职业辅导和雇主见面会。",
-        "fullDescription": "找到工作是成功融入的关键！我们的部门通过个性化指导和小组活动帮助移民融入劳动力市场。",
+        "fullDescription": "找到一份与您能力相匹配的工作是成功融入的必要条件！无论您是寻求学历认证的永久居民、正在转换职业方向的新公民，还是在魁北克劳动力市场迈出第一步的新移民，我们的团队都会根据您的具体情况提供量身定制的服务。",
         "benefits": [
           "简历和求职信撰写工作坊",
           "个性化面试模拟",
@@ -244,6 +292,10 @@
           {
             "title": "面向求职者",
             "items": [
+              {
+                "name": "学历与技能认证",
+                "description": "指导您联系专业协会，协助办理MIFI比较评估以及既有学识与能力认证（RAC）。"
+              },
               {
                 "name": "工作安置",
                 "description": "与魁北克企业合作提供工作和实习安置机会。"
@@ -470,55 +522,54 @@
           "note": "周一至周五 8:30-17:00 · 免费且保密"
         }
       },
-      "men": {
-        "title": "Espace Hommes",
-        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
-        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
-        "benefits": [
-          "Ateliers de prise de parole et d'expression",
-          "Soutien psychosocial individuel et confidentiel",
-          "Accompagnement personnalisé dans les démarches",
-          "Références vers les ressources spécialisées",
-          "Réseau d'entraide entre hommes immigrants",
-          "Activités de groupe et discussions thématiques"
-        ],
-        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+      "oath": {
+        "title": "宣誓公证",
+        "description": "认证副本、庄严声明。无需预约，直接前来。",
+        "fullDescription": "我们的宣誓专员为您认证庄严声明（邀请函、旅行授权书、单身声明、委托书）和文件认证副本。持续服务，无需预约，周一至周五8:30至16:45。",
         "sections": [
           {
-            "title": "Activités collectives",
+            "title": "提供的服务",
             "items": [
               {
-                "name": "Ateliers de prise de parole",
-                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+                "name": "文件认证副本",
+                "description": "为您的官方文件认证副本。"
               },
               {
-                "name": "Discussions thématiques",
-                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+                "name": "庄严声明",
+                "description": "邀请函、旅行授权书、单身声明、委托书。"
               },
               {
-                "name": "Activités sportives et sociales",
-                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+                "name": "15份免费复印",
+                "description": "适用于在加拿大不满5年的移民。"
               }
             ]
           },
           {
-            "title": "Services individuels",
+            "title": "需要携带的材料",
             "items": [
               {
-                "name": "Soutien psychosocial",
-                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+                "name": "两份身份证件",
+                "description": "带照片的有效身份证件。"
               },
               {
-                "name": "Références et orientation",
-                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+                "name": "原始文件",
+                "description": "您需要认证副本的文件。"
               }
             ]
           }
         ],
+        "benefits": [
+          "无需预约 — 直接前来",
+          "周一至周五，8:30-16:45",
+          "前15份免费复印（在加拿大不满5年的移民）",
+          "专业宣誓专员",
+          "快速服务，通常当天完成",
+          "774 Décarie大道300室，圣洛朗"
+        ],
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+          "note": "周一至周五 8:30-16:45 · 无需预约 · 免费服务（前15份复印）"
         }
       },
       "taxes": {
@@ -684,11 +735,11 @@
     "subtitle": "选择您感兴趣的服务",
     "consultationTypes": {
       "welcome": "接待与融入咨询",
-      "french": "法语培训咨询",
+      "oath": "宣誓公证（无需预约）",
       "employment": "就业咨询",
+      "french": "法语培训咨询",
       "family": "家庭服务咨询",
       "women": "世界女性咨询",
-      "men": "Consultation Espace Hommes",
       "taxes": "Consultation Clinique d'impôts",
       "volunteering": "志愿服务咨询"
     },
@@ -749,7 +800,11 @@
     "contact": {
       "hoursLabel": "时间",
       "schedule": "周一至周五：9:00 - 17:00"
-    }
+    },
+    "walkInNotice": "接待和宣誓公证无需预约",
+    "walkInHours": "周一至周五 8:30-17:00 前来 — 774 Décarie大道300室",
+    "walkInServiceMessage": "宣誓公证是无需预约的服务。请直接前往CARI圣洛朗，携带原始文件和两份身份证件。",
+    "walkInCTA": "直接前来"
   },
   "contact": {
     "title": "联系我们",
