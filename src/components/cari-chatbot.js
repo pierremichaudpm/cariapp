@@ -860,13 +860,12 @@ export default function CARIChatbot({ onClose, language }) {
               { code: "es", label: "Español" },
               { code: "ar", label: "العربية" },
               { code: "zh", label: "中文" },
-              { code: "pt", label: "Português" },
-              { code: "uk", label: "Українська" },
-              { code: "ur", label: "اردو" },
               { code: "ru", label: "Русский" },
-              { code: "vi", label: "Tiếng Việt" },
-              { code: "tl", label: "Tagalog" },
+              { code: "uk", label: "Українська" },
               { code: "ht", label: "Kreyòl" },
+              { code: "ur", label: "اردو" },
+              { code: "tr", label: "Türkçe" },
+              { code: "wo", label: "Wolof" },
             ];
             const visible = showAllLangs ? allLangs : allLangs.slice(0, 5);
             return visible.map(({ code, label }) => (
@@ -1006,13 +1005,12 @@ export default function CARIChatbot({ onClose, language }) {
                 es: "Preguntas frecuentes",
                 ar: "اسئلة شائعة",
                 zh: "常见问题",
-                pt: "Perguntas frequentes",
-                uk: "Часті питання",
-                ur: "عام سوالات",
                 ru: "Частые вопросы",
-                vi: "Cau hoi thuong gap",
-                tl: "Mga tanong",
+                uk: "Часті питання",
                 ht: "Kesyon kouran",
+                ur: "عام سوالات",
+                tr: "Sık sorulan sorular",
+                wo: "Laaj yi gëna am",
               }[chatLang] || "Questions frequentes"}
             </div>
             {(QUICK_ACTIONS[chatLang] || QUICK_ACTIONS.fr).map((action, i) => (
