@@ -80,7 +80,7 @@ export const heroSlides = getHeroSlides({
       slide5: {
         quote: "L'aide pour comprendre le système québécois a tout changé",
         author: "David C.",
-        role: "Chine • Arrivée 2022",
+        role: "Chine • Arrivé en 2022",
       },
     },
   },
