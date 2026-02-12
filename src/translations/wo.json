@@ -933,10 +933,13 @@
       "hoursLabel": "Waxtu",
       "schedule": "Alt-Àjj: 9h - 17h"
     },
-    "walkInNotice": "Bul soxla randevou ngir akëy ak seerment",
-    "walkInHours": "Ñëw altine ba àjjuma, 8:30 ba 17:00 — 774 boul. Décarie, biro 300",
+    "walkInNotice": "Bul soxla randevou ngir seerment — ñëw sa bopp altine ba àjjuma, 8:30 ba 17:00",
+    "walkInHours": "Altine ba àjjuma, 8:30 ba 16:45",
     "walkInServiceMessage": "Seerment mooy ab sèrwis bu amul randevou. Ñëw sa bopp ci CARI St-Laurent ak sa pabiye orijinal yi ak ñaari kaart idantite.",
-    "walkInCTA": "Ñëw sa bopp"
+    "walkInCTA": "Ñëw sa bopp",
+    "oathNoAppointment": "Randevou amul ci",
+    "oathInstructions": "Ñëw sa bopp ci sunu biro yi ak ñaari kaart idantite ak say pabiye orijinal yi.",
+    "oathFreeNote": "15 kopi yu njëkk yi dul fey ngir immigrant yi ci Canada ci lu wàññi ci 5 at"
   },
   "contact": {
     "title": "Jokkool nu",

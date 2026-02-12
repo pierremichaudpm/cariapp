@@ -930,10 +930,13 @@
       "hoursLabel": "Çalışma saatleri",
       "schedule": "Pzt-Cum: 9:00 - 17:00"
     },
-    "walkInNotice": "Kabul ve yeminli beyanname için randevuya gerek yok",
-    "walkInHours": "Pazartesi-Cuma 8:30-17:00 arası gelin — 774 boul. Décarie, ofis 300",
+    "walkInNotice": "Yeminli beyanname için randevuya gerek yok — pazartesiden cumaya, 8:30-17:00 arası doğrudan gelin",
+    "walkInHours": "Pazartesiden cumaya, 8:30-16:45",
     "walkInServiceMessage": "Yeminli beyanname randevusuz bir hizmettir. Orijinal belgeleriniz ve iki kimlik belgesiyle doğrudan CARI St-Laurent'a gelin.",
-    "walkInCTA": "Doğrudan gelin"
+    "walkInCTA": "Doğrudan gelin",
+    "oathNoAppointment": "Randevuya gerek yok",
+    "oathInstructions": "İki kimlik belgeniz ve orijinal belgelerinizle doğrudan ofislerimize gelin.",
+    "oathFreeNote": "Kanada'da 5 yıldan az süredir bulunan göçmenler için ilk 15 kopya ücretsiz"
   },
   "contact": {
     "title": "Bize ulaşın",

@@ -801,10 +801,13 @@
       "hoursLabel": "时间",
       "schedule": "周一至周五：9:00 - 17:00"
     },
-    "walkInNotice": "接待和宣誓公证无需预约",
-    "walkInHours": "周一至周五 8:30-17:00 前来 — 774 Décarie大道300室",
+    "walkInNotice": "宣誓公证无需预约——周一至周五 8:30-17:00 直接前来即可",
+    "walkInHours": "周一至周五，8:30-16:45",
     "walkInServiceMessage": "宣誓公证是无需预约的服务。请直接前往CARI圣洛朗，携带原始文件和两份身份证件。",
-    "walkInCTA": "直接前来"
+    "walkInCTA": "直接前来",
+    "oathNoAppointment": "无需预约",
+    "oathInstructions": "请直接前往我们的办公室，携带两份身份证件和您的原始文件。",
+    "oathFreeNote": "在加拿大不满5年的移民前15份复印免费"
   },
   "contact": {
     "title": "联系我们",

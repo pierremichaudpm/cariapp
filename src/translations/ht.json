@@ -955,10 +955,13 @@
       "hoursLabel": "Orè",
       "schedule": "Lendi-Vandredi: 9è - 17è"
     },
-    "walkInNotice": "Pa bezwen randevou pou akèy ak sèmantasyon",
-    "walkInHours": "Prezante w lendi a vandredi, 8:30 a 17:00 — 774 boul. Décarie, biwo 300",
+    "walkInNotice": "Pa bezwen randevou pou sèmantasyon — prezante w dirèkteman lendi a vandredi, 8è30 a 17è",
+    "walkInHours": "Lendi a vandredi, 8è30 a 16è45",
     "walkInServiceMessage": "Sèmantasyon se yon sèvis san randevou. Prezante w dirèkteman nan CARI St-Laurent ak dokiman orijinal ou yo ak de pyès idantite.",
-    "walkInCTA": "Prezante w dirèkteman"
+    "walkInCTA": "Prezante w dirèkteman",
+    "oathNoAppointment": "Pa bezwen randevou",
+    "oathInstructions": "Prezante w dirèkteman nan biwo nou yo ak de pyès idantite ak dokiman orijinal ou yo.",
+    "oathFreeNote": "Premye 15 kopi gratis pou imigran nan Kanada depi mwens ke 5 an"
   },
   "contact": {
     "title": "Kontakte nou",

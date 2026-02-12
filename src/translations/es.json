@@ -801,10 +801,13 @@
       "hoursLabel": "Horario",
       "schedule": "Lun-Vie: 9h - 17h"
     },
-    "walkInNotice": "No se necesita cita para la recepción y las declaraciones juradas",
-    "walkInHours": "Preséntese de lunes a viernes, 8:30 a 17:00 — 774 boul. Décarie, oficina 300",
+    "walkInNotice": "No se necesita cita para las declaraciones juradas — preséntese directamente de lunes a viernes, 8:30 a 17:00",
+    "walkInHours": "Lunes a viernes, 8:30 a 16:45",
     "walkInServiceMessage": "Las declaraciones juradas son un servicio sin cita. Preséntese directamente en el CARI St-Laurent con sus documentos originales y dos piezas de identificación.",
-    "walkInCTA": "Preséntese directamente"
+    "walkInCTA": "Preséntese directamente",
+    "oathNoAppointment": "No se necesita cita",
+    "oathInstructions": "Preséntese directamente en nuestras oficinas con dos piezas de identificación y sus documentos originales.",
+    "oathFreeNote": "15 primeras copias gratuitas para inmigrantes en Canadá desde hace menos de 5 años"
   },
   "contact": {
     "title": "Contáctenos",

@@ -955,10 +955,13 @@
       "hoursLabel": "Hours",
       "schedule": "Mon-Fri: 9 AM - 5 PM"
     },
-    "walkInNotice": "No appointment needed for reception and sworn declarations",
-    "walkInHours": "Come Monday to Friday, 8:30 AM to 5:00 PM — 774 Décarie Blvd., Suite 300",
+    "walkInNotice": "No appointment needed for sworn declarations — come directly Monday to Friday, 8:30 AM to 5:00 PM",
+    "walkInHours": "Monday to Friday, 8:30 AM to 4:45 PM",
     "walkInServiceMessage": "Sworn declarations are a walk-in service. Come directly to CARI St-Laurent with your original documents and two pieces of ID.",
-    "walkInCTA": "Come directly"
+    "walkInCTA": "Come directly",
+    "oathNoAppointment": "No appointment needed",
+    "oathInstructions": "Come directly to our offices with two pieces of ID and your original documents.",
+    "oathFreeNote": "First 15 copies free for immigrants in Canada for less than 5 years"
   },
   "contact": {
     "title": "Contact Us",

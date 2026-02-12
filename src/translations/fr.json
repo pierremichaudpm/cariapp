@@ -936,10 +936,13 @@
       "hoursLabel": "Horaire",
       "schedule": "Lun-Ven: 9h - 17h"
     },
-    "walkInNotice": "Pas besoin de rendez-vous pour l'accueil et l'assermentation",
-    "walkInHours": "Présentez-vous du lundi au vendredi, 8h30 à 17h00 — 774 boul. Décarie, bureau 300",
+    "walkInNotice": "Pas besoin de rendez-vous pour l'assermentation — présentez-vous directement du lundi au vendredi, 8h30 à 17h00",
+    "walkInHours": "Lundi au vendredi, 8h30 à 16h45",
     "walkInServiceMessage": "L'assermentation est un service sans rendez-vous. Présentez-vous directement au CARI St-Laurent avec vos documents originaux et deux pièces d'identité.",
-    "walkInCTA": "Présentez-vous directement"
+    "walkInCTA": "Présentez-vous directement",
+    "oathNoAppointment": "Aucun rendez-vous nécessaire",
+    "oathInstructions": "Présentez-vous directement à nos bureaux avec deux pièces d'identité et vos documents originaux.",
+    "oathFreeNote": "15 premières copies gratuites pour immigrants au Canada depuis moins de 5 ans"
   },
   "contact": {
     "title": "Contactez-nous",

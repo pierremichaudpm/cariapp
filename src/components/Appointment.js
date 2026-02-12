@@ -114,62 +114,50 @@ const Appointment = ({
               />
               <p style={{ margin: 0, fontSize: "14px", color: "#263164" }}>
                 {t.appointment?.walkInNotice ||
-                  "Pas besoin de rendez-vous pour l'accueil et l'assermentation"}
+                  "Pas besoin de rendez-vous pour l'assermentation — présentez-vous directement du lundi au vendredi, 8h30 à 17h00"}
               </p>
             </div>
 
             {selectedService === "oath" ? (
               <div
                 style={{
-                  textAlign: "center",
-                  padding: "40px 20px",
-                  background: "#f8fffe",
+                  background: "#fff",
+                  border: "2px solid #6CBAC7",
                   borderRadius: "12px",
-                  border: "1px dashed #6CBAC7",
+                  padding: "24px",
+                  textAlign: "center",
+                  margin: "20px 0",
                 }}
               >
-                <Icon
-                  name="scale"
-                  size={48}
-                  style={{ color: "#6CBAC7", marginBottom: "16px" }}
-                />
-                <h3 style={{ color: "#263164", marginBottom: "12px" }}>
-                  {t.services?.cards?.oath?.title || "Assermentation"}
+                <div style={{ fontSize: "2rem", marginBottom: "12px" }}>
+                  &#x1F4DC;
+                </div>
+                <h3 style={{ color: "#263164", margin: "0 0 8px 0" }}>
+                  {t.appointment?.oathNoAppointment ||
+                    "Aucun rendez-vous nécessaire"}
                 </h3>
-                <p
-                  style={{
-                    color: "#555",
-                    fontSize: "15px",
-                    maxWidth: "500px",
-                    margin: "0 auto 16px",
-                  }}
-                >
-                  {t.appointment?.walkInServiceMessage ||
-                    "L'assermentation est un service sans rendez-vous. Présentez-vous directement au CARI St-Laurent."}
+                <p style={{ color: "#263164", margin: "0 0 16px 0" }}>
+                  {t.appointment?.oathInstructions ||
+                    "Présentez-vous directement à nos bureaux avec deux pièces d'identité et vos documents originaux."}
                 </p>
-                <p
+                <div
                   style={{
+                    background: "#CCE8E5",
+                    borderRadius: "8px",
+                    padding: "12px",
                     color: "#263164",
-                    fontWeight: "600",
-                    marginBottom: "8px",
                   }}
                 >
-                  <Icon
-                    name="clock"
-                    size={16}
-                    style={{ marginRight: "8px", verticalAlign: "middle" }}
-                  />
+                  <strong>774 boul. Décarie, bureau 300, Saint-Laurent</strong>
+                  <br />
                   {t.appointment?.walkInHours ||
-                    "Lundi au vendredi, 8h30 à 17h00"}
-                </p>
-                <p style={{ color: "#263164" }}>
-                  <Icon
-                    name="map-marker-alt"
-                    size={16}
-                    style={{ marginRight: "8px", verticalAlign: "middle" }}
-                  />
-                  774, boul. Décarie, bureau 300, Saint-Laurent
-                </p>
+                    "Lundi au vendredi, 8h30 à 16h45"}
+                  <br />
+                  <span style={{ fontSize: "0.85rem" }}>
+                    {t.appointment?.oathFreeNote ||
+                      "15 premières copies gratuites pour immigrants au Canada depuis moins de 5 ans"}
+                  </span>
+                </div>
               </div>
             ) : (
               <form
