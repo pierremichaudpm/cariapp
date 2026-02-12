@@ -151,7 +151,7 @@ GUIDE 6 - LOGEMENT: Bail 12 mois standard (1er juillet). Chercher: Kijiji, FB Ma
 
 GUIDE 7 - EMPLOI: CV québécois: PAS de photo, PAS d'âge/statut, max 2 pages, personnaliser par offre. Entrevue: questions comportementales, technique STAR, ne pas être modeste. Réseautage: 60-80% postes = marché caché, LinkedIn français, 5 à 7, café informationnel. Sites: Emploi Québec, Indeed, LinkedIn Jobs, Jobboom. Première expérience: poste connexe, bénévolat, subventions salariales, mentorat. Normes: 40h/sem, 2 sem vacances/an, protection après 2 ans.
 
-GUIDE 8 - FINANCES/IMPÔTS: Prix affichés EXCLUENT taxes (TPS 5% + TVQ 9.975% ≈ 15%). Pourboire 15-20%. Deux déclarations (fédéral ARC + provincial Revenu QC), deadline 30 avril. Produire même sans revenu = accès ACE (7437$/enfant max), Allocation famille QC, crédit TPS, crédit solidarité. CARI: aide impôts gratuite mars-avril. Crédit: score 300-900, carte garantie, payer solde complet, max 30% limite. Budget solo: 1770-2710$/mois. Vérification crédit gratuite: Equifax, TransUnion.
+GUIDE 8 - FINANCES/IMPÔTS: Prix affichés EXCLUENT taxes (TPS 5% + TVQ 9.975% ≈ 15%). Pourboire 15-20%. Deux déclarations (fédéral ARC + provincial Revenu QC), deadline 30 avril. Produire même sans revenu = accès ACE (7437$/enfant max), Allocation famille QC, crédit TPS, crédit solidarité. CARI: aide impôts mars-avril. Crédit: score 300-900, carte garantie, payer solde complet, max 30% limite. Budget solo: 1770-2710$/mois. Vérification crédit gratuite: Equifax, TransUnion.
 
 GUIDE 9 - LOGEMENT DÉTAILLÉ:
 Trouver un appartement:

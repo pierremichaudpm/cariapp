@@ -122,7 +122,7 @@ La Société de l'assurance automobile du Québec (SAAQ) est l'organisme qui dé
 
 ## 9. Faire votre déclaration de revenus
 
-Même si vous êtes arrivé en cours d'année et n'avez pas travaillé au Canada, vous devez produire une déclaration de revenus. C'est important pour accéder aux crédits d'impôt et aux allocations familiales (Allocation canadienne pour enfants, Allocation famille du Québec). Le CARI offre un service gratuit d'aide aux impôts pendant la période de déclaration.
+Même si vous êtes arrivé en cours d'année et n'avez pas travaillé au Canada, vous devez produire une déclaration de revenus. C'est important pour accéder aux crédits d'impôt et aux allocations familiales (Allocation canadienne pour enfants, Allocation famille du Québec). Le CARI offre un service d'aide aux impôts pendant la période de déclaration.
 
 ## 10. Vous inscrire au CARI
 
@@ -751,7 +751,7 @@ TPS (fédérale) 5 % + TVQ (provinciale) 9,975 % = environ 15 % de plus que le p
 
 Deux déclarations séparées: fédéral (ARC) et provincial (Revenu Québec). Date limite: 30 avril. Même avec peu de revenus, produisez votre déclaration pour accéder à l'Allocation canadienne pour enfants, l'Allocation famille du Québec, le crédit TPS/TVH et le crédit d'impôt pour solidarité.
 
-Le CARI offre un service gratuit d'aide aux impôts (mars-avril).
+Le CARI offre un service d'aide aux impôts (mars-avril).
 
 ## Bâtir votre crédit
 

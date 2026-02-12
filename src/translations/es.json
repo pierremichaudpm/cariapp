@@ -514,10 +514,10 @@
       },
       "taxes": {
         "title": "Clinique d'impôts",
-        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
-        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "description": "Aide à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
         "benefits": [
-          "Service entièrement gratuit",
+          "Service accessible à faible coût",
           "Bénévoles formés par l'ARC",
           "Déclarations fédérale et provinciale",
           "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",

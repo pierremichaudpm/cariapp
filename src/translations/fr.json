@@ -677,10 +677,10 @@
       },
       "taxes": {
         "title": "Clinique d'impôts",
-        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
-        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "description": "Aide à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
         "benefits": [
-          "Service entièrement gratuit",
+          "Service accessible à faible coût",
           "Bénévoles formés par l'ARC",
           "Déclarations fédérale et provinciale",
           "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
@@ -723,7 +723,7 @@
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+          "note": "Mars à avril · Lun-Ven 9h-16h"
         }
       },
       "volunteering": {
@@ -1087,15 +1087,14 @@
         ]
       },
       {
-        "title": "Clinique d'impôts gratuite",
+        "title": "Clinique d'impôts",
         "subtitle": "Service saisonnier",
-        "description": "Besoin d'aide pour votre déclaration de revenus? Notre clinique d'impôts gratuite est ouverte aux personnes immigrantes à revenus modestes.",
-        "fullContent": "Chaque année, le CARI offre un service gratuit de préparation de déclarations de revenus pour les personnes immigrantes et les familles à revenus modestes.\n\nNos bénévoles formés vous accompagnent dans la préparation de votre déclaration fédérale et provinciale. Ce service vous permet de recevoir les crédits et prestations auxquels vous avez droit, comme l'Allocation canadienne pour enfants, le crédit TPS/TVH et le crédit Solidarité.\n\nApportez tous vos documents fiscaux (T4, relevés, reçus) et une pièce d'identité. Aucun rendez-vous nécessaire pendant les heures d'ouverture de la clinique.",
+        "description": "Besoin d'aide pour votre déclaration de revenus? Notre clinique d'impôts est ouverte aux personnes immigrantes à revenus modestes.",
+        "fullContent": "Chaque année, le CARI offre un service de préparation de déclarations de revenus pour les personnes immigrantes et les familles à revenus modestes.\n\nNos bénévoles formés vous accompagnent dans la préparation de votre déclaration fédérale et provinciale. Ce service vous permet de recevoir les crédits et prestations auxquels vous avez droit, comme l'Allocation canadienne pour enfants, le crédit TPS/TVH et le crédit Solidarité.\n\nApportez tous vos documents fiscaux (T4, relevés, reçus) et une pièce d'identité. Aucun rendez-vous nécessaire pendant les heures d'ouverture de la clinique.",
         "cta": "Plus d'information",
         "details": [
           { "label": "Période", "value": "Mars à avril 2026" },
           { "label": "Horaire", "value": "Lundi au vendredi, 9h à 16h" },
-          { "label": "Coût", "value": "Gratuit" },
           {
             "label": "Documents requis",
             "value": "T4, relevés, reçus, pièce d'identité"

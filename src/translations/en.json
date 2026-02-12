@@ -677,10 +677,10 @@
       },
       "taxes": {
         "title": "Tax Clinic",
-        "description": "Free tax return assistance for immigrants and low-income families.",
-        "fullDescription": "Every year, CARI St-Laurent offers a free tax preparation service thanks to trained volunteers. This service is available to immigrants and low-income families who need help filing their federal and provincial tax returns.",
+        "description": "Tax return assistance for immigrants and low-income families.",
+        "fullDescription": "Every year, CARI St-Laurent offers a tax preparation service thanks to trained volunteers. This service is available to immigrants and low-income families who need help filing their federal and provincial tax returns.",
         "benefits": [
-          "Completely free service",
+          "Accessible low-cost service",
           "Volunteers trained by the CRA",
           "Federal and provincial tax returns",
           "Access to tax credits (CCB, GST/HST, Solidarity)",
@@ -723,7 +723,7 @@
         "contactInfo": {
           "phone": "(514) 748-2007",
           "email": "info@cari.qc.ca",
-          "note": "March to April · Mon-Fri 9 AM-4 PM · Free"
+          "note": "March to April · Mon-Fri 9 AM-4 PM"
         }
       },
       "volunteering": {
@@ -1121,10 +1121,10 @@
         ]
       },
       {
-        "title": "Free Tax Clinic",
+        "title": "Tax Clinic",
         "subtitle": "Seasonal Service",
-        "description": "Need help with your tax return? Our free tax clinic is open to immigrants and low-income individuals.",
-        "fullContent": "Every year, CARI offers a free tax preparation service for immigrants and low-income families.\n\nOur trained volunteers help you prepare your federal and provincial tax returns. This service ensures you receive the credits and benefits you are entitled to.\n\nBring all your tax documents (T4, slips, receipts) and identification.",
+        "description": "Need help with your tax return? Our tax clinic is open to immigrants and low-income individuals.",
+        "fullContent": "Every year, CARI offers a tax preparation service for immigrants and low-income families.\n\nOur trained volunteers help you prepare your federal and provincial tax returns. This service ensures you receive the credits and benefits you are entitled to.\n\nBring all your tax documents (T4, slips, receipts) and identification.",
         "cta": "More Information",
         "details": [
           {
@@ -1134,10 +1134,6 @@
           {
             "label": "Hours",
             "value": "Monday to Friday, 9am to 4pm"
-          },
-          {
-            "label": "Cost",
-            "value": "Free"
           },
           {
             "label": "Required Documents",
