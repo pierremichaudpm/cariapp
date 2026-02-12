@@ -57,20 +57,7 @@ body {
 }
 
 .header::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 20px;
-    background: linear-gradient(
-        to bottom,
-        rgba(255, 255, 255, 0),
-        rgba(255, 255, 255, 0.9) 50%,
-        white
-    );
-    pointer-events: none;
-    z-index: 999;
+    display: none;
 }
 
 .nav-container {
@@ -707,6 +694,11 @@ body {
 }
 
 .hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     display: none;
 }
 
@@ -716,10 +708,11 @@ body {
     height: 100%;
     border-radius: 20px;
     overflow: hidden;
+    clip-path: inset(0px -30px -30px -30px);
     box-shadow:
         0 0 0 1px rgba(0, 0, 0, 0.08),
-        0 3px 8px rgba(0, 0, 0, 0.2),
-        0 8px 24px rgba(0, 0, 0, 0.25);
+        0 6px 8px -4px rgba(0, 0, 0, 0.2),
+        0 14px 24px -6px rgba(0, 0, 0, 0.25);
 }
 
 .hero-slide {
