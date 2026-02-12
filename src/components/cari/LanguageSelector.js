@@ -30,29 +30,27 @@ const languages = [
   { code: "es", name: "Spanish", native: "Español" },
   { code: "ar", name: "Arabic", native: "العربية" },
   { code: "zh", name: "Chinese", native: "中文" },
-  { code: "pt", name: "Portuguese", native: "Português" },
   { code: "uk", name: "Ukrainian", native: "Українська" },
   { code: "ur", name: "Urdu", native: "اردو" },
   { code: "ru", name: "Russian", native: "Русский" },
-  { code: "vi", name: "Vietnamese", native: "Tiếng Việt" },
-  { code: "tl", name: "Tagalog", native: "Tagalog" },
   { code: "ht", name: "Haitian Creole", native: "Kreyòl" },
+  { code: "tr", name: "Turkish", native: "Türkçe" },
+  { code: "wo", name: "Wolof", native: "Wolof" },
 ];
 
-// Positions pour le nuage de langues - disposées de façon organique
+// Positions pour le nuage de langues - disposées de façon organique (11 langues)
 const cloudPositions = [
   { x: 50, y: 12, scale: 1.4, delay: 0 }, // Français - centre haut, plus gros
   { x: 18, y: 28, scale: 1.0, delay: 0.1 }, // English - gauche
   { x: 82, y: 26, scale: 1.0, delay: 0.15 }, // Español - droite
   { x: 35, y: 42, scale: 1.15, delay: 0.2 }, // العربية - centre gauche
   { x: 68, y: 44, scale: 1.15, delay: 0.25 }, // 中文 - centre droite
-  { x: 10, y: 55, scale: 0.9, delay: 0.3 }, // Português - extrême gauche
-  { x: 90, y: 56, scale: 0.9, delay: 0.35 }, // हिन्दी - extrême droite
-  { x: 26, y: 68, scale: 0.95, delay: 0.4 }, // اردو
-  { x: 74, y: 70, scale: 0.95, delay: 0.45 }, // Русский
-  { x: 50, y: 78, scale: 1.05, delay: 0.5 }, // Tiếng Việt - centre bas
-  { x: 14, y: 85, scale: 0.85, delay: 0.55 }, // Tagalog
-  { x: 86, y: 86, scale: 0.85, delay: 0.6 }, // Kreyòl
+  { x: 10, y: 58, scale: 0.9, delay: 0.3 }, // Українська - extrême gauche
+  { x: 90, y: 58, scale: 0.9, delay: 0.35 }, // اردو - extrême droite
+  { x: 50, y: 68, scale: 1.05, delay: 0.4 }, // Русский - centre
+  { x: 22, y: 78, scale: 0.95, delay: 0.45 }, // Kreyòl
+  { x: 78, y: 78, scale: 0.95, delay: 0.5 }, // Türkçe
+  { x: 50, y: 88, scale: 0.85, delay: 0.55 }, // Wolof - centre bas
 ];
 
 const LanguageSelector = ({ onSelectLanguage, onClose }) => {

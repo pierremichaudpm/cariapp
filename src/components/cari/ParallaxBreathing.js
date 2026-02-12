@@ -288,7 +288,7 @@ export const ParallaxStatsSection = ({ stats = [], title, subtitle }) => {
     content: {
       position: "relative",
       zIndex: 10,
-      maxWidth: "1200px",
+      maxWidth: "1400px",
       margin: "0 auto",
       textAlign: "center",
       color: COLORS.bleuFonce,
@@ -611,13 +611,13 @@ export const ParallaxCTASection = ({
       fontFamily: '"DM Serif Text", serif',
       fontSize: isMobile ? "2rem" : "3rem",
       fontWeight: "400",
-      marginBottom: "1.5rem",
+      marginBottom: "2.5rem",
       lineHeight: 1.3,
     },
     subtitle: {
       fontSize: isMobile ? "1.1rem" : "1.35rem",
       opacity: 0.95,
-      marginBottom: "2rem",
+      marginBottom: "3.5rem",
       lineHeight: 1.6,
       fontWeight: "400",
     },
@@ -629,17 +629,20 @@ export const ParallaxCTASection = ({
       alignItems: "center",
     },
     primaryBtn: {
-      padding: "1rem 2.25rem",
+      padding: "13px 32px",
       backgroundColor: COLORS.vermillon,
       color: COLORS.blanc,
       border: "none",
       borderRadius: "50px",
       fontSize: "1rem",
-      fontWeight: "600",
+      fontWeight: "700",
       fontFamily: '"DM Sans", sans-serif',
       cursor: "pointer",
       transition: "all 0.3s ease",
-      boxShadow: `0 4px 20px ${COLORS.vermillon}50`,
+      display: "inline-flex",
+      alignItems: "center",
+      gap: "0.5rem",
+      boxShadow: "0 4px 16px rgba(0, 0, 0, 0.3)",
     },
     secondaryBtn: {
       padding: "1rem 2.25rem",
@@ -672,11 +675,11 @@ export const ParallaxCTASection = ({
                 onClick={primaryButton.onClick}
                 onMouseOver={(e) => {
                   e.target.style.transform = "scale(1.05)";
-                  e.target.style.boxShadow = `0 8px 30px ${COLORS.vermillon}60`;
+                  e.target.style.boxShadow = "0 8px 24px rgba(0, 0, 0, 0.35)";
                 }}
                 onMouseOut={(e) => {
                   e.target.style.transform = "scale(1)";
-                  e.target.style.boxShadow = `0 4px 20px ${COLORS.vermillon}50`;
+                  e.target.style.boxShadow = "0 4px 16px rgba(0, 0, 0, 0.3)";
                 }}
               >
                 {primaryButton.label}

@@ -8,17 +8,18 @@ const Appointment = ({
   selectedService,
   handleServiceSelect,
   handleSubmit,
-  services,
 }) => {
   const t = translations[currentLanguage] || translations.fr;
 
   const consultationTypes = {
-    welcome: t.appointment.consultationTypes.welcome,
-    french: t.appointment.consultationTypes.french,
-    employment: t.appointment.consultationTypes.employment,
-    family: t.appointment.consultationTypes.family,
-    women: t.appointment.consultationTypes.women,
-    volunteering: t.appointment.consultationTypes.volunteering,
+    welcome: t.needs.cards.welcome,
+    french: t.needs.cards.french,
+    employment: t.needs.cards.employment,
+    family: t.needs.cards.family,
+    women: t.needs.cards.women,
+    men: t.needs.cards.men,
+    taxes: t.needs.cards.taxes,
+    volunteering: t.needs.cards.volunteering,
   };
 
   const timeSlots = [
@@ -34,15 +35,14 @@ const Appointment = ({
   const cardRef = useScrollReveal();
 
   const serviceDetails = {
-    welcome: { icon: <Icon name="home" size={24} />, color: "blue" },
-    french: { icon: <Icon name="book-open" size={24} />, color: "orange" },
-    employment: { icon: <Icon name="briefcase" size={24} />, color: "blue" },
-    family: { icon: <Icon name="users" size={24} />, color: "orange" },
-    women: { icon: <Icon name="female" size={24} />, color: "blue" },
-    volunteering: {
-      icon: <Icon name="hands-helping" size={24} />,
-      color: "orange",
-    },
+    welcome: { icon: <Icon name="home" size={20} /> },
+    french: { icon: <Icon name="book-open" size={20} /> },
+    employment: { icon: <Icon name="briefcase" size={20} /> },
+    family: { icon: <Icon name="users" size={20} /> },
+    women: { icon: <Icon name="female" size={20} /> },
+    men: { icon: <Icon name="male" size={20} /> },
+    taxes: { icon: <Icon name="calculator" size={20} /> },
+    volunteering: { icon: <Icon name="hands-helping" size={20} /> },
   };
 
   return (
@@ -75,20 +75,18 @@ const Appointment = ({
 
           <div className="appointment-card scroll-reveal" ref={cardRef}>
             <div className="service-grid">
-              {services.map((service) => {
-                const details = serviceDetails[service.id];
+              {Object.entries(consultationTypes).map(([id, label]) => {
+                const details = serviceDetails[id];
                 return (
                   <button
-                    key={service.id}
+                    key={id}
                     type="button"
-                    className={`service-btn ${selectedService === service.id ? "selected" : ""}`}
-                    onClick={() => handleServiceSelect(service.id)}
+                    className={`service-btn ${selectedService === id ? "selected" : ""}`}
+                    onClick={() => handleServiceSelect(id)}
                   >
                     <div className="service-icon-wrapper">{details.icon}</div>
-                    <span className="service-name">
-                      {consultationTypes[service.id]}
-                    </span>
-                    {selectedService === service.id && (
+                    <span className="service-name">{label}</span>
+                    {selectedService === id && (
                       <span className="service-check">✓</span>
                     )}
                   </button>

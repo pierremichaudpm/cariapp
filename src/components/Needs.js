@@ -39,6 +39,16 @@ const Needs = ({ currentLanguage, translations, scrollToSection }) => {
       text: t.needs.cards.women,
     },
     {
+      id: "men",
+      icon: "fa-male",
+      text: t.needs.cards.men,
+    },
+    {
+      id: "taxes",
+      icon: "fa-calculator",
+      text: t.needs.cards.taxes,
+    },
+    {
       id: "volunteering",
       icon: "fa-hands-helping",
       text: t.needs.cards.volunteering,

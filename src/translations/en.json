@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "Home",
-    "needs": "Your needs",
+    "needs": "Services",
     "services": "Services",
     "activities": "Activities",
     "news": "Resources",
+    "team": "Team",
+    "appointment": "Appointment",
     "talk": "Appointment",
     "talkToAdvisor": "Talk to an advisor",
     "contact": "Contact"
   },
   "hero": {
     "title": "Find <span class='highlight'>your place</span> in Quebec",
-    "subtitle": "Employment, French, housing, procedures: free support from A to Z",
+    "subtitle": "Employment, French, integration and immigration procedures: free support from A to Z.",
     "discoverServices": "Discover our services",
     "letsTalk": "Talk to an advisor",
     "testFrench": "French test",
@@ -22,27 +24,27 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Every person who walks through our door deserves a warm welcome »",
+        "quote": "Every person who walks through our door deserves a warm welcome",
         "author": "Nadia R.",
         "role": "Welcome & Integration"
       },
       "slide2": {
-        "quote": "« Seeing my students speak French with confidence is my greatest pride »",
+        "quote": "Seeing my students speak French with confidence is my greatest pride",
         "author": "Sylvie D.",
         "role": "French Courses"
       },
       "slide3": {
-        "quote": "« We don't just find a job, we build a future here »",
+        "quote": "We don't just find a job, we build a future here",
         "author": "Marco T.",
         "role": "Employment Services"
       },
       "slide4": {
-        "quote": "« Supporting families means investing in an entire community »",
+        "quote": "Supporting families means investing in an entire community",
         "author": "Fatima H.",
         "role": "Parents & Youth"
       },
       "slide5": {
-        "quote": "« Here, every woman discovers her strength and potential »",
+        "quote": "Here, every woman discovers her strength and potential",
         "author": "Lucia M.",
         "role": "Women of the World"
       }
@@ -54,10 +56,12 @@
     "instruction": "Select a service to learn more",
     "cards": {
       "welcome": "I just arrived",
-      "french": "I'm learning French",
+      "french": "I want to learn French",
       "employment": "I'm looking for a job",
-      "family": "I have a family",
+      "family": "I am a parent",
       "women": "I am a woman",
+      "men": "I am a man",
+      "taxes": "I want to file my taxes",
       "volunteering": "I want to get involved"
     }
   },
@@ -78,6 +82,43 @@
       "guide": "GUIDE",
       "histoire": "STORY",
       "actualite": "NEWS"
+    },
+    "calloutTitle": "Need help?",
+    "calloutText": "Our counselors are available to help you with your steps.",
+    "calloutCTA": "Talk to a counselor",
+    "guides": {
+      "1": {
+        "title": "Your first 10 steps upon arriving in Quebec",
+        "excerpt": "From getting your SIN to registering for RAMQ, here's the complete checklist for a great start to your new life."
+      },
+      "4": {
+        "title": "How to get your degree recognized in Quebec",
+        "excerpt": "Comparative assessment, professional orders, equivalencies... The step-by-step process to value your education."
+      },
+      "7": {
+        "title": "Preparing for your first Quebec winter",
+        "excerpt": "Clothing, transportation, heating, activities: everything you need to know to enjoy a Montreal winter."
+      },
+      "10": {
+        "title": "Understanding Quebec's healthcare system",
+        "excerpt": "RAMQ, family doctor, emergency rooms, pharmacies: complete healthcare guide for newcomers."
+      },
+      "13": {
+        "title": "5 free apps to learn French",
+        "excerpt": "Complement your courses with these mobile apps recommended by our French teachers."
+      },
+      "14": {
+        "title": "Finding housing in Montreal: a survival guide",
+        "excerpt": "Lease, tenant rights, where to look, scams to avoid: everything to find your home in Montreal."
+      },
+      "15": {
+        "title": "Job hunting in Quebec: what nobody tells you",
+        "excerpt": "Quebec-style resume, interviews, networking, hidden job market: the codes of the local job market."
+      },
+      "16": {
+        "title": "Managing your finances and understanding taxes in Quebec",
+        "excerpt": "Taxes, credit, budget, family allowances: the basics of managing your money wisely."
+      }
     }
   },
   "newsModal": {
@@ -582,6 +623,108 @@
           "note": "Mon-Fri 8:30 AM-5:00 PM · Free and confidential"
         }
       },
+      "men": {
+        "title": "Men's Space",
+        "description": "Specialized psychosocial support, personalized guidance and referrals to resources for immigrant men.",
+        "fullDescription": "The CARI St-Laurent Men's Space Committee is one of the few programs in Quebec offering specific services to immigrant men. Through public speaking workshops, psychosocial support and personalized guidance, we help men overcome challenges related to integration.",
+        "benefits": [
+          "Public speaking and expression workshops",
+          "Individual and confidential psychosocial support",
+          "Personalized guidance with administrative procedures",
+          "Referrals to specialized resources",
+          "Support network among immigrant men",
+          "Group activities and thematic discussions"
+        ],
+        "details": "Free and confidential. Safe and supportive space dedicated to immigrant men.",
+        "sections": [
+          {
+            "title": "Group Activities",
+            "items": [
+              {
+                "name": "Public speaking workshops",
+                "description": "Expression and sharing spaces to address integration challenges, masculinity, parenting and intercultural relationships."
+              },
+              {
+                "name": "Thematic discussions",
+                "description": "Exchanges on the job market, rights and responsibilities, mental health and the realities of immigration in Quebec."
+              },
+              {
+                "name": "Sports and social activities",
+                "description": "Informal gatherings and physical activities promoting networking and well-being."
+              }
+            ]
+          },
+          {
+            "title": "Individual Services",
+            "items": [
+              {
+                "name": "Psychosocial support",
+                "description": "Individual and confidential guidance to address the specific needs of immigrant men: isolation, stress, adaptation."
+              },
+              {
+                "name": "Referrals and orientation",
+                "description": "Referral to community and institutional resources adapted to identified needs."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mon-Fri 8:30 AM-5:00 PM · Free and confidential"
+        }
+      },
+      "taxes": {
+        "title": "Tax Clinic",
+        "description": "Free tax return assistance for immigrants and low-income families.",
+        "fullDescription": "Every year, CARI St-Laurent offers a free tax preparation service thanks to trained volunteers. This service is available to immigrants and low-income families who need help filing their federal and provincial tax returns.",
+        "benefits": [
+          "Completely free service",
+          "Volunteers trained by the CRA",
+          "Federal and provincial tax returns",
+          "Access to tax credits (CCB, GST/HST, Solidarity)",
+          "Help in multiple languages",
+          "Walk-in during tax season"
+        ],
+        "details": "Seasonal service from March to April. Bring your T4s, slips, receipts and identification.",
+        "sections": [
+          {
+            "title": "Services Offered",
+            "items": [
+              {
+                "name": "Tax return preparation",
+                "description": "Complete assistance filing your federal and provincial tax returns, including required schedules and forms."
+              },
+              {
+                "name": "Credits and benefits",
+                "description": "Verification of your eligibility for the Canada Child Benefit (CCB), GST/HST credit, Quebec Solidarity credit and other benefits."
+              },
+              {
+                "name": "First tax return",
+                "description": "Specialized guidance for newcomers filing their first tax return in Canada."
+              }
+            ]
+          },
+          {
+            "title": "Required Documents",
+            "items": [
+              {
+                "name": "Tax slips",
+                "description": "T4 (employment), T4A (benefits), T5 (investment income), Relevé 1, and any other tax slips received."
+              },
+              {
+                "name": "Identification",
+                "description": "Permanent resident card, work permit or other valid identification with social insurance number."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "March to April · Mon-Fri 9 AM-4 PM · Free"
+        }
+      },
       "volunteering": {
         "title": "Training & Community Life",
         "description": "Intercultural meetings, social activities and volunteering opportunities.",
@@ -703,6 +846,8 @@
       "employment": "Employment Consultation",
       "family": "Family Services Consultation",
       "women": "Women of the World Consultation",
+      "men": "Men's Space Consultation",
+      "taxes": "Tax Clinic Consultation",
       "volunteering": "Volunteering Consultation"
     },
     "form": {
@@ -713,7 +858,7 @@
       "date": "Preferred date",
       "time": "Preferred time",
       "message": "Message (optional)",
-      "submit": "Confirm appointment",
+      "submit": "Request an appointment",
       "namePlaceholder": "First and last name",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "your@email.com",
@@ -743,10 +888,7 @@
           "value": "etudiant",
           "label": "International student"
         },
-        {
-          "value": "parraine",
-          "label": "Sponsored"
-        },
+
         {
           "value": "citoyen",
           "label": "Canadian citizen"
@@ -800,6 +942,7 @@
   },
   "chatbot": {
     "title": "CARI Assistant",
+    "bubbleHint": "Need help? Write to me!",
     "placeholder": "Ask your question...",
     "typing": "CARI Assistant is typing...",
     "status": "Online",
@@ -836,6 +979,57 @@
     },
     "ctaTitle": "Ready to start your new life in Quebec?",
     "ctaSubtitle": "Our multilingual team is here to support you every step of your integration."
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Dedicated professionals for your integration",
+    "departments": {
+      "direction": "Executive Management",
+      "accueil": "Welcome and Integration",
+      "francisation": "French Language Training",
+      "emploi": "Employment Support",
+      "femmes": "Women of the World",
+      "jeunesse": "Family and Youth",
+      "communautaire": "Community Life",
+      "hommes": "Men's Space"
+    }
+  },
+  "careers": {
+    "title": "Careers",
+    "subtitle": "Join our team",
+    "viewOffer": "View offer",
+    "apply": "Apply",
+    "type": {
+      "fullTime": "Full-time",
+      "partTime": "Part-time",
+      "contract": "Contract"
+    },
+    "jobs": [
+      {
+        "title": "Integration Counsellor",
+        "department": "Welcome and Integration",
+        "excerpt": "Support newcomers in their first steps.",
+        "description": "We are looking for a counsellor to support immigrant individuals.\n\nResponsibilities:\n- Welcome and assess needs\n- Refer to appropriate services\n- Assist with administrative procedures\n\nRequirements:\n- Degree in social work or related field\n- Experience in intercultural intervention\n- Fluency in French and English"
+      },
+      {
+        "title": "French Teacher",
+        "department": "French Language Training",
+        "excerpt": "Teach French to immigrant adults of all levels.",
+        "description": "Join our French language training team.\n\nResponsibilities:\n- Plan and lead French courses\n- Adapt content to learners' needs\n- Assess student progress\n\nRequirements:\n- Bachelor's degree in FSL teaching\n- Experience teaching adults\n- Dynamic pedagogical approach"
+      },
+      {
+        "title": "Community Worker",
+        "department": "Community Life",
+        "excerpt": "Develop activities that promote inclusion and living together.",
+        "description": "We are looking for a community worker.\n\nResponsibilities:\n- Design and facilitate community activities\n- Develop local partnerships\n- Support citizen initiatives\n\nRequirements:\n- Training in community facilitation\n- Experience in a multicultural environment\n- Excellent communication skills"
+      },
+      {
+        "title": "Youth Coordinator",
+        "department": "Parents & Youth",
+        "excerpt": "Coordinate programs for immigrant youth and families.",
+        "description": "Contract position for our youth programs.\n\nResponsibilities:\n- Plan youth activities\n- Liaise with schools\n- Organize camps and extracurricular activities\n\nRequirements:\n- Degree in education or related field\n- Experience with immigrant youth\n- French-English bilingualism"
+      }
+    ]
   },
   "footer": {
     "copyright": "© 2026 All rights reserved.",

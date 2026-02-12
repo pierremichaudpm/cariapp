@@ -30,12 +30,11 @@ const Header = ({
     ar: "AR",
     ru: "RU",
     zh: "ZH",
-    pt: "PT",
     ht: "HT",
-    vi: "VI",
-    tl: "TL",
     ur: "UR",
     uk: "UK",
+    tr: "TR",
+    wo: "WO",
   };
 
   const languages = [
@@ -45,12 +44,11 @@ const Header = ({
     { code: "ar", name: "العربية" },
     { code: "ru", name: "Русский" },
     { code: "zh", name: "中文" },
-    { code: "pt", name: "Português" },
     { code: "ht", name: "Kreyòl" },
-    { code: "vi", name: "Tiếng Việt" },
-    { code: "tl", name: "Tagalog" },
     { code: "ur", name: "اردو" },
     { code: "uk", name: "Українська" },
+    { code: "tr", name: "Türkçe" },
+    { code: "wo", name: "Wolof" },
   ];
 
   const t = translations[currentLanguage] || translations.fr;
@@ -138,6 +136,30 @@ const Header = ({
                   {t.nav.news}
                 </a>
               </li>
+              <li>
+                <a
+                  href="#rdv"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    scrollToSection("rdv");
+                  }}
+                  className="nav-link nav-link-bold"
+                >
+                  {t.nav.appointment}
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#equipe"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    scrollToSection("equipe");
+                  }}
+                  className="nav-link nav-link-bold"
+                >
+                  {t.nav.team}
+                </a>
+              </li>
             </ul>
           </nav>
 
@@ -183,10 +205,7 @@ const Header = ({
         </div>
 
         <div className="mobile-controls">
-          <button
-            className={`btn-rdv-mobile${t.hero.testFrench.length > 23 ? " btn-rdv-mobile-sm" : ""}`}
-            onClick={onOpenFrenchTest}
-          >
+          <button className="btn-rdv-mobile" onClick={onOpenFrenchTest}>
             {t.hero.testFrench}
           </button>
           <div className="mobile-lang-switcher" ref={mobileLangDropdownRef}>

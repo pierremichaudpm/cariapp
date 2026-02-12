@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "Akèy",
-    "needs": "Bezwen ou",
+    "needs": "Sèvis",
     "services": "Sèvis",
     "activities": "Aktivite",
     "news": "Resous",
+    "team": "Ekip",
+    "appointment": "Randevou",
     "talk": "Randevou",
     "talkToAdvisor": "Pale ak yon konseye",
     "contact": "Kontakte nou"
   },
   "hero": {
     "title": "Jwenn <span class='highlight'>plas ou</span> nan Kebèk",
-    "subtitle": "Travay, fransè, lojman, demach: akonpayman gratis de A a Z",
+    "subtitle": "Travay, fransè, demach entegrasyon ak imigrasyon: akonpayman gratis de A a Z",
     "discoverServices": "Dekouvri sèvis nou yo",
     "letsTalk": "Pale ak yon konseye",
     "testFrench": "Tès fransè",
@@ -22,27 +24,27 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« Chak moun ki pase nan pòt nou merite yon bon akèy »",
+        "quote": "Chak moun ki pase nan pòt nou merite yon bon akèy",
         "author": "Nadia R.",
         "role": "Akèy ak Entegrasyon"
       },
       "slide2": {
-        "quote": "« Wè elèv mwen yo pale fransè ak konfyans, se pi gwo fyète mwen »",
+        "quote": "Wè elèv mwen yo pale fransè ak konfyans, se pi gwo fyète mwen",
         "author": "Sylvie D.",
         "role": "Fransizasyon"
       },
       "slide3": {
-        "quote": "« Nou pa jis jwenn yon travay, nou bati yon avni isit »",
+        "quote": "Nou pa jis jwenn yon travay, nou bati yon avni isit",
         "author": "Marco T.",
         "role": "Èd pou travay"
       },
       "slide4": {
-        "quote": "« Akonpaye fanmi yo, se envesti nan tout yon kominote »",
+        "quote": "Akonpaye fanmi yo, se envesti nan tout yon kominote",
         "author": "Fatima H.",
         "role": "Paran ak Jèn"
       },
       "slide5": {
-        "quote": "« Isit, chak fanm dekouvri fòs li ak potansyèl li »",
+        "quote": "Isit, chak fanm dekouvri fòs li ak potansyèl li",
         "author": "Lucia M.",
         "role": "Fanm nan mond"
       }
@@ -54,10 +56,12 @@
     "instruction": "Chwazi yon sèvis pou aprann plis",
     "cards": {
       "welcome": "Mwen fèk rive",
-      "french": "Mwen ap aprann fransè",
+      "french": "Mwen vle aprann fransè",
       "employment": "Mwen ap chèche travay",
-      "family": "Mwen gen yon fanmi",
+      "family": "Mwen se paran",
       "women": "Mwen se yon fanm",
+      "men": "Mwen se yon gason",
+      "taxes": "Mwen vle fè taks mwen",
       "volunteering": "Mwen vle angaje m"
     }
   },
@@ -78,6 +82,43 @@
       "guide": "GID",
       "histoire": "ISTWA",
       "actualite": "NOUVÈL"
+    },
+    "calloutTitle": "Bezwen èd?",
+    "calloutText": "Konseye nou yo disponib pou ede ou nan demach ou yo.",
+    "calloutCTA": "Pale ak yon konseye",
+    "guides": {
+      "1": {
+        "title": "10 premye demach ou lè ou rive nan Quebec",
+        "excerpt": "Soti nan jwenn NAS ou rive nan enskri nan RAMQ, lis konplè pou kòmanse byen nouvo vi ou."
+      },
+      "4": {
+        "title": "Kijan pou fè rekonèt diplòm ou nan Quebec",
+        "excerpt": "Evalyasyon konparatif, òd pwofesyonèl, ekivalans... Etap pa etap pou valorize etid ou."
+      },
+      "7": {
+        "title": "Prepare premye ivè ou nan Quebec",
+        "excerpt": "Rad, transpò, chofaj, aktivite: tout sa ou bezwen konnen pou apresye ivè Montreal."
+      },
+      "10": {
+        "title": "Konprann sistèm sante Quebec",
+        "excerpt": "RAMQ, doktè fanmi, ijans, famasi: gid konplè sistèm sante pou nouvo rive yo."
+      },
+      "13": {
+        "title": "5 aplikasyon gratis pou aprann fransè",
+        "excerpt": "Konplete kou ou yo ak aplikasyon mobil sa yo ke pwofesè fransè nou yo rekòmande."
+      },
+      "14": {
+        "title": "Jwenn yon kay nan Montreal: gid siviv",
+        "excerpt": "Kontra, dwa lokatè, kote pou chache, anak pou evite: tout bagay pou jwenn kay ou nan Montreal."
+      },
+      "15": {
+        "title": "Chache travay nan Quebec: sa pèsonn pa di ou",
+        "excerpt": "CV style Quebec, entèvyou, rezo, mache kache: kòd mache travay isit la."
+      },
+      "16": {
+        "title": "Jere finans ou epi konprann taks nan Quebec",
+        "excerpt": "Taks, kredi, bidjè, alokasyon fanmi: baz pou jere lajan ou entilijaman."
+      }
     }
   },
   "newsModal": {
@@ -582,6 +623,108 @@
           "note": "Lendi-Vandredi 8è30-17è · Gratis ak konfidansyèl"
         }
       },
+      "men": {
+        "title": "Espace Hommes",
+        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
+        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
+        "benefits": [
+          "Ateliers de prise de parole et d'expression",
+          "Soutien psychosocial individuel et confidentiel",
+          "Accompagnement personnalisé dans les démarches",
+          "Références vers les ressources spécialisées",
+          "Réseau d'entraide entre hommes immigrants",
+          "Activités de groupe et discussions thématiques"
+        ],
+        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+        "sections": [
+          {
+            "title": "Activités collectives",
+            "items": [
+              {
+                "name": "Ateliers de prise de parole",
+                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+              },
+              {
+                "name": "Discussions thématiques",
+                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+              },
+              {
+                "name": "Activités sportives et sociales",
+                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+              }
+            ]
+          },
+          {
+            "title": "Services individuels",
+            "items": [
+              {
+                "name": "Soutien psychosocial",
+                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+              },
+              {
+                "name": "Références et orientation",
+                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+        }
+      },
+      "taxes": {
+        "title": "Clinique d'impôts",
+        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "benefits": [
+          "Service entièrement gratuit",
+          "Bénévoles formés par l'ARC",
+          "Déclarations fédérale et provinciale",
+          "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
+          "Aide en plusieurs langues",
+          "Sans rendez-vous pendant la période d'impôts"
+        ],
+        "details": "Service saisonnier de mars à avril. Apportez vos T4, relevés, reçus et pièce d'identité.",
+        "sections": [
+          {
+            "title": "Services offerts",
+            "items": [
+              {
+                "name": "Préparation de déclarations",
+                "description": "Aide complète pour remplir vos déclarations de revenus fédérale et provinciale, incluant les annexes et formulaires requis."
+              },
+              {
+                "name": "Crédits et prestations",
+                "description": "Vérification de votre admissibilité à l'Allocation canadienne pour enfants (ACE), au crédit de TPS/TVH, au crédit de solidarité du Québec et autres prestations."
+              },
+              {
+                "name": "Première déclaration",
+                "description": "Accompagnement spécialisé pour les nouveaux arrivants qui produisent leur première déclaration de revenus au Canada."
+              }
+            ]
+          },
+          {
+            "title": "Documents requis",
+            "items": [
+              {
+                "name": "Feuillets fiscaux",
+                "description": "T4 (emploi), T4A (prestations), T5 (revenus de placements), Relevé 1, et tout autre feuillet fiscal reçu."
+              },
+              {
+                "name": "Pièce d'identité",
+                "description": "Carte de résident permanent, permis de travail ou autre pièce d'identité valide avec numéro d'assurance sociale."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+        }
+      },
       "volunteering": {
         "title": "Fòmasyon ak Lavi Kominotè",
         "description": "Rankont entèkiltirèl, aktivite sosyal ak opòtinite volontarya.",
@@ -703,6 +846,8 @@
       "employment": "Konsiltasyon Travay",
       "family": "Konsiltasyon Sèvis familyal",
       "women": "Konsiltasyon Fanm nan mond lan",
+      "men": "Consultation Espace Hommes",
+      "taxes": "Consultation Clinique d'impôts",
       "volunteering": "Konsiltasyon Volontarya"
     },
     "form": {
@@ -713,7 +858,7 @@
       "date": "Dat prefere",
       "time": "Orè prefere",
       "message": "Mesaj (opsyonèl)",
-      "submit": "Konfime randevou",
+      "submit": "Mande yon randevou",
       "namePlaceholder": "Prenon ak non",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "ou@imèl.com",
@@ -743,10 +888,7 @@
           "value": "etudiant",
           "label": "Etidyan entènasyonal"
         },
-        {
-          "value": "parraine",
-          "label": "Parene"
-        },
+
         {
           "value": "citoyen",
           "label": "Sitwayen kanadyen"
@@ -800,6 +942,7 @@
   },
   "chatbot": {
     "title": "Asistan CARI",
+    "bubbleHint": "Bezwen èd? Ekri m!",
     "placeholder": "Poze kesyon ou...",
     "typing": "Asistan CARI ap tape...",
     "status": "Anliy",
@@ -836,6 +979,57 @@
     },
     "ctaTitle": "Prè pou kòmanse nouvo lavi ou nan Kebèk?",
     "ctaSubtitle": "Ekip miltileng nou an la pou akonpanye ou nan chak etap entegrasyon ou."
+  },
+  "team": {
+    "title": "Ekip nou",
+    "subtitle": "Pwofesyonèl devwe pou entegrasyon ou",
+    "departments": {
+      "direction": "Direksyon jeneral",
+      "accueil": "Akèy ak entegrasyon",
+      "francisation": "Fransizasyon",
+      "emploi": "Èd pou travay",
+      "femmes": "Fanm nan mond",
+      "jeunesse": "Paran-Jènès",
+      "communautaire": "Lavi kominotè",
+      "hommes": "Espas Gason"
+    }
+  },
+  "careers": {
+    "title": "Karyè",
+    "subtitle": "Rejwenn ekip nou",
+    "viewOffer": "Wè òf la",
+    "apply": "Aplike",
+    "type": {
+      "fullTime": "Tan plen",
+      "partTime": "Tan pasyèl",
+      "contract": "Kontra"
+    },
+    "jobs": [
+      {
+        "title": "Konseye entegrasyon",
+        "department": "Akèy ak Entegrasyon",
+        "excerpt": "Akonpanye nouvo rive yo nan premye demach yo.",
+        "description": "Nou ap chèche yon konseye pou akonpanye moun imigran yo.\n\nResponsabilite:\n- Akèyi ak evalye bezwen\n- Orante vè sèvis apwopriye\n- Akonpanye nan demach administratif\n\nEksijans:\n- Diplòm nan travay sosyal oswa domèn konèks\n- Eksperyans nan entèvansyon entèkiltirèl\n- Metrize fransè ak anglè"
+      },
+      {
+        "title": "Pwofesè fransè",
+        "department": "Fransizasyon",
+        "excerpt": "Anseye fransè bay adilt imigran nan tout nivo.",
+        "description": "Rejwenn ekip fransizasyon nou an.\n\nResponsabilite:\n- Planifye ak anime kou fransè\n- Adapte kontni ak bezwen elèv yo\n- Evalye pwogrè etidyan yo\n\nEksijans:\n- Bakaloreya nan ansèyman FLS\n- Eksperyans nan ansèyman adilt\n- Apwòch pedagojik dinamik"
+      },
+      {
+        "title": "Entèvenan kominotè",
+        "department": "Lavi Kominotè",
+        "excerpt": "Devlope aktivite ki ankouraje enklizyon ak viv ansanm.",
+        "description": "Nou ap chèche yon entèvenan kominotè.\n\nResponsabilite:\n- Konsevwa ak anime aktivite kominotè\n- Devlope patenarya lokal\n- Sipòte inisyativ sivik\n\nEksijans:\n- Fòmasyon nan animasyon kominotè\n- Eksperyans nan milye miltikiltirèl\n- Ekselan kapasite kominikasyon"
+      },
+      {
+        "title": "Kòdonatè jènès",
+        "department": "Paran ak Jèn",
+        "excerpt": "Kòdone pwogram pou jèn ak fanmi imigran.",
+        "description": "Pòs kontra pou pwogram jènès nou yo.\n\nResponsabilite:\n- Planifye aktivite jènès\n- Asire lyen ak lekòl yo\n- Òganize kan ak aktivite paraskolè\n\nEksijans:\n- Diplòm nan edikasyon oswa domèn konèks\n- Eksperyans ak jèn imigran\n- Bilengwis fransè-anglè"
+      }
+    ]
   },
   "footer": {
     "copyright": "© 2026 Tout dwa rezève.",

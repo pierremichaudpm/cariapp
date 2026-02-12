@@ -9,9 +9,10 @@ const MissionSimple = ({ currentLanguage, translations }) => {
   const touchStartXRef = useRef(0);
   const trackRef = useRef(null);
 
-  const promoSlides = t.promotions?.slides || [];
+  const allSlides = t.promotions?.slides || [];
+  // First slide ("La diversité nous rapproche") moved to parallax section
+  const promoSlides = allSlides.slice(1);
   const slideImages = [
-    "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1920&q=80",
     "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=1920&q=80",
     "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1920&q=80",
   ];

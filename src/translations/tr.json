@@ -1,0 +1,850 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "needs": "Hizmetler",
+    "services": "Hizmetler",
+    "activities": "Etkinlikler",
+    "news": "Kaynaklar",
+    "team": "Ekip",
+    "appointment": "Randevu",
+    "talk": "Randevu",
+    "talkToAdvisor": "Bir danışmanla görüşün",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Trouvez <span class='highlight'>votre place</span> au Québec",
+    "subtitle": "İstihdam, Fransızca, entegrasyon ve göç: A'dan Z'ye ücretsiz rehberlik.",
+    "discoverServices": "Hizmetlerimizi keşfedin",
+    "letsTalk": "Bir danışmanla görüşün",
+    "testFrench": "Fransızca testi",
+    "stats": {
+      "peopleHelped": "Yılda yardım edilen kişi",
+      "satisfaction": "Memnuniyet",
+      "findEmployment": "İş bulanlar"
+    },
+    "slides": {
+      "slide1": {
+        "quote": "Kapımızdan giren her kişi sıcak bir karşılama hak eder",
+        "author": "Nadia R.",
+        "role": "Karşılama ve Entegrasyon"
+      },
+      "slide2": {
+        "quote": "Öğrencilerimin Fransızcayı güvenle konuştuğunu görmek en büyük gururum",
+        "author": "Marco T.",
+        "role": "Fransızca Eğitimi"
+      },
+      "slide3": {
+        "quote": "Sadece bir iş bulmuyoruz, burada bir gelecek inşa ediyoruz",
+        "author": "Sylvie D.",
+        "role": "İstihdam Desteği"
+      },
+      "slide4": {
+        "quote": "Ailelere eşlik etmek, tüm bir topluluğa yatırım yapmaktır",
+        "author": "Fatima H.",
+        "role": "Ebeveyn-Gençlik"
+      },
+      "slide5": {
+        "quote": "Burada her kadın gücünü ve potansiyelini keşfeder",
+        "author": "David C.",
+        "role": "Dünya Kadınları"
+      }
+    }
+  },
+  "needs": {
+    "title": "İhtiyaçlarınız nelerdir?",
+    "subtitle": "Quebec'e entegrasyonunuzun her aşamasında size eşlik ediyoruz",
+    "instruction": "Daha fazla bilgi için bir hizmet seçin",
+    "cards": {
+      "welcome": "Yeni geldim",
+      "french": "Fransızca öğrenmek istiyorum",
+      "employment": "İş arıyorum",
+      "family": "Ebeveyn olarak destek istiyorum",
+      "women": "Kadın olarak destek istiyorum",
+      "men": "Erkek olarak destek istiyorum",
+      "taxes": "Vergi beyannamesi yapmak istiyorum",
+      "volunteering": "Gönüllü olmak istiyorum"
+    }
+  },
+  "newsSection": {
+    "title": "Kaynaklar",
+    "subtitle": "Entegrasyonunuzda başarılı olmanız için pratik rehberler, tanıklıklar ve haberler"
+  },
+  "news": {
+    "moreContentButton": "Tüm kaynaklar",
+    "moreNewsTitle": "Tüm kaynaklar",
+    "filters": {
+      "all": "Tümünü gör",
+      "guide": "Pratik rehberler",
+      "histoire": "Buradan hikayeler",
+      "actualite": "Haberler"
+    },
+    "contentTypes": {
+      "guide": "REHBER",
+      "histoire": "HİKAYE",
+      "actualite": "HABER"
+    },
+    "calloutTitle": "Yardıma mı ihtiyacınız var?",
+    "calloutText": "Danışmanlarımız işlemlerinizde size eşlik etmek için hazır.",
+    "calloutCTA": "Bir danışmanla görüşün",
+    "guides": {
+      "1": {
+        "title": "Quebec'e varışınızda ilk 10 adım",
+        "excerpt": "NAS almanızdan RAMQ kaydına kadar, yeni hayatınıza iyi bir başlangıç yapmak için eksiksiz kontrol listesi."
+      },
+      "4": {
+        "title": "Quebec'te diplomanızı nasıl tanıtırsınız",
+        "excerpt": "Karşılaştırmalı değerlendirme, meslek odaları, denklikler... Eğitiminizi değerlendirmek için adım adım süreç."
+      },
+      "7": {
+        "title": "İlk Quebec kışınıza hazırlanmak",
+        "excerpt": "Giyim, ulaşım, ısınma, etkinlikler: Montreal kışını keyifle yaşamak için bilmeniz gereken her şey."
+      },
+      "10": {
+        "title": "Quebec sağlık sistemini anlamak",
+        "excerpt": "RAMQ, aile hekimi, acil servisler, eczaneler: yeni gelenler için kapsamlı sağlık sistemi rehberi."
+      },
+      "13": {
+        "title": "Fransızca öğrenmek için 5 ücretsiz uygulama",
+        "excerpt": "Fransızca öğretmenlerimizin önerdiği mobil uygulamalarla derslerinizi tamamlayın."
+      },
+      "14": {
+        "title": "Montreal'de ev bulmak: hayatta kalma rehberi",
+        "excerpt": "Kira sözleşmesi, kiracı hakları, nerede aramak, dolandırıcılıklardan kaçınmak: Montreal'de evinizi bulmak için her şey."
+      },
+      "15": {
+        "title": "Quebec'te iş aramak: kimsenin söylemediği şeyler",
+        "excerpt": "Quebec CV'si, mülakat, networking, gizli pazar: buradaki iş piyasasının kodları."
+      },
+      "16": {
+        "title": "Quebec'te mali yönetim ve vergileri anlamak",
+        "excerpt": "Vergiler, kredi, bütçe, aile yardımları: paranızı akıllıca yönetmenin temelleri."
+      }
+    }
+  },
+  "newsModal": {
+    "share": "Paylaş",
+    "shareOn": {
+      "facebook": "Facebook'ta paylaş",
+      "twitter": "Twitter'da paylaş",
+      "linkedin": "LinkedIn'de paylaş",
+      "whatsapp": "WhatsApp'ta paylaş"
+    }
+  },
+  "newsCategories": {
+    "francisation": "Fransızca Eğitimi",
+    "emploi": "İstihdam",
+    "femmes": "Dünya Kadınları",
+    "integration": "Entegrasyon",
+    "parents": "Ebeveynler ve Gençlik"
+  },
+  "media": {
+    "videoNotSupported": "Tarayıcınız video oynatmayı desteklemiyor.",
+    "audioNotSupported": "Tarayıcınız ses oynatmayı desteklemiyor."
+  },
+  "activitiesSection": {
+    "title": "Yaklaşan etkinliklerimiz",
+    "subtitle": "Topluluğumuza katılın ve atölyelerimize, derslerimize ve etkinliklerimize katılın",
+    "allEvents": "Tüm etkinliklerimiz"
+  },
+  "activities": {
+    "registerButton": "Kayıt ol",
+    "moreEventsButton": "Daha fazla etkinlik",
+    "filters": {
+      "all": "Tümünü gör",
+      "welcome": "Karşılama",
+      "french": "Fransızca",
+      "employment": "İstihdam",
+      "family": "Aile",
+      "women": "Kadınlar"
+    }
+  },
+  "testimonialsSection": {
+    "title": "CARI ile başardılar",
+    "subtitle": "Quebec'te yerlerini bulanların ilham verici hikayelerini keşfedin"
+  },
+  "testimonials": {
+    "arrived": "Varış",
+    "items": [
+      {
+        "name": "Asma B.",
+        "country": "Fas",
+        "year": "2020",
+        "text": "CARI sayesinde 6 ayda hayalimdeki işi buldum! Kişiselleştirilmiş rehberlik ve atölyeler bana mülakatlarımda başarılı olmam için gerekli güveni verdi.",
+        "service": "İstihdam Desteği"
+      },
+      {
+        "name": "Jean-Pierre H.",
+        "country": "Haiti",
+        "year": "2020",
+        "text": "Mülteciden girişimciye, CARI her adımda yanımdaydı. Bugün kendi işletmem var ve 5 kişi çalıştırıyorum.",
+        "service": "Kapsamlı Rehberlik"
+      },
+      {
+        "name": "Jasmine M.",
+        "country": "Haiti",
+        "year": "2021",
+        "text": "Fransızca imkansız görünüyordu, şimdi akıcı konuşuyorum! Dersler mükemmel ve öğretmenler çok sabırlı.",
+        "service": "Fransızca Eğitimi"
+      },
+      {
+        "name": "Karla A.",
+        "country": "Kongo DC",
+        "year": "2019",
+        "text": "Çocuklarım mutlu, burada yerimizi bulduk. CARI'nin aile hizmetleri büyük fark yarattı.",
+        "service": "Aile Hizmetleri"
+      },
+      {
+        "name": "Wei L.",
+        "country": "Çin",
+        "year": "2022",
+        "text": "Quebec sistemini anlamak için aldığım yardım her şeyi değiştirdi. Artık Montreal'de kendimi evimde hissediyorum.",
+        "service": "Karşılama ve Entegrasyon"
+      }
+    ],
+    "parallaxItems": [
+      {
+        "quote": "Karşılamak, dinlemek, yönlendirmek — bu her gün görevimiz.",
+        "name": "Nadia R.",
+        "origin": "Karşılama ve Entegrasyon"
+      },
+      {
+        "quote": "Birlikte geliştirdiğimiz her CV, açılan bir kapıdır.",
+        "name": "Marco T.",
+        "origin": "İstihdam Desteği"
+      },
+      {
+        "quote": "Fransızca öğretmek, yeni bir hayatın anahtarlarını vermektir.",
+        "name": "Sylvie D.",
+        "origin": "Fransızca Eğitimi"
+      }
+    ]
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Durumunuza uygun çözümler",
+    "learnMore": "Daha fazla bilgi",
+    "modal": {
+      "benefits": "Ne elde edersiniz",
+      "details": "Hizmet detayları",
+      "close": "Kapat",
+      "contactTitle": "Bize ulaşın",
+      "services": "hizmetler",
+      "service": "hizmet"
+    },
+    "cards": {
+      "welcome": {
+        "title": "Karşılama ve Entegrasyon",
+        "description": "Yerleşiminizi kolaylaştırmak için bilgi, yönlendirme ve kişiselleştirilmiş rehberlik.",
+        "fullDescription": "Karşılama ve entegrasyon hizmetimiz, göçmen kişilere kişisel ve mesleki entegrasyonları için kapsamlı destek sunan profesyonel danışmanlar aracılığıyla eşlik eder.",
+        "benefits": [
+          "Bireysel bilgilendirme ve yönlendirme seansları",
+          "İdari işlemlerde eşlik",
+          "Bağ kurmak için grup etkinlikleri",
+          "Toplum kaynaklarına yönlendirme",
+          "Özerklik ve bağımsızlık desteği"
+        ],
+        "details": "Fransızca, İngilizce, İspanyolca, Arapça ve diğer dillerde sunulan ücretsiz hizmet. Yerinde veya telefonla randevu.",
+        "sections": [
+          {
+            "title": "Bireysel hizmetler",
+            "items": [
+              {"name": "Yerleşim ve entegrasyon desteği", "description": "RAMQ kartı, NAS, kreş kaydı, okul kaydı ve yerleşim işlemleri için rehberlik."},
+              {"name": "İdari form yardımı", "description": "Aile yardımları, aile birleşimi başvuruları, vatandaşlık formları, çalışma izni yenileme."},
+              {"name": "Konut arama", "description": "Konut aramada rehberlik ve kiracı/ev sahibi haklarını anlama."},
+              {"name": "Yeminli beyan", "description": "Resmi beyanlar, davet mektupları, seyahat yetkileri, vekaletnameler ve onaylı kopyalar. Kanada'ya 5 yıldan az süredir göç edenler için ilk 15 kopya ücretsiz."},
+              {"name": "Hukuk kliniği", "description": "Konut, göç, aile hukuku konularında Pro Bono ve Droit Légal ortaklarımız aracılığıyla ücretsiz hukuki bilgi."},
+              {"name": "Gelir beyannameleri", "description": "Vergi kliniğimiz aracılığıyla yıllık gelir beyannamesi yardımı."},
+              {"name": "Bilgi ve yönlendirme", "description": "İhtiyaçların profesyonel değerlendirmesi ve uygun toplum kaynaklarına yönlendirme."},
+              {"name": "Kültürlerarası arabuluculuk ve tercüme", "description": "Hükümet iletişimlerini anlama ve sosyal sistemlerde yön bulma yardımı."},
+              {"name": "Kişiselleştirilmiş takip ve psikososyal destek", "description": "Entegrasyon süreciniz boyunca gizli rehberlik ve duygusal destek."}
+            ]
+          },
+          {
+            "title": "Grup etkinlikleri",
+            "items": [
+              {"name": "Bilgilendirme oturumları", "description": "Kiracı hakları, bütçe yönetimi, Quebec eğitim sistemi, vergiler ve kışa hazırlık konularında atölyeler."},
+              {"name": "Erkekler Alanı Komitesi", "description": "Göçmen erkekler için özel psikososyal destek, kişiselleştirilmiş rehberlik ve kaynaklara yönlendirme."},
+              {"name": "Aile tatil kampı", "description": "Montreal yakınlarında göl kenarında şalelerde aileler için kültürlerarası ortamda konaklama."},
+              {"name": "Aile gezileri", "description": "Kültürel keşif etkinlikleri: Quebec, Montmorency Şelaleleri, Granby Hayvanat Bahçesi, Botanik Bahçe, Biodôme, elma toplama, akçaağaç şurubu evleri."}
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Pzt-Cum 8:30-17:00 · Ücretsiz hizmet"
+        }
+      },
+      "french": {
+        "title": "Fransızca Eğitimi",
+        "description": "Göçmenlere uygun Fransızca kursları, tüm seviyeler, esnek saatler (8:30-22:00). Seviyenizi ücretsiz test edin!",
+        "fullDescription": "Fransızca, Quebec'in resmi ve ortak dilidir. CARI, hükümet tarafından finanse edilen ücretsiz Fransızca kursları sunar; tam zamanlı ve yarı zamanlı, başlangıçtan ileri seviyeye.",
+        "benefits": [
+          "Tam zamanlı ve yarı zamanlı kurslar",
+          "8:30'dan 22:00'ye esnek saatler",
+          "Tüm seviyeler kabul edilir",
+          "Nitelikli ve deneyimli öğretmenler",
+          "Göçmenlere uyarlanmış yöntemler",
+          "10 dakikada ücretsiz seviye testi"
+        ],
+        "details": "MIFI tarafından finanse edilen ücretsiz kurslar. Katılım ödeneği imkanı. Sürekli kayıt.",
+        "sections": [
+          {
+            "title": "Tam zamanlı kurslar",
+            "description": "Az eğitimli kişiler için haftada 25 saatlik yoğun program. Öğretmenle 20 saat sınıf eğitimi ve animatörle 5 saat. 11 haftalık dönemler, yılda 4 dönem.",
+            "items": []
+          },
+          {
+            "title": "Yarı zamanlı kurslar",
+            "description": "Okuryazar göçmenler için program (minimum 9 yıl eğitim). Göçmen Dilsel Entegrasyon Programı (PILI) tarafından sunulur.",
+            "items": [
+              {"name": "Seviye 1-8 mevcut", "description": ""},
+              {"name": "Sabah: 9:00-12:00", "description": "Haftada 9-12 saat"},
+              {"name": "Öğleden sonra: 12:30-15:30", "description": "Haftada 9-12 saat"},
+              {"name": "Akşam: 18:30-21:30", "description": "Haftada 6-9 saat"}
+            ]
+          },
+          {
+            "title": "Grup etkinlikleri",
+            "items": [
+              {"name": "Mahalle gezileri", "description": "Kütüphane, müze, eğlence merkezi, market ve ikinci el mağaza ziyaretleri."},
+              {"name": "Keşif turları", "description": "Eski Liman keşfi ve mahalle gezisi."}
+            ]
+          },
+          {
+            "title": "Çocuk bakımı",
+            "description": "0-5 yaş arası çocuklar için bakım hizmeti, MIFI tarafından tamamen karşılanır.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, dahili 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Kayıt: quebec.ca/education/apprendre-le-francais"
+        }
+      },
+      "employment": {
+        "title": "İstihdam Desteği",
+        "description": "CV atölyeleri, mülakat simülasyonları, profesyonel koçluk ve işverenlerle buluşmalar.",
+        "fullDescription": "İş bulmak başarılı bir entegrasyonun temel koşuludur! Departmanımız, kişiselleştirilmiş destek ve grup etkinlikleri aracılığıyla göçmenlerin iş piyasasına entegrasyonuna eşlik eder.",
+        "benefits": [
+          "CV ve niyet mektubu yazma atölyeleri",
+          "Kişiselleştirilmiş mülakat simülasyonları",
+          "Bireysel profesyonel koçluk",
+          "İşverenlerle doğrudan buluşmalar",
+          "Aktif iş arama sürecinde rehberlik",
+          "%85'i 6 ayda iş buluyor"
+        ],
+        "details": "Kişiselleştirilmiş takipli ücretsiz hizmet. Bireysel randevular ve düzenli grup atölyeleri.",
+        "sections": [
+          {
+            "title": "Aday alanı",
+            "items": [
+              {"name": "İşe yerleştirme", "description": "Quebec şirketleriyle iş ve staj yerleştirme ortaklıkları."},
+              {"name": "İletişim ağı", "description": "Profesyonel networking ve işverenlerle buluşmalar."},
+              {"name": "CV hazırlama", "description": "Quebec iş piyasasına uygun CV yazımında yardım."},
+              {"name": "İş arama atölyeleri", "description": "Yılda 8 atölye, 5 haftalık dönemler (9:00-16:00), yaklaşık 15 katılımcı. İş arama yöntemleri ve araçları."},
+              {"name": "Yurtdışı yetkinlikler", "description": "Yetkinlik değerlendirmesi, arama stratejileri, iletişim, networking, Quebec iş ortamında deneyim."},
+              {"name": "Kişiselleştirilmiş destek", "description": "Bireysel rehberlik: CV, niyet mektupları, mülakat hazırlığı, iş piyasası yönlendirmesi, işveren referansları."},
+              {"name": "Mülakat hazırlığı", "description": "Mülakat simülasyonları ve kişiselleştirilmiş koçluk."}
+            ]
+          },
+          {
+            "title": "İşveren alanı",
+            "items": [
+              {"name": "Pozisyon ilanı", "description": "Çeşitli nitelikli göçmen adaylar havuzuna erişim."},
+              {"name": "Aday ön seçimi", "description": "Çeşitli sektörlerdeki yetenek havuzumuzdan seçim."},
+              {"name": "Mevcut profiller", "description": "İdari, muhasebe, bilişim, mühendislik, telekomünikasyon, gıda, hukuk, çevre."},
+              {"name": "İşte kalma takibi", "description": "İşyerinde çeşitlilik entegrasyonu için işverenlere destek."},
+              {"name": "Mali yardım", "description": "Devlet maaş sübvansiyon programlarına erişim için rehberlik."}
+            ]
+          },
+          {
+            "title": "Networking alanı",
+            "items": [
+              {"name": "İşveren buluşmaları", "description": "İşverenler ve iş arayanlar arasında aylık networking etkinlikleri."},
+              {"name": "Laurentien İstihdam Buluşması", "description": "İşverenleri ve 100'den fazla iş arayanı buluşturan yıllık etkinlik."}
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Pzt-Cum 8:30-17:00"
+        }
+      },
+      "family": {
+        "title": "Ebeveyn-Gençlik",
+        "description": "Ailelere destek, çocuklar ve gençler için etkinlikler, eğitim desteği.",
+        "fullDescription": "Departmanımız göçmen ailelere Quebec eğitim sistemini anlamada destek sağlar, psikolojik destek, bakım hizmetleri sunar ve çocukların gelişimine ve akademik başarılarına katkıda bulunur.",
+        "benefits": [
+          "Küçük çocuklar için bakım hizmetleri",
+          "Eğitim yönlendirme desteği",
+          "Eğitici ve eğlenceli etkinlikler",
+          "Ödev ve ders desteği",
+          "Ebeveyn atölyeleri",
+          "Düzenlenen aile gezileri"
+        ],
+        "details": "Ücretsiz veya düşük maliyetli hizmetler. Sınırlı kontenjan, kayıt gerekli.",
+        "sections": [
+          {
+            "title": "Bireysel müdahaleler",
+            "items": [
+              {"name": "Eğitim sistemi rehberliği", "description": "Göçmen ailelere Quebec eğitim sisteminde destek ve yönlendirme, okul-aile iletişiminin kolaylaştırılması."},
+              {"name": "Çocuk-Aile Kliniği", "description": "Ailelerin güvenli ve profesyonel ortamda çocuklarla ilgili zorlukları uzman personelle görüşebildikleri ücretsiz ve gizli hizmet."}
+            ]
+          },
+          {
+            "title": "Grup etkinlikleri",
+            "items": [
+              {"name": "Ebeveyn Alanı Atölyeleri", "description": "Ebeveynlerin çocuklarının akademik başarısındaki rollerini anlamalarına ve eğitim sisteminde yol bulmalarına yardımcı 9 atölye."},
+              {"name": "Ebeveyn dayanışma grupları", "description": "\"Y'a personne de parfait\" programıyla ebeveynlik becerilerinin güçlendirilmesi: davranış, gelişim, güvenlik ve ebeveynlik rolü."},
+              {"name": "Toplum kreşinde büyüyorum", "description": "Çocuklar için fiziksel, oyun ve eğitici etkinlikler sunan eğitim programı."},
+              {"name": "Düşük maliyetli yaz kampları", "description": "Mütevazı gelirli göçmen ailelerin ilkokul çağındaki çocukları için Fransızca pratiği yapılan yaz kampları."},
+              {"name": "Tatil kampı", "description": "Okul tatili haftası için kamp programı."},
+              {"name": "Sağlıklı öğle yemekleri", "description": "Femmes du Monde ile işbirliğinde, kolektif mutfak yoluyla sağlıklı beslenme alışkanlıkları öğrenmek için aylık Salı öğle yemeği programları."}
+            ]
+          },
+          {
+            "title": "Çocuk bakımı",
+            "description": "Etkinliklere katılan ebeveynler için bakım hizmeti, sığınmacılar dahil. Uygunluk için arayın.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, dahili 290",
+          "email": "info@cari.qc.ca",
+          "note": "Pzt-Cum 8:30-17:00"
+        }
+      },
+      "women": {
+        "title": "Dünya Kadınları",
+        "description": "Göçmen kadınlara özel programlar: özerklik, sağlık, istihdam.",
+        "fullDescription": "Sözün ve çeşitli etkinliklerin etrafında, kadınlara ev sahibi toplumu ve kendilerini daha iyi tanımaları için alanlar sunuyoruz. Yetkinlik geliştirme, networking, gönüllülük ve vatandaş katılımı.",
+        "benefits": [
+          "Özerklik ve özgüven atölyeleri",
+          "Uyarlanmış mesleki eğitimler",
+          "Kadınlar arası dayanışma ağı",
+          "Kültürlerarası etkinlikler",
+          "Kadın sağlığı bilgilendirmesi",
+          "İstihdama yönlendirme"
+        ],
+        "details": "Ücretsiz ve gizli. Sıcak ve destekleyici grup. İstek üzerine çocuk bakımı mevcuttur.",
+        "sections": [
+          {
+            "title": "Grup etkinlikleri",
+            "items": [
+              {"name": "Dikiş ve el sanatları", "description": "Sıcak bir ortamda yaratıcı atölyeler: makine dikişi, kumaş kesimi, giysi onarım ve düzeltmeleri."},
+              {"name": "Sağlık ve uluslararası mutfak", "description": "Quebec ürünleriyle sağlıklı beslenme alışkanlıkları öğrenme ve farklı ülkelerin geleneksel yemeklerini keşfetme."},
+              {"name": "Fransızca pratiği", "description": "Fransızca kurslarının pratik uygulamasıyla dinleme ve iletişim becerilerinin geliştirilmesi."},
+              {"name": "Kendini ifade etme ve profesyonel portfolyo", "description": "Profesyonel özerklik geliştirme, karar verme, hedef belirleme ve kendini tanıtma teknikleri."},
+              {"name": "Vatandaş katılımı", "description": "Quebec toplumu, kadın koşulları, haklar farkındalığı ve sosyal katılım konularında atölyeler."},
+              {"name": "Sohbet buluşmaları", "description": "Quebec toplumundaki deneyimlerini paylaşan göçmen kadınlar için gayri resmi buluşmalar."},
+              {"name": "Yoga", "description": "Fitness ve stres yönetimi seansları."},
+              {"name": "Aile gezileri", "description": "Karşılama ve entegrasyon hizmetiyle bağlantılı düzenlenen geziler."},
+              {"name": "Canlı kütüphaneler", "description": "Çeşitlilik, ırkçılık, insan hakları ve cinsiyet eşitliği konularında stereotiplere karşı kişisel tanıklıklar."},
+              {"name": "Okuma kulübü ve yaşam hikayeleri", "description": "Kişisel hikayeleri yakalayan işbirlikçi yazma projeleriyle birleştirilmiş okuma tartışmaları."},
+              {"name": "Elle coud Écolo", "description": "Tekstil endüstrisinin etkileri ve eko-yaratıcı alternatifler hakkında eğitici atölyeler."},
+              {"name": "Place aux femmes", "description": "Tekstil endüstrisinin sosyo-ekolojik etkileri ve sürdürülebilir alternatifler hakkında farkındalık atölyeleri."}
+            ]
+          },
+          {
+            "title": "Bireysel hizmetler",
+            "items": [
+              {"name": "Psikososyal destek", "description": "Göçmen kadınların özel ihtiyaç ve zorluklarına yanıt vermek için kişiselleştirilmiş ve gizli rehberlik."}
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Pzt-Cum 8:30-17:00 · Ücretsiz ve gizli"
+        }
+      },
+      "men": {
+        "title": "Erkekler Alanı",
+        "description": "Özel psikososyal destek, kişiselleştirilmiş rehberlik ve göçmen erkekler için kaynaklara yönlendirme.",
+        "fullDescription": "CARI St-Laurent Erkekler Alanı Komitesi, Quebec'te göçmen erkeklere özel hizmetler sunan nadir programlardan biridir. Konuşma atölyeleri, psikososyal destek ve kişiselleştirilmiş rehberlik yoluyla erkeklerin entegrasyonla ilgili zorlukları aşmalarına yardımcı oluyoruz.",
+        "benefits": [
+          "Konuşma ve ifade atölyeleri",
+          "Bireysel ve gizli psikososyal destek",
+          "İşlemlerde kişiselleştirilmiş rehberlik",
+          "Uzman kaynaklara yönlendirme",
+          "Göçmen erkekler arası dayanışma ağı",
+          "Grup etkinlikleri ve tematik tartışmalar"
+        ],
+        "details": "Ücretsiz ve gizli. Göçmen erkeklere adanmış güvenli ve destekleyici alan.",
+        "sections": [
+          {
+            "title": "Grup etkinlikleri",
+            "items": [
+              {"name": "Konuşma atölyeleri", "description": "Entegrasyon zorlukları, erkeklik, ebeveynlik ve kültürlerarası ilişkileri ele almak için ifade ve paylaşım alanları."},
+              {"name": "Tematik tartışmalar", "description": "İş piyasası, haklar ve sorumluluklar, ruh sağlığı ve Quebec'te göç gerçekleri üzerine görüşmeler."},
+              {"name": "Sportif ve sosyal etkinlikler", "description": "Networking ve refahı destekleyen gayri resmi buluşmalar ve fiziksel etkinlikler."}
+            ]
+          },
+          {
+            "title": "Bireysel hizmetler",
+            "items": [
+              {"name": "Psikososyal destek", "description": "Göçmen erkeklerin özel ihtiyaçlarına yanıt vermek için bireysel ve gizli rehberlik: yalnızlık, stres, uyum."},
+              {"name": "Yönlendirme ve oryantasyon", "description": "Tespit edilen ihtiyaçlara uygun toplum ve kurumsal kaynaklara yönlendirme."}
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Pzt-Cum 8:30-17:00 · Ücretsiz ve gizli"
+        }
+      },
+      "taxes": {
+        "title": "Vergi Kliniği",
+        "description": "Göçmen kişiler ve düşük gelirli aileler için ücretsiz gelir beyannamesi yardımı.",
+        "fullDescription": "Her yıl CARI St-Laurent, eğitimli gönüllüler aracılığıyla ücretsiz gelir beyannamesi hazırlama hizmeti sunar. Bu hizmet, federal ve eyalet beyannamelerini hazırlamada yardıma ihtiyaç duyan göçmen kişilere ve düşük gelirli ailelere yöneliktir.",
+        "benefits": [
+          "Tamamen ücretsiz hizmet",
+          "ARC tarafından eğitilmiş gönüllüler",
+          "Federal ve eyalet beyannameleri",
+          "Vergi kredilerine erişim (ACE, TPS/TVH, Solidarité)",
+          "Çok dilli yardım",
+          "Vergi dönemi boyunca randevusuz"
+        ],
+        "details": "Mart-Nisan arası mevsimsel hizmet. T4, makbuzlar, belgeler ve kimlik getirin.",
+        "sections": [
+          {
+            "title": "Sunulan hizmetler",
+            "items": [
+              {"name": "Beyanname hazırlama", "description": "Federal ve eyalet gelir beyannamelerinizi doldurmak için ekler ve gerekli formlar dahil kapsamlı yardım."},
+              {"name": "Krediler ve yardımlar", "description": "Kanada Çocuk Yardımı (ACE), TPS/TVH kredisi, Quebec Solidarité kredisi ve diğer yardımlara uygunluğunuzun kontrolü."},
+              {"name": "İlk beyanname", "description": "Kanada'da ilk gelir beyannamelerini hazırlayan yeni gelenler için uzman rehberlik."}
+            ]
+          },
+          {
+            "title": "Gerekli belgeler",
+            "items": [
+              {"name": "Vergi belgeleri", "description": "T4 (istihdam), T4A (yardımlar), T5 (yatırım gelirleri), Relevé 1 ve alınan diğer tüm vergi belgeleri."},
+              {"name": "Kimlik belgesi", "description": "Daimi oturum kartı, çalışma izni veya sosyal güvenlik numaralı geçerli başka bir kimlik belgesi."}
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mart-Nisan · Pzt-Cum 9:00-16:00 · Ücretsiz"
+        }
+      },
+      "volunteering": {
+        "title": "Eğitim ve Toplum Yaşamı",
+        "description": "Kültürlerarası buluşmalar, sosyal etkinlikler ve gönüllülük fırsatları.",
+        "fullDescription": "Yeni gelenlerin vatandaşlık bilinci geliştirmelerini ve eğitimler ve kolektif etkinlikler yoluyla ev sahibi toplumlarına dahil olmalarını sağlamak. Özerklik, yetkinlik ve networking geliştirme.",
+        "benefits": [
+          "Bir Quebekli ile eşleşme",
+          "Dil ve bilgisayar kursları",
+          "Kanada vatandaşlık atölyeleri",
+          "Gönüllülük fırsatları",
+          "Sosyal ve kültürel etkinlikler",
+          "Ağınızı genişletin"
+        ],
+        "details": "Ücretsiz. Müsaitliğinize göre esnek katılım. Gönüllülük sertifikaları mevcuttur.",
+        "sections": [
+          {
+            "title": "Eğitimler",
+            "items": [
+              {"name": "İngilizce kursları", "description": "Fransızca konuşan daimi oturma izinliler ve Kanada vatandaşları için orta ve ileri seviye. Dilbilgisi, yazma, okuma, anlama ve konuşma."},
+              {"name": "Bilgisayar kursları", "description": "6 haftalık dönemler: Başlangıç, orta ve ileri seviyede Word, Excel, PowerPoint."},
+              {"name": "İngilizce konuşma", "description": "Tüm seviyeler için iletişim ve telaffuz atölyeleri."},
+              {"name": "İletişim kurun ve katılın", "description": "Fransızca konuşanlar için sözlü iletişim, topluluk önünde konuşma ve vatandaş katılımı üzerine 6 atölye."},
+              {"name": "Vatandaşlık sınavına hazırlık", "description": "Kanada vatandaşlık sınavına hazırlanmak için araçlar ve kaynaklar."},
+              {"name": "Entegrasyonumun ABC'si", "description": "Günlük, aktif, akademik ve sosyal entegrasyonu kapsayan 4 atölye."},
+              {"name": "Bağlantılı Günler", "description": "Günlük yaşam için teknolojik ve web araçları üzerine atölyeler."},
+              {"name": "Siber-hükümet", "description": "Çevrimiçi devlet hizmetlerine ve mevcut yardımlara giriş."},
+              {"name": "Ağ Alanı", "description": "Ağ geliştirme ve sosyal medya becerileri atölyeleri (Facebook, LinkedIn, Instagram)."}
+            ]
+          },
+          {
+            "title": "Toplum yaşamı etkinlikleri",
+            "items": [
+              {"name": "EPVC Perşembeleri", "description": "İki haftada bir atölyeler: Eko-vatandaş (çevre, sıfır atık, bahçecilik) ve Quebec'i tanıyorum (tarih, mutfak, deyimler, folklor)."},
+              {"name": "Vatandaş katılımı", "description": "Kamusal istişareler, 18-35 yaş için sivil katılım alanları, gönüllülük bilgilendirme oturumları."},
+              {"name": "Sosyo-kültürel etkinlikler", "description": "Müze ve tiyatro gezileri, film tartışmaları, kültürlerarası kutlamalar, angaje tiyatro ve yazma maratonu dahil yaratıcı projeler."},
+              {"name": "Doğa yoluyla entegrasyon", "description": "Entegrasyonu desteklemek için açık hava etkinlikleri ve yerel sporlar."}
+            ]
+          },
+          {
+            "title": "Kültürlerarası buluşmalar",
+            "items": [
+              {"name": "Dil eşleşmesi", "description": "Gönüllülerle Fransızca pratiği yapmak için dil değişim programı."},
+              {"name": "Kültürlerarası eşleşme", "description": "Yeni gelenler ve Quekeliler arasında sosyal ve dilsel köprü."},
+              {"name": "Sanatsal eşleşme", "description": "Kolektif sergiler için Quebek ve göçmen sanatçılar arasında sanatsal işbirliği."}
+            ]
+          },
+          {
+            "title": "Gönüllülük",
+            "description": "Katılın! Gönüllülük fırsatları: idari çalışma, etkinlik karşılama, atölye ortak animasyonu, tercüme, kreş desteği ve oturum organizasyonu.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Pzt-Cum 8:30-17:00 · Ücretsiz hizmet"
+        }
+      }
+    }
+  },
+  "appointment": {
+    "title": "Randevu alalım",
+    "subtitle": "İlgilendiğiniz hizmeti seçin",
+    "steps": {
+      "yourNeed": "İhtiyacınız",
+      "yourInfo": "Bilgileriniz",
+      "confirmation": "Onay"
+    },
+    "consultationTypes": {
+      "welcome": "Karşılama ve Entegrasyon Danışmanlığı",
+      "french": "Fransızca Eğitimi Danışmanlığı",
+      "employment": "İstihdam Danışmanlığı",
+      "family": "Aile Hizmetleri Danışmanlığı",
+      "women": "Dünya Kadınları Danışmanlığı",
+      "men": "Erkekler Alanı Danışmanlığı",
+      "taxes": "Vergi Kliniği Danışmanlığı",
+      "volunteering": "Gönüllülük Danışmanlığı"
+    },
+    "form": {
+      "name": "Ad soyad",
+      "phone": "Telefon",
+      "email": "E-posta adresi",
+      "service": "İstenen hizmet",
+      "date": "İstenen tarih",
+      "time": "Tercih edilen saat",
+      "immigrationStatus": "Göç durumu",
+      "selectStatus": "Durumunuzu seçin",
+      "statusOptions": [
+        {"value": "resident_permanent", "label": "Daimi oturum izinli"},
+        {"value": "refugie", "label": "Mülteci / Koruma altındaki kişi"},
+        {"value": "demandeur_asile", "label": "Sığınmacı"},
+        {"value": "travailleur_temporaire", "label": "Geçici işçi"},
+        {"value": "etudiant", "label": "Uluslararası öğrenci"},
+        {"value": "citoyen", "label": "Kanada vatandaşı"},
+        {"value": "autre", "label": "Diğer"}
+      ],
+      "message": "Mesaj (isteğe bağlı)",
+      "submit": "Randevu talep et",
+      "namePlaceholder": "Ad ve soyad",
+      "phonePlaceholder": "(514) 123-4567",
+      "emailPlaceholder": "sizin@epostaniz.com",
+      "messagePlaceholder": "Durumunuzu kısaca açıklayın...",
+      "selectTime": "Saat seçin",
+      "confirmationNote": "24 saat içinde e-posta ile onay alacaksınız"
+    },
+    "contact": {
+      "hoursLabel": "Çalışma saatleri",
+      "schedule": "Pzt-Cum: 9:00 - 17:00"
+    }
+  },
+  "contact": {
+    "title": "Bize ulaşın",
+    "subtitle": "Size yardımcı olmak için buradayız",
+    "mapText": "İnteraktif harita sitede mevcuttur",
+    "viewGoogleMaps": "Google Maps'te görüntüle",
+    "subjects": {
+      "general": "Genel talep",
+      "info": "Bilgi talebi",
+      "appointment": "Randevu alma",
+      "french": "Fransızca kursları",
+      "employment": "İstihdam desteği",
+      "family": "Aile hizmetleri"
+    },
+    "form": {
+      "name": "Ad soyad",
+      "email": "E-posta adresi",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Mesajı gönder"
+    },
+    "info": {
+      "addressLabel": "Adres",
+      "phoneLabel": "Telefon",
+      "emailLabel": "E-posta",
+      "hoursLabel": "Çalışma saatleri",
+      "accessLabel": "Ulaşım",
+      "address": "774 boulevard Décarie, Bureau 300, Saint-Laurent H4L 3L5",
+      "phone": "(514) 748-2007",
+      "email": "carist@cari.qc.ca",
+      "hours": "Pzt-Cum 9:00-12:00, 12:30-16:30",
+      "frenchHours": "Fransızca Eğitimi: 8:30-22:00",
+      "metro": "Metro: Du Collège (turuncu hat)",
+      "bus": "Otobüs: 17, 64, 121, 368",
+      "parking": "Ücretsiz otopark"
+    }
+  },
+  "chatbot": {
+    "title": "CARI Asistanı",
+    "bubbleHint": "Yardıma mı ihtiyacınız var? Bana yazın!",
+    "placeholder": "Sorunuzu sorun...",
+    "typing": "CARI asistanı yazıyor...",
+    "status": "Çevrimiçi",
+    "error": "Üzgünüz, bir hata oluştu. Lütfen tekrar deneyin.",
+    "suggestions": {
+      "services": "Hizmetler",
+      "appointment": "Randevu",
+      "appointmentInput": "Randevu al",
+      "french": "Fransızca",
+      "frenchInput": "Fransızca kursları"
+    },
+    "responses": {
+      "greeting": "Merhaba! Size yardımcı olmaktan mutluluk duyarım. CARI, Quebec'e entegrasyonunuz için 6 ana hizmet sunmaktadır. Hangi hizmet sizi en çok ilgilendiriyor?",
+      "services": "6 hizmetimiz:\n• Karşılama ve Entegrasyon\n• Fransızca Eğitimi (8:30-22:00)\n• İstihdam Desteği (%85 başarı!)\n• Aile Hizmetleri\n• Dünya Kadınları\n• Gönüllülük ve Eşleşme\n\nHangisi hakkında daha fazla bilgi istersiniz?",
+      "appointment": "Randevu almak için:\n• (514) 748-2007'yi arayın\n• Bu sayfadaki formu doldurun\n• Pzt-Cum 9:00-16:30\n\nNe tür danışmanlık? (karşılama/Fransızca/istihdam)",
+      "contact": "(514) 748-2007\ncarist@cari.qc.ca\n774 boul. Décarie #300, Saint-Laurent\nPzt-Cum: 9:00-12:00, 12:30-16:30\n\nBaşka nasıl yardımcı olabilirim?",
+      "french": "Fransızca kurslarımız:\n• 8:30-22:00 (çok esnek!)\n• Tüm seviyeler kabul edilir\n• Göçmenlere uyarlanmış yöntemler\n• Ücretsiz seviye testi\n\nBir değerlendirme planlamak ister misiniz?",
+      "employment": "İstihdam desteğimiz:\n• CV/niyet mektubu atölyeleri\n• Mülakat simülasyonları\n• Profesyonel koçluk\n• İşveren buluşmaları\n• %85'i 6 ayda iş buluyor!\n\nBir istihdam danışmanlığıyla ilgilenir misiniz?",
+      "default": "Size şu konularda yardımcı olabilirim:\n• Hizmetlerimiz hakkında bilgi\n• Randevu alma\n• İletişim bilgileri\n• Kişiselleştirilmiş tavsiyeler\n\nNe bilmek istersiniz?"
+    }
+  },
+  "success": {
+    "contact": "Teşekkürler! Talebiniz gönderildi. En kısa sürede sizinle iletişime geçeceğiz.",
+    "appointment": "Randevu onaylandı! Birkaç dakika içinde e-posta ve SMS ile onay alacaksınız."
+  },
+  "parallax": {
+    "statsTitle": "Birlikte fark yaratıyoruz",
+    "statsSubtitle": "1989'dan beri CARI, yeni gelenlere başarıya giden yolda eşlik ediyor",
+    "stats": {
+      "peopleHelped": "Yılda yardım edilen kişi",
+      "languagesSpoken": "Konuşulan dil",
+      "countries": "Temsil edilen ülke",
+      "yearsOfService": "Yıllık deneyim"
+    },
+    "ctaTitle": "Quebec'te yeni hayatınıza başlamaya hazır mısınız?",
+    "ctaSubtitle": "Çok dilli ekibimiz entegrasyonunuzun her adımında yanınızda."
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "subtitle": "Entegrasyonunuza adanmış profesyoneller",
+    "departments": {
+      "direction": "Genel Müdürlük",
+      "accueil": "Karşılama ve Entegrasyon",
+      "francisation": "Fransızca Eğitimi",
+      "emploi": "İstihdam Desteği",
+      "femmes": "Dünya Kadınları",
+      "jeunesse": "Ebeveyn-Gençlik",
+      "communautaire": "Toplum Yaşamı",
+      "hommes": "Erkekler Alanı"
+    }
+  },
+  "careers": {
+    "title": "Kariyer",
+    "subtitle": "Ekibimize katılın",
+    "viewOffer": "Teklifi görüntüle",
+    "apply": "Başvur",
+    "type": {
+      "fullTime": "Tam zamanlı",
+      "partTime": "Yarı zamanlı",
+      "contract": "Sözleşmeli"
+    },
+    "jobs": [
+      {
+        "title": "Entegrasyon danışmanı",
+        "department": "Karşılama ve Entegrasyon",
+        "excerpt": "Yeni gelenlere ilk adımlarında eşlik etmek.",
+        "description": "Göçmen kişilere eşlik edecek bir danışman arıyoruz.\n\nSorumluluklar:\n- İhtiyaçları karşılamak ve değerlendirmek\n- Uygun hizmetlere yönlendirmek\n- İdari işlemlerde eşlik etmek\n\nGereksinimler:\n- Sosyal hizmet veya ilgili alanda diploma\n- Kültürlerarası müdahale deneyimi\n- Fransızca ve İngilizce hakimiyeti"
+      },
+      {
+        "title": "Fransızca öğretmeni",
+        "department": "Fransızca Eğitimi",
+        "excerpt": "Tüm seviyelerde yetişkin göçmenlere Fransızca öğretmek.",
+        "description": "Fransızca eğitim ekibimize katılın.\n\nSorumluluklar:\n- Fransızca derslerini planlamak ve yönetmek\n- İçeriği öğrencilerin ihtiyaçlarına uyarlamak\n- Öğrenci ilerlemesini değerlendirmek\n\nGereksinimler:\n- FLS eğitiminde lisans\n- Yetişkin eğitimi deneyimi\n- Dinamik pedagojik yaklaşım"
+      },
+      {
+        "title": "Toplum çalışanı",
+        "department": "Toplum Yaşamı",
+        "excerpt": "Kaynaşma ve birlikte yaşamayı destekleyen etkinlikler geliştirmek.",
+        "description": "Toplum çalışanı arıyoruz.\n\nSorumluluklar:\n- Toplum etkinlikleri tasarlamak ve yönetmek\n- Yerel ortaklıklar geliştirmek\n- Vatandaş girişimlerini desteklemek\n\nGereksinimler:\n- Toplum animasyonu eğitimi\n- Çok kültürlü ortam deneyimi\n- Mükemmel iletişim becerileri"
+      },
+      {
+        "title": "Gençlik koordinatörü",
+        "department": "Ebeveyn-Gençlik",
+        "excerpt": "Gençlere ve göçmen ailelere yönelik programları koordine etmek.",
+        "description": "Gençlik programlarımız için sözleşmeli pozisyon.\n\nSorumluluklar:\n- Gençlik etkinliklerini planlamak\n- Okullarla bağlantı sağlamak\n- Kamp ve okul dışı etkinlikler düzenlemek\n\nGereksinimler:\n- Eğitim veya ilgili alanda diploma\n- Göçmen gençlerle deneyim\n- Fransızca-İngilizce iki dilli"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Tüm hakları saklıdır.",
+    "tagline": "Göçmenlere yardım eden kar amacı gütmeyen kuruluş"
+  },
+  "aria": {
+    "close": "Kapat",
+    "closeModal": "Pencereyi kapat",
+    "carousel": "Üst başlık karuseli",
+    "carouselNav": "Karusel navigasyonu",
+    "previousSlide": "Önceki slayt",
+    "nextSlide": "Sonraki slayt",
+    "goToSlide": "Slayta git",
+    "carouselSlider": "Karusel kaydırıcı",
+    "previousTestimonial": "Önceki tanıklık",
+    "nextTestimonial": "Sonraki tanıklık",
+    "goToTestimonial": "Tanıklığa git",
+    "learnMoreAbout": "Hakkında daha fazla bilgi"
+  },
+  "loading": "Yükleniyor...",
+  "mission": {
+    "tagline": "La diversité nous rapproche",
+    "title": "Misyonumuz",
+    "statement": "Göçmen kişileri karşılamak, kişisel, sosyal ve mesleki entegrasyonlarında yardım etmek ve eşlik etmek.",
+    "visionLabel": "Vizyonumuz",
+    "vision": "Daha iyi bir birlikte yaşam için uzmanlık ve yenilikçi uygulamalar etrafında hizmet vermek ve bir araya getirmek.",
+    "valuesLabel": "Değerlerimiz",
+    "values": ["Özveri", "Güven", "Hoşgörü", "Fedakarlık", "Dayanışma", "Eşitlik"],
+    "historyCTA": "Tarihçemiz",
+    "historyTitle": "Tarihçemiz",
+    "buildingAlt": "CARI St-Laurent binası",
+    "founded": "Kuruluş",
+    "historyIntro": "1993 yılında kurulan CARI St-Laurent, göçmen kişileri karşılamak, yerleşmelerine, uyum sağlamalarına ve kişisel, ailevi, sosyal ve mesleki olarak Quebec toplumuna entegre olmalarına yardımcı olmak amacıyla kurulmuş kar amacı gütmeyen bir toplum kuruluşudur.\n\nOtuz yılı aşkın süredir CARI St-Laurent, dünyanın dört bir yanından gelen göçmenlere her gün ücretsiz hizmet sunmaktadır. Her yıl ekiplerimiz 128'den fazla ülkeden binlerce kişiye ilk adımlarında, Fransızca öğrenimlerinde, iş arayışlarında ve Montreal yaşamına entegrasyonlarında eşlik etmektedir.\n\nYaklaşımımız benzersizdir: her kişiyi bütünlüğü içinde değerlendiriyoruz — geçmişi, potansiyeli, ailesi, özlemleri. Hizmetlerimizin esnekliği ve çok disiplinli ekibimizin deneyimi ve uzmanlığı, yalnızca toplumun farklı değişimlerine değil, aynı zamanda her bireyin yaşam deneyimine de uyarlanmış yenilikçi müdahalelere olanak tanımaktadır.\n\nMontreal'in en çeşitli ilçelerinden biri olan Saint-Laurent'in kalbinde bulunan CARI, göçmenlerin sosyal, dilsel ve mesleki entegrasyonu konusunda vazgeçilmez bir aktör haline gelmiştir. Programlarımız Fransızca eğitimi, istihdam desteği, aile desteği, kadın rehberliği, gençlerin entegrasyonu ve çok daha fazlasını kapsamaktadır.\n\nİster yeni gelmiş olun ister birkaç yıldır burada olun, CARI entegrasyon yolculuğunuzun her adımında yanınızda.",
+    "approachLabel": "",
+    "approach": "",
+    "impactLabel": "",
+    "impact": ""
+  },
+  "promotions": {
+    "slides": [
+      {
+        "title": "La diversité nous rapproche",
+        "subtitle": "Misyonumuz",
+        "description": "30 yılı aşkın süredir CARI, göçmen kişilere Quebec'te kişisel, sosyal ve mesleki entegrasyonlarında eşlik etmektedir.",
+        "fullContent": "CARI St-Laurent, göçmen kişileri karşılamak, yerleşmelerine, uyum sağlamalarına ve Quebec toplumuna entegre olmalarına yardımcı olmak amacıyla kurulmuş kar amacı gütmeyen bir toplum kuruluşudur.\n\nHer yıl ekiplerimiz 128'den fazla ülkeden binlerce kişiye ilk adımlarında, Fransızca öğrenimlerinde, iş arayışlarında ve Montreal yaşamına entegrasyonlarında eşlik etmektedir.\n\nYaklaşımımız benzersizdir: her kişiyi bütünlüğü içinde değerlendiriyoruz — geçmişi, potansiyeli, ailesi, özlemleri.",
+        "cta": "Tarihçemiz",
+        "details": [
+          {"label": "Yılda yardım edilen kişi", "value": "7 000'den fazla"},
+          {"label": "Konuşulan dil", "value": "95'ten fazla"},
+          {"label": "Temsil edilen ülke", "value": "128"}
+        ]
+      },
+      {
+        "title": "Kültürlerarası Eşleşme",
+        "subtitle": "Eşleşme Programı",
+        "description": "Quekelilerle gerçek bağlar kurun! Kültürlerarası eşleşme programımız zenginleştirici buluşmalarla alışverişi ve entegrasyonu destekler.",
+        "fullContent": "CARI'nin kültürlerarası eşleşme programı, yeni gelenler ve Quekeliler arasında sosyal ve dilsel bir köprü oluşturur.\n\nHer eşleşme, Quebec kültürünü keşfetmek, Fransızca pratiği yapmak ve kalıcı dostluklar kurmak için eşsiz bir fırsattır. Quebekli gönüllüler çevrelerini, geleneklerini ve günlük yaşamlarını paylaşır.\n\nBuluşmalar esnek ve herkesin müsaitliğine uyarlanmıştır: kültürel geziler, paylaşılan yemekler, spor etkinlikleri, mahalle keşfi ve daha fazlası.",
+        "cta": "Daha fazla bilgi",
+        "details": [
+          {"label": "Program süresi", "value": "En az 6 ay"},
+          {"label": "Buluşma sıklığı", "value": "Ayda 2-4 kez"},
+          {"label": "Maliyet", "value": "Ücretsiz"}
+        ]
+      },
+      {
+        "title": "Ücretsiz Vergi Kliniği",
+        "subtitle": "Mevsimsel Hizmet",
+        "description": "Gelir beyannamesi için yardıma mı ihtiyacınız var? Ücretsiz vergi kliniğimiz düşük gelirli göçmenlere açıktır.",
+        "fullContent": "Her yıl CARI, göçmen kişiler ve düşük gelirli aileler için ücretsiz gelir beyannamesi hazırlama hizmeti sunmaktadır.\n\nEğitimli gönüllülerimiz federal ve eyalet beyannamelerinizin hazırlanmasında size eşlik eder. Bu hizmet, Kanada Çocuk Yardımı, TPS/TVH kredisi ve Solidarité kredisi gibi hak ettiğiniz kredi ve yardımları almanızı sağlar.\n\nTüm vergi belgelerinizi (T4, makbuzlar, belgeler) ve kimliğinizi getirin. Klinik çalışma saatleri içinde randevusuz.",
+        "cta": "Daha fazla bilgi",
+        "details": [
+          {"label": "Dönem", "value": "Mart-Nisan 2026"},
+          {"label": "Çalışma saatleri", "value": "Pzt-Cum, 9:00-16:00"},
+          {"label": "Maliyet", "value": "Ücretsiz"},
+          {"label": "Gerekli belgeler", "value": "T4, makbuzlar, belgeler, kimlik"}
+        ]
+      }
+    ]
+  }
+}

@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "主页",
-    "needs": "您的需求？",
+    "needs": "服务",
     "services": "服务",
     "activities": "活动",
     "news": "资源",
+    "team": "团队",
+    "appointment": "预约",
     "talk": "预约咨询",
     "talkToAdvisor": "与顾问交谈",
     "contact": "联系我们"
   },
   "hero": {
     "title": "在魁北克<span class='highlight'>找到归属</span>",
-    "subtitle": "就业、法语、住房、手续办理：从头到尾的免费陪伴服务",
+    "subtitle": "就业、法语、融入及移民手续：从头到尾的免费陪伴服务",
     "discoverServices": "了解我们的服务",
     "letsTalk": "与顾问交谈",
     "stats": {
@@ -22,27 +24,27 @@
     "testFrench": "法语测试",
     "slides": {
       "slide1": {
-        "quote": "「每一位走进我们大门的人都值得温暖的欢迎」",
+        "quote": "每一位走进我们大门的人都值得温暖的欢迎",
         "author": "Nadia R.",
         "role": "接待与融入"
       },
       "slide2": {
-        "quote": "「看到学生们自信地说法语，是我最大的骄傲」",
+        "quote": "看到学生们自信地说法语，是我最大的骄傲",
         "author": "Sylvie D.",
         "role": "法语课程"
       },
       "slide3": {
-        "quote": "「我们不只是找工作，而是在这里建设未来」",
+        "quote": "我们不只是找工作，而是在这里建设未来",
         "author": "Marco T.",
         "role": "就业服务"
       },
       "slide4": {
-        "quote": "「陪伴家庭就是投资整个社区」",
+        "quote": "陪伴家庭就是投资整个社区",
         "author": "Fatima H.",
         "role": "家长与青年"
       },
       "slide5": {
-        "quote": "「在这里，每位女性都能发现自己的力量和潜力」",
+        "quote": "在这里，每位女性都能发现自己的力量和潜力",
         "author": "Lucia M.",
         "role": "世界妇女"
       }
@@ -53,10 +55,12 @@
     "subtitle": "我们陪伴您融入魁北克的每一步",
     "cards": {
       "welcome": "我刚到这里",
-      "french": "我在学法语",
+      "french": "我想学法语",
       "employment": "我在找工作",
-      "family": "我有家庭",
+      "family": "我是家长",
       "women": "我是女性",
+      "men": "我是男性",
+      "taxes": "我要报税",
       "volunteering": "我想做志愿者"
     },
     "instruction": "选择服务了解更多"
@@ -465,6 +469,108 @@
           "note": "周一至周五 8:30-17:00 · 免费且保密"
         }
       },
+      "men": {
+        "title": "Espace Hommes",
+        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
+        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
+        "benefits": [
+          "Ateliers de prise de parole et d'expression",
+          "Soutien psychosocial individuel et confidentiel",
+          "Accompagnement personnalisé dans les démarches",
+          "Références vers les ressources spécialisées",
+          "Réseau d'entraide entre hommes immigrants",
+          "Activités de groupe et discussions thématiques"
+        ],
+        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+        "sections": [
+          {
+            "title": "Activités collectives",
+            "items": [
+              {
+                "name": "Ateliers de prise de parole",
+                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+              },
+              {
+                "name": "Discussions thématiques",
+                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+              },
+              {
+                "name": "Activités sportives et sociales",
+                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+              }
+            ]
+          },
+          {
+            "title": "Services individuels",
+            "items": [
+              {
+                "name": "Soutien psychosocial",
+                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+              },
+              {
+                "name": "Références et orientation",
+                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+        }
+      },
+      "taxes": {
+        "title": "Clinique d'impôts",
+        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "benefits": [
+          "Service entièrement gratuit",
+          "Bénévoles formés par l'ARC",
+          "Déclarations fédérale et provinciale",
+          "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
+          "Aide en plusieurs langues",
+          "Sans rendez-vous pendant la période d'impôts"
+        ],
+        "details": "Service saisonnier de mars à avril. Apportez vos T4, relevés, reçus et pièce d'identité.",
+        "sections": [
+          {
+            "title": "Services offerts",
+            "items": [
+              {
+                "name": "Préparation de déclarations",
+                "description": "Aide complète pour remplir vos déclarations de revenus fédérale et provinciale, incluant les annexes et formulaires requis."
+              },
+              {
+                "name": "Crédits et prestations",
+                "description": "Vérification de votre admissibilité à l'Allocation canadienne pour enfants (ACE), au crédit de TPS/TVH, au crédit de solidarité du Québec et autres prestations."
+              },
+              {
+                "name": "Première déclaration",
+                "description": "Accompagnement spécialisé pour les nouveaux arrivants qui produisent leur première déclaration de revenus au Canada."
+              }
+            ]
+          },
+          {
+            "title": "Documents requis",
+            "items": [
+              {
+                "name": "Feuillets fiscaux",
+                "description": "T4 (emploi), T4A (prestations), T5 (revenus de placements), Relevé 1, et tout autre feuillet fiscal reçu."
+              },
+              {
+                "name": "Pièce d'identité",
+                "description": "Carte de résident permanent, permis de travail ou autre pièce d'identité valide avec numéro d'assurance sociale."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+        }
+      },
       "volunteering": {
         "title": "培训与社区生活",
         "description": "跨文化交流、社交活动和志愿服务机会。",
@@ -581,6 +687,8 @@
       "employment": "就业咨询",
       "family": "家庭服务咨询",
       "women": "世界女性咨询",
+      "men": "Consultation Espace Hommes",
+      "taxes": "Consultation Clinique d'impôts",
       "volunteering": "志愿服务咨询"
     },
     "form": {
@@ -591,7 +699,7 @@
       "date": "首选日期",
       "time": "首选时间",
       "message": "留言（可选）",
-      "submit": "确认预约",
+      "submit": "申请预约",
       "namePlaceholder": "名和姓",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "您的@邮箱.com",
@@ -621,10 +729,7 @@
           "value": "etudiant",
           "label": "国际学生"
         },
-        {
-          "value": "parraine",
-          "label": "被担保人"
-        },
+
         {
           "value": "citoyen",
           "label": "加拿大公民"
@@ -683,6 +788,7 @@
   },
   "chatbot": {
     "title": "CARI 助手",
+    "bubbleHint": "需要帮助吗？给我留言！",
     "placeholder": "请提出您的问题...",
     "typing": "CARI 助手正在输入...",
     "responses": {
@@ -734,6 +840,43 @@
       "guide": "指南",
       "histoire": "故事",
       "actualite": "新闻"
+    },
+    "calloutTitle": "需要帮助吗？",
+    "calloutText": "我们的顾问随时为您提供帮助。",
+    "calloutCTA": "与顾问交谈",
+    "guides": {
+      "1": {
+        "title": "抵达魁北克后的10个首要步骤",
+        "excerpt": "从获取社会保险号到注册RAMQ，这是开始新生活的完整清单。"
+      },
+      "4": {
+        "title": "如何在魁北克认证您的学历",
+        "excerpt": "比较评估、专业协会、等效认证...逐步评估您学历的过程。"
+      },
+      "7": {
+        "title": "为魁北克的第一个冬天做准备",
+        "excerpt": "服装、交通、供暖、活动：享受蒙特利尔冬天所需知道的一切。"
+      },
+      "10": {
+        "title": "了解魁北克医疗保健系统",
+        "excerpt": "RAMQ、家庭医生、急诊、药房：新移民完整医疗系统指南。"
+      },
+      "13": {
+        "title": "5个免费学法语的应用程序",
+        "excerpt": "使用我们法语老师推荐的移动应用程序来补充您的课程。"
+      },
+      "14": {
+        "title": "在蒙特利尔找房：生存指南",
+        "excerpt": "租约、租户权利、去哪里找、避免诈骗：在蒙特利尔找到家的一切。"
+      },
+      "15": {
+        "title": "在魁北克找工作：没人告诉你的事",
+        "excerpt": "魁北克式简历、面试、人脉、隐藏市场：本地就业市场的规则。"
+      },
+      "16": {
+        "title": "管理您的财务和了解魁北克的税收",
+        "excerpt": "税收、信用、预算、家庭津贴：明智理财的基础。"
+      }
     }
   },
   "newsModal": {
@@ -768,6 +911,57 @@
     },
     "ctaTitle": "准备开始您在魁北克的新生活了吗？",
     "ctaSubtitle": "我们的多语言团队将在您融入的每一步为您提供支持。"
+  },
+  "team": {
+    "title": "我们的团队",
+    "subtitle": "致力于您融入社会的专业人员",
+    "departments": {
+      "direction": "总管理处",
+      "accueil": "接待与融合",
+      "francisation": "法语培训",
+      "emploi": "就业援助",
+      "femmes": "世界妇女",
+      "jeunesse": "家长-青年",
+      "communautaire": "社区生活",
+      "hommes": "男士空间"
+    }
+  },
+  "careers": {
+    "title": "招聘",
+    "subtitle": "加入我们的团队",
+    "viewOffer": "查看职位",
+    "apply": "申请",
+    "type": {
+      "fullTime": "全职",
+      "partTime": "兼职",
+      "contract": "合同"
+    },
+    "jobs": [
+      {
+        "title": "融入顾问",
+        "department": "接待与融入",
+        "excerpt": "陪伴新移民完成初步手续。",
+        "description": "我们正在招聘一名融入顾问，陪伴移民群体。\n\n职责：\n- 接待并评估需求\n- 引导至合适的服务\n- 协助办理行政手续\n\n要求：\n- 社会工作或相关领域文凭\n- 跨文化干预经验\n- 精通法语和英语"
+      },
+      {
+        "title": "法语教师",
+        "department": "法语培训",
+        "excerpt": "为各水平的成人移民教授法语。",
+        "description": "加入我们的法语培训团队。\n\n职责：\n- 规划和开展法语课程\n- 根据学员需求调整内容\n- 评估学生的学习进度\n\n要求：\n- 法语作为第二语言教学学士学位\n- 成人教学经验\n- 富有活力的教学方法"
+      },
+      {
+        "title": "社区工作者",
+        "department": "社区生活",
+        "excerpt": "开展促进包容和共同生活的活动。",
+        "description": "我们正在招聘一名社区工作者。\n\n职责：\n- 设计和组织社区活动\n- 建立本地合作伙伴关系\n- 支持公民倡议\n\n要求：\n- 社区动员方面的培训\n- 多元文化环境工作经验\n- 出色的沟通能力"
+      },
+      {
+        "title": "青年项目协调员",
+        "department": "家长与青年",
+        "excerpt": "协调面向青年和移民家庭的项目。",
+        "description": "青年项目合同制岗位。\n\n职责：\n- 规划青年活动\n- 与学校保持联络\n- 组织夏令营和课外活动\n\n要求：\n- 教育或相关领域文凭\n- 与移民青年工作的经验\n- 法英双语"
+      }
+    ]
   },
   "footer": {
     "copyright": "© 2026 版权所有。",
@@ -863,14 +1057,7 @@
     "visionLabel": "我们的愿景",
     "vision": "通过创新的专业知识和实践服务和团结，共创美好生活。",
     "valuesLabel": "我们的价值观",
-    "values": [
-      "奉献",
-      "信任",
-      "宽容",
-      "利他",
-      "团结",
-      "公平"
-    ],
+    "values": ["奉献", "信任", "宽容", "利他", "团结", "公平"],
     "historyCTA": "我们的故事",
     "historyTitle": "我们的故事",
     "buildingAlt": "CARI St-Laurent大楼",

@@ -56,8 +56,11 @@ const News = ({ currentLanguage, translations }) => {
       type: "text",
       contentType: "guide",
       category: "accueil",
-      title: "Vos 10 premières démarches à votre arrivée au Québec",
+      title:
+        t.news?.guides?.["1"]?.title ||
+        "Vos 10 premières démarches à votre arrivée au Québec",
       excerpt:
+        t.news?.guides?.["1"]?.excerpt ||
         "De l'obtention de votre NAS à l'inscription à la RAMQ, voici la checklist complète pour bien démarrer votre nouvelle vie.",
       image:
         "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=800&h=600&fit=crop",
@@ -202,8 +205,11 @@ Pour vous inscrire, veuillez nous contacter au 514-747-8229 ou passer directemen
       type: "text",
       contentType: "guide",
       category: "emploi",
-      title: "Comment faire reconnaître votre diplôme au Québec",
+      title:
+        t.news?.guides?.["4"]?.title ||
+        "Comment faire reconnaître votre diplôme au Québec",
       excerpt:
+        t.news?.guides?.["4"]?.excerpt ||
         "Évaluation comparative, ordres professionnels, équivalences... Le parcours étape par étape pour valoriser vos études.",
       image:
         "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=600&fit=crop",
@@ -319,8 +325,10 @@ Le CARI offre des ateliers de préparation gratuits dans les semaines précédan
       type: "text",
       contentType: "guide",
       category: "accueil",
-      title: "Préparer son premier hiver québécois",
+      title:
+        t.news?.guides?.["7"]?.title || "Préparer son premier hiver québécois",
       excerpt:
+        t.news?.guides?.["7"]?.excerpt ||
         "Vêtements, transport, chauffage, activités: tout ce qu'il faut savoir pour apprécier l'hiver montréalais.",
       image:
         "https://images.unsplash.com/photo-1477601263568-180e2c6d046e?w=800&h=600&fit=crop",
@@ -446,8 +454,11 @@ Prenez rendez-vous avec notre équipe logement au 514-748-2007 ou passez directe
       type: "text",
       contentType: "guide",
       category: "accueil",
-      title: "Comprendre le système de santé québécois",
+      title:
+        t.news?.guides?.["10"]?.title ||
+        "Comprendre le système de santé québécois",
       excerpt:
+        t.news?.guides?.["10"]?.excerpt ||
         "RAMQ, médecin de famille, urgences, pharmacies: guide complet du système de santé pour les nouveaux arrivants.",
       image:
         "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop",
@@ -585,8 +596,11 @@ Inscrivez-vous à notre prochain café-rencontre entrepreneurial!`,
       type: "text",
       contentType: "guide",
       category: "francisation",
-      title: "5 applications gratuites pour apprendre le français",
+      title:
+        t.news?.guides?.["13"]?.title ||
+        "5 applications gratuites pour apprendre le français",
       excerpt:
+        t.news?.guides?.["13"]?.excerpt ||
         "Complétez vos cours avec ces applications mobiles recommandées par nos professeurs de francisation.",
       image:
         "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop",
@@ -624,8 +638,11 @@ Mauril ou Duolingo 10 minutes chaque matin. Un podcast pendant les trajets. Un e
       type: "text",
       contentType: "guide",
       category: "accueil",
-      title: "Trouver un logement à Montréal: le guide de survie",
+      title:
+        t.news?.guides?.["14"]?.title ||
+        "Trouver un logement à Montréal: le guide de survie",
       excerpt:
+        t.news?.guides?.["14"]?.excerpt ||
         "Bail, droits du locataire, où chercher, arnaques à éviter: tout pour trouver votre chez-vous à Montréal.",
       image:
         "https://plus.unsplash.com/premium_photo-1712171185603-c8cc8f0e9a7a?w=800&h=600&fit=crop",
@@ -668,8 +685,11 @@ Le CARI offre un service de consultation personnalisé pour la recherche de loge
       type: "text",
       contentType: "guide",
       category: "emploi",
-      title: "Chercher un emploi au Québec: ce que personne ne vous dit",
+      title:
+        t.news?.guides?.["15"]?.title ||
+        "Chercher un emploi au Québec: ce que personne ne vous dit",
       excerpt:
+        t.news?.guides?.["15"]?.excerpt ||
         "CV québécois, entrevue, réseautage, marché caché: les codes du marché du travail d'ici.",
       image:
         "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&h=600&fit=crop",
@@ -707,8 +727,11 @@ Semaine de 40h, 2 semaines de vacances après 1 an, protection contre le congéd
       type: "text",
       contentType: "guide",
       category: "accueil",
-      title: "Gérer vos finances et comprendre les impôts au Québec",
+      title:
+        t.news?.guides?.["16"]?.title ||
+        "Gérer vos finances et comprendre les impôts au Québec",
       excerpt:
+        t.news?.guides?.["16"]?.excerpt ||
         "Taxes, crédit, budget, allocations familiales: les bases pour gérer votre argent intelligemment.",
       image:
         "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
@@ -757,8 +780,8 @@ ACE (par enfant < 18 ans), Allocation famille QC, crédit TPS/TVH, crédit solid
   const gridRef = useScrollRevealGroup();
   const ctaRef = useScrollReveal();
 
-  // First 6 cards shown on homepage (CSS hides 4-6 on mobile)
-  const displayedNews = newsItems.slice(0, 6);
+  // First 4 cards shown on homepage (single row of 4)
+  const displayedNews = newsItems.slice(0, 4);
 
   const handleNewsClick = (news) => {
     setSelectedNews(news);

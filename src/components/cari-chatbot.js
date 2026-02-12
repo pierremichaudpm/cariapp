@@ -330,13 +330,12 @@ const WELCOME_MESSAGES = {
   es: "Hola! 👋 Soy Natalia, su asistente virtual del CARI. Como puedo ayudarle?",
   ar: "مرحبا! 👋 أنا ناتاليا، مساعدتكم الافتراضية من CARI. كيف يمكنني مساعدتكم؟",
   zh: "您好！👋 我是Natalia，CARI的虚拟助手。有什么可以帮您的？",
-  pt: "Ola! 👋 Sou a Natalia, sua assistente virtual do CARI. Como posso ajudar?",
   uk: "Вітаю! 👋 Я Наталія, віртуальна асистентка CARI. Чим можу допомогти?",
   ur: "خوش آمدید! 👋 میں نتالیا ہوں، CARI کی ورچوئل اسسٹنٹ۔ میں آپ کی کیسے مدد کر سکتی ہوں؟",
   ru: "Здравствуйте! 👋 Я Наталия, виртуальный ассистент CARI. Чем могу помочь?",
-  vi: "Xin chao! 👋 Toi la Natalia, tro ly ao cua CARI. Toi co the giup gi cho ban?",
-  tl: "Kumusta! 👋 Ako si Natalia, virtual assistant ng CARI. Paano kita matutulungan?",
-  ht: "Bonjou! 👋 Mwen se Natalia, asistan vityel CARI. Kijan mwen ka ede ou?",
+  ht: "Bonjou! 👋 Mwen se Natalia, asistan vityèl CARI. Kijan mwen ka ede ou?",
+  tr: "Merhaba! 👋 Ben Natalia, CARI'nin sanal asistanıyım. Size nasıl yardımcı olabilirim?",
+  wo: "Salam! 👋 Maa ngi tudd Natalia, jëkkëram bu virtual bu CARI. Naka laa la man a dimbali?",
 };
 
 const QUICK_ACTIONS = {
@@ -420,29 +419,6 @@ const QUICK_ACTIONS = {
     { label: "🏥 医疗系统", prompt: "医疗系统如何运作？" },
     { label: "📍 时间和地址", prompt: "CARI的营业时间和地址是什么？" },
   ],
-  pt: [
-    {
-      label: "🏠 Primeiros passos",
-      prompt: "Quais sao os primeiros passos ao chegar no Quebec?",
-    },
-    { label: "📋 Servicos do CARI", prompt: "Quais servicos o CARI oferece?" },
-    {
-      label: "🗣️ Cursos de frances",
-      prompt: "Como me inscrever nos cursos de frances?",
-    },
-    {
-      label: "💼 Encontrar emprego",
-      prompt: "Como procurar emprego no Quebec?",
-    },
-    {
-      label: "🏥 Sistema de saude",
-      prompt: "Como funciona o sistema de saude?",
-    },
-    {
-      label: "📍 Horarios e endereco",
-      prompt: "Quais sao os horarios e endereco do CARI?",
-    },
-  ],
   uk: [
     {
       label: "🏠 Перші кроки",
@@ -494,52 +470,6 @@ const QUICK_ACTIONS = {
       prompt: "Какие часы работы и адрес CARI?",
     },
   ],
-  vi: [
-    {
-      label: "🏠 Buoc dau tien",
-      prompt: "Nhung buoc dau tien khi den Quebec la gi?",
-    },
-    { label: "📋 Dich vu CARI", prompt: "CARI cung cap nhung dich vu gi?" },
-    {
-      label: "🗣️ Khoa hoc tieng Phap",
-      prompt: "Lam the nao de dang ky khoa hoc tieng Phap?",
-    },
-    {
-      label: "💼 Tim viec lam",
-      prompt: "Lam the nao de tim viec lam o Quebec?",
-    },
-    {
-      label: "🏥 He thong y te",
-      prompt: "He thong y te hoat dong nhu the nao?",
-    },
-    {
-      label: "📍 Gio va dia chi",
-      prompt: "Gio lam viec va dia chi cua CARI la gi?",
-    },
-  ],
-  tl: [
-    {
-      label: "🏠 Unang hakbang",
-      prompt: "Ano ang mga unang hakbang pagdating sa Quebec?",
-    },
-    {
-      label: "📋 Mga serbisyo ng CARI",
-      prompt: "Ano ang mga serbisyo na inaalok ng CARI?",
-    },
-    {
-      label: "🗣️ Kurso sa Pranses",
-      prompt: "Paano mag-enroll sa kurso sa Pranses?",
-    },
-    {
-      label: "💼 Maghanap ng trabaho",
-      prompt: "Paano maghanap ng trabaho sa Quebec?",
-    },
-    {
-      label: "🏥 Sistema ng kalusugan",
-      prompt: "Paano gumagana ang sistema ng kalusugan?",
-    },
-    { label: "📍 Oras at address", prompt: "Ano ang oras at address ng CARI?" },
-  ],
   ht: [
     {
       label: "🏠 Premye etap",
@@ -550,6 +480,52 @@ const QUICK_ACTIONS = {
     { label: "💼 Jwenn travay", prompt: "Kijan pou chache travay nan Quebec?" },
     { label: "🏥 Sistem sante", prompt: "Kijan sistem sante a fonksyone?" },
     { label: "📍 Le ak adres", prompt: "Ki le ak adres CARI?" },
+  ],
+  tr: [
+    {
+      label: "🏠 Ilk adimlar",
+      prompt: "Quebec'e vardigimda ilk adimlar nelerdir?",
+    },
+    { label: "📋 CARI hizmetleri", prompt: "CARI hangi hizmetleri sunuyor?" },
+    {
+      label: "🗣️ Fransizca kurslari",
+      prompt: "Fransizca kursuna nasil kayit olabilirim?",
+    },
+    {
+      label: "💼 Is bulmak",
+      prompt: "Quebec'te nasil is bulabilirim?",
+    },
+    {
+      label: "🏥 Saglik sistemi",
+      prompt: "Saglik sistemi nasil calisiyor?",
+    },
+    {
+      label: "📍 Saatler ve adres",
+      prompt: "CARI'nin calisma saatleri ve adresi nedir?",
+    },
+  ],
+  wo: [
+    {
+      label: "🏠 Njalbeen yi",
+      prompt: "Lan mooy njalbeen yi ngir nek ci Quebec?",
+    },
+    { label: "📋 Jokko yi CARI", prompt: "Ban jokko laa CARI di jox?" },
+    {
+      label: "🗣️ Jang faransee",
+      prompt: "Naka laa di bindu ci jang faransee?",
+    },
+    {
+      label: "💼 Seet liggéey",
+      prompt: "Naka laa di seet liggéey ci Quebec?",
+    },
+    {
+      label: "🏥 Wér gi",
+      prompt: "Naka la sistem wér gi di dox?",
+    },
+    {
+      label: "📍 Waxtu ak adres",
+      prompt: "Lan mooy waxtu ak adres bu CARI?",
+    },
   ],
 };
 
@@ -761,7 +737,7 @@ export default function CARIChatbot({ onClose, language }) {
         fontFamily: "'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif",
         backgroundColor: "#fff",
         position: "fixed",
-        bottom: 120,
+        bottom: 140,
         right: 20,
         zIndex: 1001,
         borderRadius: 16,
@@ -835,7 +811,7 @@ export default function CARIChatbot({ onClose, language }) {
               marginTop: 1,
             }}
           >
-            Assistante CARI polyglotte · 12+ langues
+            Assistante polyglotte - 11 langues
           </div>
         </div>
         <button

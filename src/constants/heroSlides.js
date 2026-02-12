@@ -57,29 +57,28 @@ export const heroSlides = getHeroSlides({
   hero: {
     slides: {
       slide1: {
-        quote: "« Grâce au CARI, j'ai trouvé mon emploi de rêve en 6 mois! »",
+        quote: "Grâce au CARI, j'ai trouvé mon emploi de rêve en 6 mois!",
         author: "Asma B.",
         role: "Maroc • Arrivée 2020",
       },
       slide2: {
-        quote: "« De réfugié à entrepreneur, le CARI m'a accompagné »",
+        quote: "De réfugié à entrepreneur, le CARI m'a accompagné",
         author: "Jean-Pierre H.",
         role: "Haïti • Arrivée 2020",
       },
       slide3: {
         quote:
-          "« Le français semblait impossible, maintenant je le parle couramment! »",
+          "Le français semblait impossible, maintenant je le parle couramment!",
         author: "Marie-Claire T.",
         role: "Haïti • Arrivée 2021",
       },
       slide4: {
-        quote:
-          "« Mes enfants sont épanouis, nous avons trouvé notre place ici »",
+        quote: "Mes enfants sont épanouis, nous avons trouvé notre place ici",
         author: "Karla A.",
         role: "RDC • Arrivée 2019",
       },
       slide5: {
-        quote: "« L'aide pour comprendre le système québécois a tout changé »",
+        quote: "L'aide pour comprendre le système québécois a tout changé",
         author: "David C.",
         role: "Chine • Arrivée 2022",
       },

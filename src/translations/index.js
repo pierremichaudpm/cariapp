@@ -24,10 +24,9 @@ export const availableLanguages = [
   "ar",
   "ru",
   "zh",
-  "pt",
   "ht",
-  "vi",
-  "tl",
   "ur",
   "uk",
+  "tr",
+  "wo",
 ];

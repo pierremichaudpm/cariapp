@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "Главная",
-    "needs": "Ваши потребности",
+    "needs": "Услуги",
     "services": "Услуги",
     "activities": "Мероприятия",
     "news": "Ресурсы",
+    "team": "Команда",
+    "appointment": "Запись",
     "talk": "Встреча",
     "talkToAdvisor": "Поговорите с консультантом",
     "contact": "Контакт"
   },
   "hero": {
     "title": "Найдите <span class='highlight'>своё место</span> в Квебеке",
-    "subtitle": "Работа, французский, жильё, процедуры: бесплатная поддержка от А до Я",
+    "subtitle": "Работа, французский, процедуры интеграции и иммиграции: бесплатное сопровождение от А до Я",
     "discoverServices": "Откройте наши услуги",
     "letsTalk": "Поговорите с консультантом",
     "stats": {
@@ -22,27 +24,27 @@
     "testFrench": "Тест французского",
     "slides": {
       "slide1": {
-        "quote": "« Каждый человек, переступающий наш порог, заслуживает тёплого приёма »",
+        "quote": "Каждый человек, переступающий наш порог, заслуживает тёплого приёма",
         "author": "Nadia R.",
         "role": "Приём и интеграция"
       },
       "slide2": {
-        "quote": "« Видеть, как мои студенты уверенно говорят по-французски — моя главная гордость »",
+        "quote": "Видеть, как мои студенты уверенно говорят по-французски — моя главная гордость",
         "author": "Sylvie D.",
         "role": "Франсизация"
       },
       "slide3": {
-        "quote": "« Мы не просто находим работу, мы строим будущее здесь »",
+        "quote": "Мы не просто находим работу, мы строим будущее здесь",
         "author": "Marco T.",
         "role": "Помощь в трудоустройстве"
       },
       "slide4": {
-        "quote": "« Поддержка семей — это инвестиция в целое сообщество »",
+        "quote": "Поддержка семей — это инвестиция в целое сообщество",
         "author": "Fatima H.",
         "role": "Родители и молодёжь"
       },
       "slide5": {
-        "quote": "« Здесь каждая женщина открывает свою силу и потенциал »",
+        "quote": "Здесь каждая женщина открывает свою силу и потенциал",
         "author": "Lucia M.",
         "role": "Женщины мира"
       }
@@ -53,10 +55,12 @@
     "subtitle": "Мы сопровождаем вас на каждом этапе вашей интеграции в Квебеке",
     "cards": {
       "welcome": "Я только что прибыл(а)",
-      "french": "Я учу французский",
+      "french": "Я хочу учить французский",
       "employment": "Я ищу работу",
-      "family": "У меня есть семья",
+      "family": "Я родитель",
       "women": "Я женщина",
+      "men": "Я мужчина",
+      "taxes": "Я хочу подать налоговую декларацию",
       "volunteering": "Я хочу участвовать"
     },
     "instruction": "Выберите услугу, чтобы узнать больше"
@@ -456,6 +460,108 @@
           "note": "Пн-Пт 8:30-17:00 · Бесплатно и конфиденциально"
         }
       },
+      "men": {
+        "title": "Espace Hommes",
+        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
+        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
+        "benefits": [
+          "Ateliers de prise de parole et d'expression",
+          "Soutien psychosocial individuel et confidentiel",
+          "Accompagnement personnalisé dans les démarches",
+          "Références vers les ressources spécialisées",
+          "Réseau d'entraide entre hommes immigrants",
+          "Activités de groupe et discussions thématiques"
+        ],
+        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+        "sections": [
+          {
+            "title": "Activités collectives",
+            "items": [
+              {
+                "name": "Ateliers de prise de parole",
+                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+              },
+              {
+                "name": "Discussions thématiques",
+                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+              },
+              {
+                "name": "Activités sportives et sociales",
+                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+              }
+            ]
+          },
+          {
+            "title": "Services individuels",
+            "items": [
+              {
+                "name": "Soutien psychosocial",
+                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+              },
+              {
+                "name": "Références et orientation",
+                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+        }
+      },
+      "taxes": {
+        "title": "Clinique d'impôts",
+        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "benefits": [
+          "Service entièrement gratuit",
+          "Bénévoles formés par l'ARC",
+          "Déclarations fédérale et provinciale",
+          "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
+          "Aide en plusieurs langues",
+          "Sans rendez-vous pendant la période d'impôts"
+        ],
+        "details": "Service saisonnier de mars à avril. Apportez vos T4, relevés, reçus et pièce d'identité.",
+        "sections": [
+          {
+            "title": "Services offerts",
+            "items": [
+              {
+                "name": "Préparation de déclarations",
+                "description": "Aide complète pour remplir vos déclarations de revenus fédérale et provinciale, incluant les annexes et formulaires requis."
+              },
+              {
+                "name": "Crédits et prestations",
+                "description": "Vérification de votre admissibilité à l'Allocation canadienne pour enfants (ACE), au crédit de TPS/TVH, au crédit de solidarité du Québec et autres prestations."
+              },
+              {
+                "name": "Première déclaration",
+                "description": "Accompagnement spécialisé pour les nouveaux arrivants qui produisent leur première déclaration de revenus au Canada."
+              }
+            ]
+          },
+          {
+            "title": "Documents requis",
+            "items": [
+              {
+                "name": "Feuillets fiscaux",
+                "description": "T4 (emploi), T4A (prestations), T5 (revenus de placements), Relevé 1, et tout autre feuillet fiscal reçu."
+              },
+              {
+                "name": "Pièce d'identité",
+                "description": "Carte de résident permanent, permis de travail ou autre pièce d'identité valide avec numéro d'assurance sociale."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+        }
+      },
       "volunteering": {
         "title": "Обучение и общественная жизнь",
         "description": "Межкультурные встречи, социальные мероприятия и возможности для волонтёрства.",
@@ -581,6 +687,8 @@
       "employment": "Консультация по Трудоустройству",
       "family": "Консультация по Семейным услугам",
       "women": "Консультация по Женщинам мира",
+      "men": "Consultation Espace Hommes",
+      "taxes": "Consultation Clinique d'impôts",
       "volunteering": "Консультация по Волонтёрству"
     },
     "form": {
@@ -591,7 +699,7 @@
       "date": "Предпочтительная дата",
       "time": "Предпочтительное время",
       "message": "Сообщение (необязательно)",
-      "submit": "Подтвердить встречу",
+      "submit": "Запросить встречу",
       "namePlaceholder": "Имя и фамилия",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "ваш@email.com",
@@ -621,10 +729,7 @@
           "value": "etudiant",
           "label": "Иностранный студент"
         },
-        {
-          "value": "parraine",
-          "label": "Спонсируемый"
-        },
+
         {
           "value": "citoyen",
           "label": "Гражданин Канады"
@@ -683,6 +788,7 @@
   },
   "chatbot": {
     "title": "Помощник CARI",
+    "bubbleHint": "Нужна помощь? Напишите мне!",
     "placeholder": "Задайте свой вопрос...",
     "typing": "Помощник CARI печатает...",
     "responses": {
@@ -734,6 +840,43 @@
       "guide": "РУКОВОДСТВО",
       "histoire": "ИСТОРИЯ",
       "actualite": "НОВОСТЬ"
+    },
+    "calloutTitle": "Нужна помощь?",
+    "calloutText": "Наши консультанты готовы помочь вам в ваших процедурах.",
+    "calloutCTA": "Поговорить с консультантом",
+    "guides": {
+      "1": {
+        "title": "Ваши первые 10 шагов по прибытии в Квебек",
+        "excerpt": "От получения SIN до регистрации в RAMQ — полный чек-лист для хорошего начала новой жизни."
+      },
+      "4": {
+        "title": "Как подтвердить свой диплом в Квебеке",
+        "excerpt": "Сравнительная оценка, профессиональные ассоциации, эквивалентности... Пошаговый процесс признания вашего образования."
+      },
+      "7": {
+        "title": "Подготовка к первой квебекской зиме",
+        "excerpt": "Одежда, транспорт, отопление, мероприятия: всё, что нужно знать, чтобы наслаждаться монреальской зимой."
+      },
+      "10": {
+        "title": "Понимание системы здравоохранения Квебека",
+        "excerpt": "RAMQ, семейный врач, скорая помощь, аптеки: полное руководство по системе здравоохранения для новоприбывших."
+      },
+      "13": {
+        "title": "5 бесплатных приложений для изучения французского",
+        "excerpt": "Дополните свои занятия этими мобильными приложениями, рекомендованными нашими преподавателями."
+      },
+      "14": {
+        "title": "Найти жильё в Монреале: руководство по выживанию",
+        "excerpt": "Аренда, права арендатора, где искать, мошенничество: всё для поиска жилья в Монреале."
+      },
+      "15": {
+        "title": "Поиск работы в Квебеке: о чём никто не говорит",
+        "excerpt": "Квебекское резюме, собеседование, нетворкинг, скрытый рынок: правила местного рынка труда."
+      },
+      "16": {
+        "title": "Управление финансами и налоги в Квебеке",
+        "excerpt": "Налоги, кредит, бюджет, семейные пособия: основы разумного управления деньгами."
+      }
     }
   },
   "newsModal": {
@@ -768,6 +911,57 @@
     },
     "ctaTitle": "Готовы начать новую жизнь в Квебеке?",
     "ctaSubtitle": "Наша многоязычная команда здесь, чтобы поддержать вас на каждом этапе вашей интеграции."
+  },
+  "team": {
+    "title": "Наша команда",
+    "subtitle": "Специалисты, преданные вашей интеграции",
+    "departments": {
+      "direction": "Общее руководство",
+      "accueil": "Приём и интеграция",
+      "francisation": "Франсизация",
+      "emploi": "Помощь в трудоустройстве",
+      "femmes": "Женщины мира",
+      "jeunesse": "Родители-Молодёжь",
+      "communautaire": "Общественная жизнь",
+      "hommes": "Мужское пространство"
+    }
+  },
+  "careers": {
+    "title": "Карьера",
+    "subtitle": "Присоединяйтесь к нашей команде",
+    "viewOffer": "Подробнее",
+    "apply": "Откликнуться",
+    "type": {
+      "fullTime": "Полная занятость",
+      "partTime": "Частичная занятость",
+      "contract": "Контракт"
+    },
+    "jobs": [
+      {
+        "title": "Консультант по интеграции",
+        "department": "Приём и интеграция",
+        "excerpt": "Сопровождение новоприбывших в их первых шагах.",
+        "description": "Мы ищем консультанта для сопровождения иммигрантов.\n\nОбязанности:\n- Приём и оценка потребностей\n- Направление к соответствующим услугам\n- Помощь в административных процедурах\n\nТребования:\n- Диплом в области социальной работы или смежной сфере\n- Опыт межкультурной работы\n- Владение французским и английским языками"
+      },
+      {
+        "title": "Преподаватель французского языка",
+        "department": "Франсизация",
+        "excerpt": "Обучение французскому языку взрослых иммигрантов всех уровней.",
+        "description": "Присоединяйтесь к нашей команде франсизации.\n\nОбязанности:\n- Планирование и проведение уроков французского\n- Адаптация содержания под потребности учащихся\n- Оценка прогресса студентов\n\nТребования:\n- Бакалавр в области преподавания французского как иностранного\n- Опыт работы со взрослыми\n- Динамичный педагогический подход"
+      },
+      {
+        "title": "Специалист по работе с сообществом",
+        "department": "Общественная жизнь",
+        "excerpt": "Разработка мероприятий, способствующих интеграции и совместной жизни.",
+        "description": "Мы ищем специалиста по работе с сообществом.\n\nОбязанности:\n- Разработка и проведение общественных мероприятий\n- Развитие местных партнёрств\n- Поддержка гражданских инициатив\n\nТребования:\n- Образование в области общественной работы\n- Опыт работы в мультикультурной среде\n- Отличные коммуникативные навыки"
+      },
+      {
+        "title": "Координатор молодёжных программ",
+        "department": "Родители и молодёжь",
+        "excerpt": "Координация программ для молодёжи и семей иммигрантов.",
+        "description": "Контрактная должность для наших молодёжных программ.\n\nОбязанности:\n- Планирование молодёжных мероприятий\n- Взаимодействие со школами\n- Организация лагерей и внеклассных мероприятий\n\nТребования:\n- Диплом в области образования или смежной сфере\n- Опыт работы с молодёжью из числа иммигрантов\n- Владение французским и английским языками"
+      }
+    ]
   },
   "footer": {
     "copyright": "© 2026 Все права защищены.",

@@ -5,6 +5,8 @@ import {
   Briefcase,
   Users,
   User,
+  UserRound,
+  Calculator,
   HandHeart,
   MessageCircle,
   Bot,
@@ -40,6 +42,8 @@ import {
   ClipboardList,
   Languages,
   Stethoscope,
+  Heart,
+  Star,
 } from "lucide-react";
 
 // Mapping Font Awesome icon names to Lucide components
@@ -49,6 +53,8 @@ const iconMap = {
   briefcase: Briefcase,
   users: Users,
   female: User, // Using User for female icon
+  male: UserRound, // Using UserRound for male icon
+  calculator: Calculator,
   "hands-helping": HandHeart,
   comments: MessageCircle,
   robot: Bot,
@@ -86,6 +92,8 @@ const iconMap = {
   "clipboard-list": ClipboardList,
   languages: Languages,
   stethoscope: Stethoscope,
+  heart: Heart,
+  star: Star,
   x: X,
 };
 

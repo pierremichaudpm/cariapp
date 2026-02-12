@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "الرئيسية",
-    "needs": "احتياجاتك",
+    "needs": "خدمات",
     "services": "خدمات",
     "activities": "الأنشطة",
     "news": "الموارد",
+    "team": "الفريق",
+    "appointment": "موعد",
     "talk": "موعد",
     "talkToAdvisor": "تحدث إلى مستشار",
     "contact": "اتصل بنا"
   },
   "hero": {
     "title": "اعثر على <span class='highlight'>مكانك</span> في كيبيك",
-    "subtitle": "العمل، الفرنسية، السكن، الإجراءات: دعم مجاني من الألف إلى الياء",
+    "subtitle": "العمل، الفرنسية، إجراءات الاندماج والهجرة: مرافقة مجانية من الألف إلى الياء",
     "discoverServices": "اكتشف خدماتنا",
     "letsTalk": "تحدث إلى مستشار",
     "stats": {
@@ -22,27 +24,27 @@
     "testFrench": "اختبار الفرنسية",
     "slides": {
       "slide1": {
-        "quote": "« كل شخص يدخل من بابنا يستحق استقبالاً حاراً »",
+        "quote": "كل شخص يدخل من بابنا يستحق استقبالاً حاراً",
         "author": "Nadia R.",
         "role": "الاستقبال والاندماج"
       },
       "slide2": {
-        "quote": "« رؤية طلابي يتحدثون الفرنسية بثقة هو أعظم فخر لي »",
+        "quote": "رؤية طلابي يتحدثون الفرنسية بثقة هو أعظم فخر لي",
         "author": "Sylvie D.",
         "role": "تعلّم الفرنسية"
       },
       "slide3": {
-        "quote": "« لا نجد فقط وظيفة، بل نبني مستقبلاً هنا »",
+        "quote": "لا نجد فقط وظيفة، بل نبني مستقبلاً هنا",
         "author": "Marco T.",
         "role": "المساعدة في التوظيف"
       },
       "slide4": {
-        "quote": "« مرافقة العائلات يعني الاستثمار في مجتمع بأكمله »",
+        "quote": "مرافقة العائلات يعني الاستثمار في مجتمع بأكمله",
         "author": "Fatima H.",
         "role": "الآباء والشباب"
       },
       "slide5": {
-        "quote": "« هنا، كل امرأة تكتشف قوتها وإمكانياتها »",
+        "quote": "هنا، كل امرأة تكتشف قوتها وإمكانياتها",
         "author": "Lucia M.",
         "role": "نساء العالم"
       }
@@ -53,10 +55,12 @@
     "subtitle": "نرافقك في كل خطوة من خطوات اندماجك في كيبيك",
     "cards": {
       "welcome": "لقد وصلت للتو",
-      "french": "أتعلم الفرنسية",
+      "french": "أريد تعلم الفرنسية",
       "employment": "أبحث عن عمل",
-      "family": "لدي عائلة",
+      "family": "أنا والد/والدة",
       "women": "أنا امرأة",
+      "men": "أنا رجل",
+      "taxes": "أريد تقديم إقراري الضريبي",
       "volunteering": "أريد المشاركة"
     },
     "instruction": "اختر خدمة لمعرفة المزيد"
@@ -456,6 +460,108 @@
           "note": "الإثنين-الجمعة 8:30 صباحاً-5:00 مساءً · مجاني وسري"
         }
       },
+      "men": {
+        "title": "Espace Hommes",
+        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
+        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
+        "benefits": [
+          "Ateliers de prise de parole et d'expression",
+          "Soutien psychosocial individuel et confidentiel",
+          "Accompagnement personnalisé dans les démarches",
+          "Références vers les ressources spécialisées",
+          "Réseau d'entraide entre hommes immigrants",
+          "Activités de groupe et discussions thématiques"
+        ],
+        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+        "sections": [
+          {
+            "title": "Activités collectives",
+            "items": [
+              {
+                "name": "Ateliers de prise de parole",
+                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+              },
+              {
+                "name": "Discussions thématiques",
+                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+              },
+              {
+                "name": "Activités sportives et sociales",
+                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+              }
+            ]
+          },
+          {
+            "title": "Services individuels",
+            "items": [
+              {
+                "name": "Soutien psychosocial",
+                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+              },
+              {
+                "name": "Références et orientation",
+                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+        }
+      },
+      "taxes": {
+        "title": "Clinique d'impôts",
+        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "benefits": [
+          "Service entièrement gratuit",
+          "Bénévoles formés par l'ARC",
+          "Déclarations fédérale et provinciale",
+          "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
+          "Aide en plusieurs langues",
+          "Sans rendez-vous pendant la période d'impôts"
+        ],
+        "details": "Service saisonnier de mars à avril. Apportez vos T4, relevés, reçus et pièce d'identité.",
+        "sections": [
+          {
+            "title": "Services offerts",
+            "items": [
+              {
+                "name": "Préparation de déclarations",
+                "description": "Aide complète pour remplir vos déclarations de revenus fédérale et provinciale, incluant les annexes et formulaires requis."
+              },
+              {
+                "name": "Crédits et prestations",
+                "description": "Vérification de votre admissibilité à l'Allocation canadienne pour enfants (ACE), au crédit de TPS/TVH, au crédit de solidarité du Québec et autres prestations."
+              },
+              {
+                "name": "Première déclaration",
+                "description": "Accompagnement spécialisé pour les nouveaux arrivants qui produisent leur première déclaration de revenus au Canada."
+              }
+            ]
+          },
+          {
+            "title": "Documents requis",
+            "items": [
+              {
+                "name": "Feuillets fiscaux",
+                "description": "T4 (emploi), T4A (prestations), T5 (revenus de placements), Relevé 1, et tout autre feuillet fiscal reçu."
+              },
+              {
+                "name": "Pièce d'identité",
+                "description": "Carte de résident permanent, permis de travail ou autre pièce d'identité valide avec numéro d'assurance sociale."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+        }
+      },
       "volunteering": {
         "title": "التدريب والحياة المجتمعية",
         "description": "لقاءات بين الثقافات، أنشطة اجتماعية وفرص تطوع.",
@@ -581,6 +687,8 @@
       "employment": "استشارة التوظيف",
       "family": "استشارة خدمات الأسرة",
       "women": "استشارة نساء العالم",
+      "men": "Consultation Espace Hommes",
+      "taxes": "Consultation Clinique d'impôts",
       "volunteering": "استشارة التطوع"
     },
     "form": {
@@ -591,7 +699,7 @@
       "date": "التاريخ المفضل",
       "time": "الوقت المفضل",
       "message": "رسالة (اختياري)",
-      "submit": "تأكيد الموعد",
+      "submit": "طلب موعد",
       "namePlaceholder": "الاسم الأول واللقب",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "بريدك@الإلكتروني.com",
@@ -621,10 +729,7 @@
           "value": "etudiant",
           "label": "طالب دولي"
         },
-        {
-          "value": "parraine",
-          "label": "مكفول"
-        },
+
         {
           "value": "citoyen",
           "label": "مواطن كندي"
@@ -683,6 +788,7 @@
   },
   "chatbot": {
     "title": "مساعد CARI",
+    "bubbleHint": "!هل تحتاج مساعدة؟ اكتب لي",
     "placeholder": "اطرح سؤالك...",
     "typing": "مساعد CARI يكتب...",
     "responses": {
@@ -734,6 +840,43 @@
       "guide": "دليل",
       "histoire": "قصة",
       "actualite": "خبر"
+    },
+    "calloutTitle": "هل تحتاج مساعدة؟",
+    "calloutText": "مستشارونا متاحون لمساعدتكم في إجراءاتكم.",
+    "calloutCTA": "تحدث مع مستشار",
+    "guides": {
+      "1": {
+        "title": "أول 10 إجراءات عند وصولك إلى كيبيك",
+        "excerpt": "من الحصول على رقم التأمين الاجتماعي إلى التسجيل في RAMQ، القائمة الكاملة لبداية جيدة في حياتك الجديدة."
+      },
+      "4": {
+        "title": "كيفية الاعتراف بشهادتك في كيبيك",
+        "excerpt": "التقييم المقارن، النقابات المهنية، المعادلات... المسار خطوة بخطوة لتثمين دراساتك."
+      },
+      "7": {
+        "title": "الاستعداد لأول شتاء في كيبيك",
+        "excerpt": "الملابس، النقل، التدفئة، الأنشطة: كل ما تحتاج معرفته للاستمتاع بشتاء مونتريال."
+      },
+      "10": {
+        "title": "فهم نظام الرعاية الصحية في كيبيك",
+        "excerpt": "RAMQ، طبيب العائلة، الطوارئ، الصيدليات: دليل شامل للنظام الصحي للوافدين الجدد."
+      },
+      "13": {
+        "title": "5 تطبيقات مجانية لتعلم الفرنسية",
+        "excerpt": "أكمل دوراتك مع هذه التطبيقات المحمولة التي يوصي بها أساتذة الفرنسية لدينا."
+      },
+      "14": {
+        "title": "العثور على سكن في مونتريال: دليل البقاء",
+        "excerpt": "عقد الإيجار، حقوق المستأجر، أين تبحث، الاحتيالات التي يجب تجنبها: كل شيء للعثور على منزلك في مونتريال."
+      },
+      "15": {
+        "title": "البحث عن عمل في كيبيك: ما لا يخبرك به أحد",
+        "excerpt": "السيرة الذاتية الكيبيكية، المقابلة، التواصل المهني، السوق الخفي: رموز سوق العمل هنا."
+      },
+      "16": {
+        "title": "إدارة أموالك وفهم الضرائب في كيبيك",
+        "excerpt": "الضرائب، الائتمان، الميزانية، المخصصات العائلية: أساسيات إدارة أموالك بذكاء."
+      }
     }
   },
   "newsModal": {
@@ -768,6 +911,57 @@
     },
     "ctaTitle": "هل أنت مستعد لبدء حياتك الجديدة في كيبيك؟",
     "ctaSubtitle": "فريقنا متعدد اللغات موجود لمرافقتك في كل خطوة من خطوات اندماجك."
+  },
+  "team": {
+    "title": "فريقنا",
+    "subtitle": "محترفون متفانون في خدمة اندماجكم",
+    "departments": {
+      "direction": "الإدارة العامة",
+      "accueil": "الاستقبال والاندماج",
+      "francisation": "تعلم الفرنسية",
+      "emploi": "المساعدة في التوظيف",
+      "femmes": "نساء العالم",
+      "jeunesse": "الآباء والشباب",
+      "communautaire": "الحياة المجتمعية",
+      "hommes": "فضاء الرجال"
+    }
+  },
+  "careers": {
+    "title": "وظائف",
+    "subtitle": "انضموا إلى فريقنا",
+    "viewOffer": "عرض الوظيفة",
+    "apply": "تقديم طلب",
+    "type": {
+      "fullTime": "دوام كامل",
+      "partTime": "دوام جزئي",
+      "contract": "عقد"
+    },
+    "jobs": [
+      {
+        "title": "مستشار(ة) في الاندماج",
+        "department": "الاستقبال والاندماج",
+        "excerpt": "مرافقة القادمين الجدد في خطواتهم الأولى.",
+        "description": "نبحث عن مستشار(ة) لمرافقة المهاجرين.\n\nالمسؤوليات:\n- استقبال وتقييم الاحتياجات\n- التوجيه نحو الخدمات المناسبة\n- المساعدة في الإجراءات الإدارية\n\nالمتطلبات:\n- شهادة في العمل الاجتماعي أو مجال ذي صلة\n- خبرة في التدخل بين الثقافات\n- إتقان الفرنسية والإنجليزية"
+      },
+      {
+        "title": "أستاذ(ة) لغة فرنسية",
+        "department": "تعلم الفرنسية",
+        "excerpt": "تدريس اللغة الفرنسية للبالغين المهاجرين من جميع المستويات.",
+        "description": "انضم إلى فريق تعليم الفرنسية لدينا.\n\nالمسؤوليات:\n- تخطيط وتقديم دروس الفرنسية\n- تكييف المحتوى مع احتياجات المتعلمين\n- تقييم تقدم الطلاب\n\nالمتطلبات:\n- بكالوريوس في تعليم الفرنسية كلغة ثانية\n- خبرة في تعليم البالغين\n- نهج تعليمي ديناميكي"
+      },
+      {
+        "title": "عامل(ة) مجتمعي(ة)",
+        "department": "الحياة المجتمعية",
+        "excerpt": "تطوير أنشطة تعزز الاندماج والعيش المشترك.",
+        "description": "نبحث عن عامل(ة) مجتمعي(ة).\n\nالمسؤوليات:\n- تصميم وتنشيط أنشطة مجتمعية\n- تطوير شراكات محلية\n- دعم المبادرات المدنية\n\nالمتطلبات:\n- تدريب في التنشيط المجتمعي\n- خبرة في بيئة متعددة الثقافات\n- مهارات تواصل ممتازة"
+      },
+      {
+        "title": "منسق(ة) شؤون الشباب",
+        "department": "الآباء والشباب",
+        "excerpt": "تنسيق البرامج المخصصة للشباب والأسر المهاجرة.",
+        "description": "وظيفة تعاقدية لبرامج الشباب لدينا.\n\nالمسؤوليات:\n- تخطيط أنشطة الشباب\n- ضمان التواصل مع المدارس\n- تنظيم المخيمات والأنشطة اللاصفية\n\nالمتطلبات:\n- شهادة في التربية أو مجال ذي صلة\n- خبرة مع الشباب المهاجرين\n- ثنائية اللغة فرنسية-إنجليزية"
+      }
+    ]
   },
   "footer": {
     "copyright": "© 2026 جميع الحقوق محفوظة.",
@@ -863,14 +1057,7 @@
     "visionLabel": "رؤيتنا",
     "vision": "الخدمة والتوحيد من خلال الخبرة والممارسات المبتكرة من أجل حياة أفضل معًا.",
     "valuesLabel": "قيمنا",
-    "values": [
-      "التفاني",
-      "الثقة",
-      "التسامح",
-      "الإيثار",
-      "التضامن",
-      "الإنصاف"
-    ],
+    "values": ["التفاني", "الثقة", "التسامح", "الإيثار", "التضامن", "الإنصاف"],
     "historyCTA": "قصتنا",
     "historyTitle": "قصتنا",
     "buildingAlt": "مبنى CARI St-Laurent",

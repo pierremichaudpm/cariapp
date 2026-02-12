@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "ہوم",
-    "needs": "آپ کی ضروریات",
+    "needs": "خدمات",
     "services": "خدمات",
     "activities": "سرگرمیاں",
     "news": "وسائل",
+    "team": "ٹیم",
+    "appointment": "ملاقات",
     "talk": "ملاقات",
     "talkToAdvisor": "مشیر سے بات کریں",
     "contact": "رابطہ کریں"
   },
   "hero": {
     "title": "کیوبیک میں <span class='highlight'>اپنی جگہ</span> تلاش کریں",
-    "subtitle": "ملازمت، فرانسیسی، رہائش، کارروائیاں: A سے Z تک مفت مدد",
+    "subtitle": "ملازمت، فرانسیسی، انضمام اور امیگریشن کی کارروائیاں: A سے Z تک مفت مدد",
     "discoverServices": "ہماری خدمات دریافت کریں",
     "letsTalk": "مشیر سے بات کریں",
     "testFrench": "فرانسیسی ٹیسٹ",
@@ -22,27 +24,27 @@
     },
     "slides": {
       "slide1": {
-        "quote": "« ہمارے دروازے سے گزرنے والا ہر شخص پرتپاک استقبال کا مستحق ہے »",
+        "quote": "ہمارے دروازے سے گزرنے والا ہر شخص پرتپاک استقبال کا مستحق ہے",
         "author": "Nadia R.",
         "role": "استقبال اور انضمام"
       },
       "slide2": {
-        "quote": "« اپنے طلباء کو اعتماد سے فرانسیسی بولتے دیکھنا میرا سب سے بڑا فخر ہے »",
+        "quote": "اپنے طلباء کو اعتماد سے فرانسیسی بولتے دیکھنا میرا سب سے بڑا فخر ہے",
         "author": "Sylvie D.",
         "role": "فرانسیسی تعلیم"
       },
       "slide3": {
-        "quote": "« ہم صرف نوکری نہیں ڈھونڈتے، یہاں مستقبل بناتے ہیں »",
+        "quote": "ہم صرف نوکری نہیں ڈھونڈتے، یہاں مستقبل بناتے ہیں",
         "author": "Marco T.",
         "role": "روزگار میں مدد"
       },
       "slide4": {
-        "quote": "« خاندانوں کی مدد کرنا پوری کمیونٹی میں سرمایہ کاری ہے »",
+        "quote": "خاندانوں کی مدد کرنا پوری کمیونٹی میں سرمایہ کاری ہے",
         "author": "Fatima H.",
         "role": "والدین اور نوجوان"
       },
       "slide5": {
-        "quote": "« یہاں، ہر عورت اپنی طاقت اور صلاحیت دریافت کرتی ہے »",
+        "quote": "یہاں، ہر عورت اپنی طاقت اور صلاحیت دریافت کرتی ہے",
         "author": "Lucia M.",
         "role": "دنیا کی خواتین"
       }
@@ -54,10 +56,12 @@
     "instruction": "مزید جاننے کے لیے ایک سروس منتخب کریں",
     "cards": {
       "welcome": "میں ابھی آیا ہوں",
-      "french": "میں فرانسیسی سیکھ رہا ہوں",
+      "french": "میں فرانسیسی سیکھنا چاہتا ہوں",
       "employment": "میں نوکری ڈھونڈ رہا ہوں",
-      "family": "میرا خاندان ہے",
+      "family": "میں والدین ہوں",
       "women": "میں عورت ہوں",
+      "men": "میں مرد ہوں",
+      "taxes": "میں ٹیکس جمع کرانا چاہتا ہوں",
       "volunteering": "میں حصہ لینا چاہتا ہوں"
     }
   },
@@ -78,6 +82,43 @@
       "guide": "رہنما",
       "histoire": "کہانی",
       "actualite": "خبر"
+    },
+    "calloutTitle": "مدد چاہیے؟",
+    "calloutText": "ہمارے مشیر آپ کے عمل میں مدد کے لیے دستیاب ہیں۔",
+    "calloutCTA": "مشیر سے بات کریں",
+    "guides": {
+      "1": {
+        "title": "کیوبیک پہنچنے پر پہلے 10 اقدامات",
+        "excerpt": "NAS حاصل کرنے سے RAMQ میں رجسٹریشن تک، نئی زندگی کی اچھی شروعات کے لیے مکمل چیک لسٹ۔"
+      },
+      "4": {
+        "title": "کیوبیک میں اپنی ڈگری کی تصدیق کیسے کروائیں",
+        "excerpt": "تقابلی جائزہ، پیشہ ورانہ ادارے، مساوات... اپنی تعلیم کی قدر بڑھانے کا مرحلہ وار عمل۔"
+      },
+      "7": {
+        "title": "کیوبیک کی پہلی سردی کی تیاری",
+        "excerpt": "لباس، نقل و حمل، حرارت، سرگرمیاں: مونٹریال کی سردی سے لطف اندوز ہونے کے لیے سب کچھ۔"
+      },
+      "10": {
+        "title": "کیوبیک کے صحت کے نظام کو سمجھنا",
+        "excerpt": "RAMQ، فیملی ڈاکٹر، ایمرجنسی، فارمیسی: نئے آنے والوں کے لیے مکمل صحت کا نظام گائیڈ۔"
+      },
+      "13": {
+        "title": "فرانسیسی سیکھنے کے لیے 5 مفت ایپس",
+        "excerpt": "ہمارے فرانسیسی اساتذہ کی تجویز کردہ موبائل ایپس سے اپنے کورسز کی تکمیل کریں۔"
+      },
+      "14": {
+        "title": "مونٹریال میں رہائش تلاش کرنا: بقا کی گائیڈ",
+        "excerpt": "لیز، کرایہ دار کے حقوق، کہاں تلاش کریں، دھوکہ دہی سے بچیں: مونٹریال میں گھر تلاش کرنے کے لیے سب کچھ۔"
+      },
+      "15": {
+        "title": "کیوبیک میں نوکری تلاش: جو کوئی نہیں بتاتا",
+        "excerpt": "کیوبیک طرز کا CV، انٹرویو، نیٹ ورکنگ، پوشیدہ مارکیٹ: مقامی جاب مارکیٹ کے اصول۔"
+      },
+      "16": {
+        "title": "کیوبیک میں مالی انتظام اور ٹیکس کو سمجھنا",
+        "excerpt": "ٹیکس، کریڈٹ، بجٹ، خاندانی الاؤنسز: اپنے پیسے کو سمجھداری سے سنبھالنے کی بنیادیں۔"
+      }
     }
   },
   "newsModal": {
@@ -582,6 +623,108 @@
           "note": "پیر-جمعہ 8:30-17:00 · مفت اور خفیہ"
         }
       },
+      "men": {
+        "title": "Espace Hommes",
+        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
+        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
+        "benefits": [
+          "Ateliers de prise de parole et d'expression",
+          "Soutien psychosocial individuel et confidentiel",
+          "Accompagnement personnalisé dans les démarches",
+          "Références vers les ressources spécialisées",
+          "Réseau d'entraide entre hommes immigrants",
+          "Activités de groupe et discussions thématiques"
+        ],
+        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+        "sections": [
+          {
+            "title": "Activités collectives",
+            "items": [
+              {
+                "name": "Ateliers de prise de parole",
+                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+              },
+              {
+                "name": "Discussions thématiques",
+                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+              },
+              {
+                "name": "Activités sportives et sociales",
+                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+              }
+            ]
+          },
+          {
+            "title": "Services individuels",
+            "items": [
+              {
+                "name": "Soutien psychosocial",
+                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+              },
+              {
+                "name": "Références et orientation",
+                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+        }
+      },
+      "taxes": {
+        "title": "Clinique d'impôts",
+        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "benefits": [
+          "Service entièrement gratuit",
+          "Bénévoles formés par l'ARC",
+          "Déclarations fédérale et provinciale",
+          "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
+          "Aide en plusieurs langues",
+          "Sans rendez-vous pendant la période d'impôts"
+        ],
+        "details": "Service saisonnier de mars à avril. Apportez vos T4, relevés, reçus et pièce d'identité.",
+        "sections": [
+          {
+            "title": "Services offerts",
+            "items": [
+              {
+                "name": "Préparation de déclarations",
+                "description": "Aide complète pour remplir vos déclarations de revenus fédérale et provinciale, incluant les annexes et formulaires requis."
+              },
+              {
+                "name": "Crédits et prestations",
+                "description": "Vérification de votre admissibilité à l'Allocation canadienne pour enfants (ACE), au crédit de TPS/TVH, au crédit de solidarité du Québec et autres prestations."
+              },
+              {
+                "name": "Première déclaration",
+                "description": "Accompagnement spécialisé pour les nouveaux arrivants qui produisent leur première déclaration de revenus au Canada."
+              }
+            ]
+          },
+          {
+            "title": "Documents requis",
+            "items": [
+              {
+                "name": "Feuillets fiscaux",
+                "description": "T4 (emploi), T4A (prestations), T5 (revenus de placements), Relevé 1, et tout autre feuillet fiscal reçu."
+              },
+              {
+                "name": "Pièce d'identité",
+                "description": "Carte de résident permanent, permis de travail ou autre pièce d'identité valide avec numéro d'assurance sociale."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+        }
+      },
       "volunteering": {
         "title": "تربیت اور کمیونٹی زندگی",
         "description": "بین الثقافتی ملاقاتیں، سماجی سرگرمیاں اور رضاکارانہ مواقع۔",
@@ -703,6 +846,8 @@
       "employment": "ملازمت مشاورت",
       "family": "خاندانی خدمات مشاورت",
       "women": "خواتین مشاورت",
+      "men": "Consultation Espace Hommes",
+      "taxes": "Consultation Clinique d'impôts",
       "volunteering": "رضاکارانہ مشاورت"
     },
     "form": {
@@ -713,7 +858,7 @@
       "date": "پسندیدہ تاریخ",
       "time": "پسندیدہ وقت",
       "message": "پیغام (اختیاری)",
-      "submit": "ملاقات کی تصدیق کریں",
+      "submit": "ملاقات کی درخواست کریں",
       "namePlaceholder": "نام اور کنیت",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "آپکا@ایمیل.com",
@@ -743,10 +888,7 @@
           "value": "etudiant",
           "label": "بین الاقوامی طالب علم"
         },
-        {
-          "value": "parraine",
-          "label": "کفالت یافتہ"
-        },
+
         {
           "value": "citoyen",
           "label": "کینیڈین شہری"
@@ -800,6 +942,7 @@
   },
   "chatbot": {
     "title": "CARI معاون",
+    "bubbleHint": "!مدد چاہیے؟ مجھے لکھیں",
     "placeholder": "اپنا سوال پوچھیں...",
     "typing": "CARI معاون ٹائپ کر رہا ہے...",
     "status": "آن لائن",
@@ -837,6 +980,57 @@
     "ctaTitle": "کیوبیک میں اپنی نئی زندگی شروع کرنے کے لیے تیار ہیں؟",
     "ctaSubtitle": "ہماری کثیر لسانی ٹیم آپ کے انضمام کے ہر قدم پر آپ کے ساتھ ہے۔"
   },
+  "team": {
+    "title": "ہماری ٹیم",
+    "subtitle": "آپ کے انضمام کے لیے وقف پیشہ ور",
+    "departments": {
+      "direction": "جنرل مینجمنٹ",
+      "accueil": "استقبال اور انضمام",
+      "francisation": "فرانسیسی زبان کی تعلیم",
+      "emploi": "ملازمت میں مدد",
+      "femmes": "دنیا کی خواتین",
+      "jeunesse": "والدین-نوجوان",
+      "communautaire": "کمیونٹی زندگی",
+      "hommes": "مردوں کی جگہ"
+    }
+  },
+  "careers": {
+    "title": "ملازمتیں",
+    "subtitle": "ہماری ٹیم میں شامل ہوں",
+    "viewOffer": "تفصیلات دیکھیں",
+    "apply": "درخواست دیں",
+    "type": {
+      "fullTime": "کل وقتی",
+      "partTime": "جز وقتی",
+      "contract": "معاہدہ"
+    },
+    "jobs": [
+      {
+        "title": "انضمام مشیر",
+        "department": "استقبال اور انضمام",
+        "excerpt": "نئے آنے والوں کے ابتدائی اقدامات میں ساتھ دیں۔",
+        "description": "ہم تارکین وطن کی مدد کے لیے ایک مشیر تلاش کر رہے ہیں۔\n\nذمہ داریاں:\n- استقبال اور ضروریات کا جائزہ\n- مناسب خدمات کی طرف رہنمائی\n- انتظامی امور میں مدد\n\nاہلیت:\n- سماجی کام یا متعلقہ شعبے میں ڈپلوما\n- بین الثقافتی مداخلت کا تجربہ\n- فرانسیسی اور انگریزی زبانوں پر عبور"
+      },
+      {
+        "title": "فرانسیسی زبان کے استاد",
+        "department": "فرانسیسی زبان کی تعلیم",
+        "excerpt": "تمام سطحوں کے بالغ تارکین وطن کو فرانسیسی پڑھائیں۔",
+        "description": "ہماری فرانسیسی تعلیم کی ٹیم میں شامل ہوں۔\n\nذمہ داریاں:\n- فرانسیسی کلاسوں کی منصوبہ بندی اور انعقاد\n- سیکھنے والوں کی ضروریات کے مطابق مواد ڈھالنا\n- طلباء کی پیشرفت کا جائزہ لینا\n\nاہلیت:\n- فرانسیسی بطور دوسری زبان تدریس میں بیچلر ڈگری\n- بالغوں کی تعلیم کا تجربہ\n- متحرک تدریسی نقطہ نظر"
+      },
+      {
+        "title": "کمیونٹی ورکر",
+        "department": "کمیونٹی زندگی",
+        "excerpt": "شمولیت اور بقائے باہمی کو فروغ دینے والی سرگرمیاں تیار کریں۔",
+        "description": "ہم ایک کمیونٹی ورکر تلاش کر رہے ہیں۔\n\nذمہ داریاں:\n- کمیونٹی سرگرمیوں کی منصوبہ بندی اور انعقاد\n- مقامی شراکت داریاں بنانا\n- شہری اقدامات کی حمایت\n\nاہلیت:\n- کمیونٹی اینیمیشن میں تربیت\n- کثیر الثقافتی ماحول میں تجربہ\n- بہترین مواصلاتی صلاحیتیں"
+      },
+      {
+        "title": "نوجوانوں کے پروگرام کوآرڈینیٹر",
+        "department": "والدین اور نوجوان",
+        "excerpt": "نوجوانوں اور تارکین وطن خاندانوں کے پروگراموں کی ہم آہنگی۔",
+        "description": "ہمارے نوجوانوں کے پروگراموں کے لیے معاہدہ جاتی عہدہ۔\n\nذمہ داریاں:\n- نوجوانوں کی سرگرمیوں کی منصوبہ بندی\n- اسکولوں سے رابطہ یقینی بنانا\n- کیمپس اور ہم نصابی سرگرمیوں کا انعقاد\n\nاہلیت:\n- تعلیم یا متعلقہ شعبے میں ڈپلوما\n- نوجوان تارکین وطن کے ساتھ تجربہ\n- فرانسیسی-انگریزی دو لسانی"
+      }
+    ]
+  },
   "footer": {
     "copyright": "© 2026 جملہ حقوق محفوظ ہیں۔",
     "tagline": "تارکین وطن کی مدد کرنے والی غیر منافع بخش تنظیم"
@@ -863,14 +1057,7 @@
     "visionLabel": "ہماری بصیرت",
     "vision": "بہتر زندگی کے لیے جدید مہارت اور طریقوں کے ذریعے خدمت اور اتحاد۔",
     "valuesLabel": "ہماری اقدار",
-    "values": [
-      "لگن",
-      "اعتماد",
-      "برداشت",
-      "ایثار",
-      "اتحاد",
-      "انصاف"
-    ],
+    "values": ["لگن", "اعتماد", "برداشت", "ایثار", "اتحاد", "انصاف"],
     "historyCTA": "ہماری کہانی",
     "historyTitle": "ہماری کہانی",
     "buildingAlt": "CARI St-Laurent عمارت",

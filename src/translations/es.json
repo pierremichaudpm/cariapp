@@ -1,17 +1,19 @@
 {
   "nav": {
     "home": "Inicio",
-    "needs": "Tus necesidades",
+    "needs": "Servicios",
     "services": "Servicios",
     "activities": "Actividades",
     "news": "Recursos",
+    "team": "Equipo",
+    "appointment": "Cita",
     "talk": "Cita",
     "talkToAdvisor": "Hablar con un asesor",
     "contact": "Contacto"
   },
   "hero": {
     "title": "Encuentra <span class='highlight'>tu lugar</span> en Quebec",
-    "subtitle": "Empleo, francés, vivienda, trámites: acompañamiento gratuito de A a Z",
+    "subtitle": "Empleo, francés, trámites de integración e inmigración: acompañamiento gratuito de A a Z",
     "discoverServices": "Descubra nuestros servicios",
     "letsTalk": "Hable con un asesor",
     "stats": {
@@ -22,27 +24,27 @@
     "testFrench": "Test de francés",
     "slides": {
       "slide1": {
-        "quote": "« Cada persona que cruza nuestra puerta merece una bienvenida cálida »",
+        "quote": "Cada persona que cruza nuestra puerta merece una bienvenida cálida",
         "author": "Nadia R.",
         "role": "Acogida e Integración"
       },
       "slide2": {
-        "quote": "« Ver a mis estudiantes hablar francés con confianza es mi mayor orgullo »",
+        "quote": "Ver a mis estudiantes hablar francés con confianza es mi mayor orgullo",
         "author": "Sylvie D.",
         "role": "Francización"
       },
       "slide3": {
-        "quote": "« No solo encontramos un empleo, construimos un futuro aquí »",
+        "quote": "No solo encontramos un empleo, construimos un futuro aquí",
         "author": "Marco T.",
         "role": "Ayuda al empleo"
       },
       "slide4": {
-        "quote": "« Acompañar a las familias es invertir en toda una comunidad »",
+        "quote": "Acompañar a las familias es invertir en toda una comunidad",
         "author": "Fatima H.",
         "role": "Padres y Juventud"
       },
       "slide5": {
-        "quote": "« Aquí, cada mujer descubre su fuerza y su potencial »",
+        "quote": "Aquí, cada mujer descubre su fuerza y su potencial",
         "author": "Lucia M.",
         "role": "Mujeres del mundo"
       }
@@ -53,10 +55,12 @@
     "subtitle": "Le acompañamos en cada paso de su integración en Quebec",
     "cards": {
       "welcome": "Acabo de llegar",
-      "french": "Estoy aprendiendo francés",
+      "french": "Quiero aprender francés",
       "employment": "Busco trabajo",
-      "family": "Tengo una familia",
+      "family": "Soy padre/madre",
       "women": "Soy mujer",
+      "men": "Soy un hombre",
+      "taxes": "Quiero hacer mis impuestos",
       "volunteering": "Quiero involucrarme"
     },
     "instruction": "Seleccione un servicio para obtener más información"
@@ -456,6 +460,108 @@
           "note": "Lun-Vie 8:30-17:00 · Gratuito y confidencial"
         }
       },
+      "men": {
+        "title": "Espace Hommes",
+        "description": "Soutien psychosocial spécialisé, accompagnement personnalisé et références vers les ressources pour les hommes immigrants.",
+        "fullDescription": "Le Comité Espace hommes du CARI St-Laurent est l'un des rares programmes au Québec offrant des services spécifiques aux hommes immigrants. À travers des ateliers de prise de parole, du soutien psychosocial et un accompagnement personnalisé, nous aidons les hommes à surmonter les défis liés à l'intégration.",
+        "benefits": [
+          "Ateliers de prise de parole et d'expression",
+          "Soutien psychosocial individuel et confidentiel",
+          "Accompagnement personnalisé dans les démarches",
+          "Références vers les ressources spécialisées",
+          "Réseau d'entraide entre hommes immigrants",
+          "Activités de groupe et discussions thématiques"
+        ],
+        "details": "Gratuit et confidentiel. Espace sécuritaire et bienveillant dédié aux hommes immigrants.",
+        "sections": [
+          {
+            "title": "Activités collectives",
+            "items": [
+              {
+                "name": "Ateliers de prise de parole",
+                "description": "Espaces d'expression et de partage pour aborder les défis de l'intégration, la masculinité, la parentalité et les relations interculturelles."
+              },
+              {
+                "name": "Discussions thématiques",
+                "description": "Échanges sur le marché du travail, les droits et responsabilités, la santé mentale et les réalités de l'immigration au Québec."
+              },
+              {
+                "name": "Activités sportives et sociales",
+                "description": "Rencontres informelles et activités physiques favorisant le réseautage et le bien-être."
+              }
+            ]
+          },
+          {
+            "title": "Services individuels",
+            "items": [
+              {
+                "name": "Soutien psychosocial",
+                "description": "Accompagnement individuel et confidentiel pour répondre aux besoins spécifiques des hommes immigrants : isolement, stress, adaptation."
+              },
+              {
+                "name": "Références et orientation",
+                "description": "Orientation vers les ressources communautaires et institutionnelles adaptées aux besoins identifiés."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Lun-Ven 8h30-17h00 · Gratuit et confidentiel"
+        }
+      },
+      "taxes": {
+        "title": "Clinique d'impôts",
+        "description": "Aide gratuite à la déclaration de revenus pour les personnes immigrantes et les familles à revenu modeste.",
+        "fullDescription": "Chaque année, le CARI St-Laurent offre un service gratuit de préparation de déclarations de revenus grâce à des bénévoles formés. Ce service s'adresse aux personnes immigrantes et aux familles à revenu modeste qui ont besoin d'aide pour produire leurs déclarations fédérale et provinciale.",
+        "benefits": [
+          "Service entièrement gratuit",
+          "Bénévoles formés par l'ARC",
+          "Déclarations fédérale et provinciale",
+          "Accès aux crédits d'impôt (ACE, TPS/TVH, Solidarité)",
+          "Aide en plusieurs langues",
+          "Sans rendez-vous pendant la période d'impôts"
+        ],
+        "details": "Service saisonnier de mars à avril. Apportez vos T4, relevés, reçus et pièce d'identité.",
+        "sections": [
+          {
+            "title": "Services offerts",
+            "items": [
+              {
+                "name": "Préparation de déclarations",
+                "description": "Aide complète pour remplir vos déclarations de revenus fédérale et provinciale, incluant les annexes et formulaires requis."
+              },
+              {
+                "name": "Crédits et prestations",
+                "description": "Vérification de votre admissibilité à l'Allocation canadienne pour enfants (ACE), au crédit de TPS/TVH, au crédit de solidarité du Québec et autres prestations."
+              },
+              {
+                "name": "Première déclaration",
+                "description": "Accompagnement spécialisé pour les nouveaux arrivants qui produisent leur première déclaration de revenus au Canada."
+              }
+            ]
+          },
+          {
+            "title": "Documents requis",
+            "items": [
+              {
+                "name": "Feuillets fiscaux",
+                "description": "T4 (emploi), T4A (prestations), T5 (revenus de placements), Relevé 1, et tout autre feuillet fiscal reçu."
+              },
+              {
+                "name": "Pièce d'identité",
+                "description": "Carte de résident permanent, permis de travail ou autre pièce d'identité valide avec numéro d'assurance sociale."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars à avril · Lun-Ven 9h-16h · Gratuit"
+        }
+      },
       "volunteering": {
         "title": "Formación y Vida Comunitaria",
         "description": "Encuentros interculturales, actividades sociales y oportunidades de voluntariado.",
@@ -581,6 +687,8 @@
       "employment": "Consulta de Empleo",
       "family": "Consulta de Servicios Familiares",
       "women": "Consulta de Mujeres del Mundo",
+      "men": "Consultation Espace Hommes",
+      "taxes": "Consultation Clinique d'impôts",
       "volunteering": "Consulta de Voluntariado"
     },
     "form": {
@@ -591,7 +699,7 @@
       "date": "Fecha preferida",
       "time": "Horario preferido",
       "message": "Mensaje (opcional)",
-      "submit": "Confirmar cita",
+      "submit": "Solicitar una cita",
       "namePlaceholder": "Nombre y apellido",
       "phonePlaceholder": "(514) 123-4567",
       "emailPlaceholder": "su@correo.com",
@@ -621,10 +729,7 @@
           "value": "etudiant",
           "label": "Estudiante internacional"
         },
-        {
-          "value": "parraine",
-          "label": "Patrocinado"
-        },
+
         {
           "value": "citoyen",
           "label": "Ciudadano canadiense"
@@ -683,6 +788,7 @@
   },
   "chatbot": {
     "title": "Asistente CARI",
+    "bubbleHint": "¿Necesita ayuda? ¡Escríbame!",
     "placeholder": "Haga su pregunta...",
     "typing": "El Asistente CARI está escribiendo...",
     "responses": {
@@ -734,6 +840,43 @@
       "guide": "GUÍA",
       "histoire": "HISTORIA",
       "actualite": "NOTICIA"
+    },
+    "calloutTitle": "¿Necesita ayuda?",
+    "calloutText": "Nuestros consejeros están disponibles para acompañarle en sus trámites.",
+    "calloutCTA": "Hable con un consejero",
+    "guides": {
+      "1": {
+        "title": "Sus 10 primeros trámites al llegar a Quebec",
+        "excerpt": "Desde obtener su NAS hasta inscribirse en la RAMQ, la lista completa para comenzar bien su nueva vida."
+      },
+      "4": {
+        "title": "Cómo hacer reconocer su diploma en Quebec",
+        "excerpt": "Evaluación comparativa, colegios profesionales, equivalencias... El proceso paso a paso para valorizar sus estudios."
+      },
+      "7": {
+        "title": "Preparar su primer invierno en Quebec",
+        "excerpt": "Ropa, transporte, calefacción, actividades: todo lo que necesita saber para disfrutar el invierno de Montreal."
+      },
+      "10": {
+        "title": "Comprender el sistema de salud de Quebec",
+        "excerpt": "RAMQ, médico de familia, urgencias, farmacias: guía completa del sistema de salud para recién llegados."
+      },
+      "13": {
+        "title": "5 aplicaciones gratuitas para aprender francés",
+        "excerpt": "Complemente sus cursos con estas aplicaciones móviles recomendadas por nuestros profesores."
+      },
+      "14": {
+        "title": "Encontrar vivienda en Montreal: guía de supervivencia",
+        "excerpt": "Contrato, derechos del inquilino, dónde buscar, estafas a evitar: todo para encontrar su hogar en Montreal."
+      },
+      "15": {
+        "title": "Buscar empleo en Quebec: lo que nadie le dice",
+        "excerpt": "CV quebequense, entrevista, redes de contactos, mercado oculto: los códigos del mercado laboral de aquí."
+      },
+      "16": {
+        "title": "Gestionar sus finanzas y comprender los impuestos en Quebec",
+        "excerpt": "Impuestos, crédito, presupuesto, asignaciones familiares: las bases para gestionar su dinero inteligentemente."
+      }
     }
   },
   "newsModal": {
@@ -768,6 +911,57 @@
     },
     "ctaTitle": "¿Listo para comenzar su nueva vida en Quebec?",
     "ctaSubtitle": "Nuestro equipo multilingüe está aquí para apoyarlo en cada paso de su integración."
+  },
+  "team": {
+    "title": "Nuestro equipo",
+    "subtitle": "Profesionales dedicados a su integración",
+    "departments": {
+      "direction": "Dirección general",
+      "accueil": "Acogida e integración",
+      "francisation": "Francización",
+      "emploi": "Ayuda al empleo",
+      "femmes": "Mujeres del mundo",
+      "jeunesse": "Padres-Juventud",
+      "communautaire": "Vida comunitaria",
+      "hommes": "Espacio Hombres"
+    }
+  },
+  "careers": {
+    "title": "Carreras",
+    "subtitle": "Únase a nuestro equipo",
+    "viewOffer": "Ver oferta",
+    "apply": "Postularse",
+    "type": {
+      "fullTime": "Tiempo completo",
+      "partTime": "Tiempo parcial",
+      "contract": "Contrato"
+    },
+    "jobs": [
+      {
+        "title": "Consejero(a) de integración",
+        "department": "Acogida e integración",
+        "excerpt": "Acompañar a los recién llegados en sus primeros trámites.",
+        "description": "Buscamos un(a) consejero(a) para acompañar a las personas inmigrantes.\n\nResponsabilidades:\n- Acoger y evaluar las necesidades\n- Orientar hacia los servicios apropiados\n- Acompañar en los trámites administrativos\n\nRequisitos:\n- Diploma en trabajo social o campo relacionado\n- Experiencia en intervención intercultural\n- Dominio del francés y del inglés"
+      },
+      {
+        "title": "Profesor(a) de francés",
+        "department": "Francización",
+        "excerpt": "Enseñar francés a adultos inmigrantes de todos los niveles.",
+        "description": "Únase a nuestro equipo de francización.\n\nResponsabilidades:\n- Planificar y dirigir cursos de francés\n- Adaptar el contenido a las necesidades de los estudiantes\n- Evaluar el progreso de los estudiantes\n\nRequisitos:\n- Licenciatura en enseñanza de FLS\n- Experiencia en enseñanza a adultos\n- Enfoque pedagógico dinámico"
+      },
+      {
+        "title": "Trabajador(a) comunitario(a)",
+        "department": "Vida comunitaria",
+        "excerpt": "Desarrollar actividades que fomenten la inclusión y la convivencia.",
+        "description": "Buscamos un(a) trabajador(a) comunitario(a).\n\nResponsabilidades:\n- Diseñar y facilitar actividades comunitarias\n- Desarrollar alianzas locales\n- Apoyar las iniciativas ciudadanas\n\nRequisitos:\n- Formación en animación comunitaria\n- Experiencia en entorno multicultural\n- Excelentes aptitudes de comunicación"
+      },
+      {
+        "title": "Coordinador(a) juvenil",
+        "department": "Padres-Juventud",
+        "excerpt": "Coordinar los programas destinados a jóvenes y familias inmigrantes.",
+        "description": "Puesto contractual para nuestros programas juveniles.\n\nResponsabilidades:\n- Planificar las actividades juveniles\n- Mantener el enlace con las escuelas\n- Organizar campamentos y actividades extracurriculares\n\nRequisitos:\n- Diploma en educación o campo relacionado\n- Experiencia con jóvenes inmigrantes\n- Bilingüismo francés-inglés"
+      }
+    ]
   },
   "footer": {
     "copyright": "© 2026 Todos los derechos reservados.",

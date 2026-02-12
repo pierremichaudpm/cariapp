@@ -15,6 +15,8 @@ import Hero from "./components/Hero";
 import Needs from "./components/Needs";
 import Icon from "./components/Icon";
 import FrenchLevelTest from "./components/cari/FrenchLevelTest";
+import TeamSection from "./components/TeamSection";
+import Careers from "./components/Careers";
 import { Capacitor } from "@capacitor/core";
 import { StatusBar, Style } from "@capacitor/status-bar";
 // Lazy load below-the-fold components
@@ -34,10 +36,18 @@ function App() {
   const [currentHero, setCurrentHero] = useState(0);
   const [selectedService, setSelectedService] = useState("welcome");
   const [showFrenchTest, setShowFrenchTest] = useState(false);
+  const [showHistory, setShowHistory] = useState(false);
+  const [chatPulsing, setChatPulsing] = useState(true);
   const heroIntervalRef = useRef(null);
   const isPausedRef = useRef(false);
   const touchStartXRef = useRef(0);
   const touchEndXRef = useRef(0);
+
+  // Stop chat pulse after 15 seconds
+  useEffect(() => {
+    const timer = setTimeout(() => setChatPulsing(false), 15000);
+    return () => clearTimeout(timer);
+  }, []);
 
   // Configure status bar for Android (overlay mode for safe-area-inset)
   useEffect(() => {
@@ -297,12 +307,12 @@ function App() {
             }
             stats={[
               {
-                value: "7,000+",
+                value: "7,000",
                 label: (translations[currentLanguage] || translations.fr)
                   .parallax.stats.peopleHelped,
               },
               {
-                value: "95+",
+                value: "95",
                 label: (translations[currentLanguage] || translations.fr)
                   .parallax.stats.languagesSpoken,
               },
@@ -312,7 +322,7 @@ function App() {
                   .parallax.stats.countries,
               },
               {
-                value: "35+",
+                value: "35",
                 label: (translations[currentLanguage] || translations.fr)
                   .parallax.stats.yearsOfService,
               },
@@ -343,15 +353,24 @@ function App() {
 
             <ParallaxCTASection
               title={
-                (translations[currentLanguage] || translations.fr).parallax
-                  .ctaTitle
+                (translations[currentLanguage] || translations.fr).promotions
+                  ?.slides?.[0]?.title || "La diversité nous rapproche"
               }
               subtitle={
-                (translations[currentLanguage] || translations.fr).parallax
-                  .ctaSubtitle
+                (translations[currentLanguage] || translations.fr).promotions
+                  ?.slides?.[0]?.description ||
+                "Depuis plus de 30 ans, le CARI accompagne les personnes immigrantes dans leur intégration personnelle, sociale et professionnelle au Québec."
               }
               imageUrl="https://images.unsplash.com/photo-1543269865-cbf427effbad?w=1920&q=80"
-              hideButtons={true}
+              primaryButton={{
+                label:
+                  (translations[currentLanguage] || translations.fr).mission
+                    ?.historyCTA || "Notre histoire",
+                onClick: () => {
+                  setShowHistory(true);
+                  document.body.style.overflow = "hidden";
+                },
+              }}
             />
 
             <Appointment
@@ -363,10 +382,20 @@ function App() {
               services={services}
             />
           </Suspense>
+
+          <TeamSection
+            currentLanguage={currentLanguage}
+            translations={translations}
+          />
+
+          <Careers
+            currentLanguage={currentLanguage}
+            translations={translations}
+          />
         </main>
 
         <div
-          className={`chat-toggle ${chatOpen ? "active" : ""}`}
+          className={`chat-toggle ${chatOpen ? "active" : ""} ${chatPulsing && !chatOpen ? "pulsing" : ""}`}
           onClick={toggleChat}
         >
           <div className="chat-icon">
@@ -374,15 +403,14 @@ function App() {
           </div>
           <span className="chat-label">
             {(translations[currentLanguage] || translations.fr).chatbot
-              ?.title || "Assistant CARI"}
+              ?.title || "Assistante CARI"}
           </span>
         </div>
 
         {!chatOpen && (
           <div className="chat-bubble-hint">
-            {currentLanguage === "en"
-              ? "Need help? Ask me!"
-              : "Besoin d'aide? Écrivez-moi!"}
+            {(translations[currentLanguage] || translations.fr).chatbot
+              ?.bubbleHint || "Besoin d'aide? Écrivez-moi!"}
           </div>
         )}
 
@@ -413,37 +441,6 @@ function App() {
 
         <footer className="footer">
           <div className="footer-layout">
-            <div className="footer-top-row">
-              <div className="footer-logo">
-                <img src="/images/logo-footer.webp" alt="CARI St-Laurent" />
-              </div>
-              <div className="footer-contact-inline">
-                <div className="footer-contact-row">
-                  <div className="footer-icon-circle">
-                    <Icon name="phone" size={16} />
-                  </div>
-                  <span>
-                    {(translations[currentLanguage] || translations.fr).contact
-                      ?.info?.phone || "(514) 748-2007"}
-                  </span>
-                </div>
-                <div className="footer-contact-row">
-                  <div className="footer-icon-circle">
-                    <Icon name="clock" size={16} />
-                  </div>
-                  <span>
-                    {(translations[currentLanguage] || translations.fr).contact
-                      ?.info?.hours || "Lun-Ven 9h-12h, 12h30-16h30"}
-                  </span>
-                </div>
-                <div className="footer-contact-row">
-                  <div className="footer-icon-circle">
-                    <Icon name="map-marker-alt" size={16} />
-                  </div>
-                  <span>774 boul. Décarie, Bureau 300</span>
-                </div>
-              </div>
-            </div>
             <div className="footer-partners">
               <span className="footer-partners-title">Nos partenaires</span>
               <div className="footer-partners-logos">
@@ -477,6 +474,37 @@ function App() {
                 />
               </div>
             </div>
+            <div className="footer-info-row">
+              <div className="footer-logo">
+                <img src="/images/logo-footer.webp" alt="CARI St-Laurent" />
+              </div>
+              <div className="footer-contact-inline">
+                <div className="footer-contact-row">
+                  <div className="footer-icon-circle">
+                    <Icon name="map-marker-alt" size={16} />
+                  </div>
+                  <span>774 boul. Décarie, Bureau 300</span>
+                </div>
+                <div className="footer-contact-row">
+                  <div className="footer-icon-circle">
+                    <Icon name="phone" size={16} />
+                  </div>
+                  <span>
+                    {(translations[currentLanguage] || translations.fr).contact
+                      ?.info?.phone || "(514) 748-2007"}
+                  </span>
+                </div>
+                <div className="footer-contact-row">
+                  <div className="footer-icon-circle">
+                    <Icon name="clock" size={16} />
+                  </div>
+                  <span>
+                    {(translations[currentLanguage] || translations.fr).contact
+                      ?.info?.hours || "Lun-Ven 9h-12h, 12h30-16h30"}
+                  </span>
+                </div>
+              </div>
+            </div>
             <div className="footer-bottom-row">
               <span>
                 {
@@ -504,6 +532,46 @@ function App() {
             }}
           />
         )}
+
+        {showHistory &&
+          (() => {
+            const t = translations[currentLanguage] || translations.fr;
+            const closeHistory = () => {
+              setShowHistory(false);
+              document.body.style.overflow = "";
+            };
+            return (
+              <div
+                className="history-modal-overlay"
+                onClick={(e) => {
+                  if (e.target === e.currentTarget) closeHistory();
+                }}
+              >
+                <div className="history-modal-content">
+                  <button
+                    className="history-modal-close"
+                    onClick={closeHistory}
+                    aria-label="Fermer"
+                  >
+                    ✕
+                  </button>
+                  <div className="history-modal-body">
+                    <img
+                      src="/images/newlogo.webp"
+                      alt="CARI St-Laurent"
+                      className="history-modal-logo"
+                    />
+                    <h2 className="history-modal-text">
+                      {t.mission?.historyTitle || "Notre histoire"}
+                    </h2>
+                    <p className="history-intro">
+                      {t.mission?.historyIntro || ""}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            );
+          })()}
       </div>
     </LanguageSelectorWrapper>
   );

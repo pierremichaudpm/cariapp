@@ -1,0 +1,1100 @@
+{
+  "nav": {
+    "home": "Dallu",
+    "needs": "Njoxe yi",
+    "services": "Njoxe yi",
+    "activities": "Liggéeyu mbooleem",
+    "news": "Xam-xam",
+    "team": "Ndaje",
+    "appointment": "Jottali",
+    "talk": "Jottali",
+    "talkToAdvisor": "Waxal ak jëfandikukat",
+    "contact": "Jokkoo"
+  },
+  "hero": {
+    "title": "Trouvez <span class='highlight'>votre place</span> au Québec",
+    "subtitle": "Liggéey, làkk wu faransee, dugg ci réew mi ak njëlbéen: ndimbal bu dul fey, dalal ba pare.",
+    "discoverServices": "Xoolal sunu njoxe yi",
+    "letsTalk": "Waxal ak jëfandikukat",
+    "testFrench": "Nataal sa làkk wu faransee",
+    "stats": {
+      "peopleHelped": "Nit ñi ñu ndimbal/at",
+      "satisfaction": "Bëgg-bëgg",
+      "findEmployment": "Am liggéey"
+    },
+    "slides": {
+      "slide1": {
+        "quote": "Kii nit ku dugg ci sunu bunt moo wara am njàkkaari wërsëg",
+        "author": "Nadia R.",
+        "role": "Njàkkaari ak Dugg"
+      },
+      "slide2": {
+        "quote": "Gis sama taalibe yi di wax faransee ak ngëm, moo tax ma bég lool",
+        "author": "Marco T.",
+        "role": "Jàng Faransee"
+      },
+      "slide3": {
+        "quote": "Du liggéey rekk lañuy gis, ndax dañuy tabax lëndëm fii",
+        "author": "Sylvie D.",
+        "role": "Ndimbal ci Liggéey"
+      },
+      "slide4": {
+        "quote": "Ndimbal mbokk yi, moo di sëmm bépp askan",
+        "author": "Fatima H.",
+        "role": "Waajur-Ndaw yi"
+      },
+      "slide5": {
+        "quote": "Fii, jigéen bu nekk moo di gis xelam ak doolam",
+        "author": "David C.",
+        "role": "Jigéen yu àdduna"
+      }
+    }
+  },
+  "needs": {
+    "title": "Lan ngay soxla?",
+    "subtitle": "Danuy la ànd ci bépp etaap bu sa dugg ci Québec",
+    "instruction": "Tànnal njoxe benn ngir xam lu ci gën a yàgg",
+    "cards": {
+      "welcome": "Neeweeku ma fii",
+      "french": "Bëgg naa jàng faransee",
+      "employment": "Dama di wut liggéey",
+      "family": "Waajur laa",
+      "women": "Jigéen laa",
+      "men": "Góor laa",
+      "taxes": "Bëgg naa def sumu alkaati",
+      "volunteering": "Bëgg naa bokk ci liggéeyu mbooleem"
+    }
+  },
+  "newsSection": {
+    "title": "Xam-xam",
+    "subtitle": "Gindikaayu njëlbéen, seede yi ak xibaar yi ngir mën sa dugg"
+  },
+  "news": {
+    "moreContentButton": "Xam-xam yépp",
+    "moreNewsTitle": "Xam-xam yépp",
+    "filters": {
+      "all": "Xoolal lépp",
+      "guide": "Gindikaayu njëlbéen",
+      "histoire": "Taariix yii fii",
+      "actualite": "Xibaar yi"
+    },
+    "contentTypes": {
+      "guide": "GINDIKAAY",
+      "histoire": "TAARIIX",
+      "actualite": "XIBAAR"
+    },
+    "calloutTitle": "Soxla nga ndimbal?",
+    "calloutText": "Sunu jëfandikukat yi ci jàpp lañu ngir la ànd ci say jëf.",
+    "calloutCTA": "Waxal ak jëfandikukat",
+    "guides": {
+      "1": {
+        "title": "Sa 10 jëf yu njëkk yi bu ngay ñëw Québec",
+        "excerpt": "Jël sa NAS ba binda ci RAMQ, fii mooy listu lépp ngir tambalee sa dundu bu bees."
+      },
+      "4": {
+        "title": "Naka lañuy feesal sa dipoloom ci Québec",
+        "excerpt": "Nataalug dipoloom, jàmm yu liggéey, mbooleem... Yoon wi etaap-etaap ngir yokk njariñu say jàng."
+      },
+      "7": {
+        "title": "Dëgëral sa nëgu tuuti bu njëkk ci Québec",
+        "excerpt": "Yéere, jëmm, tangaay, liggéeyu mbooleem: lépp luy wara xam ngir bëgg nëgu tuuti bi ci Montréal."
+      },
+      "10": {
+        "title": "Dégg jàmmu wér gi ci Québec",
+        "excerpt": "RAMQ, doktoor bu kër, urjaans, farmaasi: gindikaay bu mat ngir ñiy ñëw fii."
+      },
+      "13": {
+        "title": "5 aplikasion yu dul fey ngir jàng faransee",
+        "excerpt": "Yokkal say jàng ak yii aplikasionu telefon bi ñu waxe nañu ci sunu kilifa yu francisation."
+      },
+      "14": {
+        "title": "Wut néeg ci Montréal: gindikaay bu njëlbéen",
+        "excerpt": "Bay, sañ-sañu ñiy fey néeg, fan lañuy wut, yéenal yi: lépp ngir gis sa néeg ci Montréal."
+      },
+      "15": {
+        "title": "Wut liggéey ci Québec: lu kenn waxul la",
+        "excerpt": "CV bu Québec, entërviu, xam-xam nit, marché caché: kodu marché du travail bii fii."
+      },
+      "16": {
+        "title": "Saytu say xaalis te dégg alkaati ci Québec",
+        "excerpt": "Taksi, crédit, bujet, ndimbal yu mbokk yi: njëkk yi ngir saytu say xaalis bu baax."
+      }
+    }
+  },
+  "newsModal": {
+    "share": "Séddeel",
+    "shareOn": {
+      "facebook": "Séddeel ci Facebook",
+      "twitter": "Séddeel ci Twitter",
+      "linkedin": "Séddeel ci LinkedIn",
+      "whatsapp": "Séddeel ci WhatsApp"
+    }
+  },
+  "newsCategories": {
+    "francisation": "Jàng Faransee",
+    "emploi": "Liggéey",
+    "femmes": "Jigéen yu àdduna",
+    "integration": "Dugg",
+    "parents": "Waajur ak Ndaw yi"
+  },
+  "media": {
+    "videoNotSupported": "Sa navigatër mënul a jàll wideo.",
+    "audioNotSupported": "Sa navigatër mënul a jàll odio."
+  },
+  "activitiesSection": {
+    "title": "Sunu liggéeyu ci àttë",
+    "subtitle": "Duggal ci sunu askan te bokkal ci sunu ateliye, jàng ak liggéeyu mbooleem",
+    "allEvents": "Sunu liggéeyu mbooleem yépp"
+  },
+  "activities": {
+    "registerButton": "Bindal",
+    "moreEventsButton": "Liggéeyu mbooleem yu gën",
+    "filters": {
+      "all": "Xoolal lépp",
+      "welcome": "Njàkkaari",
+      "french": "Faransee",
+      "employment": "Liggéey",
+      "family": "Mbokk",
+      "women": "Jigéen"
+    }
+  },
+  "testimonialsSection": {
+    "title": "Ñoo mënal ak CARI",
+    "subtitle": "Xoolal taariixu ñi gënal te gis seen place ci Québec"
+  },
+  "testimonials": {
+    "arrived": "Ñëw",
+    "items": [
+      {
+        "name": "Asma B.",
+        "country": "Maroc",
+        "year": "2020",
+        "text": "Ci kàttanu CARI, gis naa sama liggéeyu xel ci 6 weer! Ndimbal bu personal bi ak ateliye yi jox nañu ma ngëm ngir mën samu entërviu yi.",
+        "service": "Ndimbal ci Liggéey"
+      },
+      {
+        "name": "Jean-Pierre H.",
+        "country": "Haïti",
+        "year": "2020",
+        "text": "Réfugié laa woon, tey entrepreneur laa. CARI ànd na ma ci bépp etaap. Tey am naa sama entreprise te 5 nit lañu ci liggéey.",
+        "service": "Ndimbal bu mat"
+      },
+      {
+        "name": "Jasmine M.",
+        "country": "Haïti",
+        "year": "2021",
+        "text": "Faransee dafa woon mel ni mënuloo ko, tey maa koy wax bu baax! Jàng yi dañu baax te kilifa yi dañu muñ.",
+        "service": "Jàng Faransee"
+      },
+      {
+        "name": "Karla A.",
+        "country": "RDC",
+        "year": "2019",
+        "text": "Sama doom yi neex nañu, gis nanu sunu bopp fii. Njoxe yu mbokk yi ci CARI moo tax lépp soppi.",
+        "service": "Njoxe yu mbokk"
+      },
+      {
+        "name": "Wei L.",
+        "country": "Chine",
+        "year": "2022",
+        "text": "Ndimbal bi ngir dégg jàmmu Québec moo soppi lépp. Tey damay gis ni kër laa nekk ci Montréal.",
+        "service": "Njàkkaari ak Dugg"
+      }
+    ],
+    "parallaxItems": [
+      {
+        "quote": "Jàkkaari, déglu, oriante — mooy sunu mission bépp bés.",
+        "name": "Nadia R.",
+        "origin": "Njàkkaari ak Dugg"
+      },
+      {
+        "quote": "Bépp CV boo sàmee, mooy bunt bu ubbiku.",
+        "name": "Marco T.",
+        "origin": "Ndimbal ci Liggéey"
+      },
+      {
+        "quote": "Jàngal faransee, mooy jox kiliye yu dundu bu bees.",
+        "name": "Sylvie D.",
+        "origin": "Jàng Faransee"
+      }
+    ]
+  },
+  "services": {
+    "title": "Sunu njoxe yi",
+    "subtitle": "Solusjoon yi mu sellal sa mbir",
+    "learnMore": "Xam lu gën",
+    "modal": {
+      "benefits": "Lu ngay am",
+      "details": "Biri-biri njoxe bi",
+      "close": "Tëj",
+      "contactTitle": "Jokkool nu",
+      "services": "njoxe yi",
+      "service": "njoxe"
+    },
+    "cards": {
+      "welcome": {
+        "title": "Njàkkaari ak Dugg",
+        "description": "Xibaar, oriante ak ndimbal bu personal ngir wëral sa tabax.",
+        "fullDescription": "Sunu njoxe bu njàkkaari ak dugg moo di ànd ak ñiy dikk ci kàttanu jëfandikukat yu profesijonel yu di jox ndimbal bu mat ngir dugg ci aduna ak liggéey.",
+        "benefits": [
+          "Ndajte yu xibaar ak oriante yu kenn-kenn",
+          "Ànd ci jëfu administratif yi",
+          "Liggéeyu mbooleem ngir ëpp xarit",
+          "Yónni ci ressource yu askan wi",
+          "Ndimbal ngir mën otonom ak indepandaas"
+        ],
+        "details": "Njoxe bu dul fey bu ñu wax ci faransee, anglais, español, araab ak yeneen làkk. Jottali ci bureau walla ci telefon.",
+        "sections": [
+          {
+            "title": "Njoxe yu kenn-kenn",
+            "items": [
+              {
+                "name": "Ndimbal ci tabax ak dugg",
+                "description": "Ànd ngir kaart RAMQ, NAS, binda ci garderi, binda ci ekol ak jëfu tabax."
+              },
+              {
+                "name": "Ndimbal ci formiler administratif yi",
+                "description": "Alokasion familiyal, laaykat, formiler yu situwayënte, yeesal pérmi liggéey."
+              },
+              {
+                "name": "Wut néeg",
+                "description": "Ànd ci wutu néeg ak dégg sañ-sañu ñiy fey néeg/boromu kër."
+              },
+              {
+                "name": "Seerment",
+                "description": "Déklarasion solanël, bataaxe yu tàggat, otorizasion bi voyaaj, prokurasiyon ak kopi yi ñu sertifiye. 15 kopi yu njëkk yi dul fey ngir immigrant ci Canada ci lu wàññi ci 5 at."
+              },
+              {
+                "name": "Klinik juridik",
+                "description": "Xibaar juridik bu dul fey ci néeg, imigrasion, sañ-sañu mbokk ci kàttanu sunu partenër Pro Bono ak Droit Légal."
+              },
+              {
+                "name": "Déklarasion alkaati",
+                "description": "Ndimbal ci at bu nekk ci déklarasion alkaati ci sunu klinik dimpóo."
+              },
+              {
+                "name": "Xibaar ak yónni",
+                "description": "Nataalug soxla yi bu profesijonel te yónni ci ressource yu askan wu baax."
+              },
+              {
+                "name": "Médiasion interculturel ak interprétasion",
+                "description": "Ndimbal ngir dégg bataaxe yu guwernëmaan ak naawigasion ci sistèm sosjal yi."
+              },
+              {
+                "name": "Topp bu personal ak ndimbal psikososjal",
+                "description": "Ànd bu suturlu ak ndimbal bu xol ci yoonu dugg bi yépp."
+              }
+            ]
+          },
+          {
+            "title": "Liggéeyu mbooleem",
+            "items": [
+              {
+                "name": "Ndajte yu xibaar",
+                "description": "Ateliye ci sañ-sañu ñiy fey néeg, saytu xaalis, sistèm ekoler ci Québec, alkaati ak dëgëral nëgu tuuti."
+              },
+              {
+                "name": "Komite Barab Góor",
+                "description": "Ndimbal psikososjal bu specialise, ànd bu personal ak yónni ci ressource ngir góor yi ñiy dikk."
+              },
+              {
+                "name": "Kàmp bakkan yu mbokk",
+                "description": "Toog ci salet ci biir gëj ci wettu Montréal ngir mbokk yi, ci kadrë interculturel."
+              },
+              {
+                "name": "Gejj yu mbokk",
+                "description": "Liggéeyu kiltir ak seetlu: Québec, chutu Montmorency, Zoo de Granby, Jardin botanique, Biodôme, raxas poom, kër sirop."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Alt-Àjj 8h30-17h00 · Njoxe bu dul fey"
+        }
+      },
+      "french": {
+        "title": "Jàng Faransee",
+        "description": "Jàng faransee bu mu sellal immigrant yi, tolof-tolof yépp, waxtu yu suux (8h30-22h). Nataalal sa tolof-tolof bu dul fey!",
+        "fullDescription": "Faransee mooy làkk wu oficijel te wu askan wi ci Québec. CARI dafay jox jàng faransee yu dul fey yu guwernëmaan finanse, ci waxtu bu mat ak bu yaatu, ci tolof-tolof bu njëkk ba ci bu yàgg.",
+        "benefits": [
+          "Jàng ci waxtu bu mat ak bu yaatu",
+          "Waxtu yu suux: 8h30 ba 22h",
+          "Tolof-tolof yépp nañu ko nangu",
+          "Kilifa yu am xam-xam te am jubbanti",
+          "Metod yu mu sellal immigrant yi",
+          "Nataalug tolof-tolof bu dul fey ci 10 simili"
+        ],
+        "details": "Jàng yu dul fey yu MIFI finanse. Am nañu alokasion bokk. Binda ci lu bés.",
+        "sections": [
+          {
+            "title": "Jàng ci waxtu bu mat",
+            "description": "Programa intensif bu 25 waxtu ci ayu-bis ngir nit ñu yatuwaagu jàng. 20 waxtu ci klaas ak kilifa ak 5 waxtu ak animatër. Sesion yu 11 ayu-bis, 4 sesion ci at.",
+            "items": []
+          },
+          {
+            "title": "Jàng ci waxtu bu yaatu",
+            "description": "Programa ngir nit yi ñiy dikk yu am alif (minimum 9 at ci jàng). Programa d'intégration linguistique des immigrants (PILI) moo ko jox.",
+            "items": [
+              {
+                "name": "Tolof-tolof 1 ba 8 am nañu ko",
+                "description": ""
+              },
+              {
+                "name": "Suba: 9h00-12h00",
+                "description": "9 ba 12 waxtu ci ayu-bis"
+              },
+              {
+                "name": "Ngoon: 12h30-15h30",
+                "description": "9 ba 12 waxtu ci ayu-bis"
+              },
+              {
+                "name": "Guddi: 18h30-21h30",
+                "description": "6 ba 9 waxtu ci ayu-bis"
+              }
+            ]
+          },
+          {
+            "title": "Liggéeyu mbooleem",
+            "items": [
+              {
+                "name": "Gejju dëkk bi",
+                "description": "Seetlu ci bibliotek, muze, sàntaru liggéeyu askan, bitik ak fripëri."
+              },
+              {
+                "name": "Rali ak seetlu",
+                "description": "Seetlu Vieux-Port ak rañ ci dëkk bi."
+              }
+            ]
+          },
+          {
+            "title": "Garderi",
+            "description": "Njoxe bu garderi am na ngir doom yi 0 ba 5 at, MIFI moo fey lépp.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, poste 245",
+          "email": "francisation.cari@cari.qc.ca",
+          "note": "Binda: quebec.ca/education/apprendre-le-francais"
+        }
+      },
+      "employment": {
+        "title": "Ndimbal ci Liggéey",
+        "description": "Ateliye CV, simile entërviu, coaching profesijonel ak ndajte ak buur liggéey yi.",
+        "fullDescription": "Am liggéey moo di kondision bu wara am ngir dugg bu baax! Sunu départëmaan moo di ànd ak dugg immigrant yi ci marché liggéey ci kàttanu ndimbal bu personal ak liggéeyu mbooleem.",
+        "benefits": [
+          "Ateliye binda CV ak bataaxe motivasion",
+          "Simile entërviu yu personal",
+          "Coaching profesijonel bu kenn-kenn",
+          "Ndajte jub ak buur liggéey yi",
+          "Ànd ci wutu liggéey bu aktif",
+          "85% dañuy gis liggéey ci 6 weer"
+        ],
+        "details": "Njoxe bu dul fey ak topp bu personal. Jottali bu kenn-kenn ak ateliye yu mbooleem yu siiw.",
+        "sections": [
+          {
+            "title": "Barabu wutukat yi",
+            "items": [
+              {
+                "name": "Tàbbi ci liggéey",
+                "description": "Bokkaale ak entreprise yu Québec ngir tàbbi ci liggéey ak stage."
+              },
+              {
+                "name": "Rezo xam-xam nit",
+                "description": "Xam-xam nit profesijonel ak ndajte ak buur liggéey yi."
+              },
+              {
+                "name": "Def CV",
+                "description": "Ndimbal ci binda CV bu mu sellal marché Québec."
+              },
+              {
+                "name": "Ateliye wut liggéey",
+                "description": "8 ateliye ci at, sesion yu 5 ayu-bis (9h-16h), ci 15 bokkaalekat. Metod ak jumtukaay yu wut liggéey."
+              },
+              {
+                "name": "Mën-mën yu benn",
+                "description": "Nataalug mën-mën, stratéji wut, jokkoo, xam-xam nit, jubbanti ci barabu liggéey ci Québec."
+              },
+              {
+                "name": "Ndimbal bu personal",
+                "description": "Ànd bu kenn-kenn: CV, bataaxe motivasion, dëgëral entërviu, oriante ci marché liggéey, yónni buur liggéey."
+              },
+              {
+                "name": "Dëgëral entërviu",
+                "description": "Simile entërviu ak coaching bu personal."
+              }
+            ]
+          },
+          {
+            "title": "Barabu buur liggéey yi",
+            "items": [
+              {
+                "name": "Bind post",
+                "description": "Jël ci ab basen bu am nit yu dikk yu am kàlifikasion."
+              },
+              {
+                "name": "Tànn wutukat yi",
+                "description": "Tànn ci sunu basenu talaa ci ay sektër yu bari."
+              },
+              {
+                "name": "Profil yu am",
+                "description": "Administrasion, kontabilite, informatik, enjeniëri, telekominikasion, lekk, juridik, àddina."
+              },
+              {
+                "name": "Topp ci dund ci liggéey",
+                "description": "Ndimbal ngir buur liggéey yi ngir dugg diversite ci barabu liggéey."
+              },
+              {
+                "name": "Ndimbal xaalis",
+                "description": "Ànd ngir jël programa guwernëmaan yi ci sibvansion alér."
+              }
+            ]
+          },
+          {
+            "title": "Barabu xam-xam nit",
+            "items": [
+              {
+                "name": "Ndajte ak buur liggéey",
+                "description": "Liggéeyu weer bu nekk ngir xam-xam nit diggante buur liggéey ak ñiy wut liggéey."
+              },
+              {
+                "name": "Rendez-vous Laurentien de l'Emploi",
+                "description": "Liggéeyu at bu nekk bu di lëkkalante buur liggéey ak lu gën ci 100 ñiy wut liggéey."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Alt-Àjj 8h30-17h00"
+        }
+      },
+      "family": {
+        "title": "Waajur-Ndaw yi",
+        "description": "Ndimbal ngir mbokk yi, liggéeyu mbooleem ngir doom yi ak mag-ndaw yi, ndimbal ci jàng.",
+        "fullDescription": "Sunu départëmaan moo di ndimbal mbokk yi ñiy dikk ngir dégg sistèm ekoler ci Québec, jox ndimbal psikologik, njoxe bu garderi te bokk ci yokk doom yi ak seen jàng.",
+        "benefits": [
+          "Njoxe bu garderi ngir ndaw yi tuuti",
+          "Ndimbal ci oriante jàng",
+          "Liggéeyu jàng ak neex",
+          "Ndimbal ci dëwërin ak leson",
+          "Ateliye ngir waajur yi",
+          "Gejj yu mbokk yu organise"
+        ],
+        "details": "Njoxe yu dul fey walla yu wàññi. Plas yu dëgër, bindal wara na am.",
+        "sections": [
+          {
+            "title": "Njoxe yu kenn-kenn",
+            "items": [
+              {
+                "name": "Ànd ci sistèm ekoler",
+                "description": "Ndimbal ak oriante ngir mbokk yi ñiy dikk ci sistèm ekoler ci Québec, wëral jokkoo diggante ekol ak mbokk."
+              },
+              {
+                "name": "Klinik Ndaw-Mbokk",
+                "description": "Njoxe bu dul fey te suturlu bu mbokk yi mën a wax ci jafe-jafe yu doom yi ak personal bu specialise, ci kadrë bu dëgër te profesijonel."
+              }
+            ]
+          },
+          {
+            "title": "Liggéeyu mbooleem",
+            "items": [
+              {
+                "name": "Ateliye Barabu Waajur",
+                "description": "9 ateliye yu di ndimbal waajur yi ngir dégg seen rolu ci jàng doom seeni ak naawige sistèm ekoler."
+              },
+              {
+                "name": "Mbooloom ndimbal ngir waajur yi",
+                "description": "Yokk mën-mën waajur ak programa « Y'a personne de parfait »: jëm, yokk, kàttanu ak rolu waajur."
+              },
+              {
+                "name": "Maay mag ci garderi askan",
+                "description": "Programa edikasion bu jox liggéeyu yaram, cuuj ak jàng ngir doom yi."
+              },
+              {
+                "name": "Kàmp été yu wàññi njëg",
+                "description": "Kàmp été ngir doom yi ekol primër yu mbokk yi ñiy dikk yu am xaalis yu wàññi, ak pratik faransee."
+              },
+              {
+                "name": "Kàmp relax",
+                "description": "Programa kàmp ci ayu-bisu relax bi ci jàng."
+              },
+              {
+                "name": "Andi wér",
+                "description": "Programa weer bu nekk ci andi yu mardi ngir jàng dolli lekk yu wér ci cuisine collective, ci bokkaale ak Jigéen yu àdduna."
+              }
+            ]
+          },
+          {
+            "title": "Garderi",
+            "description": "Njoxe bu garderi am na ngir waajur yi bokk ci liggéeyu mbooleem, dolli ñiy laaj azil. Wootal ngir xam mbir mi.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007, poste 290",
+          "email": "info@cari.qc.ca",
+          "note": "Alt-Àjj 8h30-17h00"
+        }
+      },
+      "women": {
+        "title": "Jigéen yu àdduna",
+        "description": "Programa yu baaxal jigéen yi ñiy dikk: otonom, wér gi, liggéey.",
+        "fullDescription": "Ci wet wax ak liggéeyu mbooleem yu bare, dañuy jox jigéen yi barab ngir gën a xam réew mu ñu jaamu ak seen bopp. Yokk mën-mën, xam-xam nit, benevolaa ak bokkaale askan.",
+        "benefits": [
+          "Ateliye otonom ak njërmëeru bopp",
+          "Formasion profesijonel yu mu sellal",
+          "Rezo ndimbal diggante jigéen yi",
+          "Liggéeyu interculturel",
+          "Xibaar ci wéru jigéen",
+          "Ànd ba ci liggéey"
+        ],
+        "details": "Bu dul fey te suturlu. Mbooloom bu gëm te wërsëg. Garderi am na ci laaykat.",
+        "sections": [
+          {
+            "title": "Liggéeyu mbooleem",
+            "items": [
+              {
+                "name": "Njaay ak tëgg loxo",
+                "description": "Ateliye def ci kadrë bu gëm: njaay masiin, gatu mbubb, yeesal ak sàmm yéere."
+              },
+              {
+                "name": "Wér ak cuisine internasional",
+                "description": "Jàng dolli lekk yu wér ak prodiwi Québec ak seetlu andi tradisionel yu réew yu bare."
+              },
+              {
+                "name": "Pratik faransee",
+                "description": "Yokk dégg ci nopp ak jokkoo ci kàttanu apliker jàng faransee yi."
+              },
+              {
+                "name": "Wax ak portëfolio profesijonel",
+                "description": "Yokk otonomu profesijonel, jël desision, tàkkal objectif ak teknik otopromosion."
+              },
+              {
+                "name": "Bokkaale ci askan",
+                "description": "Ateliye ci réew Québec, kondision jigéen yi, yegesi sañ-sañ ak liggéeyu sosjal."
+              },
+              {
+                "name": "Kafe-waxtan",
+                "description": "Ndajte yu suuf ngir jigéen yi ñiy dikk di séddalante seen jubbanti ci réew Québec."
+              },
+              {
+                "name": "Yoga",
+                "description": "Sesion dolli yaram ak saytu stress."
+              },
+              {
+                "name": "Gejj yu mbokk",
+                "description": "Gejj yu organise ci bokkaale ak njoxe bu njàkkaari ak dugg."
+              },
+              {
+                "name": "Bibliotek yu dund",
+                "description": "Seede yu bopp ci diversite, rasisim, sañ-sañu nit ak yemale jigéen-góor ngir xeex stereotip."
+              },
+              {
+                "name": "Klëbu jàng ak taariixu dund",
+                "description": "Waxtan jàng ak projeey binda yu mbooleem yu di jël taariix yu bopp."
+              },
+              {
+                "name": "Mu di njaay Ekolo",
+                "description": "Ateliye edikasion ci njariñu industri mbubb ak alternatif eko-kreatif."
+              },
+              {
+                "name": "Barab ngir jigéen",
+                "description": "Ateliye yegesi ci njariñu sosjo-ekolojik industri mbubb ak alternatif yu dund."
+              }
+            ]
+          },
+          {
+            "title": "Njoxe yu kenn-kenn",
+            "items": [
+              {
+                "name": "Ndimbal psikososjal",
+                "description": "Ànd bu personal te suturlu ngir tontu soxla ak jafe-jafe yu jigéen yi ñiy dikk."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Alt-Àjj 8h30-17h00 · Bu dul fey te suturlu"
+        }
+      },
+      "men": {
+        "title": "Barab Góor",
+        "description": "Ndimbal psikososjal bu specialise, ànd bu personal ak yónni ci ressource ngir góor yi ñiy dikk.",
+        "fullDescription": "Komite Barab Góor bu CARI St-Laurent mooy benn ci programa yi ne amul ci Québec yu jox njoxe yu baaxal góor yi ñiy dikk. Ci kàttanu ateliye wax, ndimbal psikososjal ak ànd bu personal, dañuy ndimbal góor yi ngir mën jafe-jafe yu dugg.",
+        "benefits": [
+          "Ateliye wax ak yéene",
+          "Ndimbal psikososjal bu kenn-kenn te suturlu",
+          "Ànd bu personal ci jëf yi",
+          "Yónni ci ressource yu specialise",
+          "Rezo ndimbal diggante góor yi ñiy dikk",
+          "Liggéeyu mbooleem ak waxtan yu tema"
+        ],
+        "details": "Bu dul fey te suturlu. Barab bu dëgër te wërsëg bu ñu def ngir góor yi ñiy dikk.",
+        "sections": [
+          {
+            "title": "Liggéeyu mbooleem",
+            "items": [
+              {
+                "name": "Ateliye wax",
+                "description": "Barab yéene ak séddale ngir wax ci jafe-jafe dugg, nit-ku-góor, waajur ak xarit interculturel."
+              },
+              {
+                "name": "Waxtan yu tema",
+                "description": "Waxtan ci marché liggéey, sañ-sañ ak wàllu, wéru xel ak dëgg imigrasion ci Québec."
+              },
+              {
+                "name": "Liggéeyu sport ak sosjal",
+                "description": "Ndajte yu suuf ak liggéeyu yaram ngir xam-xam nit ak neex."
+              }
+            ]
+          },
+          {
+            "title": "Njoxe yu kenn-kenn",
+            "items": [
+              {
+                "name": "Ndimbal psikososjal",
+                "description": "Ànd bu kenn-kenn te suturlu ngir tontu soxla yu baaxal góor yi ñiy dikk: kenn-kenn, wahm, dund."
+              },
+              {
+                "name": "Yónni ak oriante",
+                "description": "Oriante ci ressource yu askan ak yu guwernëmaan yu mu sellal soxla yi."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Alt-Àjj 8h30-17h00 · Bu dul fey te suturlu"
+        }
+      },
+      "taxes": {
+        "title": "Klinik dimpóo",
+        "description": "Ndimbal bu dul fey ci déklarasion alkaati ngir nit yi ñiy dikk ak mbokk yi am xaalis yu wàññi.",
+        "fullDescription": "Ci at bu nekk, CARI St-Laurent dafay jox njoxe bu dul fey ngir dëgëral déklarasion alkaati ci kàttanu bénévol yu formasion am. Njoxe bii mooy ngir nit yi ñiy dikk ak mbokk yi am xaalis yu wàññi ñu soxla ndimbal ngir def seen déklarasion fédéral ak provënsial.",
+        "benefits": [
+          "Njoxe bu dul fey pépép",
+          "Bénévol yu ARC forme",
+          "Déklarasion fédéral ak provënsial",
+          "Jël krédi dimpóo (ACE, TPS/TVH, Solidarité)",
+          "Ndimbal ci làkk yu bari",
+          "Kenn du sa laaj jottali ci waxtu dimpóo"
+        ],
+        "details": "Njoxe bu seesoniye ci mars ba avril. Indil say T4, reelve, resu ak kaart identite.",
+        "sections": [
+          {
+            "title": "Njoxe yi ñu jox",
+            "items": [
+              {
+                "name": "Dëgëral déklarasion",
+                "description": "Ndimbal bu mat ngir féexal say déklarasion alkaati fédéral ak provënsial, dolli formiler yi wara am."
+              },
+              {
+                "name": "Krédi ak prestasion",
+                "description": "Xool ndax am nga Alokasion kanadiyen ngir doom yi (ACE), krédi TPS/TVH, krédi solidarite Québec ak yeneen prestasion."
+              },
+              {
+                "name": "Déklarasion bu njëkk",
+                "description": "Ànd bu specialise ngir ñi neeweeku di def seen déklarasion alkaati bu njëkk ci Canada."
+              }
+            ]
+          },
+          {
+            "title": "Dokumaŋ yi wara am",
+            "items": [
+              {
+                "name": "Fëyee fiskal",
+                "description": "T4 (liggéey), T4A (prestasion), T5 (alkaatu plasmaan), Relevé 1, ak bépp fëyee fiskal bu la indi."
+              },
+              {
+                "name": "Kaart identite",
+                "description": "Kaart résident permanent, pérmi liggéey walla bépp kaart identite bu baax ak nimero asirans sosjal."
+              }
+            ]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Mars ba avril · Alt-Àjj 9h-16h · Bu dul fey"
+        }
+      },
+      "volunteering": {
+        "title": "Formasion ak dund ci askan",
+        "description": "Ndajte interculturel, liggéeyu sosjal ak wayu benevolaa.",
+        "fullDescription": "Indil ñi neeweeku ngir yokk fibar askan te bokk ci réew mu ñu jaamu ci kàttanu formasion ak liggéeyu mbooleem. Yokk otonom, mën-mën ak xam-xam nit.",
+        "benefits": [
+          "Bokkaale ak ab Québécois",
+          "Jàng làkk ak informatik",
+          "Ateliye situwayënte kanadiyen",
+          "Wayu benevolaa",
+          "Liggéeyu sosjal ak kiltir",
+          "Yokk sa rezo"
+        ],
+        "details": "Bu dul fey. Bokk bu suux mu dal ci say waxtu. Sertifika benevolaa am na.",
+        "sections": [
+          {
+            "title": "Formasion yi",
+            "items": [
+              {
+                "name": "Jàng anglais",
+                "description": "Tolof-tolof intermedyeer ak avanse ngir résident permanent ak situwayeen kanadiyen yu wax faransee. Gëramer, binda, jàng, dégg ak waxtan."
+              },
+              {
+                "name": "Jàng informatik",
+                "description": "Sesion yu 6 ayu-bis: Word, Excel, PowerPoint ci tolof-tolof bu njëkk, intermedyeer ak avanse."
+              },
+              {
+                "name": "Waxtan anglais",
+                "description": "Ateliye jokkoo ak wax ngir tolof-tolof yépp."
+              },
+              {
+                "name": "Jokkoo ak bokk",
+                "description": "6 ateliye jokkoo ndaw, wax ci kanam nit ak bokk ci askan ngir ñu wax faransee."
+              },
+              {
+                "name": "Dëgëral eksame situwayënte",
+                "description": "Jumtukaay ak ressource ngir dëgëral eksame situwayënte kanadiyen."
+              },
+              {
+                "name": "ABC sumu dugg",
+                "description": "4 ateliye ci dugg bes-bu-bés, aktif, akademik ak sosjal."
+              },
+              {
+                "name": "Bési branché yi",
+                "description": "Ateliye ci jumtukaay teknolojikal ak web ngir dund bes-bu-bés."
+              },
+              {
+                "name": "Siberguwernëmaan",
+                "description": "Ubbiku ci njoxe guwernëmaan ci internet ak prestasion yi am."
+              },
+              {
+                "name": "Barab Rezo",
+                "description": "Ateliye yokk rezo ak mën-mën ci medya sosjal (Facebook, LinkedIn, Instagram)."
+              }
+            ]
+          },
+          {
+            "title": "Liggéeyu dund ci askan",
+            "items": [
+              {
+                "name": "Àllarba yi EPVC",
+                "description": "Ateliye ñaari ayu-bis ak ñaari yoon: Eko-situwayeen (àddina, zéro déchets, tool) ak Québec xam naa ko (taariix, cuisine, làkk, kiltir)."
+              },
+              {
+                "name": "Bokkaale ci askan",
+                "description": "Konsiltasion askan, barab bokk civik ngir 18-35 at, ndajte xibaar ci benevolaa."
+              },
+              {
+                "name": "Liggéeyu sosjo-kiltir",
+                "description": "Gejj ci muze ak teeaatr, waxtan ci film, màngo interculturel, projeey kreatif dolli teeaatr ak maratoŋ binda."
+              },
+              {
+                "name": "Dugg ci biir àddina",
+                "description": "Liggéeyu biir àddina ak sport lokal ngir wëral dugg."
+              }
+            ]
+          },
+          {
+            "title": "Ndajte interculturel",
+            "items": [
+              {
+                "name": "Bokkaale làkk",
+                "description": "Programa séddalante làkk ngir pratike faransee ak bénévol yi."
+              },
+              {
+                "name": "Bokkaale interculturel",
+                "description": "Pont sosjal ak lingistik diggante ñi neeweeku ak Québécois yi."
+              },
+              {
+                "name": "Bokkaale artistik",
+                "description": "Bokkaale artistik diggante artis Québécois ak immigrant yi ngir ekspozision mbooleem."
+              }
+            ]
+          },
+          {
+            "title": "Benevolaa",
+            "description": "Bokkal sa bopp! Wayu benevolaa: liggéey administratif, njàkkaari liggéeyu mbooleem, ko-animasion ateliye, interprétasion, ndimbal ci garderi ak organise sesion.",
+            "items": []
+          }
+        ],
+        "contactInfo": {
+          "phone": "(514) 748-2007",
+          "email": "info@cari.qc.ca",
+          "note": "Alt-Àjj 8h30-17h00 · Njoxe bu dul fey"
+        }
+      }
+    }
+  },
+  "appointment": {
+    "title": "Ñaan nu jottali",
+    "subtitle": "Tànnal njoxe bi la neex",
+    "steps": {
+      "yourNeed": "Sa soxla",
+      "yourInfo": "Say xibaar",
+      "confirmation": "Dëgël"
+    },
+    "consultationTypes": {
+      "welcome": "Konsiltasion Njàkkaari ak Dugg",
+      "french": "Konsiltasion Jàng Faransee",
+      "employment": "Konsiltasion Liggéey",
+      "family": "Konsiltasion Njoxe yu mbokk",
+      "women": "Konsiltasion Jigéen yu àdduna",
+      "men": "Konsiltasion Barab Góor",
+      "taxes": "Konsiltasion Klinik dimpóo",
+      "volunteering": "Konsiltasion Benevolaa"
+    },
+    "form": {
+      "name": "Tur bu mat",
+      "phone": "Telefon",
+      "email": "Adrës iimeel",
+      "service": "Njoxe bi ngay laaj",
+      "date": "Fan la bëgg",
+      "time": "Waxtu bu la neex",
+      "immigrationStatus": "Sa mbir ci imigrasion",
+      "selectStatus": "Tànnal sa mbir",
+      "statusOptions": [
+        { "value": "resident_permanent", "label": "Résident permanent" },
+        { "value": "refugie", "label": "Réfugié / Nit ku ñu aar" },
+        { "value": "demandeur_asile", "label": "Ñiy laaj azil" },
+        { "value": "travailleur_temporaire", "label": "Liggéeykat bu jamono" },
+        { "value": "etudiant", "label": "Taalibe bu àdduna" },
+        { "value": "citoyen", "label": "Situwayeen kanadiyen" },
+        { "value": "autre", "label": "Yeneen" }
+      ],
+      "message": "Bataaxe (su bëggee)",
+      "submit": "Laaj jottali",
+      "namePlaceholder": "Tur ak sant",
+      "phonePlaceholder": "(514) 123-4567",
+      "emailPlaceholder": "sa@iimeel.com",
+      "messagePlaceholder": "Waxal ci sa mbir...",
+      "selectTime": "Tànnal ab waxtu",
+      "confirmationNote": "Dinaa jël dëgël ci iimeel ci biir 24 waxtu"
+    },
+    "contact": {
+      "hoursLabel": "Waxtu",
+      "schedule": "Alt-Àjj: 9h - 17h"
+    }
+  },
+  "contact": {
+    "title": "Jokkool nu",
+    "subtitle": "Fii lanu nekk ngir la ndimbal",
+    "mapText": "Kaart interaktif am na ci sit bi",
+    "viewGoogleMaps": "Xoolal ci Google Maps",
+    "subjects": {
+      "general": "Laaj bu gënaale",
+      "info": "Laaj xibaar",
+      "appointment": "Jël jottali",
+      "french": "Jàng faransee",
+      "employment": "Ndimbal ci liggéey",
+      "family": "Njoxe yu mbokk"
+    },
+    "form": {
+      "name": "Tur bu mat",
+      "email": "Adrës iimeel",
+      "subject": "Sujet",
+      "message": "Sa bataaxe",
+      "submit": "Yónni bataaxe bi"
+    },
+    "info": {
+      "addressLabel": "Adrës",
+      "phoneLabel": "Telefon",
+      "emailLabel": "Iimeel",
+      "hoursLabel": "Waxtu yu ubbu",
+      "accessLabel": "Yoonu dugg",
+      "address": "774 boulevard Décarie, Bureau 300, Saint-Laurent H4L 3L5",
+      "phone": "(514) 748-2007",
+      "email": "carist@cari.qc.ca",
+      "hours": "Alt-Àjj 9h-12h, 12h30-16h30",
+      "frenchHours": "Jàng Faransee: 8h30-22h",
+      "metro": "Métro: Du Collège (liñ bu oraanj)",
+      "bus": "Bus: 17, 64, 121, 368",
+      "parking": "Parking bu dul fey ci saa si"
+    }
+  },
+  "chatbot": {
+    "title": "Ndimbalëkatu CARI",
+    "bubbleHint": "Soxla nga ndimbal? Bind ma!",
+    "placeholder": "Laajal sa laaj...",
+    "typing": "Ndimbalëkatu CARI moy bind...",
+    "status": "Ci liñ",
+    "error": "Jéggël, njuumte am na. Jéemaat.",
+    "suggestions": {
+      "services": "Njoxe yi",
+      "appointment": "Jottali",
+      "appointmentInput": "Jël jottali",
+      "french": "Faransee",
+      "frenchInput": "Jàng faransee"
+    },
+    "responses": {
+      "greeting": "Salamaaleykum! Bég naa la ndimbal. CARI am na 6 njoxe yu am solo ngir sa dugg ci Québec. Kan mooy njoxe bi la gën a neex?",
+      "services": "Sunu 6 njoxe:\n• Njàkkaari ak Dugg\n• Jàng Faransee (8h30-22h)\n• Ndimbal ci Liggéey (85% mënal!)\n• Njoxe yu mbokk\n• Jigéen yu àdduna\n• Benevolaa ak Bokkaale\n\nCi kan ngay bëgg xibaar yu gën?",
+      "appointment": "Ngir jël jottali:\n• Wootaal (514) 748-2007\n• Féexal formiler bi ci bii xët\n• Am na Alt-Àjj 9h-16h30\n\nBan konsiltasion? (njàkkaari/faransee/liggéey)",
+      "contact": "(514) 748-2007\ncarist@cari.qc.ca\n774 boul. Décarie #300, Saint-Laurent\nAlt-Àjj: 9h-12h, 12h30-16h30\n\nNaka lay mën a gën a ndimbal?",
+      "french": "Sunu jàng faransee:\n• 8h30-22h (suux lool!)\n• Tolof-tolof yépp nañu ko nangu\n• Metod yu mu sellal immigrant yi\n• Nataalug tolof-tolof bu dul fey\n\nBëgg nga planifiye ab evaluasion?",
+      "employment": "Sunu ndimbal ci liggéey:\n• Ateliye CV/bataaxe motivasion\n• Simile entërviu\n• Coaching profesijonel\n• Ndajte ak buur liggéey\n• 85% dañuy gis liggéey ci 6 weer!\n\nBëgg nga konsiltasion liggéey?",
+      "default": "Mën naa la ndimbal ak:\n• Xibaar ci sunu njoxe yi\n• Jël jottali\n• Jokkoo\n• Digël yu personal\n\nLan ngay bëgg a xam?"
+    }
+  },
+  "success": {
+    "contact": "Jërëjëf! Sa laaj yónniku na. Dinanu la jokkoo gannaaw gaa tuuti.",
+    "appointment": "Jottali dëgël na! Dinaa jël dëgël ci iimeel ak SMS ci simili yi ci àttë."
+  },
+  "parallax": {
+    "statsTitle": "Ñëp, dañuy def lu am njariñ",
+    "statsSubtitle": "Ci 1989, CARI moy ànd ak ñi neeweeku ba ci seen mënal",
+    "stats": {
+      "peopleHelped": "Nit ñi ñu ndimbal/at",
+      "languagesSpoken": "Làkk yu ñu wax",
+      "countries": "Réew yi am",
+      "yearsOfService": "At yu jubbanti"
+    },
+    "ctaTitle": "Dëgër nga ngir tambalee sa dundu bu bees ci Québec?",
+    "ctaSubtitle": "Sunu ndaje bu bari làkk fii la ngir la ànd ci bépp etaap bu sa dugg."
+  },
+  "team": {
+    "title": "Sunu ndaje",
+    "subtitle": "Profesijonel yu bokk seen bopp ci sa dugg",
+    "departments": {
+      "direction": "Direksion jeneraal",
+      "accueil": "Njàkkaari ak dugg",
+      "francisation": "Jàng Faransee",
+      "emploi": "Ndimbal ci liggéey",
+      "femmes": "Jigéen yu àdduna",
+      "jeunesse": "Waajur-Ndaw yi",
+      "communautaire": "Dund ci askan",
+      "hommes": "Barab Góor"
+    }
+  },
+  "careers": {
+    "title": "Kariyer",
+    "subtitle": "Bokkal ci sunu ndaje",
+    "viewOffer": "Xoolal ofr bi",
+    "apply": "Postulee",
+    "type": {
+      "fullTime": "Waxtu bu mat",
+      "partTime": "Waxtu bu yaatu",
+      "contract": "Kontraa"
+    },
+    "jobs": [
+      {
+        "title": "Jëfandikukat ci dugg",
+        "department": "Njàkkaari ak dugg",
+        "excerpt": "Ànd ak ñi neeweeku ci seen jëf yu njëkk.",
+        "description": "Dañuy wut ab jëfandikukat ngir ànd ak nit yi ñiy dikk.\n\nWàllu:\n- Jàkkaari te nataalal soxla yi\n- Oriante ci njoxe yi baax\n- Ànd ci jëf administratif yi\n\nLu wara am:\n- Dipoloom ci travail social walla domaine bu jege\n- Jubbanti ci intervansion interculturel\n- Mën faransee ak anglais"
+      },
+      {
+        "title": "Kilifa faransee",
+        "department": "Jàng Faransee",
+        "excerpt": "Jàngal faransee ci mag yi ñiy dikk ci tolof-tolof yépp.",
+        "description": "Bokkal ci sunu ndaje francisation.\n\nWàllu:\n- Planifiye te anim jàng faransee\n- Sellal jàng ci soxla ñiy jàng\n- Nataalal yokk taalibe yi\n\nLu wara am:\n- Baccalauréat ci jàngal FLS\n- Jubbanti ci jàngal mag yi\n- Metod pedagojik bu dund"
+      },
+      {
+        "title": "Intervenant ci askan",
+        "department": "Dund ci askan",
+        "excerpt": "Yokk liggéeyu mbooleem yu di wëral dugg ak dund àdduna.",
+        "description": "Dañuy wut ab intervenant ci askan.\n\nWàllu:\n- Def te anim liggéeyu askan\n- Yokk bokkaale lokal\n- Ndimbal inisiatif askan\n\nLu wara am:\n- Formasion ci animasion askan\n- Jubbanti ci barab multikulturel\n- Mën-mën ci jokkoo bu baax"
+      },
+      {
+        "title": "Koordinatër ndaw yi",
+        "department": "Waajur-Ndaw yi",
+        "excerpt": "Koordine programa yi ngir ndaw yi ak mbokk yi ñiy dikk.",
+        "description": "Post kontraa ngir sunu programa ndaw yi.\n\nWàllu:\n- Planifiye liggéeyu ndaw yi\n- Dëgëral jokkoo ak ekol yi\n- Organise kàmp ak liggéeyu paraeskoler\n\nLu wara am:\n- Dipoloom ci edikasion walla domaine bu jege\n- Jubbanti ak ndaw yi ñiy dikk\n- Mën faransee-anglais"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Sañ-sañ yépp dañu ko aar.",
+    "tagline": "Organismu bëgg-bëgg ngir ndimbal immigrant yi"
+  },
+  "aria": {
+    "close": "Tëj",
+    "closeModal": "Tëj palanteer bi",
+    "carousel": "Karusel bu kow bi",
+    "carouselNav": "Naawigasion karusel",
+    "previousSlide": "Slide bu jiitu",
+    "nextSlide": "Slide bu ci topp",
+    "goToSlide": "Dem ci slide",
+    "carouselSlider": "Slider karusel",
+    "previousTestimonial": "Seede bu jiitu",
+    "nextTestimonial": "Seede bu ci topp",
+    "goToTestimonial": "Dem ci seede",
+    "learnMoreAbout": "Xam lu gën ci"
+  },
+  "loading": "Di yéeg...",
+  "mission": {
+    "tagline": "La diversité nous rapproche",
+    "title": "Sunu misioŋ",
+    "statement": "Jàkkaari, ndimbal te ànd ak nit yi ñiy dikk ci seen dugg bu bopp, bu sosjal ak bu profesijonel.",
+    "visionLabel": "Sunu xel",
+    "vision": "Liggeyal te bokkalante ci biir mën-mën ak jëf yu bees ngir dund àdduna bu gën a baax.",
+    "valuesLabel": "Sunu njariñ",
+    "values": [
+      "Bokk bopp",
+      "Ngëm",
+      "Muñal",
+      "Bëgg-nit",
+      "Mboolo",
+      "Yemale"
+    ],
+    "historyCTA": "Sunu taariix",
+    "historyTitle": "Sunu taariix",
+    "buildingAlt": "Tabax bi CARI St-Laurent",
+    "founded": "Sosee",
+    "historyIntro": "Ci 1993 lañu sose CARI St-Laurent, mooy ab organismu askan bu bëgg-bëgg bu am misioŋ ngir jàkkaari nit yi ñiy dikk, ndimbal leen ngir tabax, dund te dugg ci réew Québec, ci seen bopp, ci seen mbokk, ci askan wi ak ci liggéey.\n\nCi lu gën ci ñetti fukki at, CARI St-Laurent moy jox bépp bés njoxeam yu dul fey ci immigrant yi di ñëw ci réew yépp ci àdduna. Ci at bu nekk, sunu ndaje moy ànd ak junniy nit yu dikk ci lu gën ci 128 réew ci seen jëf yu njëkk, seen jàng faransee, seen wut liggéey ak seen dugg ci dund Montréal.\n\nSunu yoon dafa am solo: dañuy gis bépp nit ci lu mat — yoonam, doolam, mbokkom, xelam. Suuxu sunu njoxe yi, jàppale ak jubbanti sunu ndaje bu bari xam-xam, dañu tax dañuy mën def jëf yu bees yu mu sellal soppi yi ci réew ak dund bu nekk nit.\n\nCi biir Saint-Laurent, benn ci quartier yi gën a bare diversite ci Montréal, CARI moo nekk aktër bu wara am ci mbir dugg sosjal, lingistik ak profesijonel nit yi ñiy dikk. Sunu programa yi di sàmm jàng faransee, ndimbal ci liggéey, ndimbal mbokk yi, ànd ak jigéen yi, dugg ndaw yi ak lu ci gën.\n\nSu la neeweeku walla su ngay nekk fii ci lu wàññi ci ay at, CARI fii la ngir la ànd ci bépp etaap bu sa yoonu dugg.",
+    "approachLabel": "",
+    "approach": "",
+    "impactLabel": "",
+    "impact": ""
+  },
+  "promotions": {
+    "slides": [
+      {
+        "title": "La diversité nous rapproche",
+        "subtitle": "Sunu misioŋ",
+        "description": "Ci lu gën ci 30 at, CARI moy ànd ak nit yi ñiy dikk ci seen dugg bu bopp, bu sosjal ak bu profesijonel ci Québec.",
+        "fullContent": "CARI St-Laurent mooy ab organismu askan bu bëgg-bëgg bu am misioŋ ngir jàkkaari nit yi ñiy dikk, ndimbal leen ngir tabax, dund te dugg ci réew Québec.\n\nCi at bu nekk, sunu ndaje moy ànd ak junniy nit yu dikk ci lu gën ci 128 réew ci seen jëf yu njëkk, seen jàng faransee, seen wut liggéey ak seen dugg ci dund Montréal.\n\nSunu yoon dafa am solo: dañuy gis bépp nit ci lu mat — yoonam, doolam, mbokkom, xelam.",
+        "cta": "Sunu taariix",
+        "details": [
+          { "label": "Nit ñi ñu ndimbal ci at", "value": "Lu gën ci 7 000" },
+          { "label": "Làkk yu ñu wax", "value": "Lu gën ci 95" },
+          { "label": "Réew yi am", "value": "128" }
+        ]
+      },
+      {
+        "title": "Bokkaale interculturel",
+        "subtitle": "Programa bokkaale",
+        "description": "Defal jokko yu dëgg ak Québécois yi! Sunu programa bokkaale interculturel dafay wëral séddale ak dugg ci kàttanu ndajte yu solo.",
+        "fullContent": "Programa bokkaale interculturel bu CARI moo di def pont sosjal ak lingistik diggante ñi neeweeku ak Québécois yi.\n\nBépp bokkaale mooy wayu am solo ngir seetlu kiltir Québec, pratike faransee ak def xariit yu yàgg. Bénévol Québécois yi dañuy séddal seen xam-xamu dëkk bi, seen tradision ak seen dund bes-bu-bés.\n\nNdajte yi dañu suux te mu sellal waxtu bu nekk nit: gejj kiltir, andi àddina, liggéeyu sport, seetlu quartier ak lu ci gën.",
+        "cta": "Xibaar yu gën",
+        "details": [
+          { "label": "Yaatu programa bi", "value": "6 weer bu gën a tuuti" },
+          { "label": "Siiw ndajte yi", "value": "2 ba 4 yoon ci weer" },
+          { "label": "Njëg", "value": "Bu dul fey" }
+        ]
+      },
+      {
+        "title": "Klinik dimpóo bu dul fey",
+        "subtitle": "Njoxe bu seesoniye",
+        "description": "Soxla nga ndimbal ci sa déklarasion alkaati? Sunu klinik dimpóo bu dul fey ubbu na ngir nit yi ñiy dikk yu am xaalis yu wàññi.",
+        "fullContent": "Ci at bu nekk, CARI dafay jox njoxe bu dul fey ngir dëgëral déklarasion alkaati ngir nit yi ñiy dikk ak mbokk yi am xaalis yu wàññi.\n\nSunu bénévol yu formasion am dañuy la ànd ci dëgëral sa déklarasion fédéral ak provënsial. Njoxe bii moo tax nga mën a jël krédi ak prestasion yi la wara am, ni Alokasion kanadiyen ngir doom yi, krédi TPS/TVH ak krédi Solidarite.\n\nIndil say dokumaŋ fiskal yépp (T4, reelve, resu) ak ab kaart identite. Kenn du sa laaj jottali ci waxtu yu ubbu klinik bi.",
+        "cta": "Xibaar yu gën",
+        "details": [
+          { "label": "Jamono", "value": "Mars ba avril 2026" },
+          { "label": "Waxtu", "value": "Altine ba àjjuma, 9h ba 16h" },
+          { "label": "Njëg", "value": "Bu dul fey" },
+          {
+            "label": "Dokumaŋ yi wara am",
+            "value": "T4, reelve, resu, kaart identite"
+          }
+        ]
+      }
+    ]
+  }
+}
