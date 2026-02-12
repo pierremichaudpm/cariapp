@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import Icon from "./Icon";
 
 const TABS = [
-  { id: "accueil", icon: "home", labelKey: "home" },
   {
     id: "besoins",
     icon: "hands-helping",
@@ -11,6 +10,8 @@ const TABS = [
   },
   { id: "activites", icon: "calendar", labelKey: "activities" },
   { id: "ressources", icon: "book-open", labelKey: "news" },
+  { id: "rdv", icon: "calendar-check", labelKey: "appointment" },
+  { id: "equipe", icon: "users", labelKey: "team" },
 ];
 
 const BottomNav = ({ scrollToSection, currentLanguage, translations }) => {
@@ -53,7 +54,7 @@ const BottomNav = ({ scrollToSection, currentLanguage, translations }) => {
             setActiveTab(tab.id);
           }}
         >
-          <Icon name={tab.icon} size={24} />
+          <Icon name={tab.icon} size={18} />
           <span>
             {tab.bottomLabel
               ? t.nav[tab.bottomLabel] || t.nav[tab.labelKey]
