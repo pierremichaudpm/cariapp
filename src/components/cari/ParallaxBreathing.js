@@ -283,7 +283,7 @@ export const ParallaxStatsSection = ({ stats = [], title, subtitle }) => {
       paddingRight: "2rem",
       overflow: "hidden",
       fontFamily: '"DM Sans", sans-serif',
-      backgroundColor: COLORS.blanc,
+      backgroundColor: "#f5f5f0",
     },
     content: {
       position: "relative",
