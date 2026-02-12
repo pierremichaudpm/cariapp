@@ -6982,17 +6982,19 @@ section,
 
 .address-modal-info {
     width: 360px;
-    padding: 2rem;
+    padding: 2.5rem 2rem;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
-    gap: 0.75rem;
+    gap: 1rem;
 }
 
 .address-modal-logo {
     height: 50px;
     width: auto;
     object-fit: contain;
+    align-self: center;
+    margin-bottom: 0.5rem;
 }
 
 .address-modal-info h3 {
@@ -7027,7 +7029,7 @@ section,
 .address-modal-divider {
     border: none;
     border-top: 1px solid var(--gray-100, #e5e7eb);
-    margin: 0.25rem 0;
+    margin: 0.5rem 0;
 }
 
 .address-modal-btn {
