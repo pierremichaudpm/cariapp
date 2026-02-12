@@ -6904,6 +6904,134 @@ section,
 }
 
 /* ===================================
+   FOOTER CONTACT LINKS
+   =================================== */
+
+.footer-contact-link {
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    transition: opacity 0.2s ease;
+}
+
+.footer-contact-link:hover {
+    opacity: 0.8;
+}
+
+/* ===================================
+   ADDRESS MODAL (Desktop)
+   =================================== */
+
+.address-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.address-modal {
+    background: white;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 900px;
+    max-height: 90vh;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+}
+
+.address-modal-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: white;
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 2;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+}
+
+.address-modal-close:hover {
+    transform: scale(1.1);
+}
+
+.address-modal-content {
+    display: flex;
+    height: 480px;
+}
+
+.address-modal-map {
+    flex: 1;
+    min-width: 0;
+}
+
+.address-modal-map iframe {
+    border-radius: 16px 0 0 16px;
+}
+
+.address-modal-info {
+    width: 320px;
+    padding: 2rem;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.address-modal-info h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--primary-blue);
+    margin: 0;
+}
+
+.address-modal-info h4 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--primary-blue);
+    margin: 0;
+}
+
+.address-modal-detail {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    line-height: 1.4;
+}
+
+.address-modal-detail svg {
+    flex-shrink: 0;
+    color: var(--primary-blue);
+    margin-top: 2px;
+}
+
+.address-modal-divider {
+    border: none;
+    border-top: 1px solid var(--gray-100, #e5e7eb);
+    margin: 0.25rem 0;
+}
+
+.address-modal-btn {
+    margin-top: auto;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+/* ===================================
    BOTTOM NAVIGATION BAR (Mobile only)
    =================================== */
 

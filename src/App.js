@@ -38,6 +38,8 @@ function App() {
   const [showFrenchTest, setShowFrenchTest] = useState(false);
   const [showHistory, setShowHistory] = useState(false);
   const [chatPulsing, setChatPulsing] = useState(true);
+  const [showAddressModal, setShowAddressModal] = useState(false);
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 992);
   const heroIntervalRef = useRef(null);
   const isPausedRef = useRef(false);
   const touchStartXRef = useRef(0);
@@ -47,6 +49,13 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => setChatPulsing(false), 15000);
     return () => clearTimeout(timer);
+  }, []);
+
+  // Track mobile breakpoint
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth <= 992);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   // Configure status bar for Android (overlay mode for safe-area-inset)
@@ -479,21 +488,55 @@ function App() {
                 <img src="/images/logo-footer.webp" alt="CARI St-Laurent" />
               </div>
               <div className="footer-contact-inline">
-                <div className="footer-contact-row">
-                  <div className="footer-icon-circle">
-                    <Icon name="map-marker-alt" size={16} />
+                {isMobile ? (
+                  <a
+                    href="https://maps.google.com/?q=774+boulevard+Décarie,+Bureau+300,+Saint-Laurent,+QC+H4L+3L5"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="footer-contact-row footer-contact-link"
+                  >
+                    <div className="footer-icon-circle">
+                      <Icon name="map-marker-alt" size={16} />
+                    </div>
+                    <span>774 boul. Décarie, Bureau 300</span>
+                  </a>
+                ) : (
+                  <div
+                    className="footer-contact-row footer-contact-link"
+                    onClick={() => setShowAddressModal(true)}
+                    role="button"
+                    tabIndex={0}
+                  >
+                    <div className="footer-icon-circle">
+                      <Icon name="map-marker-alt" size={16} />
+                    </div>
+                    <span>774 boul. Décarie, Bureau 300</span>
                   </div>
-                  <span>774 boul. Décarie, Bureau 300</span>
-                </div>
-                <div className="footer-contact-row">
-                  <div className="footer-icon-circle">
-                    <Icon name="phone" size={16} />
+                )}
+                {isMobile ? (
+                  <a
+                    href="tel:+15147482007"
+                    className="footer-contact-row footer-contact-link"
+                  >
+                    <div className="footer-icon-circle">
+                      <Icon name="phone" size={16} />
+                    </div>
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.phone || "(514) 748-2007"}
+                    </span>
+                  </a>
+                ) : (
+                  <div className="footer-contact-row">
+                    <div className="footer-icon-circle">
+                      <Icon name="phone" size={16} />
+                    </div>
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.phone || "(514) 748-2007"}
+                    </span>
                   </div>
-                  <span>
-                    {(translations[currentLanguage] || translations.fr).contact
-                      ?.info?.phone || "(514) 748-2007"}
-                  </span>
-                </div>
+                )}
                 <div className="footer-contact-row">
                   <div className="footer-icon-circle">
                     <Icon name="clock" size={16} />
@@ -522,6 +565,98 @@ function App() {
             </div>
           </div>
         </footer>
+
+        {showAddressModal && (
+          <div
+            className="address-modal-overlay"
+            onClick={() => setShowAddressModal(false)}
+          >
+            <div className="address-modal" onClick={(e) => e.stopPropagation()}>
+              <button
+                className="address-modal-close"
+                onClick={() => setShowAddressModal(false)}
+              >
+                <Icon name="x" size={20} />
+              </button>
+              <div className="address-modal-content">
+                <div className="address-modal-map">
+                  <iframe
+                    title="CARI St-Laurent"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.5!2d-73.6724!3d45.5017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc918b3e7e1f6f7%3A0x7e5e5e5e5e5e5e5e!2s774%20Bd%20D%C3%A9carie%2C%20Saint-Laurent%2C%20QC%20H4L%203L5!5e0!3m2!1sfr!2sca!4v1700000000000"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0 }}
+                    allowFullScreen=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                  />
+                </div>
+                <div className="address-modal-info">
+                  <h3>CARI St-Laurent</h3>
+                  <div className="address-modal-detail">
+                    <Icon name="map-marker-alt" size={18} />
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.address ||
+                        "774 boulevard Décarie, Bureau 300, Saint-Laurent H4L 3L5"}
+                    </span>
+                  </div>
+                  <div className="address-modal-detail">
+                    <Icon name="phone" size={18} />
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.phone || "(514) 748-2007"}
+                    </span>
+                  </div>
+                  <div className="address-modal-detail">
+                    <Icon name="clock" size={18} />
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.hours || "Lun-Ven 9h-12h, 12h30-16h30"}
+                    </span>
+                  </div>
+                  <hr className="address-modal-divider" />
+                  <h4>
+                    {(translations[currentLanguage] || translations.fr).contact
+                      ?.info?.accessLabel || "Accès"}
+                  </h4>
+                  <div className="address-modal-detail">
+                    <Icon name="subway" size={18} />
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.metro ||
+                        "Métro : Du Collège (ligne orange)"}
+                    </span>
+                  </div>
+                  <div className="address-modal-detail">
+                    <Icon name="map" size={18} />
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.bus || "Bus : 17, 64, 121, 368"}
+                    </span>
+                  </div>
+                  <div className="address-modal-detail">
+                    <Icon name="map-marker-alt" size={18} />
+                    <span>
+                      {(translations[currentLanguage] || translations.fr)
+                        .contact?.info?.parking ||
+                        "Stationnement gratuit sur place"}
+                    </span>
+                  </div>
+                  <a
+                    href="https://maps.google.com/?q=774+boulevard+Décarie,+Bureau+300,+Saint-Laurent,+QC+H4L+3L5"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn btn-primary address-modal-btn"
+                  >
+                    {(translations[currentLanguage] || translations.fr).contact
+                      ?.viewGoogleMaps || "Ouvrir dans Google Maps"}
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
 
         {showFrenchTest && (
           <FrenchLevelTest
