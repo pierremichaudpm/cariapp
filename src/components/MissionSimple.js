@@ -184,26 +184,6 @@ const MissionSimple = ({ currentLanguage, translations }) => {
                   renderSlide(item.slide, item.imgIndex, `slide-${i}`),
                 )}
           </div>
-
-          {/* Navigation arrows */}
-          {totalSlides > 1 && (
-            <>
-              <button
-                className="promo-nav-btn promo-nav-prev"
-                onClick={prevSlide}
-                aria-label="Slide précédente"
-              >
-                <Icon name="chevron-left" size={24} />
-              </button>
-              <button
-                className="promo-nav-btn promo-nav-next"
-                onClick={nextSlide}
-                aria-label="Slide suivante"
-              >
-                <Icon name="chevron-right" size={24} />
-              </button>
-            </>
-          )}
         </div>
 
         {/* Slide indicators */}

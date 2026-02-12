@@ -148,7 +148,7 @@
   },
   "activities": {
     "registerButton": "Kayıt ol",
-    "moreEventsButton": "Daha fazla etkinlik",
+    "moreEventsButton": "Daha fazla aktivite",
     "filters": {
       "all": "Tümünü gör",
       "welcome": "Karşılama",
@@ -248,24 +248,63 @@
           {
             "title": "Bireysel hizmetler",
             "items": [
-              {"name": "Yerleşim ve entegrasyon desteği", "description": "RAMQ kartı, NAS, kreş kaydı, okul kaydı ve yerleşim işlemleri için rehberlik."},
-              {"name": "İdari form yardımı", "description": "Aile yardımları, aile birleşimi başvuruları, vatandaşlık formları, çalışma izni yenileme."},
-              {"name": "Konut arama", "description": "Konut aramada rehberlik ve kiracı/ev sahibi haklarını anlama."},
-              {"name": "Yeminli beyan", "description": "Resmi beyanlar, davet mektupları, seyahat yetkileri, vekaletnameler ve onaylı kopyalar. Kanada'ya 5 yıldan az süredir göç edenler için ilk 15 kopya ücretsiz."},
-              {"name": "Hukuk kliniği", "description": "Konut, göç, aile hukuku konularında Pro Bono ve Droit Légal ortaklarımız aracılığıyla ücretsiz hukuki bilgi."},
-              {"name": "Gelir beyannameleri", "description": "Vergi kliniğimiz aracılığıyla yıllık gelir beyannamesi yardımı."},
-              {"name": "Bilgi ve yönlendirme", "description": "İhtiyaçların profesyonel değerlendirmesi ve uygun toplum kaynaklarına yönlendirme."},
-              {"name": "Kültürlerarası arabuluculuk ve tercüme", "description": "Hükümet iletişimlerini anlama ve sosyal sistemlerde yön bulma yardımı."},
-              {"name": "Kişiselleştirilmiş takip ve psikososyal destek", "description": "Entegrasyon süreciniz boyunca gizli rehberlik ve duygusal destek."}
+              {
+                "name": "Yerleşim ve entegrasyon desteği",
+                "description": "RAMQ kartı, NAS, kreş kaydı, okul kaydı ve yerleşim işlemleri için rehberlik."
+              },
+              {
+                "name": "İdari form yardımı",
+                "description": "Aile yardımları, aile birleşimi başvuruları, vatandaşlık formları, çalışma izni yenileme."
+              },
+              {
+                "name": "Konut arama",
+                "description": "Konut aramada rehberlik ve kiracı/ev sahibi haklarını anlama."
+              },
+              {
+                "name": "Yeminli beyan",
+                "description": "Resmi beyanlar, davet mektupları, seyahat yetkileri, vekaletnameler ve onaylı kopyalar. Kanada'ya 5 yıldan az süredir göç edenler için ilk 15 kopya ücretsiz."
+              },
+              {
+                "name": "Hukuk kliniği",
+                "description": "Konut, göç, aile hukuku konularında Pro Bono ve Droit Légal ortaklarımız aracılığıyla ücretsiz hukuki bilgi."
+              },
+              {
+                "name": "Gelir beyannameleri",
+                "description": "Vergi kliniğimiz aracılığıyla yıllık gelir beyannamesi yardımı."
+              },
+              {
+                "name": "Bilgi ve yönlendirme",
+                "description": "İhtiyaçların profesyonel değerlendirmesi ve uygun toplum kaynaklarına yönlendirme."
+              },
+              {
+                "name": "Kültürlerarası arabuluculuk ve tercüme",
+                "description": "Hükümet iletişimlerini anlama ve sosyal sistemlerde yön bulma yardımı."
+              },
+              {
+                "name": "Kişiselleştirilmiş takip ve psikososyal destek",
+                "description": "Entegrasyon süreciniz boyunca gizli rehberlik ve duygusal destek."
+              }
             ]
           },
           {
             "title": "Grup etkinlikleri",
             "items": [
-              {"name": "Bilgilendirme oturumları", "description": "Kiracı hakları, bütçe yönetimi, Quebec eğitim sistemi, vergiler ve kışa hazırlık konularında atölyeler."},
-              {"name": "Erkekler Alanı Komitesi", "description": "Göçmen erkekler için özel psikososyal destek, kişiselleştirilmiş rehberlik ve kaynaklara yönlendirme."},
-              {"name": "Aile tatil kampı", "description": "Montreal yakınlarında göl kenarında şalelerde aileler için kültürlerarası ortamda konaklama."},
-              {"name": "Aile gezileri", "description": "Kültürel keşif etkinlikleri: Quebec, Montmorency Şelaleleri, Granby Hayvanat Bahçesi, Botanik Bahçe, Biodôme, elma toplama, akçaağaç şurubu evleri."}
+              {
+                "name": "Bilgilendirme oturumları",
+                "description": "Kiracı hakları, bütçe yönetimi, Quebec eğitim sistemi, vergiler ve kışa hazırlık konularında atölyeler."
+              },
+              {
+                "name": "Erkekler Alanı Komitesi",
+                "description": "Göçmen erkekler için özel psikososyal destek, kişiselleştirilmiş rehberlik ve kaynaklara yönlendirme."
+              },
+              {
+                "name": "Aile tatil kampı",
+                "description": "Montreal yakınlarında göl kenarında şalelerde aileler için kültürlerarası ortamda konaklama."
+              },
+              {
+                "name": "Aile gezileri",
+                "description": "Kültürel keşif etkinlikleri: Quebec, Montmorency Şelaleleri, Granby Hayvanat Bahçesi, Botanik Bahçe, Biodôme, elma toplama, akçaağaç şurubu evleri."
+              }
             ]
           }
         ],
@@ -298,17 +337,32 @@
             "title": "Yarı zamanlı kurslar",
             "description": "Okuryazar göçmenler için program (minimum 9 yıl eğitim). Göçmen Dilsel Entegrasyon Programı (PILI) tarafından sunulur.",
             "items": [
-              {"name": "Seviye 1-8 mevcut", "description": ""},
-              {"name": "Sabah: 9:00-12:00", "description": "Haftada 9-12 saat"},
-              {"name": "Öğleden sonra: 12:30-15:30", "description": "Haftada 9-12 saat"},
-              {"name": "Akşam: 18:30-21:30", "description": "Haftada 6-9 saat"}
+              { "name": "Seviye 1-8 mevcut", "description": "" },
+              {
+                "name": "Sabah: 9:00-12:00",
+                "description": "Haftada 9-12 saat"
+              },
+              {
+                "name": "Öğleden sonra: 12:30-15:30",
+                "description": "Haftada 9-12 saat"
+              },
+              {
+                "name": "Akşam: 18:30-21:30",
+                "description": "Haftada 6-9 saat"
+              }
             ]
           },
           {
             "title": "Grup etkinlikleri",
             "items": [
-              {"name": "Mahalle gezileri", "description": "Kütüphane, müze, eğlence merkezi, market ve ikinci el mağaza ziyaretleri."},
-              {"name": "Keşif turları", "description": "Eski Liman keşfi ve mahalle gezisi."}
+              {
+                "name": "Mahalle gezileri",
+                "description": "Kütüphane, müze, eğlence merkezi, market ve ikinci el mağaza ziyaretleri."
+              },
+              {
+                "name": "Keşif turları",
+                "description": "Eski Liman keşfi ve mahalle gezisi."
+              }
             ]
           },
           {
@@ -340,30 +394,72 @@
           {
             "title": "Aday alanı",
             "items": [
-              {"name": "İşe yerleştirme", "description": "Quebec şirketleriyle iş ve staj yerleştirme ortaklıkları."},
-              {"name": "İletişim ağı", "description": "Profesyonel networking ve işverenlerle buluşmalar."},
-              {"name": "CV hazırlama", "description": "Quebec iş piyasasına uygun CV yazımında yardım."},
-              {"name": "İş arama atölyeleri", "description": "Yılda 8 atölye, 5 haftalık dönemler (9:00-16:00), yaklaşık 15 katılımcı. İş arama yöntemleri ve araçları."},
-              {"name": "Yurtdışı yetkinlikler", "description": "Yetkinlik değerlendirmesi, arama stratejileri, iletişim, networking, Quebec iş ortamında deneyim."},
-              {"name": "Kişiselleştirilmiş destek", "description": "Bireysel rehberlik: CV, niyet mektupları, mülakat hazırlığı, iş piyasası yönlendirmesi, işveren referansları."},
-              {"name": "Mülakat hazırlığı", "description": "Mülakat simülasyonları ve kişiselleştirilmiş koçluk."}
+              {
+                "name": "İşe yerleştirme",
+                "description": "Quebec şirketleriyle iş ve staj yerleştirme ortaklıkları."
+              },
+              {
+                "name": "İletişim ağı",
+                "description": "Profesyonel networking ve işverenlerle buluşmalar."
+              },
+              {
+                "name": "CV hazırlama",
+                "description": "Quebec iş piyasasına uygun CV yazımında yardım."
+              },
+              {
+                "name": "İş arama atölyeleri",
+                "description": "Yılda 8 atölye, 5 haftalık dönemler (9:00-16:00), yaklaşık 15 katılımcı. İş arama yöntemleri ve araçları."
+              },
+              {
+                "name": "Yurtdışı yetkinlikler",
+                "description": "Yetkinlik değerlendirmesi, arama stratejileri, iletişim, networking, Quebec iş ortamında deneyim."
+              },
+              {
+                "name": "Kişiselleştirilmiş destek",
+                "description": "Bireysel rehberlik: CV, niyet mektupları, mülakat hazırlığı, iş piyasası yönlendirmesi, işveren referansları."
+              },
+              {
+                "name": "Mülakat hazırlığı",
+                "description": "Mülakat simülasyonları ve kişiselleştirilmiş koçluk."
+              }
             ]
           },
           {
             "title": "İşveren alanı",
             "items": [
-              {"name": "Pozisyon ilanı", "description": "Çeşitli nitelikli göçmen adaylar havuzuna erişim."},
-              {"name": "Aday ön seçimi", "description": "Çeşitli sektörlerdeki yetenek havuzumuzdan seçim."},
-              {"name": "Mevcut profiller", "description": "İdari, muhasebe, bilişim, mühendislik, telekomünikasyon, gıda, hukuk, çevre."},
-              {"name": "İşte kalma takibi", "description": "İşyerinde çeşitlilik entegrasyonu için işverenlere destek."},
-              {"name": "Mali yardım", "description": "Devlet maaş sübvansiyon programlarına erişim için rehberlik."}
+              {
+                "name": "Pozisyon ilanı",
+                "description": "Çeşitli nitelikli göçmen adaylar havuzuna erişim."
+              },
+              {
+                "name": "Aday ön seçimi",
+                "description": "Çeşitli sektörlerdeki yetenek havuzumuzdan seçim."
+              },
+              {
+                "name": "Mevcut profiller",
+                "description": "İdari, muhasebe, bilişim, mühendislik, telekomünikasyon, gıda, hukuk, çevre."
+              },
+              {
+                "name": "İşte kalma takibi",
+                "description": "İşyerinde çeşitlilik entegrasyonu için işverenlere destek."
+              },
+              {
+                "name": "Mali yardım",
+                "description": "Devlet maaş sübvansiyon programlarına erişim için rehberlik."
+              }
             ]
           },
           {
             "title": "Networking alanı",
             "items": [
-              {"name": "İşveren buluşmaları", "description": "İşverenler ve iş arayanlar arasında aylık networking etkinlikleri."},
-              {"name": "Laurentien İstihdam Buluşması", "description": "İşverenleri ve 100'den fazla iş arayanı buluşturan yıllık etkinlik."}
+              {
+                "name": "İşveren buluşmaları",
+                "description": "İşverenler ve iş arayanlar arasında aylık networking etkinlikleri."
+              },
+              {
+                "name": "Laurentien İstihdam Buluşması",
+                "description": "İşverenleri ve 100'den fazla iş arayanı buluşturan yıllık etkinlik."
+              }
             ]
           }
         ],
@@ -390,19 +486,43 @@
           {
             "title": "Bireysel müdahaleler",
             "items": [
-              {"name": "Eğitim sistemi rehberliği", "description": "Göçmen ailelere Quebec eğitim sisteminde destek ve yönlendirme, okul-aile iletişiminin kolaylaştırılması."},
-              {"name": "Çocuk-Aile Kliniği", "description": "Ailelerin güvenli ve profesyonel ortamda çocuklarla ilgili zorlukları uzman personelle görüşebildikleri ücretsiz ve gizli hizmet."}
+              {
+                "name": "Eğitim sistemi rehberliği",
+                "description": "Göçmen ailelere Quebec eğitim sisteminde destek ve yönlendirme, okul-aile iletişiminin kolaylaştırılması."
+              },
+              {
+                "name": "Çocuk-Aile Kliniği",
+                "description": "Ailelerin güvenli ve profesyonel ortamda çocuklarla ilgili zorlukları uzman personelle görüşebildikleri ücretsiz ve gizli hizmet."
+              }
             ]
           },
           {
             "title": "Grup etkinlikleri",
             "items": [
-              {"name": "Ebeveyn Alanı Atölyeleri", "description": "Ebeveynlerin çocuklarının akademik başarısındaki rollerini anlamalarına ve eğitim sisteminde yol bulmalarına yardımcı 9 atölye."},
-              {"name": "Ebeveyn dayanışma grupları", "description": "\"Y'a personne de parfait\" programıyla ebeveynlik becerilerinin güçlendirilmesi: davranış, gelişim, güvenlik ve ebeveynlik rolü."},
-              {"name": "Toplum kreşinde büyüyorum", "description": "Çocuklar için fiziksel, oyun ve eğitici etkinlikler sunan eğitim programı."},
-              {"name": "Düşük maliyetli yaz kampları", "description": "Mütevazı gelirli göçmen ailelerin ilkokul çağındaki çocukları için Fransızca pratiği yapılan yaz kampları."},
-              {"name": "Tatil kampı", "description": "Okul tatili haftası için kamp programı."},
-              {"name": "Sağlıklı öğle yemekleri", "description": "Femmes du Monde ile işbirliğinde, kolektif mutfak yoluyla sağlıklı beslenme alışkanlıkları öğrenmek için aylık Salı öğle yemeği programları."}
+              {
+                "name": "Ebeveyn Alanı Atölyeleri",
+                "description": "Ebeveynlerin çocuklarının akademik başarısındaki rollerini anlamalarına ve eğitim sisteminde yol bulmalarına yardımcı 9 atölye."
+              },
+              {
+                "name": "Ebeveyn dayanışma grupları",
+                "description": "\"Y'a personne de parfait\" programıyla ebeveynlik becerilerinin güçlendirilmesi: davranış, gelişim, güvenlik ve ebeveynlik rolü."
+              },
+              {
+                "name": "Toplum kreşinde büyüyorum",
+                "description": "Çocuklar için fiziksel, oyun ve eğitici etkinlikler sunan eğitim programı."
+              },
+              {
+                "name": "Düşük maliyetli yaz kampları",
+                "description": "Mütevazı gelirli göçmen ailelerin ilkokul çağındaki çocukları için Fransızca pratiği yapılan yaz kampları."
+              },
+              {
+                "name": "Tatil kampı",
+                "description": "Okul tatili haftası için kamp programı."
+              },
+              {
+                "name": "Sağlıklı öğle yemekleri",
+                "description": "Femmes du Monde ile işbirliğinde, kolektif mutfak yoluyla sağlıklı beslenme alışkanlıkları öğrenmek için aylık Salı öğle yemeği programları."
+              }
             ]
           },
           {
@@ -434,24 +554,63 @@
           {
             "title": "Grup etkinlikleri",
             "items": [
-              {"name": "Dikiş ve el sanatları", "description": "Sıcak bir ortamda yaratıcı atölyeler: makine dikişi, kumaş kesimi, giysi onarım ve düzeltmeleri."},
-              {"name": "Sağlık ve uluslararası mutfak", "description": "Quebec ürünleriyle sağlıklı beslenme alışkanlıkları öğrenme ve farklı ülkelerin geleneksel yemeklerini keşfetme."},
-              {"name": "Fransızca pratiği", "description": "Fransızca kurslarının pratik uygulamasıyla dinleme ve iletişim becerilerinin geliştirilmesi."},
-              {"name": "Kendini ifade etme ve profesyonel portfolyo", "description": "Profesyonel özerklik geliştirme, karar verme, hedef belirleme ve kendini tanıtma teknikleri."},
-              {"name": "Vatandaş katılımı", "description": "Quebec toplumu, kadın koşulları, haklar farkındalığı ve sosyal katılım konularında atölyeler."},
-              {"name": "Sohbet buluşmaları", "description": "Quebec toplumundaki deneyimlerini paylaşan göçmen kadınlar için gayri resmi buluşmalar."},
-              {"name": "Yoga", "description": "Fitness ve stres yönetimi seansları."},
-              {"name": "Aile gezileri", "description": "Karşılama ve entegrasyon hizmetiyle bağlantılı düzenlenen geziler."},
-              {"name": "Canlı kütüphaneler", "description": "Çeşitlilik, ırkçılık, insan hakları ve cinsiyet eşitliği konularında stereotiplere karşı kişisel tanıklıklar."},
-              {"name": "Okuma kulübü ve yaşam hikayeleri", "description": "Kişisel hikayeleri yakalayan işbirlikçi yazma projeleriyle birleştirilmiş okuma tartışmaları."},
-              {"name": "Elle coud Écolo", "description": "Tekstil endüstrisinin etkileri ve eko-yaratıcı alternatifler hakkında eğitici atölyeler."},
-              {"name": "Place aux femmes", "description": "Tekstil endüstrisinin sosyo-ekolojik etkileri ve sürdürülebilir alternatifler hakkında farkındalık atölyeleri."}
+              {
+                "name": "Dikiş ve el sanatları",
+                "description": "Sıcak bir ortamda yaratıcı atölyeler: makine dikişi, kumaş kesimi, giysi onarım ve düzeltmeleri."
+              },
+              {
+                "name": "Sağlık ve uluslararası mutfak",
+                "description": "Quebec ürünleriyle sağlıklı beslenme alışkanlıkları öğrenme ve farklı ülkelerin geleneksel yemeklerini keşfetme."
+              },
+              {
+                "name": "Fransızca pratiği",
+                "description": "Fransızca kurslarının pratik uygulamasıyla dinleme ve iletişim becerilerinin geliştirilmesi."
+              },
+              {
+                "name": "Kendini ifade etme ve profesyonel portfolyo",
+                "description": "Profesyonel özerklik geliştirme, karar verme, hedef belirleme ve kendini tanıtma teknikleri."
+              },
+              {
+                "name": "Vatandaş katılımı",
+                "description": "Quebec toplumu, kadın koşulları, haklar farkındalığı ve sosyal katılım konularında atölyeler."
+              },
+              {
+                "name": "Sohbet buluşmaları",
+                "description": "Quebec toplumundaki deneyimlerini paylaşan göçmen kadınlar için gayri resmi buluşmalar."
+              },
+              {
+                "name": "Yoga",
+                "description": "Fitness ve stres yönetimi seansları."
+              },
+              {
+                "name": "Aile gezileri",
+                "description": "Karşılama ve entegrasyon hizmetiyle bağlantılı düzenlenen geziler."
+              },
+              {
+                "name": "Canlı kütüphaneler",
+                "description": "Çeşitlilik, ırkçılık, insan hakları ve cinsiyet eşitliği konularında stereotiplere karşı kişisel tanıklıklar."
+              },
+              {
+                "name": "Okuma kulübü ve yaşam hikayeleri",
+                "description": "Kişisel hikayeleri yakalayan işbirlikçi yazma projeleriyle birleştirilmiş okuma tartışmaları."
+              },
+              {
+                "name": "Elle coud Écolo",
+                "description": "Tekstil endüstrisinin etkileri ve eko-yaratıcı alternatifler hakkında eğitici atölyeler."
+              },
+              {
+                "name": "Place aux femmes",
+                "description": "Tekstil endüstrisinin sosyo-ekolojik etkileri ve sürdürülebilir alternatifler hakkında farkındalık atölyeleri."
+              }
             ]
           },
           {
             "title": "Bireysel hizmetler",
             "items": [
-              {"name": "Psikososyal destek", "description": "Göçmen kadınların özel ihtiyaç ve zorluklarına yanıt vermek için kişiselleştirilmiş ve gizli rehberlik."}
+              {
+                "name": "Psikososyal destek",
+                "description": "Göçmen kadınların özel ihtiyaç ve zorluklarına yanıt vermek için kişiselleştirilmiş ve gizli rehberlik."
+              }
             ]
           }
         ],
@@ -478,16 +637,31 @@
           {
             "title": "Grup etkinlikleri",
             "items": [
-              {"name": "Konuşma atölyeleri", "description": "Entegrasyon zorlukları, erkeklik, ebeveynlik ve kültürlerarası ilişkileri ele almak için ifade ve paylaşım alanları."},
-              {"name": "Tematik tartışmalar", "description": "İş piyasası, haklar ve sorumluluklar, ruh sağlığı ve Quebec'te göç gerçekleri üzerine görüşmeler."},
-              {"name": "Sportif ve sosyal etkinlikler", "description": "Networking ve refahı destekleyen gayri resmi buluşmalar ve fiziksel etkinlikler."}
+              {
+                "name": "Konuşma atölyeleri",
+                "description": "Entegrasyon zorlukları, erkeklik, ebeveynlik ve kültürlerarası ilişkileri ele almak için ifade ve paylaşım alanları."
+              },
+              {
+                "name": "Tematik tartışmalar",
+                "description": "İş piyasası, haklar ve sorumluluklar, ruh sağlığı ve Quebec'te göç gerçekleri üzerine görüşmeler."
+              },
+              {
+                "name": "Sportif ve sosyal etkinlikler",
+                "description": "Networking ve refahı destekleyen gayri resmi buluşmalar ve fiziksel etkinlikler."
+              }
             ]
           },
           {
             "title": "Bireysel hizmetler",
             "items": [
-              {"name": "Psikososyal destek", "description": "Göçmen erkeklerin özel ihtiyaçlarına yanıt vermek için bireysel ve gizli rehberlik: yalnızlık, stres, uyum."},
-              {"name": "Yönlendirme ve oryantasyon", "description": "Tespit edilen ihtiyaçlara uygun toplum ve kurumsal kaynaklara yönlendirme."}
+              {
+                "name": "Psikososyal destek",
+                "description": "Göçmen erkeklerin özel ihtiyaçlarına yanıt vermek için bireysel ve gizli rehberlik: yalnızlık, stres, uyum."
+              },
+              {
+                "name": "Yönlendirme ve oryantasyon",
+                "description": "Tespit edilen ihtiyaçlara uygun toplum ve kurumsal kaynaklara yönlendirme."
+              }
             ]
           }
         ],
@@ -514,16 +688,31 @@
           {
             "title": "Sunulan hizmetler",
             "items": [
-              {"name": "Beyanname hazırlama", "description": "Federal ve eyalet gelir beyannamelerinizi doldurmak için ekler ve gerekli formlar dahil kapsamlı yardım."},
-              {"name": "Krediler ve yardımlar", "description": "Kanada Çocuk Yardımı (ACE), TPS/TVH kredisi, Quebec Solidarité kredisi ve diğer yardımlara uygunluğunuzun kontrolü."},
-              {"name": "İlk beyanname", "description": "Kanada'da ilk gelir beyannamelerini hazırlayan yeni gelenler için uzman rehberlik."}
+              {
+                "name": "Beyanname hazırlama",
+                "description": "Federal ve eyalet gelir beyannamelerinizi doldurmak için ekler ve gerekli formlar dahil kapsamlı yardım."
+              },
+              {
+                "name": "Krediler ve yardımlar",
+                "description": "Kanada Çocuk Yardımı (ACE), TPS/TVH kredisi, Quebec Solidarité kredisi ve diğer yardımlara uygunluğunuzun kontrolü."
+              },
+              {
+                "name": "İlk beyanname",
+                "description": "Kanada'da ilk gelir beyannamelerini hazırlayan yeni gelenler için uzman rehberlik."
+              }
             ]
           },
           {
             "title": "Gerekli belgeler",
             "items": [
-              {"name": "Vergi belgeleri", "description": "T4 (istihdam), T4A (yardımlar), T5 (yatırım gelirleri), Relevé 1 ve alınan diğer tüm vergi belgeleri."},
-              {"name": "Kimlik belgesi", "description": "Daimi oturum kartı, çalışma izni veya sosyal güvenlik numaralı geçerli başka bir kimlik belgesi."}
+              {
+                "name": "Vergi belgeleri",
+                "description": "T4 (istihdam), T4A (yardımlar), T5 (yatırım gelirleri), Relevé 1 ve alınan diğer tüm vergi belgeleri."
+              },
+              {
+                "name": "Kimlik belgesi",
+                "description": "Daimi oturum kartı, çalışma izni veya sosyal güvenlik numaralı geçerli başka bir kimlik belgesi."
+              }
             ]
           }
         ],
@@ -550,32 +739,80 @@
           {
             "title": "Eğitimler",
             "items": [
-              {"name": "İngilizce kursları", "description": "Fransızca konuşan daimi oturma izinliler ve Kanada vatandaşları için orta ve ileri seviye. Dilbilgisi, yazma, okuma, anlama ve konuşma."},
-              {"name": "Bilgisayar kursları", "description": "6 haftalık dönemler: Başlangıç, orta ve ileri seviyede Word, Excel, PowerPoint."},
-              {"name": "İngilizce konuşma", "description": "Tüm seviyeler için iletişim ve telaffuz atölyeleri."},
-              {"name": "İletişim kurun ve katılın", "description": "Fransızca konuşanlar için sözlü iletişim, topluluk önünde konuşma ve vatandaş katılımı üzerine 6 atölye."},
-              {"name": "Vatandaşlık sınavına hazırlık", "description": "Kanada vatandaşlık sınavına hazırlanmak için araçlar ve kaynaklar."},
-              {"name": "Entegrasyonumun ABC'si", "description": "Günlük, aktif, akademik ve sosyal entegrasyonu kapsayan 4 atölye."},
-              {"name": "Bağlantılı Günler", "description": "Günlük yaşam için teknolojik ve web araçları üzerine atölyeler."},
-              {"name": "Siber-hükümet", "description": "Çevrimiçi devlet hizmetlerine ve mevcut yardımlara giriş."},
-              {"name": "Ağ Alanı", "description": "Ağ geliştirme ve sosyal medya becerileri atölyeleri (Facebook, LinkedIn, Instagram)."}
+              {
+                "name": "İngilizce kursları",
+                "description": "Fransızca konuşan daimi oturma izinliler ve Kanada vatandaşları için orta ve ileri seviye. Dilbilgisi, yazma, okuma, anlama ve konuşma."
+              },
+              {
+                "name": "Bilgisayar kursları",
+                "description": "6 haftalık dönemler: Başlangıç, orta ve ileri seviyede Word, Excel, PowerPoint."
+              },
+              {
+                "name": "İngilizce konuşma",
+                "description": "Tüm seviyeler için iletişim ve telaffuz atölyeleri."
+              },
+              {
+                "name": "İletişim kurun ve katılın",
+                "description": "Fransızca konuşanlar için sözlü iletişim, topluluk önünde konuşma ve vatandaş katılımı üzerine 6 atölye."
+              },
+              {
+                "name": "Vatandaşlık sınavına hazırlık",
+                "description": "Kanada vatandaşlık sınavına hazırlanmak için araçlar ve kaynaklar."
+              },
+              {
+                "name": "Entegrasyonumun ABC'si",
+                "description": "Günlük, aktif, akademik ve sosyal entegrasyonu kapsayan 4 atölye."
+              },
+              {
+                "name": "Bağlantılı Günler",
+                "description": "Günlük yaşam için teknolojik ve web araçları üzerine atölyeler."
+              },
+              {
+                "name": "Siber-hükümet",
+                "description": "Çevrimiçi devlet hizmetlerine ve mevcut yardımlara giriş."
+              },
+              {
+                "name": "Ağ Alanı",
+                "description": "Ağ geliştirme ve sosyal medya becerileri atölyeleri (Facebook, LinkedIn, Instagram)."
+              }
             ]
           },
           {
             "title": "Toplum yaşamı etkinlikleri",
             "items": [
-              {"name": "EPVC Perşembeleri", "description": "İki haftada bir atölyeler: Eko-vatandaş (çevre, sıfır atık, bahçecilik) ve Quebec'i tanıyorum (tarih, mutfak, deyimler, folklor)."},
-              {"name": "Vatandaş katılımı", "description": "Kamusal istişareler, 18-35 yaş için sivil katılım alanları, gönüllülük bilgilendirme oturumları."},
-              {"name": "Sosyo-kültürel etkinlikler", "description": "Müze ve tiyatro gezileri, film tartışmaları, kültürlerarası kutlamalar, angaje tiyatro ve yazma maratonu dahil yaratıcı projeler."},
-              {"name": "Doğa yoluyla entegrasyon", "description": "Entegrasyonu desteklemek için açık hava etkinlikleri ve yerel sporlar."}
+              {
+                "name": "EPVC Perşembeleri",
+                "description": "İki haftada bir atölyeler: Eko-vatandaş (çevre, sıfır atık, bahçecilik) ve Quebec'i tanıyorum (tarih, mutfak, deyimler, folklor)."
+              },
+              {
+                "name": "Vatandaş katılımı",
+                "description": "Kamusal istişareler, 18-35 yaş için sivil katılım alanları, gönüllülük bilgilendirme oturumları."
+              },
+              {
+                "name": "Sosyo-kültürel etkinlikler",
+                "description": "Müze ve tiyatro gezileri, film tartışmaları, kültürlerarası kutlamalar, angaje tiyatro ve yazma maratonu dahil yaratıcı projeler."
+              },
+              {
+                "name": "Doğa yoluyla entegrasyon",
+                "description": "Entegrasyonu desteklemek için açık hava etkinlikleri ve yerel sporlar."
+              }
             ]
           },
           {
             "title": "Kültürlerarası buluşmalar",
             "items": [
-              {"name": "Dil eşleşmesi", "description": "Gönüllülerle Fransızca pratiği yapmak için dil değişim programı."},
-              {"name": "Kültürlerarası eşleşme", "description": "Yeni gelenler ve Quekeliler arasında sosyal ve dilsel köprü."},
-              {"name": "Sanatsal eşleşme", "description": "Kolektif sergiler için Quebek ve göçmen sanatçılar arasında sanatsal işbirliği."}
+              {
+                "name": "Dil eşleşmesi",
+                "description": "Gönüllülerle Fransızca pratiği yapmak için dil değişim programı."
+              },
+              {
+                "name": "Kültürlerarası eşleşme",
+                "description": "Yeni gelenler ve Quekeliler arasında sosyal ve dilsel köprü."
+              },
+              {
+                "name": "Sanatsal eşleşme",
+                "description": "Kolektif sergiler için Quebek ve göçmen sanatçılar arasında sanatsal işbirliği."
+              }
             ]
           },
           {
@@ -620,13 +857,13 @@
       "immigrationStatus": "Göç durumu",
       "selectStatus": "Durumunuzu seçin",
       "statusOptions": [
-        {"value": "resident_permanent", "label": "Daimi oturum izinli"},
-        {"value": "refugie", "label": "Mülteci / Koruma altındaki kişi"},
-        {"value": "demandeur_asile", "label": "Sığınmacı"},
-        {"value": "travailleur_temporaire", "label": "Geçici işçi"},
-        {"value": "etudiant", "label": "Uluslararası öğrenci"},
-        {"value": "citoyen", "label": "Kanada vatandaşı"},
-        {"value": "autre", "label": "Diğer"}
+        { "value": "resident_permanent", "label": "Daimi oturum izinli" },
+        { "value": "refugie", "label": "Mülteci / Koruma altındaki kişi" },
+        { "value": "demandeur_asile", "label": "Sığınmacı" },
+        { "value": "travailleur_temporaire", "label": "Geçici işçi" },
+        { "value": "etudiant", "label": "Uluslararası öğrenci" },
+        { "value": "citoyen", "label": "Kanada vatandaşı" },
+        { "value": "autre", "label": "Diğer" }
       ],
       "message": "Mesaj (isteğe bağlı)",
       "submit": "Randevu talep et",
@@ -795,7 +1032,14 @@
     "visionLabel": "Vizyonumuz",
     "vision": "Daha iyi bir birlikte yaşam için uzmanlık ve yenilikçi uygulamalar etrafında hizmet vermek ve bir araya getirmek.",
     "valuesLabel": "Değerlerimiz",
-    "values": ["Özveri", "Güven", "Hoşgörü", "Fedakarlık", "Dayanışma", "Eşitlik"],
+    "values": [
+      "Özveri",
+      "Güven",
+      "Hoşgörü",
+      "Fedakarlık",
+      "Dayanışma",
+      "Eşitlik"
+    ],
     "historyCTA": "Tarihçemiz",
     "historyTitle": "Tarihçemiz",
     "buildingAlt": "CARI St-Laurent binası",
@@ -815,9 +1059,9 @@
         "fullContent": "CARI St-Laurent, göçmen kişileri karşılamak, yerleşmelerine, uyum sağlamalarına ve Quebec toplumuna entegre olmalarına yardımcı olmak amacıyla kurulmuş kar amacı gütmeyen bir toplum kuruluşudur.\n\nHer yıl ekiplerimiz 128'den fazla ülkeden binlerce kişiye ilk adımlarında, Fransızca öğrenimlerinde, iş arayışlarında ve Montreal yaşamına entegrasyonlarında eşlik etmektedir.\n\nYaklaşımımız benzersizdir: her kişiyi bütünlüğü içinde değerlendiriyoruz — geçmişi, potansiyeli, ailesi, özlemleri.",
         "cta": "Tarihçemiz",
         "details": [
-          {"label": "Yılda yardım edilen kişi", "value": "7 000'den fazla"},
-          {"label": "Konuşulan dil", "value": "95'ten fazla"},
-          {"label": "Temsil edilen ülke", "value": "128"}
+          { "label": "Yılda yardım edilen kişi", "value": "7 000'den fazla" },
+          { "label": "Konuşulan dil", "value": "95'ten fazla" },
+          { "label": "Temsil edilen ülke", "value": "128" }
         ]
       },
       {
@@ -827,9 +1071,9 @@
         "fullContent": "CARI'nin kültürlerarası eşleşme programı, yeni gelenler ve Quekeliler arasında sosyal ve dilsel bir köprü oluşturur.\n\nHer eşleşme, Quebec kültürünü keşfetmek, Fransızca pratiği yapmak ve kalıcı dostluklar kurmak için eşsiz bir fırsattır. Quebekli gönüllüler çevrelerini, geleneklerini ve günlük yaşamlarını paylaşır.\n\nBuluşmalar esnek ve herkesin müsaitliğine uyarlanmıştır: kültürel geziler, paylaşılan yemekler, spor etkinlikleri, mahalle keşfi ve daha fazlası.",
         "cta": "Daha fazla bilgi",
         "details": [
-          {"label": "Program süresi", "value": "En az 6 ay"},
-          {"label": "Buluşma sıklığı", "value": "Ayda 2-4 kez"},
-          {"label": "Maliyet", "value": "Ücretsiz"}
+          { "label": "Program süresi", "value": "En az 6 ay" },
+          { "label": "Buluşma sıklığı", "value": "Ayda 2-4 kez" },
+          { "label": "Maliyet", "value": "Ücretsiz" }
         ]
       },
       {
@@ -839,10 +1083,13 @@
         "fullContent": "Her yıl CARI, göçmen kişiler ve düşük gelirli aileler için ücretsiz gelir beyannamesi hazırlama hizmeti sunmaktadır.\n\nEğitimli gönüllülerimiz federal ve eyalet beyannamelerinizin hazırlanmasında size eşlik eder. Bu hizmet, Kanada Çocuk Yardımı, TPS/TVH kredisi ve Solidarité kredisi gibi hak ettiğiniz kredi ve yardımları almanızı sağlar.\n\nTüm vergi belgelerinizi (T4, makbuzlar, belgeler) ve kimliğinizi getirin. Klinik çalışma saatleri içinde randevusuz.",
         "cta": "Daha fazla bilgi",
         "details": [
-          {"label": "Dönem", "value": "Mart-Nisan 2026"},
-          {"label": "Çalışma saatleri", "value": "Pzt-Cum, 9:00-16:00"},
-          {"label": "Maliyet", "value": "Ücretsiz"},
-          {"label": "Gerekli belgeler", "value": "T4, makbuzlar, belgeler, kimlik"}
+          { "label": "Dönem", "value": "Mart-Nisan 2026" },
+          { "label": "Çalışma saatleri", "value": "Pzt-Cum, 9:00-16:00" },
+          { "label": "Maliyet", "value": "Ücretsiz" },
+          {
+            "label": "Gerekli belgeler",
+            "value": "T4, makbuzlar, belgeler, kimlik"
+          }
         ]
       }
     ]

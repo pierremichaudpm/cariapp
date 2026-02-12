@@ -148,7 +148,7 @@
   },
   "activities": {
     "registerButton": "Register",
-    "moreEventsButton": "More events",
+    "moreEventsButton": "More activities",
     "filters": {
       "all": "View all",
       "welcome": "Welcome",

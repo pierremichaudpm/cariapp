@@ -890,7 +890,7 @@
   },
   "activities": {
     "registerButton": "Зарегистрироваться",
-    "moreEventsButton": "Больше мероприятий",
+    "moreEventsButton": "Больше активностей",
     "filters": {
       "all": "Посмотреть все",
       "welcome": "Прием",

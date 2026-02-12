@@ -148,7 +148,7 @@
   },
   "activities": {
     "registerButton": "Bindal",
-    "moreEventsButton": "Liggéeyu mbooleem yu gën",
+    "moreEventsButton": "Plis aktivite yi",
     "filters": {
       "all": "Xoolal lépp",
       "welcome": "Njàkkaari",
@@ -1035,14 +1035,7 @@
     "visionLabel": "Sunu xel",
     "vision": "Liggeyal te bokkalante ci biir mën-mën ak jëf yu bees ngir dund àdduna bu gën a baax.",
     "valuesLabel": "Sunu njariñ",
-    "values": [
-      "Bokk bopp",
-      "Ngëm",
-      "Muñal",
-      "Bëgg-nit",
-      "Mboolo",
-      "Yemale"
-    ],
+    "values": ["Bokk bopp", "Ngëm", "Muñal", "Bëgg-nit", "Mboolo", "Yemale"],
     "historyCTA": "Sunu taariix",
     "historyTitle": "Sunu taariix",
     "buildingAlt": "Tabax bi CARI St-Laurent",
