@@ -592,6 +592,11 @@ function App() {
                   />
                 </div>
                 <div className="address-modal-info">
+                  <img
+                    src="/images/newlogo.webp"
+                    alt="CARI St-Laurent"
+                    className="address-modal-logo"
+                  />
                   <h3>CARI St-Laurent</h3>
                   <div className="address-modal-detail">
                     <Icon name="map-marker-alt" size={18} />

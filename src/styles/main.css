@@ -6989,17 +6989,23 @@ section,
     gap: 0.75rem;
 }
 
+.address-modal-logo {
+    height: 40px;
+    width: auto;
+    object-fit: contain;
+}
+
 .address-modal-info h3 {
     font-size: 1.3rem;
     font-weight: 700;
-    color: var(--primary-blue);
+    color: var(--dark-blue, #263164);
     margin: 0;
 }
 
 .address-modal-info h4 {
     font-size: 1rem;
     font-weight: 700;
-    color: var(--primary-blue);
+    color: var(--dark-blue, #263164);
     margin: 0;
 }
 
@@ -7014,7 +7020,7 @@ section,
 
 .address-modal-detail svg {
     flex-shrink: 0;
-    color: var(--primary-blue);
+    color: var(--dark-blue, #263164);
     margin-top: 2px;
 }
 
