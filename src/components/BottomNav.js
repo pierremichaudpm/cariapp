@@ -10,7 +10,12 @@ const TABS = [
   },
   { id: "activites", icon: "calendar", labelKey: "activities" },
   { id: "ressources", icon: "book-open", labelKey: "news" },
-  { id: "rdv", icon: "calendar-check", labelKey: "appointment" },
+  {
+    id: "rdv",
+    icon: "calendar-check",
+    labelKey: "appointment",
+    bottomLabel: "rdv",
+  },
 ];
 
 const BottomNav = ({ scrollToSection, currentLanguage, translations }) => {
